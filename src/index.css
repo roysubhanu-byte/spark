@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body: 'Geist', -apple-system, sans-serif;
+
+  --color-bg: #F5F0E8;
+  --color-bg-deep: #EDE5D6;
+  --color-ink: #1F1B16;
+  --color-ink-soft: #5A5148;
+  --color-ink-mute: #8A8077;
+  --color-line: #E0D6C2;
+  --color-line-soft: #EBE2D0;
+  --color-accent: #B85C3C;
+  --color-accent-deep: #8E4128;
+  --color-sage: #5C7A5C;
+  --color-gold: #C99A4B;
+  --color-card: #FFFFFF;
+
+  --shadow-sm: 0 1px 2px rgba(31,27,22,0.04), 0 2px 8px rgba(31,27,22,0.04);
+  --shadow-md: 0 4px 12px rgba(31,27,22,0.06), 0 12px 32px rgba(31,27,22,0.08);
+  --shadow-lg: 0 8px 24px rgba(31,27,22,0.08), 0 24px 48px rgba(31,27,22,0.12);
+}
+
+* { -webkit-tap-highlight-color: transparent; }
+
+html, body, #root {
+  height: 100%;
+  overscroll-behavior: none;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  user-select: none;
+  margin: 0;
+}
+
+@media (min-width: 480px) {
+  body {
+    background: #2a241d;
+    padding: 24px 0;
+  }
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+      radial-gradient(circle at 20% 20%, rgba(184,92,60,0.08), transparent 50%),
+      radial-gradient(circle at 80% 80%, rgba(92,122,92,0.08), transparent 50%);
+    pointer-events: none;
+  }
+}
+
+.scrollbar-hide::-webkit-scrollbar { width: 0; height: 0; }
+.scrollbar-hide { scrollbar-width: none; }
