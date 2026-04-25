@@ -10,10 +10,12 @@ interface Props {
   cardIdx: number
   onCardIdxChange: (idx: number) => void
   onSave: (idea: Idea) => void
-  onPeek: (idea: Idea) => void
+  onTap: (idea: Idea) => void
+  showHint: boolean
+  onDismissHint: () => void
 }
 
-export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onPeek }: Props) {
+export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onTap, showHint, onDismissHint }: Props) {
   const handleSwipe = useCallback((dir: 'left' | 'right') => {
     const idea = ideas[cardIdx]
     if (!idea) return
@@ -21,8 +23,9 @@ export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onP
       onSave(idea)
       showToast(`Saved · ${idea.name}`)
     }
+    if (showHint) onDismissHint()
     setTimeout(() => onCardIdxChange(cardIdx + 1), 300)
-  }, [cardIdx, ideas, onSave, onCardIdxChange])
+  }, [cardIdx, ideas, onSave, onCardIdxChange, showHint, onDismissHint])
 
   if (cardIdx >= ideas.length) {
     return (
@@ -52,6 +55,8 @@ export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onP
                 region={region}
                 depth={i}
                 onSwipe={handleSwipe}
+                onTap={() => { if (showHint) onDismissHint(); onTap(idea) }}
+                showHint={i === 0 && showHint}
               />
             )).reverse()}
           </AnimatePresence>
@@ -68,7 +73,7 @@ export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onP
           ✕
         </button>
         <button
-          onClick={() => ideas[cardIdx] && onPeek(ideas[cardIdx])}
+          onClick={() => ideas[cardIdx] && onTap(ideas[cardIdx])}
           className="w-[60px] h-[60px] rounded-full bg-card shadow-sm flex items-center justify-center
             cursor-pointer text-[18px] text-ink-soft transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]"
         >

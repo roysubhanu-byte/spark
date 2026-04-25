@@ -8,9 +8,12 @@ interface Props {
   region: Region
   depth: number // 0 = top (interactive), 1-2 = behind
   onSwipe: (dir: 'left' | 'right') => void
+  onTap?: () => void
+  showHint?: boolean
 }
 
-export function SwipeCard({ idea, region, depth, onSwipe }: Props) {
+export function SwipeCard({ idea, region, depth, onSwipe, onTap, showHint }: Props) {
+  let dragOccurred = false
   const x = useMotionValue(0)
   const rotate = useTransform(x, [-200, 200], [-12, 12])
   const likeOpacity = useTransform(x, [30, 100], [0, 1])
@@ -26,9 +29,18 @@ export function SwipeCard({ idea, region, depth, onSwipe }: Props) {
   const badges = pickBadges(idea.badges, 2)
   const deckParts = idea.deckLabel.split('·')
 
+  function handleDragStart() {
+    dragOccurred = true
+  }
+
   function handleDragEnd(_: never, info: PanInfo) {
     if (info.offset.x > 100) onSwipe('right')
     else if (info.offset.x < -100) onSwipe('left')
+  }
+
+  function handleTap() {
+    if (!dragOccurred && depth === 0 && onTap) onTap()
+    dragOccurred = false
   }
 
   const effortDots = [1, 2, 3].map(n => (
@@ -48,7 +60,9 @@ export function SwipeCard({ idea, region, depth, onSwipe }: Props) {
       drag={depth === 0 ? 'x' : false}
       dragConstraints={{ left: 0, right: 0 }}
       dragElastic={0.7}
+      onDragStart={depth === 0 ? handleDragStart : undefined}
       onDragEnd={depth === 0 ? handleDragEnd : undefined}
+      onClick={handleTap}
       exit={depth === 0 ? { x: 300, rotate: 20, opacity: 0, transition: { duration: 0.3 } } : undefined}
       initial={depth === 0 ? { scale: 0.95, opacity: 0 } : undefined}
       animate={{ scale, y: yOff, opacity: 1 }}
@@ -121,6 +135,17 @@ export function SwipeCard({ idea, region, depth, onSwipe }: Props) {
           </span>
         </div>
       </div>
+
+      {/* First-time hint overlay */}
+      {depth === 0 && showHint && (
+        <div className="absolute inset-0 z-20 flex items-center justify-center pointer-events-none">
+          <div className="flex items-center gap-6 px-5 py-3 bg-ink/80 backdrop-blur-sm rounded-full text-bg text-xs font-medium">
+            <span className="opacity-70">← Skip</span>
+            <span className="text-gold font-semibold">Tap to explore</span>
+            <span className="opacity-70">Save →</span>
+          </div>
+        </div>
+      )}
     </motion.div>
   )
 }

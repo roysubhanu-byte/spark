@@ -21,8 +21,9 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
 
   // Region-aware body for distributors
   let bodyHtml = section.body
-  if (sectionKey === 'distributors' && idea.distributors?.[region as keyof typeof idea.distributors]) {
-    bodyHtml = idea.distributors[region as keyof typeof idea.distributors]
+  const regionalBody = idea.distributors?.[region]
+  if (sectionKey === 'distributors' && regionalBody) {
+    bodyHtml = regionalBody
   }
 
   const isAdded = addedSections.has(sectionKey)

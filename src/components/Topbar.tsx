@@ -8,7 +8,7 @@ interface Props {
 }
 
 export function Topbar({ region, savedCount, onOpenRegion }: Props) {
-  const r = REGIONS[region]
+  const r = REGIONS[region] || REGIONS.US
 
   return (
     <div className="flex items-center justify-between px-[22px] pt-[18px] pb-3 shrink-0">
