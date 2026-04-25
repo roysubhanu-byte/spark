@@ -49,7 +49,10 @@ export function SwipeCard({ idea, region, depth, onSwipe }: Props) {
       dragConstraints={{ left: 0, right: 0 }}
       dragElastic={0.7}
       onDragEnd={depth === 0 ? handleDragEnd : undefined}
-      exit={depth === 0 ? { opacity: 0 } : undefined}
+      exit={depth === 0 ? { x: 300, rotate: 20, opacity: 0, transition: { duration: 0.3 } } : undefined}
+      initial={depth === 0 ? { scale: 0.95, opacity: 0 } : undefined}
+      animate={{ scale, y: yOff, opacity: 1 }}
+      transition={{ type: 'spring', stiffness: 300, damping: 30 }}
     >
       {/* Image area */}
       <div

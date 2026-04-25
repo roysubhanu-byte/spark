@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react'
+import { useCallback } from 'react'
 import { AnimatePresence } from 'framer-motion'
 import type { Idea, Region } from '../types'
 import { SwipeCard } from './SwipeCard'
@@ -7,13 +7,13 @@ import { showToast } from './Toast'
 interface Props {
   ideas: Idea[]
   region: Region
+  cardIdx: number
+  onCardIdxChange: (idx: number) => void
   onSave: (idea: Idea) => void
   onPeek: (idea: Idea) => void
 }
 
-export function DeckStage({ ideas, region, onSave, onPeek }: Props) {
-  const [cardIdx, setCardIdx] = useState(0)
-
+export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onPeek }: Props) {
   const handleSwipe = useCallback((dir: 'left' | 'right') => {
     const idea = ideas[cardIdx]
     if (!idea) return
@@ -21,12 +21,8 @@ export function DeckStage({ ideas, region, onSave, onPeek }: Props) {
       onSave(idea)
       showToast(`Saved · ${idea.name}`)
     }
-    setTimeout(() => setCardIdx(prev => prev + 1), 300)
-  }, [cardIdx, ideas, onSave])
-
-  const handleButtonSwipe = useCallback((dir: 'left' | 'right') => {
-    handleSwipe(dir)
-  }, [handleSwipe])
+    setTimeout(() => onCardIdxChange(cardIdx + 1), 300)
+  }, [cardIdx, ideas, onSave, onCardIdxChange])
 
   if (cardIdx >= ideas.length) {
     return (
@@ -48,10 +44,10 @@ export function DeckStage({ ideas, region, onSave, onPeek }: Props) {
     <>
       <div className="flex-1 relative px-[22px] py-2 flex items-center justify-center">
         <div className="relative w-full max-w-[360px]" style={{ aspectRatio: '3/4.4' }}>
-          <AnimatePresence>
+          <AnimatePresence mode="popLayout">
             {visible.map((idea, i) => (
               <SwipeCard
-                key={idea.id}
+                key={`${cardIdx}-${idea.id}`}
                 idea={idea}
                 region={region}
                 depth={i}
@@ -65,21 +61,21 @@ export function DeckStage({ ideas, region, onSave, onPeek }: Props) {
       {/* Action buttons */}
       <div className="flex justify-center gap-[18px] px-[22px] pt-2 pb-[22px] shrink-0">
         <button
-          onClick={() => handleButtonSwipe('left')}
+          onClick={() => handleSwipe('left')}
           className="w-[60px] h-[60px] rounded-full bg-card shadow-sm flex items-center justify-center
             cursor-pointer text-[22px] text-accent transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]"
         >
           ✕
         </button>
         <button
-          onClick={() => onPeek(ideas[cardIdx])}
+          onClick={() => ideas[cardIdx] && onPeek(ideas[cardIdx])}
           className="w-[60px] h-[60px] rounded-full bg-card shadow-sm flex items-center justify-center
             cursor-pointer text-[18px] text-ink-soft transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]"
         >
           ℹ
         </button>
         <button
-          onClick={() => handleButtonSwipe('right')}
+          onClick={() => handleSwipe('right')}
           className="w-[70px] h-[70px] rounded-full bg-card shadow-sm flex items-center justify-center
             cursor-pointer text-[26px] text-sage transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]"
         >

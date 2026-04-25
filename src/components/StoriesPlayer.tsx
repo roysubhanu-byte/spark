@@ -77,7 +77,7 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
             <div className="text-[11px] text-white/60 uppercase tracking-[0.12em]">{SECTION_LABELS[sectionKey]}</div>
           </div>
         </div>
-        <button onClick={onClose} className="bg-transparent border-none text-white text-2xl cursor-pointer p-1 px-2.5">✕</button>
+        <button onClick={onClose} className="relative z-[4] bg-transparent border-none text-white text-2xl cursor-pointer p-1 px-2.5">✕</button>
       </div>
 
       {/* Content */}
@@ -103,7 +103,7 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
         )}
 
         <button onClick={handleAction}
-          className={`flex items-center gap-3 px-[18px] py-4 border rounded-[14px] cursor-pointer
+          className={`relative z-[4] flex items-center gap-3 px-[18px] py-4 border rounded-[14px] cursor-pointer
             transition-all w-full font-body text-left text-white
             ${isAdded ? 'bg-sage border-sage' : 'bg-white/[0.08] border-white/15 hover:bg-accent hover:border-accent'}`}>
           <div className={`w-8 h-8 rounded-full flex items-center justify-center text-base shrink-0
@@ -119,8 +119,8 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
         </button>
       </div>
 
-      {/* Tap zones */}
-      <div className="absolute inset-0 z-[1] flex">
+      {/* Tap zones — z-[3] sits above content z-[2], but below interactive buttons z-[4] */}
+      <div className="absolute inset-0 z-[3] flex">
         <div className="flex-[0.35] cursor-pointer" onClick={() => idx > 0 && setIdx(i => i - 1)} />
         <div className="flex-1 cursor-pointer" onClick={advance} />
       </div>

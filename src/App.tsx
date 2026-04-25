@@ -115,6 +115,7 @@ export default function App() {
             )}
             <TrustStrip />
             <DeckStage ideas={filteredIdeas} region={store.region}
+              cardIdx={store.cardIdx} onCardIdxChange={store.setCardIdx}
               onSave={handleSave} onPeek={handlePeek} />
           </div>
         )}
