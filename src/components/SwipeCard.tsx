@@ -1,3 +1,4 @@
+import { useRef } from 'react'
 import { motion, useMotionValue, useTransform, type PanInfo } from 'framer-motion'
 import type { Idea, Region } from '../types'
 import { pickBadges } from '../lib/badges'
@@ -6,14 +7,14 @@ import { formatMoney } from '../lib/regions'
 interface Props {
   idea: Idea
   region: Region
-  depth: number // 0 = top (interactive), 1-2 = behind
+  depth: number
   onSwipe: (dir: 'left' | 'right') => void
   onTap?: () => void
   showHint?: boolean
 }
 
 export function SwipeCard({ idea, region, depth, onSwipe, onTap, showHint }: Props) {
-  let dragOccurred = false
+  const dragRef = useRef(false)
   const x = useMotionValue(0)
   const rotate = useTransform(x, [-200, 200], [-12, 12])
   const likeOpacity = useTransform(x, [30, 100], [0, 1])
@@ -30,17 +31,22 @@ export function SwipeCard({ idea, region, depth, onSwipe, onTap, showHint }: Pro
   const deckParts = idea.deckLabel.split('·')
 
   function handleDragStart() {
-    dragOccurred = true
+    dragRef.current = true
   }
 
-  function handleDragEnd(_: never, info: PanInfo) {
-    if (info.offset.x > 100) onSwipe('right')
-    else if (info.offset.x < -100) onSwipe('left')
+  function handleDragEnd(_: unknown, info: PanInfo) {
+    if (Math.abs(info.offset.x) > 100) {
+      const dir = info.offset.x > 0 ? 'right' : 'left'
+      onSwipe(dir)
+    }
   }
 
-  function handleTap() {
-    if (!dragOccurred && depth === 0 && onTap) onTap()
-    dragOccurred = false
+  function handleClick() {
+    // Only fire tap if we didn't just drag
+    if (!dragRef.current && depth === 0 && onTap) {
+      onTap()
+    }
+    dragRef.current = false
   }
 
   const effortDots = [1, 2, 3].map(n => (
@@ -53,19 +59,17 @@ export function SwipeCard({ idea, region, depth, onSwipe, onTap, showHint }: Pro
       style={{
         x: depth === 0 ? x : 0,
         rotate: depth === 0 ? rotate : 0,
-        scale,
-        y: yOff,
         zIndex: 10 - depth,
       }}
       drag={depth === 0 ? 'x' : false}
       dragConstraints={{ left: 0, right: 0 }}
-      dragElastic={0.7}
+      dragElastic={0.9}
       onDragStart={depth === 0 ? handleDragStart : undefined}
       onDragEnd={depth === 0 ? handleDragEnd : undefined}
-      onClick={handleTap}
-      exit={depth === 0 ? { x: 300, rotate: 20, opacity: 0, transition: { duration: 0.3 } } : undefined}
-      initial={depth === 0 ? { scale: 0.95, opacity: 0 } : undefined}
+      onPointerUp={handleClick}
+      initial={{ scale, y: yOff, opacity: depth === 0 ? 0.9 : 1 }}
       animate={{ scale, y: yOff, opacity: 1 }}
+      exit={{ opacity: 0, transition: { duration: 0.2 } }}
       transition={{ type: 'spring', stiffness: 300, damping: 30 }}
     >
       {/* Image area */}
@@ -136,7 +140,7 @@ export function SwipeCard({ idea, region, depth, onSwipe, onTap, showHint }: Pro
         </div>
       </div>
 
-      {/* First-time hint overlay */}
+      {/* First-time hint */}
       {depth === 0 && showHint && (
         <div className="absolute inset-0 z-20 flex items-center justify-center pointer-events-none">
           <div className="flex items-center gap-6 px-5 py-3 bg-ink/80 backdrop-blur-sm rounded-full text-bg text-xs font-medium">

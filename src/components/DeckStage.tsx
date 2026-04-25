@@ -24,7 +24,7 @@ export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onT
       showToast(`Saved · ${idea.name}`)
     }
     if (showHint) onDismissHint()
-    setTimeout(() => onCardIdxChange(cardIdx + 1), 300)
+    onCardIdxChange(cardIdx + 1)
   }, [cardIdx, ideas, onSave, onCardIdxChange, showHint, onDismissHint])
 
   if (cardIdx >= ideas.length) {

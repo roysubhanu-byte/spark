@@ -55,7 +55,7 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
       </div>
 
       {/* Progress bars */}
-      <div className="relative z-[2] flex gap-1 px-4 pt-3.5">
+      <div className="relative z-[4] flex gap-1 px-4 pt-3.5">
         {SECTION_KEYS.map((_, i) => (
           <div key={i} className="flex-1 h-[2.5px] bg-white/25 rounded-sm overflow-hidden">
             <div
@@ -68,8 +68,8 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
         ))}
       </div>
 
-      {/* Header */}
-      <div className="relative z-[2] flex items-center justify-between px-[18px] py-4">
+      {/* Header — z-[4] above tap zones z-[3] */}
+      <div className="relative z-[4] flex items-center justify-between px-[18px] py-4">
         <div className="flex items-center gap-3">
           <div className="w-[38px] h-[38px] rounded-full bg-cover bg-center border-2 border-white/20"
             style={{ backgroundImage: `url(${idea.image})` }} />
@@ -82,7 +82,7 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
       </div>
 
       {/* Content */}
-      <div className="relative z-[2] flex-1 flex flex-col justify-center px-7 pb-6">
+      <div className="relative z-[4] flex-1 flex flex-col justify-center px-7 pb-6">
         <div className="font-body text-[11px] font-medium uppercase tracking-[0.18em] text-gold mb-4">
           {SECTION_EYEBROW[sectionKey]}
         </div>

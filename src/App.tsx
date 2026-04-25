@@ -5,6 +5,7 @@ import { BottomNav } from './components/BottomNav'
 import { Topbar } from './components/Topbar'
 import { TrustStrip } from './components/TrustStrip'
 import { RegionPicker } from './components/RegionPicker'
+import { FilterSheet } from './components/FilterSheet'
 import { Welcome, DeckPicker, ChannelPicker, InterestChips } from './components/Onboarding'
 import { DeckStage } from './components/DeckStage'
 import { ProductPage } from './components/ProductPage'
@@ -19,6 +20,7 @@ import { IDEAS, INSPIRE_PROFILES } from './data'
 export default function App() {
   const store = useStore()
   const filteredIdeas = useDeck(IDEAS, store.q2, store.q1, store.interests, store.region)
+  const [filterOpen, setFilterOpen] = useState(false)
 
   // Overlay state
   const [productIdea, setProductIdea] = useState<Idea | null>(null)
@@ -112,8 +114,9 @@ export default function App() {
         {store.screen === 'deck' && !hasOverlay && (
           <div className="flex flex-col h-full">
             {showTopbar && (
-              <Topbar region={store.region} savedCount={store.saved.length}
-                onOpenRegion={() => store.setRegionModalOpen(true)} />
+              <Topbar region={store.region} deckPref={store.q2} savedCount={store.saved.length}
+                onOpenRegion={() => store.setRegionModalOpen(true)}
+                onOpenFilter={() => setFilterOpen(true)} />
             )}
             <TrustStrip />
             <DeckStage
@@ -280,6 +283,16 @@ export default function App() {
           <BottomNav active={store.screen as any} openTodos={store.totalActivePlans || store.openTodos}
             onNav={(s) => store.setScreen(s)} />
         )}
+
+        {/* === FILTER SHEET === */}
+        <FilterSheet
+          open={filterOpen}
+          deckPref={store.q2}
+          interests={store.interests}
+          onChangeDeck={(d) => { store.setQ2(d); store.setCardIdx(0) }}
+          onToggleInterest={store.toggleInterest}
+          onClose={() => setFilterOpen(false)}
+        />
 
         {/* === REGION PICKER === */}
         <RegionPicker
