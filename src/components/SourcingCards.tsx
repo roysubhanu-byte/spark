@@ -1,205 +1,203 @@
 import type { Idea, Region } from '../types'
+import { findSuppliersForProduct } from '../data/supplier-directory'
 
 interface Props {
   idea: Idea
   region: Region
 }
 
-interface CardData {
-  tier: string
-  label: string
-  description: string
-  platform: string
-  color: string
-  textColor: string
-  priceRange: string
-  timeframe: string
-  searchUrl: string
-  note?: string
-  primary?: boolean
+export function SourcingCards({ idea, region }: Props) {
+  if (idea.deck === 'digital') return <DigitalTools />
+  if (idea.deck === 'saas') return <SaasTools />
+  return <PhysicalSourcing idea={idea} region={region} />
 }
 
-export function SourcingCards({ idea, region }: Props) {
-  const cards = idea.deck === 'physical'
-    ? getPhysicalSourcing(idea.name, region)
-    : idea.deck === 'digital'
-      ? getDigitalTools(idea.name)
-      : getSaasTools(idea.name)
+function PhysicalSourcing({ idea, region }: { idea: Idea; region: Region }) {
+  const { category, searchUrls } = findSuppliersForProduct(idea.name)
+
+  // Top 3 sourcing tiers
+  const tiers = [
+    {
+      label: 'Test first',
+      description: 'Order 5-10 units to test quality before committing',
+      platform: 'AliExpress',
+      color: '#FFE4B5',
+      textColor: '#1F1B16',
+      url: searchUrls.find(s => s.platform === 'AliExpress')?.url || '',
+      price: '$15-40',
+      time: '7-14 days',
+      primary: true,
+    },
+    {
+      label: 'Starter batch',
+      description: 'MOQ 50-100 units — this is where real margins start',
+      platform: 'Alibaba',
+      color: '#FF6A00',
+      textColor: '#fff',
+      url: searchUrls.find(s => s.platform === 'Alibaba')?.url || '',
+      price: '$50-200',
+      time: '14-30 days',
+      note: 'Message 3 suppliers, compare samples',
+    },
+    region === 'IN'
+      ? {
+          label: 'Indian manufacturer',
+          description: 'Direct from Indian factories — negotiate MOQ',
+          platform: 'IndiaMART',
+          color: '#FF6F00',
+          textColor: '#fff',
+          url: searchUrls.find(s => s.platform === 'IndiaMART')?.url || '',
+          price: 'Negotiate',
+          time: '3-7 days',
+          note: 'Ask for samples before bulk order',
+        }
+      : {
+          label: 'Wholesale (US)',
+          description: 'US-based suppliers — faster shipping, higher MOQ',
+          platform: 'Faire',
+          color: '#000',
+          textColor: '#fff',
+          url: searchUrls.find(s => s.platform === 'Faire')?.url || '',
+          price: 'Wholesale pricing',
+          time: '3-7 days',
+          note: 'Net-60 terms, free returns on first order',
+        },
+  ]
 
   return (
     <div className="flex flex-col gap-2.5">
-      {cards.map((card, i) => (
+      {tiers.map((t, i) => (
         <a key={i}
-          href={card.searchUrl}
+          href={t.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="block px-4 py-3.5 rounded-xl border transition-all no-underline
-            hover:-translate-y-0.5 hover:shadow-md
-            ${card.primary
-              ? 'bg-gold/[0.08] border-gold/30'
-              : 'bg-card border-line-soft'}"
-          style={card.primary ? { background: 'rgba(201,154,75,0.08)', borderColor: 'rgba(201,154,75,0.3)' } : undefined}
+          className="block px-4 py-3.5 rounded-xl border transition-all no-underline hover:-translate-y-0.5 hover:shadow-md"
+          style={{
+            background: t.primary ? 'rgba(201,154,75,0.08)' : 'var(--color-card)',
+            borderColor: t.primary ? 'rgba(201,154,75,0.3)' : 'var(--color-line-soft)',
+          }}
         >
-          {card.primary && (
-            <div className="inline-block text-[9px] font-bold uppercase tracking-[0.12em] px-2 py-0.5
-              bg-gold text-ink rounded-full mb-2">
-              Recommended
+          {t.primary && (
+            <div className="inline-block text-[9px] font-bold uppercase tracking-[0.12em] px-2 py-0.5 bg-gold text-ink rounded-full mb-2">
+              Start here
             </div>
           )}
           <div className="flex items-center gap-2.5 mb-2">
             <span className="text-[11px] font-bold px-2 py-0.5 rounded"
-              style={{ background: card.color, color: card.textColor }}>
-              {card.platform}
+              style={{ background: t.color, color: t.textColor }}>
+              {t.platform}
             </span>
-            <span className="text-xs text-ink-mute">{card.description}</span>
+            <span className="text-xs text-ink-mute">{t.description}</span>
           </div>
           <div className="flex items-baseline justify-between">
             <div>
-              <span className="font-display italic text-xl font-medium text-ink">{card.priceRange}</span>
-              <span className="text-xs text-ink-mute ml-2">{card.label}</span>
+              <span className="font-display italic text-lg font-medium text-ink">{t.price}</span>
+              <span className="text-xs text-ink-mute ml-2">{t.label}</span>
             </div>
-            <span className="text-[11px] text-ink-mute">{card.timeframe}</span>
+            <span className="text-[11px] text-ink-mute">{t.time}</span>
           </div>
-          {card.note && (
-            <div className="text-[11px] text-ink-mute mt-1.5">{card.note}</div>
-          )}
+          {t.note && <div className="text-[11px] text-ink-mute mt-1.5">{t.note}</div>}
+        </a>
+      ))}
+
+      {/* More suppliers */}
+      <div className="mt-2">
+        <div className="text-[10px] uppercase tracking-[0.1em] text-ink-mute font-medium mb-2">
+          Also check
+        </div>
+        <div className="flex flex-wrap gap-1.5">
+          {searchUrls.filter(s => !['AliExpress', 'Alibaba', region === 'IN' ? 'IndiaMART' : 'Faire'].includes(s.platform)).map((s, i) => (
+            <a key={i} href={s.url} target="_blank" rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 px-2.5 py-1.5 bg-card border border-line-soft rounded-full
+                text-[11px] font-medium text-ink no-underline hover:border-line transition-all">
+              <span className="w-2 h-2 rounded-full" style={{ background: s.color }} />
+              {s.platform}
+            </a>
+          ))}
+        </div>
+      </div>
+
+      {/* China direct sites if available */}
+      {category?.chinaDirectSites && category.chinaDirectSites.length > 0 && (
+        <div className="mt-2">
+          <div className="text-[10px] uppercase tracking-[0.1em] text-ink-mute font-medium mb-2">
+            Factory direct
+          </div>
+          {category.chinaDirectSites.map((site, i) => (
+            <a key={i} href={`https://${site.url.replace('https://', '')}`} target="_blank" rel="noopener noreferrer"
+              className="flex items-center gap-2 px-3 py-2 bg-card border border-line-soft rounded-lg mb-1
+                text-xs text-ink no-underline hover:border-line transition-all">
+              <span className="text-accent">🏭</span>
+              <span className="font-medium">{site.name}</span>
+              <span className="text-ink-mute">— {site.specialty}</span>
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
+
+function DigitalTools() {
+  const tools = [
+    { label: 'Create with', platform: 'Canva', color: '#7B2FF7', textColor: '#fff', url: 'https://www.canva.com/', price: 'Free', time: 'Start now', primary: true, desc: 'Design templates, presets, ebooks' },
+    { label: 'Sell on', platform: 'Gumroad', color: '#FF90E8', textColor: '#1F1B16', url: 'https://gumroad.com/', price: '10% fee', time: '10 min setup', desc: 'List and collect payments instantly' },
+    { label: 'Grow with', platform: 'Pinterest', color: '#E60023', textColor: '#fff', url: 'https://business.pinterest.com/', price: 'Free', time: 'Organic', desc: 'Every pin = landing page. Best free traffic.', note: 'Pins last 4 months vs 24 hours on Instagram' },
+  ]
+
+  return (
+    <div className="flex flex-col gap-2.5">
+      {tools.map((t, i) => (
+        <a key={i} href={t.url} target="_blank" rel="noopener noreferrer"
+          className="block px-4 py-3.5 rounded-xl border transition-all no-underline hover:-translate-y-0.5 hover:shadow-md"
+          style={{
+            background: t.primary ? 'rgba(201,154,75,0.08)' : 'var(--color-card)',
+            borderColor: t.primary ? 'rgba(201,154,75,0.3)' : 'var(--color-line-soft)',
+          }}>
+          {t.primary && <div className="inline-block text-[9px] font-bold uppercase tracking-[0.12em] px-2 py-0.5 bg-gold text-ink rounded-full mb-2">Start here</div>}
+          <div className="flex items-center gap-2.5 mb-1">
+            <span className="text-[11px] font-bold px-2 py-0.5 rounded" style={{ background: t.color, color: t.textColor }}>{t.platform}</span>
+            <span className="text-xs text-ink-mute">{t.desc}</span>
+          </div>
+          <div className="flex items-baseline justify-between">
+            <span className="font-display italic text-lg font-medium text-ink">{t.price}</span>
+            <span className="text-[11px] text-ink-mute">{t.time}</span>
+          </div>
+          {t.note && <div className="text-[11px] text-ink-mute mt-1.5">{t.note}</div>}
         </a>
       ))}
     </div>
   )
 }
 
-function getPhysicalSourcing(ideaName: string, region: Region): CardData[] {
-  const q = encodeURIComponent(ideaName.toLowerCase().replace(/\s+/g, '+'))
-  const indiaMartQ = encodeURIComponent(ideaName.toLowerCase().replace(/\s+/g, '-'))
-
-  return [
-    {
-      tier: 'test',
-      label: 'Test first',
-      description: '5-10 units to test quality',
-      platform: 'AliExpress',
-      color: '#FFE4B5',
-      textColor: '#1F1B16',
-      priceRange: '$15–40',
-      timeframe: '7–14 days',
-      searchUrl: `https://www.aliexpress.com/wholesale?SearchText=${q}+supplies`,
-      primary: true,
-    },
-    {
-      tier: 'starter',
-      label: 'Starter batch',
-      description: 'MOQ 50-100 units, real margins',
-      platform: 'Alibaba',
-      color: '#FF6A00',
-      textColor: '#fff',
-      priceRange: '$50–200',
-      timeframe: '14–30 days',
-      searchUrl: `https://www.alibaba.com/trade/search?SearchText=${q}`,
-      note: 'Message 3 suppliers, compare samples before ordering',
-    },
-    ...(region === 'IN' ? [{
-      tier: 'local' as const,
-      label: 'Local supplier',
-      description: 'Indian manufacturers direct',
-      platform: 'IndiaMART',
-      color: '#FF6F00',
-      textColor: '#fff',
-      priceRange: '₹500–5,000',
-      timeframe: '3–7 days',
-      searchUrl: `https://www.indiamart.com/proddetail/${indiaMartQ}/`,
-      note: 'Negotiate MOQ, ask for samples first',
-    }] : [{
-      tier: 'scale' as const,
-      label: 'Scale up',
-      description: 'Factory direct, best unit price',
-      platform: '1688',
-      color: '#FF4400',
-      textColor: '#fff',
-      priceRange: '$0.30–2/unit',
-      timeframe: '30–45 days',
-      searchUrl: `https://s.1688.com/selloffer/offer_search.htm?keywords=${q}`,
-      note: 'When you are selling 100+/month. Use sourcing agent.',
-    }]),
+function SaasTools() {
+  const tools = [
+    { label: 'Build with', platform: 'Bolt.new', color: '#6366F1', textColor: '#fff', url: 'https://bolt.new/', price: 'Free tier', time: 'Ship in 1 day', primary: true, desc: 'AI builds your app from a prompt' },
+    { label: 'Payments', platform: 'Stripe', color: '#635BFF', textColor: '#fff', url: 'https://stripe.com/', price: '2.9% + 30¢', time: '15 min setup', desc: 'Accept money from day one' },
+    { label: 'Launch on', platform: 'Product Hunt', color: '#DA552F', textColor: '#fff', url: 'https://www.producthunt.com/', price: 'Free', time: 'Plan launch day', desc: 'Get your first 100 users free', note: 'Launch Tuesday/Wednesday for max visibility' },
   ]
-}
 
-function getDigitalTools(_ideaName: string): CardData[] {
-  return [
-    {
-      tier: 'create',
-      label: 'Create with',
-      description: 'Design and build your product',
-      platform: 'Canva',
-      color: '#7B2FF7',
-      textColor: '#fff',
-      priceRange: 'Free',
-      timeframe: 'Start now',
-      searchUrl: 'https://www.canva.com/',
-      primary: true,
-    },
-    {
-      tier: 'sell',
-      label: 'Sell on',
-      description: 'List and collect payments',
-      platform: 'Gumroad',
-      color: '#FF90E8',
-      textColor: '#1F1B16',
-      priceRange: '10% fee',
-      timeframe: 'Setup in 10 min',
-      searchUrl: 'https://gumroad.com/',
-    },
-    {
-      tier: 'grow',
-      label: 'Grow with',
-      description: 'Free traffic that compounds',
-      platform: 'Pinterest',
-      color: '#E60023',
-      textColor: '#fff',
-      priceRange: 'Free',
-      timeframe: 'Organic growth',
-      searchUrl: 'https://business.pinterest.com/',
-      note: 'Every pin is a landing page. Best free channel for digital products.',
-    },
-  ]
-}
-
-function getSaasTools(_ideaName: string): CardData[] {
-  return [
-    {
-      tier: 'create',
-      label: 'Build with',
-      description: 'AI builds your app from a prompt',
-      platform: 'Bolt.new',
-      color: '#6366F1',
-      textColor: '#fff',
-      priceRange: 'Free tier',
-      timeframe: 'Ship in 1 day',
-      searchUrl: 'https://bolt.new/',
-      primary: true,
-    },
-    {
-      tier: 'sell',
-      label: 'Payments',
-      description: 'Accept money from day one',
-      platform: 'Stripe',
-      color: '#635BFF',
-      textColor: '#fff',
-      priceRange: '2.9% + 30¢',
-      timeframe: 'Setup in 15 min',
-      searchUrl: 'https://stripe.com/',
-    },
-    {
-      tier: 'grow',
-      label: 'Launch on',
-      description: 'Get your first 100 users free',
-      platform: 'Product Hunt',
-      color: '#DA552F',
-      textColor: '#fff',
-      priceRange: 'Free',
-      timeframe: 'Plan your launch day',
-      searchUrl: 'https://www.producthunt.com/',
-      note: 'Ship on Tuesday/Wednesday for maximum visibility.',
-    },
-  ]
+  return (
+    <div className="flex flex-col gap-2.5">
+      {tools.map((t, i) => (
+        <a key={i} href={t.url} target="_blank" rel="noopener noreferrer"
+          className="block px-4 py-3.5 rounded-xl border transition-all no-underline hover:-translate-y-0.5 hover:shadow-md"
+          style={{
+            background: t.primary ? 'rgba(201,154,75,0.08)' : 'var(--color-card)',
+            borderColor: t.primary ? 'rgba(201,154,75,0.3)' : 'var(--color-line-soft)',
+          }}>
+          {t.primary && <div className="inline-block text-[9px] font-bold uppercase tracking-[0.12em] px-2 py-0.5 bg-gold text-ink rounded-full mb-2">Start here</div>}
+          <div className="flex items-center gap-2.5 mb-1">
+            <span className="text-[11px] font-bold px-2 py-0.5 rounded" style={{ background: t.color, color: t.textColor }}>{t.platform}</span>
+            <span className="text-xs text-ink-mute">{t.desc}</span>
+          </div>
+          <div className="flex items-baseline justify-between">
+            <span className="font-display italic text-lg font-medium text-ink">{t.price}</span>
+            <span className="text-[11px] text-ink-mute">{t.time}</span>
+          </div>
+          {t.note && <div className="text-[11px] text-ink-mute mt-1.5">{t.note}</div>}
+        </a>
+      ))}
+    </div>
+  )
 }
