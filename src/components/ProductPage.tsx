@@ -4,6 +4,7 @@ import { SECTION_LABELS } from '../lib/constants'
 import { formatMoney } from '../lib/regions'
 import { SourcingCards } from './SourcingCards'
 import { ProfitCalculator } from './ProfitCalculator'
+import { ValidationCard } from './ValidationCard'
 
 interface Props {
   idea: Idea
@@ -71,6 +72,9 @@ export function ProductPage({ idea, region, profiles, isSaved, onSave, onOpenSto
             <div className="font-display italic text-lg font-medium text-ink capitalize">{idea.deck}</div>
           </div>
         </div>
+
+        {/* Market validation */}
+        {idea.validation && <ValidationCard validation={idea.validation} />}
 
         {/* Real sellers section */}
         {profiles.length > 0 && (

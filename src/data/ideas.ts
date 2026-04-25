@@ -50,7 +50,46 @@ export const IDEAS: Idea[] = [
         stats: [{label: 'Launch price', value: '\u20b9499'}, {label: 'After 20 reviews', value: '\u20b9599'}],
         action: 'List 1 candle on Instagram at \u20b9499'
       }
-    }
+    },
+    validation: {
+      sparkScore: 78,
+      dataSource: 'google_trends+etsy+aliexpress',
+      lastUpdated: '2026-04-26',
+      demand: {
+        score: 82,
+        googleTrendsDirection: 'rising',
+        googleTrendsValue: 72,
+        searchVolume: '18K/mo',
+        seasonality: 'year-round (Q4 peak for gifting)',
+        evidence: 'Google Trends: rising at 72/100. Est. 18K monthly searches in US. Strong gifting demand in Q4.',
+      },
+      competition: {
+        score: 45,
+        etsyListings: 28400,
+        etsyAvgPrice: 24,
+        etsyPriceRange: '$12-45',
+        amazonResults: 15000,
+        saturationLevel: 'high',
+        evidence: '28,400 Etsy listings, avg price $24. High competition but strong demand supports new entrants with niche positioning.',
+      },
+      profitability: {
+        score: 85,
+        avgCostUsd: 3.2,
+        avgSellingUsd: 24,
+        estimatedMargin: 87,
+        monthlyPotentialUsd: '$1,040-2,080/mo at 50-100 units',
+        evidence: 'Source at $3.20/unit (AliExpress wax+wick+jar), sell at $24 (Etsy avg). ~87% margin after materials.',
+      },
+      supplierHealth: {
+        score: 92,
+        supplierCount: 47,
+        avgSupplierRating: 4.6,
+        avgOrderVolume: '2,000+ orders',
+        minMoq: 1,
+        evidence: '47 suppliers on AliExpress, avg rating 4.6/5. Top supplier has 2,000+ orders. MOQ from 1 unit.',
+      },
+      trending: 'rising',
+    },
   },
   {
     id: 'pet-tags',

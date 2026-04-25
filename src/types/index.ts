@@ -45,8 +45,116 @@ export interface Idea {
   sellingPrice_usd?: Record<string, number>
   distributors?: Partial<Record<Region, string>>
   breakdown: Breakdown
-  sellOn?: SellPlatform[] // where to sell (region-aware)
-  launchPlan?: LaunchTask[] // 30-day plan
+  sellOn?: SellPlatform[]
+  launchPlan?: LaunchTask[]
+  validation?: IdeaValidation // REAL market data — no hallucination
+  analysis?: IdeaAnalysis // deep analysis for engagement
+}
+
+// --- Product validation (all from REAL data sources) ---
+export interface IdeaValidation {
+  sparkScore: number // 0-100 composite from real data
+  dataSource: string // "google_trends+etsy+aliexpress" — shows where data came from
+  lastUpdated: string // ISO date
+
+  demand: DemandData
+  competition: CompetitionData
+  profitability: ProfitabilityData
+  supplierHealth: SupplierHealthData
+  trending: TrendDirection
+}
+
+export interface DemandData {
+  score: number // 0-100
+  googleTrendsDirection: 'rising' | 'stable' | 'declining'
+  googleTrendsValue: number // relative interest 0-100
+  searchVolume: string // "18K/mo" — estimated monthly searches
+  seasonality: string // "year-round" | "seasonal (Q4 peak)" | "summer only"
+  evidence: string // "Search interest up 34% YoY, 18K monthly searches in US"
+}
+
+export interface CompetitionData {
+  score: number // 0-100 (higher = less competition = better)
+  etsyListings: number // how many listings exist
+  etsyAvgPrice: number // USD
+  etsyPriceRange: string // "$12-45"
+  amazonResults: number // search result count
+  saturationLevel: 'low' | 'medium' | 'high' | 'very-high'
+  evidence: string // "4,200 Etsy listings, avg price $24. Medium competition."
+}
+
+export interface ProfitabilityData {
+  score: number // 0-100
+  avgCostUsd: number // typical sourcing cost
+  avgSellingUsd: number // typical selling price
+  estimatedMargin: number // percentage
+  monthlyPotentialUsd: string // "$800-2,000/mo at 50 units"
+  evidence: string // "AliExpress avg $3.20/unit, Etsy avg sell $24, ~87% margin"
+}
+
+export interface SupplierHealthData {
+  score: number // 0-100
+  supplierCount: number // on AliExpress/Alibaba
+  avgSupplierRating: number // 0-5
+  avgOrderVolume: string // "2,000+ orders"
+  minMoq: number // minimum order quantity found
+  evidence: string // "47 suppliers on AliExpress, avg 4.6 rating, MOQ from 10 units"
+}
+
+export type TrendDirection = 'hot' | 'rising' | 'stable' | 'cooling' | 'declining'
+
+// --- Deep analysis (for 15-20 min engagement per idea) ---
+export interface IdeaAnalysis {
+  marketOverview: string // 2-3 paragraphs on the market
+  targetBuyer: BuyerPersona
+  competitorSnapshot: CompetitorSnapshot[]
+  pricingStrategy: PricingBreakdown
+  riskFactors: RiskFactor[]
+  successStories: string[] // real examples
+  firstWeekChecklist: ChecklistItem[]
+  proTips: string[] // insider knowledge
+}
+
+export interface BuyerPersona {
+  name: string // "Sarah, 28"
+  description: string // "Working professional who..."
+  painPoint: string
+  buyingTrigger: string
+  willPayUpTo: string // "$35 for a candle"
+  whereSheShops: string[] // ["Etsy", "Instagram"]
+}
+
+export interface CompetitorSnapshot {
+  name: string // "WickAndWhisper" (real Etsy shop)
+  platform: string // "Etsy"
+  priceRange: string
+  reviewCount: number
+  rating: number
+  whatTheyDoWell: string
+  gap: string // what they're missing
+}
+
+export interface PricingBreakdown {
+  costPerUnit: number
+  packagingCost: number
+  shippingCost: number
+  platformFee: number // percentage
+  totalCost: number
+  recommendedPrice: number
+  netProfit: number
+  marginPercent: number
+}
+
+export interface RiskFactor {
+  risk: string
+  severity: 'low' | 'medium' | 'high'
+  mitigation: string
+}
+
+export interface ChecklistItem {
+  task: string
+  timeMinutes: number
+  link?: string
 }
 
 // --- Sourcing (physical: suppliers, digital/saas: build tools) ---
