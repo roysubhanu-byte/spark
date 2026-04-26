@@ -14,11 +14,15 @@ import { LaunchPlan } from './components/LaunchPlan'
 import { TodoList } from './components/TodoList'
 import { useStore } from './hooks/useStore'
 import { useDeck } from './hooks/useDeck'
+import { useAuth } from './hooks/useAuth'
+import { useSupabaseSync } from './hooks/useSupabaseSync'
 import type { Idea, SectionKey } from './types'
 import { IDEAS, INSPIRE_PROFILES } from './data'
 
 export default function App() {
   const store = useStore()
+  const { user } = useAuth()
+  const { syncSave, syncPlanStart, syncTaskComplete, syncProfile } = useSupabaseSync(user, store)
   const filteredIdeas = useDeck(IDEAS, store.q2, store.q1, store.interests, store.region)
   const [filterOpen, setFilterOpen] = useState(false)
 
@@ -44,13 +48,17 @@ export default function App() {
       }
     }
     else if (store.screen === 'q1-channel') store.setScreen('q3-interests')
-    else if (store.screen === 'q3-interests') store.finishOnboarding()
-  }, [store])
+    else if (store.screen === 'q3-interests') {
+      store.finishOnboarding()
+      syncProfile()
+    }
+  }, [store, syncProfile])
 
   // Deck → Save (swipe right)
   const handleSave = useCallback((idea: Idea) => {
     store.saveIdea(idea.id)
-  }, [store])
+    syncSave(idea.id)
+  }, [store, syncSave])
 
   // Deck → Tap card → open product page
   const handleTapCard = useCallback((idea: Idea) => {
@@ -69,11 +77,12 @@ export default function App() {
   const handleStartPlan = useCallback(() => {
     if (productIdea) {
       store.startPlan(productIdea)
+      syncPlanStart(productIdea.id, productIdea.name, productIdea.image)
       showToast(`Plan started for ${productIdea.name}!`)
       setProductIdea(null)
       setPlanIdea(productIdea)
     }
-  }, [productIdea, store])
+  }, [productIdea, store, syncPlanStart])
 
   // Stories → add todo
   const handleAddTodo = useCallback((section: SectionKey) => {
@@ -273,7 +282,7 @@ export default function App() {
                 plan={plan}
                 deck={planIdea.deck}
                 interests={planIdea.interests}
-                onComplete={(day) => store.completePlanTask(planIdea.id, day)}
+                onComplete={(day) => { store.completePlanTask(planIdea.id, day); syncTaskComplete(planIdea.id, day) }}
                 onBack={() => setPlanIdea(null)}
               />
             )
