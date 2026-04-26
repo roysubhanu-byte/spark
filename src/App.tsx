@@ -271,6 +271,8 @@ export default function App() {
             return (
               <LaunchPlan
                 plan={plan}
+                deck={planIdea.deck}
+                interests={planIdea.interests}
                 onComplete={(day) => store.completePlanTask(planIdea.id, day)}
                 onBack={() => setPlanIdea(null)}
               />

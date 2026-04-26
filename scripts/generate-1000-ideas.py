@@ -1227,76 +1227,190 @@ SAAS_CATEGORIES = {
 # ============================================================
 
 def make_breakdown(name, deck, capital, effort, category):
-    """Generate a realistic breakdown with category-specific language."""
+    """Generate category-specific breakdowns with coach-tone language."""
     cap_nums = [int(x) for x in capital.replace("$", "").replace(",", "").split("-")]
     low, high = cap_nums[0], cap_nums[1] if len(cap_nums) > 1 else cap_nums[0] * 3
     mid = (low + high) // 2
+    sell_price = int(mid * random.uniform(2.5, 4.0))
+    margin_pct = max(40, min(90, int((1 - mid / sell_price) * 100)))
+    monthly_units = random.choice([30, 40, 50, 60, 80, 100])
+    monthly_rev = monthly_units * sell_price
 
-    margin_pct = random.randint(40, 85)
-    monthly_low = random.randint(300, 1500)
-    monthly_high = monthly_low * random.randint(2, 4)
+    # Category-specific strategy templates
+    CATEGORY_STRATEGY = {
+        "Home & Living": f"People don't buy <strong>{name}</strong> for function. They buy it because it makes their space feel like <strong>them</strong>. Your angle isn't the product itself. It's the aesthetic, the vibe, the feeling when someone walks into a room and says 'where did you get that?' Pick one interior style and own it completely.",
+        "Jewelry & Accessories": f"Jewelry is personal. Nobody buys <strong>{name}</strong> because they need it. They buy it because it says something about who they are. Your edge: <strong>pick one identity</strong> (minimalist, boho, statement, dainty) and make every piece feel like it belongs together. Collections sell 3x better than random pieces.",
+        "Beauty & Wellness": f"The beauty market is huge, but <strong>{name}</strong> wins by being specific. Don't compete with Sephora. Compete with the other small brands on Etsy. Your angle: <strong>one hero ingredient or one skin concern</strong>. 'Turmeric glow' or 'sensitive skin' beats 'for all skin types' every time.",
+        "Pets": f"Pet owners spend irrationally on their animals (in a good way). <strong>{name}</strong> works because pet parents want the <strong>best for their fur baby</strong>. Your angle: either make it safer than mass-market alternatives, or make it cuter. Personalization (pet's name) adds $5-10 to any product.",
+        "Food & Beverage": f"Food is trust. People need to believe <strong>{name}</strong> is made with care before they'll put it in their mouth. Your angle: <strong>the story behind the recipe</strong>. 'My grandmother's hot sauce from Oaxaca' beats 'artisan hot sauce.' The story IS the product. Make it real.",
+        "Kids & Baby": f"Parents buy <strong>{name}</strong> to feel like good parents. Safety and quality are non-negotiable. Your angle: <strong>one clear benefit</strong> ('develops fine motor skills' or 'organic cotton, no chemicals'). Pair the benefit with beautiful packaging. It's a gift market. Make it giftable.",
+        "Stationery & Art": f"Stationery buyers are collectors. They don't need another <strong>{name}</strong>. They <strong>want</strong> it. Your angle: consistent aesthetic + limited releases. Create a visual style that's uniquely yours. When someone sees your product, they should know it's from your shop without reading the name.",
+        "Clothing & Apparel": f"Fashion is crowded, but <strong>{name}</strong> works if you pick a tribe. Don't sell to 'everyone who wears clothes.' Sell to <strong>one specific person</strong>: festival-goers, yoga moms, streetwear kids, or minimalist professionals. The narrower you go, the louder your signal.",
+        "Tech & Gadgets": f"Tech accessories sell on <strong>convenience + aesthetics</strong>. <strong>{name}</strong> needs to solve an annoying daily friction. Your angle: make it look premium (not cheap Amazon plastic) and solve one specific problem really well. 'The only [X] you'll ever need' is your headline energy.",
+        "Eco & Sustainability": f"Eco buyers want to <strong>feel good about their purchase</strong>. <strong>{name}</strong> wins by making sustainability easy, not preachy. Your angle: show the impact simply ('replaces 200 plastic bags') and make the product <strong>beautiful enough to want, even without the eco angle</strong>.",
+        "Fitness & Sports": f"Fitness buyers want <strong>results</strong>, not equipment. <strong>{name}</strong> sells when you connect it to an outcome: 'better grip,' 'faster recovery,' 'no more knee pain.' Your angle: pick one fitness tribe (CrossFit, yoga, runners) and speak their language. Don't be generic.",
+        "Garden & Outdoor": f"Garden products sell on the <strong>dream of what your garden could be</strong>. <strong>{name}</strong> works because people see it and imagine their patio, their window box, their backyard. Your angle: show the 'after,' not the product alone. Lifestyle photos in beautiful gardens outsell white-background shots 5:1.",
+        "Art & Craft Supplies": f"Craft supply buyers are <strong>makers</strong>. They want high-quality materials + clear instructions. <strong>{name}</strong> sells best as a kit: everything you need to start, nothing extra. Your angle: <strong>the finished result</strong>. Show what they'll make, not just what's in the box.",
+        "Personalized & Custom": f"Personalization is the highest-margin play in physical products. <strong>{name}</strong> commands premium pricing because <strong>nobody can comparison-shop a one-of-one</strong>. Your angle: make the customization process feel special, not like filling out a form. 'Designed just for you' is the entire brand.",
+        "Health & Supplements": f"Supplements sell on <strong>trust and results</strong>. <strong>{name}</strong> needs third-party testing and clear labeling to stand out. Your angle: pick ONE benefit (sleep, energy, glow, focus) and be the go-to for that. Don't be a general wellness brand. Be the <strong>[one thing] brand</strong>.",
+        "Party & Events": f"Party supplies sell on <strong>convenience + Instagram-worthiness</strong>. <strong>{name}</strong> works when it makes someone's event look amazing with zero effort. Your angle: sell complete kits, not individual items. 'Everything you need for a boho bridal shower' beats selling tissue paper separately.",
+        "Travel & Lifestyle": f"Travel products sell on <strong>solving a packing problem</strong>. <strong>{name}</strong> wins when it makes travel easier, lighter, or more organized. Your angle: show the product <strong>in use while traveling</strong>. Airport photos, hotel flat lays, suitcase shots. The context sells the product.",
+        "Automotive & Tools": f"Auto and tool buyers are <strong>practical problem-solvers</strong>. <strong>{name}</strong> needs to clearly show what problem it fixes and how fast. Your angle: before/after is everything. 'Before: tangled cables. After: clean console.' Simple, visual, convincing.",
+        "Candles & Fragrance": f"Fragrance is emotion. Nobody needs <strong>{name}</strong>. They want the <strong>feeling it creates</strong>. Your angle: don't sell scents, sell moments. 'Sunday morning,' 'rainy day reading,' 'date night.' Each product should paint a scene. That's what people actually buy.",
+        "Handmade Leather Goods": f"Leather is about <strong>craftsmanship and longevity</strong>. <strong>{name}</strong> sells when the buyer believes it'll last 10 years and look better with age. Your angle: show the material, the stitching, the patina over time. <strong>'Buy once, carry forever'</strong> is your pricing justification.",
+        "Woodworking & Carpentry": f"Wood has warmth that mass-produced can't match. <strong>{name}</strong> sells because people can see the grain, feel the weight, sense the craftsmanship. Your angle: <strong>show the process</strong>. A 15-second video of you at the lathe is worth more than 10 product photos.",
+        "Printables & POD": f"Printables and POD are a <strong>volume game</strong>. One {name} design won't make you rich. But 50 designs in one niche might. Your angle: be the best shop in one narrow category. 'The #1 Etsy shop for teacher planners' beats 'we sell printables.' Depth > breadth.",
+        "Vintage & Upcycled": f"Vintage and upcycled items sell on <strong>story and scarcity</strong>. Every <strong>{name}</strong> is one-of-a-kind, which means no price comparison. Your angle: tell the origin story of each piece. Where you found it, what era it's from, what makes it special. The story adds 30-50% to the price.",
+    }
 
-    effort_map = {1: "a few hours a week", 2: "part-time effort", 3: "real commitment"}
-    effort_desc = effort_map.get(effort, "part-time effort")
+    # Category-specific buyer profiles
+    CATEGORY_BUYER = {
+        "Home & Living": f"Your buyer is decorating a space on a budget but with taste. She's scrolling Pinterest, saving inspo boards, and wants her apartment to look like a magazine without IKEA basics. <strong>She'll pay more for 'unique' and 'handmade.'</strong> She's buying for herself or as a housewarming gift.",
+        "Jewelry & Accessories": f"Your buyer is a 22-35 year old woman who buys jewelry as <strong>self-expression, not luxury</strong>. She owns 20+ pairs of earrings and rotates daily. She finds you on Instagram or Etsy. She buys for herself AND as gifts. Gift-ready packaging = automatic second sale.",
+        "Beauty & Wellness": f"Your buyer is ingredient-conscious, reads labels, and doesn't trust big brands. She's tried 'natural' products that didn't work and is looking for something that's both <strong>clean and effective</strong>. She'll pay 2-3x grocery store prices for something that actually delivers.",
+        "Pets": f"Your buyer is a <strong>pet parent</strong> who calls their dog 'my baby.' They follow 15+ pet accounts, celebrate their pet's birthday, and feel guilty buying cheap stuff. They'll pay premium for anything that's safer, cuter, or more personalized than PetSmart.",
+        "Food & Beverage": f"Your buyer wants <strong>something they can't get at the grocery store</strong>. They shop farmers markets, read food blogs, and gift food to people they care about. They'll pay $12 for a jar of honey if the story and packaging are right.",
+        "Kids & Baby": f"Your buyer is a <strong>first-time parent or a gift-buyer</strong>. Parents are overwhelmed and want curated, safe, non-toxic options. Gift-buyers want something cute and photo-worthy. In both cases, packaging matters as much as the product.",
+        "Stationery & Art": f"Your buyer is a creative who collects supplies. She has more washi tape than she'll ever use, but she'll buy yours too because <strong>the design is different</strong>. She's loyal to shops she loves and will buy every new release. Build that relationship.",
+        "Clothing & Apparel": f"Your buyer is building an identity through what they wear. They don't want fast fashion, but they can't afford luxury. <strong>They want something that feels unique under $50.</strong> They find you through Instagram outfits or TikTok hauls.",
+        "Tech & Gadgets": f"Your buyer is an <strong>optimizer</strong>. They want their desk setup, car, or daily carry to work perfectly. They read Amazon reviews obsessively and will pay 2x for a product with 4.5+ stars over a cheaper unknown. Make quality obvious.",
+        "Eco & Sustainability": f"Your buyer <strong>already cares about the planet</strong>. You don't need to convince them to go green. You need to make it easy, affordable, and not ugly. They're tired of 'eco' products that look like a compromise.",
+        "Fitness & Sports": f"Your buyer trains 3-5x per week and considers gear an investment in performance. They follow fitness influencers and buy what their favorite trainer uses. <strong>Social proof from one micro-influencer is worth 100 product photos.</strong>",
+        "Garden & Outdoor": f"Your buyer is either a <strong>new plant parent</strong> (millennials buying their first succulents) or an <strong>experienced gardener</strong> upgrading their tools. New plant parents buy cute, experienced gardeners buy quality. Know which one you're talking to.",
+        "Art & Craft Supplies": f"Your buyer is a <strong>hobby crafter</strong> who wants to start a new project tonight, not next month. Kits with everything included sell 4x better than individual supplies. The promise: 'You can make this tonight.'",
+        "Personalized & Custom": f"Your buyer is shopping for a <strong>gift with meaning</strong>. Anniversary, wedding, baby shower, graduation. They want something the recipient can't buy themselves. Lead time is critical. If you can ship in 3-5 days, you win.",
+        "Health & Supplements": f"Your buyer is a <strong>health-conscious 25-45 year old</strong> who's tried mainstream supplements and wants something more targeted. They read Reddit threads, check ingredient lists, and trust brands that are transparent about sourcing and testing.",
+        "Party & Events": f"Your buyer is planning an event in <strong>2-4 weeks</strong> and just realized they need decorations. She's on Pinterest, she has a vision board, and she wants it to look exactly like that. Convenience (complete kits) and fast shipping win every time.",
+        "Travel & Lifestyle": f"Your buyer travels 3-6 times a year and is <strong>upgrading from cheap gear</strong>. They want things that are compact, durable, and look good on Instagram. They buy before a trip (impulse) or after a trip where they needed something (problem-solving).",
+        "Automotive & Tools": f"Your buyer is <strong>a problem solver</strong> who watches YouTube fix-it videos. They want something that works, has good reviews, and arrives fast. They're comparison shopping on Amazon right now. Price isn't the issue. Confidence in quality is.",
+        "Candles & Fragrance": f"Your buyer is buying <strong>a mood, not a candle</strong>. She lights candles during bath time, work-from-home hours, and date nights. She'll buy 3 at a time if the scents tell a story together. Gift sets at holidays are 50% of candle sales.",
+        "Handmade Leather Goods": f"Your buyer values <strong>craftsmanship over brand names</strong>. They'd rather buy a $60 wallet from a maker on Etsy than a $60 wallet from Target. They want to know who made it and how. The 'handmade' tag is your competitive advantage.",
+        "Woodworking & Carpentry": f"Your buyer wants something <strong>real in a world of mass-produced plastic</strong>. They're buying a cutting board, but what they really want is warmth in their kitchen. They gift wooden items for weddings, housewarmings, and holidays.",
+        "Printables & POD": f"Your buyer wants <strong>instant results</strong>. For printables: they download, print, and use within 10 minutes. For POD: they want a unique design they can't find at Target. They're buying the design, not the product. Make the design irresistible.",
+        "Vintage & Upcycled": f"Your buyer is a <strong>treasure hunter</strong>. They love the thrill of finding something unique. They follow vintage accounts, visit flea markets, and have an eye for quality. They'll pay premium because they know this piece won't be available tomorrow.",
+    }
+
+    # Category-specific distributor info
+    CATEGORY_DISTRIBUTORS = {
+        "Home & Living": f"<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "Jewelry & Accessories": f"<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "Beauty & Wellness": f"Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "Pets": f"<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "Food & Beverage": f"Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "Kids & Baby": f"<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "Stationery & Art": f"<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "Clothing & Apparel": f"<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "Tech & Gadgets": f"<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "Eco & Sustainability": f"<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "Fitness & Sports": f"<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "Garden & Outdoor": f"<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "Art & Craft Supplies": f"<strong>Alibaba</strong> for bulk craft materials (yarn, beads, tools). <strong>AliExpress</strong> for sample kits. For instruction cards/booklets: <strong>Canva</strong> to design, <strong>local printer</strong> or <strong>Vistaprint</strong> to print. Your value-add is the curation and instructions, not the raw materials.",
+        "Personalized & Custom": f"Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "Health & Supplements": f"<strong>White label manufacturers</strong>: NutraScience Labs, Makers Nutrition (US). <strong>Minimum orders typically 500-1000 units.</strong> Alternatively: buy bulk ingredients from <strong>BulkSupplements.com</strong> and capsule them yourself (capsule machine: $25). <strong>Third-party testing is non-negotiable.</strong>",
+        "Party & Events": f"<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "Travel & Lifestyle": f"<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "Automotive & Tools": f"<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "Candles & Fragrance": f"Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "Handmade Leather Goods": f"Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "Woodworking & Carpentry": f"Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "Printables & POD": f"<strong>No physical sourcing needed.</strong> Design tools: <strong>Canva Pro</strong> ($12/mo) or <strong>Procreate</strong> ($12 once). POD fulfillment: <strong>Printful</strong>, <strong>Printify</strong>, or <strong>Gelato</strong>. They print, pack, and ship for you. Mockup tools: <strong>Placeit</strong> or <strong>SmartMockups</strong>.",
+        "Vintage & Upcycled": f"<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+    }
 
     if deck == "physical":
+        strategy_body = CATEGORY_STRATEGY.get(category, CATEGORY_STRATEGY["Home & Living"])
+        buyer_body = CATEGORY_BUYER.get(category, CATEGORY_BUYER["Home & Living"])
+        dist_body = CATEGORY_DISTRIBUTORS.get(category, CATEGORY_DISTRIBUTORS["Home & Living"])
+
         return {
             "strategy": {
-                "body": f"Here's the play with <strong>{name}</strong>: you're not just selling a product. You're selling a solution to a specific problem. Find the one angle that makes yours different from everyone else's. Maybe it's the ingredient, the design, or the story behind it. <strong>Own that one angle hard.</strong>",
-                "action": f"Define your unique angle for {name}"
+                "body": strategy_body,
+                "action": f"Write your one unique angle for {name} in a single sentence"
             },
             "value": {
-                "body": f"Your buyer is someone who's already looking for this. They're comparing 5-10 options right now. Your job is to make the decision easy. <strong>Clear photos, honest description, one reason to pick you.</strong> That's it.",
-                "action": "Write a 1-line description of your ideal buyer"
+                "body": buyer_body,
+                "action": "Describe your ideal buyer in 1 sentence (age, situation, what they're looking for)"
             },
             "profit": {
-                "body": f"Cost to source: roughly <strong>${low}-{mid}</strong> for your first batch. Sell each unit for 2-3x your cost. After platform fees and shipping, you're looking at <strong>{margin_pct}% margins</strong>. Start small, prove demand, then scale.",
-                "stats": [{"label": "Margin", "value": f"{margin_pct}%"}, {"label": "Monthly potential", "value": f"${monthly_low}-{monthly_high}"}],
-                "action": "Calculate your cost per unit and target price"
+                "body": f"Your first batch costs roughly <strong>${low}-{mid}</strong> for materials. Each {name.lower()} sells for about <strong>${sell_price}</strong>. After packaging, platform fees (Etsy takes ~9%), and shipping, you keep about <strong>{margin_pct}%</strong>. Sell {monthly_units} units/month and that's <strong>${monthly_rev}/month</strong>.",
+                "stats": [{"label": "Margin", "value": f"{margin_pct}%"}, {"label": f"Monthly ({monthly_units} units)", "value": f"${monthly_rev}"}],
+                "action": "Open the profit calculator and enter your real costs"
             },
             "distributors": {
-                "body": f"Source from <strong>AliExpress</strong> for samples (ships in 7-14 days). Once validated, move to <strong>Alibaba</strong> for bulk orders at 40-60% less. In India, check <strong>IndiaMART</strong> for local manufacturers. Always order samples before committing to bulk.",
-                "action": "Order 3 samples from different AliExpress suppliers"
+                "body": dist_body,
+                "action": "Order 2-3 samples from different suppliers today"
             },
             "pricing": {
-                "body": f"Three pricing tiers that work: <strong>(1) Entry</strong> at the low end to build reviews. <strong>(2) Standard</strong> at market rate once you have 10+ reviews. <strong>(3) Bundle</strong> multiple units at a slight discount to boost AOV. Start with entry pricing.",
-                "action": "Set your launch price and bundle offer"
+                "body": f"Three tiers: <strong>(1) Single</strong> at ${sell_price} to build reviews. <strong>(2) Bundle</strong> (set of 3) at ${int(sell_price * 2.6)} (saves the buyer 13%). <strong>(3) Gift set</strong> with premium packaging at ${int(sell_price * 1.5)}. Gift sets have the highest margin. Start with singles + one bundle.",
+                "action": "Set your 3 price tiers and write them down"
             },
             "sellingPrice": {
-                "body": f"Launch at a competitive price to build traction and reviews. Once you hit 20 sales, raise prices 15-20%. <strong>Don't underprice.</strong> It attracts the wrong buyers and kills your margins.",
-                "stats": [{"label": "Launch", "value": f"${mid}"}, {"label": "After 20 sales", "value": f"${int(mid * 1.2)}"}],
-                "action": "List your first product at the launch price"
+                "body": f"Launch at <strong>${sell_price}</strong>. This is slightly below the market average to build initial reviews. After 20 sales, raise to <strong>${int(sell_price * 1.2)}</strong>. After 50 sales, test <strong>${int(sell_price * 1.4)}</strong>. <strong>Never price below ${int(sell_price * 0.7)}</strong> because bargain hunters leave 1-star reviews.",
+                "stats": [{"label": "Launch", "value": f"${sell_price}"}, {"label": "After 20 sales", "value": f"${int(sell_price * 1.2)}"}],
+                "action": f"List your first {name.lower()} at ${sell_price}"
             }
         }
     else:  # saas
-        mrr_low = random.randint(200, 2000)
-        mrr_high = mrr_low * random.randint(3, 8)
+        # SaaS category-specific strategies
+        SAAS_STRATEGY = {
+            "AI & Automation Tools": f"AI tools win on <strong>one specific output</strong>. <strong>{name}</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
+            "Chrome Extensions": f"Extensions win by being <strong>invisible until needed</strong>. <strong>{name}</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
+            "Micro SaaS Tools": f"Micro SaaS wins by being <strong>the simplest tool for one job</strong>. <strong>{name}</strong> doesn't need AI, doesn't need a team. It needs to replace a spreadsheet or manual process that annoys 10,000 people. If they're using a Google Sheet to track this, you have a market.",
+            "Content & Marketing Tools": f"Marketing tools sell on <strong>saving time, not being smarter</strong>. <strong>{name}</strong> works when a marketer can do in 5 minutes what currently takes them 2 hours. Show the time saved, not the features. The demo should make someone think: 'I spent all morning doing this manually.'",
+            "Developer Tools": f"Dev tools sell on <strong>reliability and DX (developer experience)</strong>. <strong>{name}</strong> needs great docs, a generous free tier, and 99.9% uptime from day one. Devs will forgive missing features but won't forgive a bad API or poor documentation.",
+            "Ecommerce Tools": f"Ecommerce tools sell on <strong>more revenue or less cost</strong>. <strong>{name}</strong> needs to show a clear ROI: 'This tool pays for itself if it recovers 2 abandoned carts per month.' Shopify app store is your distribution channel. Get listed there.",
+            "Education & Learning": f"EdTech wins on <strong>outcomes, not content</strong>. <strong>{name}</strong> should help someone learn faster, not just access more material. The magic: take a 40-hour course and compress it into daily 10-minute sessions with spaced repetition. Completion rate is your metric.",
+            "Productivity & Collaboration": f"Productivity tools sell on <strong>reducing meetings and status updates</strong>. <strong>{name}</strong> should make one workflow so smooth that a team of 5 saves 3 hours/week collectively. That's $15K/year in salary savings. Price at $10/user/month and it's a no-brainer.",
+            "Finance & Business Tools": f"Finance tools sell on <strong>peace of mind and time savings</strong>. <strong>{name}</strong> works when someone dreads doing this task every month and your tool makes it automatic. Tax time, invoice chasing, expense tracking. The pain is real and recurring. So is the revenue.",
+            "Community & Membership": f"Community tools sell on <strong>connection and retention</strong>. <strong>{name}</strong> needs to solve the #1 community problem: engagement drops after week 2. Build features that create habits (daily prompts, streaks, challenges). If members come back 3x/week, the community survives.",
+        }
+
+        strategy_body = SAAS_STRATEGY.get(category, f"<strong>{name}</strong> works because it solves one specific pain point really well. Don't try to be everything. Pick the #1 frustration in your target market and build the simplest possible fix. <strong>Ship fast, iterate from feedback.</strong>")
+
+        SAAS_BUYER = {
+            "AI & Automation Tools": f"Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
+            "Chrome Extensions": f"Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
+            "Micro SaaS Tools": f"Your buyer is a <strong>solo founder, freelancer, or small team</strong> that can't afford enterprise tools and is tired of hacking spreadsheets. They want something simple that does one job well. <strong>They find you through Google, Product Hunt, or 'best [tool] for freelancers' blog posts.</strong>",
+            "Content & Marketing Tools": f"Your buyer is a <strong>content marketer or social media manager</strong> managing 3-5 channels. They're overwhelmed, doing everything manually, and their boss wants more output. They'll trial 5 tools this month. Yours needs to prove value in the first 10 minutes.",
+            "Developer Tools": f"Your buyer is a <strong>developer or DevOps engineer</strong> at a startup with 5-50 people. They need tools that work, have great docs, and don't require approval from procurement. They discover through Hacker News, GitHub trending, and word of mouth.",
+            "Ecommerce Tools": f"Your buyer runs a <strong>Shopify or WooCommerce store doing $10K-$500K/year</strong>. They're past the startup phase and now need tools to optimize, not just exist. They'll install your app if it shows a clear revenue impact in the listing screenshots.",
+            "Education & Learning": f"Your buyer is either a <strong>student trying to learn faster</strong> or an <strong>educator trying to teach better</strong>. Students pay less but there are more of them. Educators have budget. Pick one and build for them specifically.",
+            "Productivity & Collaboration": f"Your buyer is a <strong>team lead or ops person</strong> sick of 'just checking in' messages. They want async updates, clear ownership, and fewer meetings. They find tools through 'best Slack alternative' or 'async standup tool' searches.",
+            "Finance & Business Tools": f"Your buyer is a <strong>freelancer or small business owner</strong> who dreads bookkeeping. They want to spend time on their craft, not on spreadsheets. If your tool saves them from hiring a part-time bookkeeper ($500/mo), $29/mo is trivial.",
+            "Community & Membership": f"Your buyer is a <strong>creator or educator</strong> with 1K-50K followers who wants to monetize beyond ads. They need a place to host their community that's not Facebook Groups (too noisy) or Discord (too technical for their audience).",
+        }
+
+        buyer_body = SAAS_BUYER.get(category, f"Your early adopters are people already using 2-3 tools duct-taped together. They'll pay for something that <strong>just works</strong>. Find them in Reddit, Twitter, and niche communities.")
+
+        mrr_low = random.randint(500, 3000)
+        mrr_high = mrr_low * random.randint(3, 6)
+
         return {
             "strategy": {
-                "body": f"<strong>{name}</strong> works because it solves one specific pain point really well. Don't try to be everything. Pick the #1 frustration in your target market and build the simplest possible fix. <strong>Ship fast, iterate from feedback.</strong>",
-                "action": f"Define the one problem {name} solves"
+                "body": strategy_body,
+                "action": f"Write the one problem {name} solves in a single sentence"
             },
             "value": {
-                "body": f"Your early adopters are people already using 2-3 tools duct-taped together. They'll pay for something that <strong>just works</strong>. Find them in Reddit, Twitter, and niche communities. Show them you solve their specific problem.",
-                "action": "Find 3 communities where your target users hang out"
+                "body": buyer_body,
+                "action": "Find 3 online communities where your target users complain about this problem"
             },
             "profit": {
-                "body": f"SaaS margins are <strong>80-90%</strong> once you're past the build phase. Initial investment is {effort_desc} plus <strong>${low}-{high}</strong> for hosting and tools. Revenue compounds monthly. <strong>10 paying users at $29/mo = $290 MRR.</strong>",
+                "body": f"SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
                 "stats": [{"label": "Target MRR", "value": f"${mrr_low}-{mrr_high}"}, {"label": "Margin", "value": "80-90%"}],
-                "action": "Calculate your MRR target for month 3"
+                "action": "Calculate: how many paying users do you need to cover your monthly costs?"
             },
             "distributors": {
-                "body": f"Build with <strong>Next.js + Vercel</strong> (free tier gets you started). Database: <strong>Supabase</strong> (free for < 50K rows). Payments: <strong>Stripe</strong> ($0 until you charge). Total cost to launch: potentially $0.",
-                "action": "Set up your tech stack accounts"
+                "body": f"Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
+                "action": "Create accounts on Vercel + Supabase + Stripe"
             },
             "pricing": {
-                "body": f"Start with <strong>two tiers</strong>: Free (limited) + Pro ($19-49/mo). Free tier drives signups, Pro converts the serious users. Add a Team tier later when you have demand. <strong>Annual billing at 20% discount</strong> helps cash flow.",
-                "action": "Define your free vs pro feature split"
+                "body": f"Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
+                "action": "Define exactly what Free gets vs what Pro unlocks"
             },
             "sellingPrice": {
-                "body": f"Price based on value, not cost. If you save someone 5 hours/month, that's worth $50+. Start at <strong>$19/mo</strong> for individuals, <strong>$49/mo</strong> for teams. Raise prices after 100 customers (grandfather existing).",
-                "stats": [{"label": "Individual", "value": "$19/mo"}, {"label": "Team", "value": "$49/mo"}],
-                "action": "Set your launch pricing and publish it"
+                "body": f"Price on <strong>value, not cost</strong>. If {name} saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
+                "stats": [{"label": "Launch", "value": "$19/mo"}, {"label": "After 50 users", "value": "$29/mo"}],
+                "action": "Set your pricing page live with Free + Pro tiers"
             }
         }
 

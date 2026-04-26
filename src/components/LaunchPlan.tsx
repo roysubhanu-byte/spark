@@ -1,8 +1,11 @@
 import { useMemo } from 'react'
-import type { ActivePlan } from '../types'
+import type { ActivePlan, Deck } from '../types'
+import { getPlanForIdea } from '../data/launch-plans'
 
 interface Props {
   plan: ActivePlan
+  deck: Deck
+  interests: string[]
   onComplete: (day: number) => void
   onBack: () => void
 }
@@ -16,8 +19,9 @@ const CATEGORY_COLORS: Record<string, string> = {
   sell: 'bg-emerald-100 text-emerald-700',
 }
 
-export function LaunchPlan({ plan, onComplete, onBack }: Props) {
-  const tasks = getDefaultLaunchTasks(plan.ideaId)
+export function LaunchPlan({ plan, deck, interests, onComplete, onBack }: Props) {
+  const template = useMemo(() => getPlanForIdea(deck, interests), [deck, interests])
+  const tasks = template.tasks
   const completedCount = plan.tasks.filter(t => t.completed).length
   const totalTasks = tasks.length
   const progress = Math.round((completedCount / totalTasks) * 100)
@@ -29,14 +33,13 @@ export function LaunchPlan({ plan, onComplete, onBack }: Props) {
   // Streak calculation
   const streak = plan.streak
 
-  // Group tasks by phase
-  const phases = useMemo(() => [
-    { name: 'Research & Decide', days: tasks.filter(t => t.day <= 3) },
-    { name: 'Source & Sample', days: tasks.filter(t => t.day >= 4 && t.day <= 12) },
-    { name: 'Build & Brand', days: tasks.filter(t => t.day >= 13 && t.day <= 18) },
-    { name: 'List & Launch', days: tasks.filter(t => t.day >= 19 && t.day <= 24) },
-    { name: 'First Sale Sprint', days: tasks.filter(t => t.day >= 25) },
-  ], [tasks])
+  // Group tasks by phase using template's phase definitions
+  const phases = useMemo(() =>
+    template.phases.map(p => ({
+      name: p.name,
+      days: tasks.filter(t => t.day >= p.range[0] && t.day <= p.range[1]),
+    })),
+  [template, tasks])
 
   return (
     <div className="absolute inset-0 bg-bg flex flex-col z-40 overflow-hidden">
@@ -153,38 +156,3 @@ export function LaunchPlan({ plan, onComplete, onBack }: Props) {
   )
 }
 
-// Default 30-day plan template (will be customized per idea type later)
-function getDefaultLaunchTasks(_ideaId: string) {
-  return [
-    { day: 1, title: 'Pick your exact product', description: 'Browse the macro variations. Pick ONE specific product type to start with.', category: 'research', estimatedMinutes: 10 },
-    { day: 2, title: 'Research 5 competitors', description: 'Find 5 sellers on Etsy/Amazon selling this. Screenshot their prices, photos, reviews.', category: 'research', estimatedMinutes: 20 },
-    { day: 3, title: 'Set your target price', description: 'Based on competitor research, pick your selling price. Use the profit calculator.', category: 'research', estimatedMinutes: 10 },
-    { day: 4, title: 'Order your first sample', description: 'Go to AliExpress, find a supplier, order 5-10 units to test quality.', category: 'source', estimatedMinutes: 30 },
-    { day: 5, title: 'Pick your brand name', description: 'Pick something simple, memorable, and available as an Instagram handle.', category: 'brand', estimatedMinutes: 15 },
-    { day: 6, title: 'Create your logo', description: 'Use Canva (free). Pick a simple font + icon. Don\'t overthink this — you can change it later.', category: 'brand', estimatedMinutes: 20 },
-    { day: 7, title: 'Set up Instagram', description: 'Create a business account with your brand name. Add bio, logo, and 1 post saying "coming soon."', category: 'brand', estimatedMinutes: 15 },
-    { day: 8, title: 'Design your packaging', description: 'Simple label or sticker. Canva template. Include your brand name + Instagram handle.', category: 'brand', estimatedMinutes: 20 },
-    { day: 9, title: 'Learn product photography', description: 'Watch one 10-min YouTube tutorial on product photography with a phone. Natural light, clean background.', category: 'create', estimatedMinutes: 15 },
-    { day: 10, title: 'Practice with what you have', description: 'Take 10 practice photos of any object at home. Get comfortable with angles and lighting.', category: 'create', estimatedMinutes: 20 },
-    { day: 11, title: 'Set up your seller account', description: 'Create an account on Etsy, eBay, or Meesho (depending on your market). Don\'t list anything yet.', category: 'list', estimatedMinutes: 20 },
-    { day: 12, title: 'Check your sample status', description: 'Track your AliExpress order. If it\'s delayed, message the supplier.', category: 'source', estimatedMinutes: 5 },
-    { day: 13, title: 'Unbox and test your sample', description: 'Check quality. Take notes on what\'s good and what needs improvement.', category: 'create', estimatedMinutes: 15 },
-    { day: 14, title: 'Make your first 3 products', description: 'If it requires assembly/customization, do it now. If not, package 3 units.', category: 'create', estimatedMinutes: 30 },
-    { day: 15, title: 'Photograph your products', description: 'Take 5-7 photos of each product. Include lifestyle shots (in use) and clean product shots.', category: 'create', estimatedMinutes: 30 },
-    { day: 16, title: 'Write your listing title', description: 'Include keywords buyers search for. Look at competitor titles for inspiration.', category: 'list', estimatedMinutes: 15 },
-    { day: 17, title: 'Write your listing description', description: 'Benefits first, features second. Include dimensions, materials, care instructions.', category: 'list', estimatedMinutes: 20 },
-    { day: 18, title: 'Set your tags and categories', description: 'Use all available tags. Copy tags from top-selling competitors. Be specific.', category: 'list', estimatedMinutes: 15 },
-    { day: 19, title: 'Publish your first listing', description: 'Upload photos, title, description, tags, price. Hit publish. You\'re live!', category: 'list', estimatedMinutes: 20 },
-    { day: 20, title: 'Share on Instagram', description: 'Post your product photos. Add relevant hashtags. Share to your story.', category: 'sell', estimatedMinutes: 15 },
-    { day: 21, title: 'Ask 5 friends to view your listing', description: 'Send the link. Ask them to favorite/save it. Early engagement boosts visibility.', category: 'sell', estimatedMinutes: 10 },
-    { day: 22, title: 'List product #2', description: 'More listings = more visibility. Add a second product or variation.', category: 'list', estimatedMinutes: 20 },
-    { day: 23, title: 'Join 3 relevant communities', description: 'Facebook groups, Reddit subs, or Discord servers in your niche. Don\'t sell — add value.', category: 'sell', estimatedMinutes: 15 },
-    { day: 24, title: 'List product #3', description: 'Keep building inventory. Three listings is the minimum for credibility.', category: 'list', estimatedMinutes: 20 },
-    { day: 25, title: 'Optimize based on views', description: 'Check your listing stats. If views are low, update your title and photos.', category: 'sell', estimatedMinutes: 15 },
-    { day: 26, title: 'Post a "behind the scenes" reel', description: 'Show your workspace, your process, your packaging. People buy from people.', category: 'sell', estimatedMinutes: 20 },
-    { day: 27, title: 'Offer a launch discount', description: '15% off first order. Share the code on Instagram stories. Creates urgency.', category: 'sell', estimatedMinutes: 10 },
-    { day: 28, title: 'Message potential customers', description: 'Find people who liked competitor products. Send a friendly intro (not spam).', category: 'sell', estimatedMinutes: 20 },
-    { day: 29, title: 'Review and adjust pricing', description: 'Compare your views/sales to competitors. Adjust if needed.', category: 'sell', estimatedMinutes: 10 },
-    { day: 30, title: 'Your 30-day review', description: 'What worked? What didn\'t? Order your next batch if sales are coming. Celebrate how far you\'ve come!', category: 'sell', estimatedMinutes: 15 },
-  ]
-}
