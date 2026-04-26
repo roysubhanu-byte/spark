@@ -7,7 +7,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-resume-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -19,12 +19,12 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8696616442?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "provenIncome",
+      "growing",
       "trending",
-      "growing"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -48,7 +48,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$521-1563"
+            "value": "$1352-6760"
           },
           {
             "label": "Margin",
@@ -84,7 +84,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-email-writer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -96,11 +96,10 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8625575813?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "provenIncome",
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -124,7 +123,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1408-7040"
+            "value": "$2443-14658"
           },
           {
             "label": "Margin",
@@ -160,7 +159,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-meeting-notes",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -172,11 +171,9 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-147613178?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "trending",
-      "growing",
       "provenIncome"
     ],
     "markets": [
@@ -201,7 +198,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1673-5019"
+            "value": "$1991-9955"
           },
           {
             "label": "Margin",
@@ -237,7 +234,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-blog-post-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -249,12 +246,11 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8049840998?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
-      "provenIncome",
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -278,7 +274,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2622-13110"
+            "value": "$677-2031"
           },
           {
             "label": "Margin",
@@ -314,7 +310,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-code-reviewer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -326,10 +322,12 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5719993496?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "provenIncome"
+      "trending",
+      "provenIncome",
+      "growing"
     ],
     "markets": [
       "US",
@@ -353,7 +351,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1448-5792"
+            "value": "$790-3160"
           },
           {
             "label": "Margin",
@@ -389,7 +387,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-customer-support-bot",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -401,11 +399,12 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3679221399?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "trending",
-      "provenIncome"
+      "provenIncome",
+      "growing",
+      "trending"
     ],
     "markets": [
       "US",
@@ -429,7 +428,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1630-9780"
+            "value": "$1834-7336"
           },
           {
             "label": "Margin",
@@ -465,7 +464,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-social-caption-writer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -477,12 +476,11 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-130671341?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing",
-      "provenIncome",
-      "trending"
+      "trending",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -506,7 +504,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$781-2343"
+            "value": "$1319-7914"
           },
           {
             "label": "Margin",
@@ -542,7 +540,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-product-description-writer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -554,10 +552,9 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7563575859?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "provenIncome",
       "growing"
     ],
     "markets": [
@@ -582,7 +579,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1426-5704"
+            "value": "$2285-9140"
           },
           {
             "label": "Margin",
@@ -618,7 +615,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-image-background-remover",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -630,11 +627,12 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1112164820?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "provenIncome",
-      "trending"
+      "growing",
+      "trending",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -658,7 +656,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2573-7719"
+            "value": "$1295-6475"
           },
           {
             "label": "Margin",
@@ -694,7 +692,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-podcast-show-notes",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -706,10 +704,10 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7742350865?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "provenIncome"
+      "growing"
     ],
     "markets": [
       "US",
@@ -733,7 +731,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2602-13010"
+            "value": "$2829-8487"
           },
           {
             "label": "Margin",
@@ -769,7 +767,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-invoice-parser",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -781,11 +779,9 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4724519584?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "growing",
-      "provenIncome",
       "trending"
     ],
     "markets": [
@@ -810,7 +806,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1891-11346"
+            "value": "$2213-8852"
           },
           {
             "label": "Margin",
@@ -846,7 +842,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-diet-plan-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -858,12 +854,10 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5962675340?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "trending",
-      "growing",
-      "provenIncome"
+      "growing"
     ],
     "markets": [
       "US",
@@ -887,7 +881,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1402-5608"
+            "value": "$1196-4784"
           },
           {
             "label": "Margin",
@@ -923,7 +917,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-logo-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -935,11 +929,11 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-473245729?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing",
-      "trending"
+      "provenIncome",
+      "growing"
     ],
     "markets": [
       "US",
@@ -963,7 +957,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1516-7580"
+            "value": "$2923-17538"
           },
           {
             "label": "Margin",
@@ -999,7 +993,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-video-subtitler",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1011,10 +1005,10 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-9508608364?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "provenIncome",
+      "trending",
       "growing"
     ],
     "markets": [
@@ -1039,7 +1033,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2451-12255"
+            "value": "$1515-7575"
           },
           {
             "label": "Margin",
@@ -1075,7 +1069,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-pricing-optimizer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1087,10 +1081,12 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-69619558?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "provenIncome"
+      "trending",
+      "provenIncome",
+      "growing"
     ],
     "markets": [
       "US",
@@ -1114,7 +1110,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1278-7668"
+            "value": "$664-3984"
           },
           {
             "label": "Margin",
@@ -1150,7 +1146,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-proposal-writer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1162,10 +1158,10 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6550686972?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "provenIncome"
+      "growing"
     ],
     "markets": [
       "US",
@@ -1189,7 +1185,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1346-5384"
+            "value": "$901-5406"
           },
           {
             "label": "Margin",
@@ -1225,7 +1221,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-flashcard-maker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1237,10 +1233,10 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7354403477?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "provenIncome"
+      "trending"
     ],
     "markets": [
       "US",
@@ -1264,7 +1260,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$991-2973"
+            "value": "$2165-8660"
           },
           {
             "label": "Margin",
@@ -1300,7 +1296,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-recipe-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1312,12 +1308,11 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6767051550?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "trending",
-      "provenIncome",
-      "growing"
+      "growing",
+      "trending"
     ],
     "markets": [
       "US",
@@ -1341,7 +1336,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2516-12580"
+            "value": "$565-3390"
           },
           {
             "label": "Margin",
@@ -1377,7 +1372,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-legal-doc-analyzer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1389,8 +1384,8 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-128482075?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
       "provenIncome"
     ],
@@ -1416,7 +1411,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2862-11448"
+            "value": "$2890-8670"
           },
           {
             "label": "Margin",
@@ -1452,7 +1447,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ai-workout-planner",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1464,12 +1459,11 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6583164146?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "growing",
-      "provenIncome",
-      "trending"
+      "trending",
+      "growing"
     ],
     "markets": [
       "US",
@@ -1493,7 +1487,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1215-7290"
+            "value": "$2401-7203"
           },
           {
             "label": "Margin",
@@ -1529,7 +1523,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "tab-manager-extension",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1540,12 +1534,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6958096892?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
     "bg": "#4B7BC9",
     "badges": [
-      "lowCapital",
-      "beginner",
-      "trending"
+      "fastSale",
+      "lowCapital"
     ],
     "markets": [
       "US",
@@ -1569,7 +1562,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2054-6162"
+            "value": "$1605-6420"
           },
           {
             "label": "Margin",
@@ -1605,7 +1598,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "price-tracker-extension",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1616,10 +1609,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7587233468?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "fastSale",
+      "lowCapital",
       "trending"
     ],
     "markets": [
@@ -1644,7 +1638,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1603-9618"
+            "value": "$1990-5970"
           },
           {
             "label": "Margin",
@@ -1680,7 +1674,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "screenshot-and-annotate",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1691,11 +1685,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5473715170?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "fastSale",
-      "trending"
+      "beginner"
     ],
     "markets": [
       "US",
@@ -1719,7 +1713,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2216-11080"
+            "value": "$2000-8000"
           },
           {
             "label": "Margin",
@@ -1755,7 +1749,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "email-tracker-extension",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1766,11 +1760,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-425356292?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
+      "trending",
       "fastSale",
-      "beginner"
+      "lowCapital"
     ],
     "markets": [
       "US",
@@ -1794,7 +1789,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2858-11432"
+            "value": "$1477-4431"
           },
           {
             "label": "Margin",
@@ -1830,7 +1825,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "bookmark-manager-pro",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1841,12 +1836,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2910411949?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
+      "beginner",
       "fastSale",
-      "trending",
-      "beginner"
+      "trending"
     ],
     "markets": [
       "US",
@@ -1870,7 +1865,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1097-4388"
+            "value": "$2562-15372"
           },
           {
             "label": "Margin",
@@ -1906,7 +1901,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "focus-timer-extension",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1917,10 +1912,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5650772515?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "beginner"
+      "trending"
     ],
     "markets": [
       "US",
@@ -1944,7 +1939,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2617-13085"
+            "value": "$2491-7473"
           },
           {
             "label": "Margin",
@@ -1980,7 +1975,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "grammar-checker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -1991,10 +1986,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-906735665?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
+      "beginner",
       "lowCapital"
     ],
     "markets": [
@@ -2019,7 +2015,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2131-6393"
+            "value": "$768-3072"
           },
           {
             "label": "Margin",
@@ -2055,7 +2051,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "color-picker-extension",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2066,10 +2062,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7365225600?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "beginner"
+      "trending"
     ],
     "markets": [
       "US",
@@ -2093,7 +2089,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$894-5364"
+            "value": "$1681-5043"
           },
           {
             "label": "Margin",
@@ -2129,7 +2125,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "social-media-scheduler",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2140,11 +2136,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3932301375?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "fastSale",
-      "beginner"
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -2168,7 +2163,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1909-5727"
+            "value": "$2532-10128"
           },
           {
             "label": "Margin",
@@ -2204,7 +2199,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "coupon-finder-extension",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2215,9 +2210,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8365246190?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
+      "trending",
+      "beginner",
       "fastSale"
     ],
     "markets": [
@@ -2242,7 +2239,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1314-5256"
+            "value": "$1040-6240"
           },
           {
             "label": "Margin",
@@ -2278,7 +2275,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "dark-mode-everywhere",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2289,11 +2286,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4791356376?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
     "bg": "#4BC98A",
     "badges": [
-      "fastSale",
-      "lowCapital"
+      "lowCapital",
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -2317,7 +2314,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2330-6990"
+            "value": "$1274-3822"
           },
           {
             "label": "Margin",
@@ -2353,7 +2350,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "reader-mode-extension",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2364,12 +2361,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6893983581?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "fastSale",
-      "beginner",
-      "trending"
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -2393,7 +2388,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1881-11286"
+            "value": "$1836-11016"
           },
           {
             "label": "Margin",
@@ -2429,7 +2424,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "password-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2440,11 +2435,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4015072861?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital",
-      "trending",
+      "beginner",
       "fastSale"
     ],
     "markets": [
@@ -2469,7 +2464,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1784-8920"
+            "value": "$1203-6015"
           },
           {
             "label": "Margin",
@@ -2505,7 +2500,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "text-to-speech-extension",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2516,11 +2511,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3835435578?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
       "fastSale",
-      "lowCapital",
       "beginner"
     ],
     "markets": [
@@ -2545,7 +2539,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1987-11922"
+            "value": "$1107-5535"
           },
           {
             "label": "Margin",
@@ -2581,7 +2575,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "video-speed-controller",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2592,10 +2586,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2007487518?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "beginner"
+      "beginner",
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -2619,7 +2614,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1461-7305"
+            "value": "$2692-13460"
           },
           {
             "label": "Margin",
@@ -2655,7 +2650,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "new-tab-dashboard",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2666,8 +2661,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5743460265?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
       "beginner"
     ],
@@ -2693,7 +2688,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$761-4566"
+            "value": "$668-3340"
           },
           {
             "label": "Margin",
@@ -2729,7 +2724,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "clipboard-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2740,10 +2735,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-622827046?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
-      "trending"
+      "lowCapital"
     ],
     "markets": [
       "US",
@@ -2767,7 +2762,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$840-2520"
+            "value": "$1340-4020"
           },
           {
             "label": "Margin",
@@ -2803,7 +2798,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "seo-analyzer-extension",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2814,11 +2809,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3321571745?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
-      "trending",
       "lowCapital"
     ],
     "markets": [
@@ -2843,7 +2837,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1663-9978"
+            "value": "$2685-13425"
           },
           {
             "label": "Margin",
@@ -2879,7 +2873,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "email-unsubscriber",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2890,10 +2884,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6130150813?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "beginner"
+      "lowCapital"
     ],
     "markets": [
       "US",
@@ -2917,7 +2911,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1961-9805"
+            "value": "$2376-11880"
           },
           {
             "label": "Margin",
@@ -2953,7 +2947,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "website-blocker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -2964,11 +2958,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-9589465857?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "fastSale",
-      "lowCapital"
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -2992,7 +2985,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2708-10832"
+            "value": "$2441-12205"
           },
           {
             "label": "Margin",
@@ -3028,7 +3021,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "invoice-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3039,12 +3032,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7080900332?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
+      "trending",
       "growing",
-      "provenIncome",
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -3068,7 +3061,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2710-10840"
+            "value": "$2461-7383"
           },
           {
             "label": "Margin",
@@ -3104,7 +3097,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "link-in-bio-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3115,11 +3108,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7305945273?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "growing",
-      "provenIncome"
+      "provenIncome",
+      "trending",
+      "growing"
     ],
     "markets": [
       "US",
@@ -3143,7 +3137,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1743-5229"
+            "value": "$1402-8412"
           },
           {
             "label": "Margin",
@@ -3179,7 +3173,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "qr-code-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3190,12 +3184,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5318325925?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "trending",
-      "growing",
-      "provenIncome"
+      "growing"
     ],
     "markets": [
       "US",
@@ -3219,7 +3211,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2514-15084"
+            "value": "$1299-5196"
           },
           {
             "label": "Margin",
@@ -3255,7 +3247,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "email-signature-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3266,10 +3258,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6599739329?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
     "bg": "#4BC98A",
     "badges": [
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -3293,7 +3285,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1447-4341"
+            "value": "$857-5142"
           },
           {
             "label": "Margin",
@@ -3329,7 +3321,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "waitlist-page-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3340,11 +3332,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6968111047?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "trending",
-      "growing"
+      "growing",
+      "trending"
     ],
     "markets": [
       "US",
@@ -3368,7 +3360,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2116-8464"
+            "value": "$2128-8512"
           },
           {
             "label": "Margin",
@@ -3404,7 +3396,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "testimonial-collector",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3415,12 +3407,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7981247586?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "provenIncome",
       "growing",
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -3444,7 +3435,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2229-8916"
+            "value": "$1939-9695"
           },
           {
             "label": "Margin",
@@ -3480,7 +3471,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "appointment-scheduler",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3491,12 +3482,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2881363044?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
+      "trending",
       "provenIncome",
-      "growing",
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -3520,7 +3511,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1601-9606"
+            "value": "$2312-11560"
           },
           {
             "label": "Margin",
@@ -3556,7 +3547,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "form-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3567,9 +3558,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7080977696?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
+      "growing",
+      "provenIncome",
       "trending"
     ],
     "markets": [
@@ -3594,7 +3587,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2365-14190"
+            "value": "$852-3408"
           },
           {
             "label": "Margin",
@@ -3630,7 +3623,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "url-shortener",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3641,12 +3634,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7877600478?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "provenIncome",
       "growing",
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -3670,7 +3662,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$703-2109"
+            "value": "$2039-6117"
           },
           {
             "label": "Margin",
@@ -3706,7 +3698,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "habit-tracker-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3717,9 +3709,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-9840068791?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
+      "provenIncome",
       "growing"
     ],
     "markets": [
@@ -3744,7 +3737,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2295-6885"
+            "value": "$2392-9568"
           },
           {
             "label": "Margin",
@@ -3780,7 +3773,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "digital-business-card",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3791,10 +3784,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2789506453?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -3818,7 +3811,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1900-11400"
+            "value": "$672-3360"
           },
           {
             "label": "Margin",
@@ -3854,7 +3847,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "simple-crm",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3865,8 +3858,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-9115161810?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
       "growing",
       "provenIncome"
@@ -3893,7 +3886,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1852-5556"
+            "value": "$1130-5650"
           },
           {
             "label": "Margin",
@@ -3929,7 +3922,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "time-tracker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -3940,10 +3933,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-582595762?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "growing"
+      "provenIncome",
+      "growing",
+      "trending"
     ],
     "markets": [
       "US",
@@ -3967,7 +3962,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2724-16344"
+            "value": "$2208-8832"
           },
           {
             "label": "Margin",
@@ -4003,7 +3998,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "poll-and-survey-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4014,9 +4009,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2084855677?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
+      "provenIncome",
+      "trending",
       "growing"
     ],
     "markets": [
@@ -4041,7 +4038,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$999-3996"
+            "value": "$2519-7557"
           },
           {
             "label": "Margin",
@@ -4077,7 +4074,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "changelog-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4088,11 +4085,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2478333399?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "trending",
-      "provenIncome"
+      "growing",
+      "provenIncome",
+      "trending"
     ],
     "markets": [
       "US",
@@ -4116,7 +4114,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$884-3536"
+            "value": "$2449-7347"
           },
           {
             "label": "Margin",
@@ -4152,7 +4150,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "status-page-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4163,10 +4161,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-937353560?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
       "provenIncome",
+      "trending",
       "growing"
     ],
     "markets": [
@@ -4191,7 +4190,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$672-2016"
+            "value": "$1098-5490"
           },
           {
             "label": "Margin",
@@ -4227,7 +4226,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "feedback-widget",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4238,11 +4237,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3875145610?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "provenIncome",
-      "growing"
+      "trending",
+      "growing",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -4266,7 +4266,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1392-4176"
+            "value": "$2218-11090"
           },
           {
             "label": "Margin",
@@ -4302,7 +4302,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "rss-feed-reader",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4313,11 +4313,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3125467938?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "growing",
-      "provenIncome",
       "trending"
     ],
     "markets": [
@@ -4342,7 +4341,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2894-8682"
+            "value": "$1250-3750"
           },
           {
             "label": "Margin",
@@ -4378,7 +4377,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "file-sharing-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4389,10 +4388,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4831749169?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -4416,7 +4415,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2446-9784"
+            "value": "$1733-8665"
           },
           {
             "label": "Margin",
@@ -4452,7 +4451,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "kanban-board",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4463,10 +4462,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3715729979?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
     "bg": "#4BC98A",
     "badges": [
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -4490,7 +4489,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1886-5658"
+            "value": "$552-2208"
           },
           {
             "label": "Margin",
@@ -4526,7 +4525,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "social-post-scheduler",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4538,11 +4537,11 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-8470095031?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "fastSale",
-      "trending"
+      "growing",
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -4566,7 +4565,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1015-6090"
+            "value": "$919-3676"
           },
           {
             "label": "Margin",
@@ -4602,7 +4601,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "seo-keyword-tracker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4614,9 +4613,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-8933290268?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
+      "trending",
       "fastSale",
       "growing"
     ],
@@ -4642,7 +4642,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1290-3870"
+            "value": "$977-3908"
           },
           {
             "label": "Margin",
@@ -4678,7 +4678,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "email-newsletter-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4690,11 +4690,11 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-4401828225?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "fastSale",
-      "trending"
+      "growing",
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -4718,7 +4718,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2487-14922"
+            "value": "$2310-11550"
           },
           {
             "label": "Margin",
@@ -4754,7 +4754,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "landing-page-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4766,11 +4766,12 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-85600504?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "fastSale",
-      "growing"
+      "growing",
+      "trending",
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -4794,7 +4795,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2726-13630"
+            "value": "$1083-4332"
           },
           {
             "label": "Margin",
@@ -4830,7 +4831,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "podcast-hosting-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4842,11 +4843,9 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-3572057578?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
     "bg": "#4BC98A",
     "badges": [
-      "growing",
-      "fastSale",
       "trending"
     ],
     "markets": [
@@ -4871,7 +4870,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2340-11700"
+            "value": "$2240-6720"
           },
           {
             "label": "Margin",
@@ -4907,7 +4906,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "content-calendar-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4919,12 +4918,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-4646842163?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing",
-      "fastSale",
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -4948,7 +4945,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2052-8208"
+            "value": "$1304-3912"
           },
           {
             "label": "Margin",
@@ -4984,7 +4981,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "hashtag-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -4996,12 +4993,12 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-8187866174?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
     "bg": "#4B7BC9",
     "badges": [
-      "growing",
+      "fastSale",
       "trending",
-      "fastSale"
+      "growing"
     ],
     "markets": [
       "US",
@@ -5025,7 +5022,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2707-16242"
+            "value": "$677-2031"
           },
           {
             "label": "Margin",
@@ -5061,7 +5058,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "bio-link-analytics",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5073,12 +5070,12 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-2018033434?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
+      "trending",
       "fastSale",
-      "growing",
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -5102,7 +5099,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2178-10890"
+            "value": "$2906-11624"
           },
           {
             "label": "Margin",
@@ -5138,7 +5135,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "a-b-testing-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5150,9 +5147,11 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-8698498285?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
+      "growing",
+      "trending",
       "fastSale"
     ],
     "markets": [
@@ -5177,7 +5176,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1031-4124"
+            "value": "$1636-8180"
           },
           {
             "label": "Margin",
@@ -5213,7 +5212,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "influencer-outreach-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5225,10 +5224,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-2577811906?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "trending"
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -5252,7 +5251,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$630-3780"
+            "value": "$1490-4470"
           },
           {
             "label": "Margin",
@@ -5288,7 +5287,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "social-proof-widget",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5300,12 +5299,12 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-740108664?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
+      "trending",
       "fastSale",
-      "growing",
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -5329,7 +5328,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$790-2370"
+            "value": "$2700-8100"
           },
           {
             "label": "Margin",
@@ -5365,7 +5364,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "blog-comment-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5377,11 +5376,9 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-8862344054?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing",
-      "trending",
       "fastSale"
     ],
     "markets": [
@@ -5406,7 +5403,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1978-11868"
+            "value": "$2001-8004"
           },
           {
             "label": "Margin",
@@ -5442,7 +5439,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "affiliate-tracking-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5454,12 +5451,12 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-4786475426?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
       "trending",
-      "growing",
-      "fastSale"
+      "fastSale",
+      "growing"
     ],
     "markets": [
       "US",
@@ -5483,7 +5480,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$819-3276"
+            "value": "$1377-5508"
           },
           {
             "label": "Margin",
@@ -5519,7 +5516,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "video-thumbnail-maker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5531,10 +5528,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-2440003248?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -5558,7 +5555,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2078-8312"
+            "value": "$2628-10512"
           },
           {
             "label": "Margin",
@@ -5594,7 +5591,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "content-repurposer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5606,11 +5603,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-6181874875?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
       "fastSale",
-      "trending",
       "growing"
     ],
     "markets": [
@@ -5635,7 +5631,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2200-6600"
+            "value": "$836-4180"
           },
           {
             "label": "Margin",
@@ -5671,7 +5667,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "competitor-monitor",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5683,10 +5679,9 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-5745276322?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "fastSale",
       "growing"
     ],
     "markets": [
@@ -5711,7 +5706,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$926-3704"
+            "value": "$1777-10662"
           },
           {
             "label": "Margin",
@@ -5747,7 +5742,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "review-management-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5759,7 +5754,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-813710555?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -5788,7 +5783,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2314-11570"
+            "value": "$2448-12240"
           },
           {
             "label": "Margin",
@@ -5824,7 +5819,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "utm-builder-and-tracker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5836,12 +5831,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-2925155179?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "growing",
-      "fastSale",
-      "trending"
+      "fastSale"
     ],
     "markets": [
       "US",
@@ -5865,7 +5858,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1824-7296"
+            "value": "$2123-12738"
           },
           {
             "label": "Margin",
@@ -5901,7 +5894,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "lead-magnet-delivery",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5913,12 +5906,12 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-7317742728?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
+      "fastSale",
       "trending",
-      "growing",
-      "fastSale"
+      "growing"
     ],
     "markets": [
       "US",
@@ -5942,7 +5935,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2332-13992"
+            "value": "$2918-8754"
           },
           {
             "label": "Margin",
@@ -5978,7 +5971,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "social-listening-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -5990,12 +5983,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-19493773?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "trending",
-      "growing",
-      "fastSale"
+      "growing"
     ],
     "markets": [
       "US",
@@ -6019,7 +6010,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$526-2630"
+            "value": "$1320-7920"
           },
           {
             "label": "Margin",
@@ -6055,7 +6046,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "api-monitoring-service",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6066,8 +6057,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3755840606?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "growing"
     ],
@@ -6093,7 +6084,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1630-6520"
+            "value": "$2883-14415"
           },
           {
             "label": "Margin",
@@ -6129,7 +6120,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "error-tracking-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6140,10 +6131,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8106565023?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "growing"
+      "growing",
+      "lessCrowded"
     ],
     "markets": [
       "US",
@@ -6167,7 +6159,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1585-7925"
+            "value": "$1642-6568"
           },
           {
             "label": "Margin",
@@ -6203,7 +6195,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "database-gui-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6214,8 +6206,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6380433036?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
       "trending"
     ],
@@ -6241,7 +6233,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$876-5256"
+            "value": "$1445-5780"
           },
           {
             "label": "Margin",
@@ -6277,7 +6269,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "webhook-testing-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6288,8 +6280,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5093525838?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "lessCrowded"
     ],
@@ -6315,7 +6307,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2476-9904"
+            "value": "$2540-7620"
           },
           {
             "label": "Margin",
@@ -6351,7 +6343,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "cron-job-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6362,11 +6354,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5767465404?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
       "lessCrowded",
-      "trending",
       "growing"
     ],
     "markets": [
@@ -6391,7 +6382,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2062-6186"
+            "value": "$894-2682"
           },
           {
             "label": "Margin",
@@ -6427,7 +6418,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "environment-variable-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6438,11 +6429,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8415357737?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
       "growing",
-      "lessCrowded"
+      "trending"
     ],
     "markets": [
       "US",
@@ -6466,7 +6457,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1428-4284"
+            "value": "$2508-12540"
           },
           {
             "label": "Margin",
@@ -6502,7 +6493,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "api-documentation-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6513,10 +6504,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-730832881?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "growing"
+      "lessCrowded",
+      "trending"
     ],
     "markets": [
       "US",
@@ -6540,7 +6532,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2711-10844"
+            "value": "$2262-6786"
           },
           {
             "label": "Margin",
@@ -6576,7 +6568,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "log-aggregator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6587,12 +6579,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7458075723?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "lessCrowded",
-      "trending",
-      "growing"
+      "growing",
+      "lessCrowded"
     ],
     "markets": [
       "US",
@@ -6616,7 +6607,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2109-12654"
+            "value": "$634-2536"
           },
           {
             "label": "Margin",
@@ -6652,7 +6643,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "feature-flag-service",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6663,12 +6654,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-696200014?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
-      "lessCrowded",
+      "growing",
       "trending",
-      "growing"
+      "lessCrowded"
     ],
     "markets": [
       "US",
@@ -6692,7 +6683,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1106-4424"
+            "value": "$2093-12558"
           },
           {
             "label": "Margin",
@@ -6728,7 +6719,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "code-snippet-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6739,10 +6730,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8508358996?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing"
+      "lessCrowded",
+      "growing",
+      "trending"
     ],
     "markets": [
       "US",
@@ -6766,7 +6759,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2745-16470"
+            "value": "$2575-7725"
           },
           {
             "label": "Margin",
@@ -6802,7 +6795,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ssl-certificate-monitor",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6813,10 +6806,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-773206213?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "growing"
+      "growing",
+      "lessCrowded"
     ],
     "markets": [
       "US",
@@ -6840,7 +6834,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1034-4136"
+            "value": "$1665-8325"
           },
           {
             "label": "Margin",
@@ -6876,7 +6870,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "docker-dashboard",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6887,11 +6881,9 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1885963630?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "trending",
-      "growing",
       "lessCrowded"
     ],
     "markets": [
@@ -6916,7 +6908,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2798-11192"
+            "value": "$1928-5784"
           },
           {
             "label": "Margin",
@@ -6952,7 +6944,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "git-commit-analyzer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -6963,9 +6955,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8489225018?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
+      "trending",
       "growing"
     ],
     "markets": [
@@ -6990,7 +6983,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2859-8577"
+            "value": "$2187-10935"
           },
           {
             "label": "Margin",
@@ -7026,7 +7019,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "regex-tester-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7037,12 +7030,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3754760193?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
     "bg": "#4B7BC9",
     "badges": [
-      "growing",
+      "trending",
       "lessCrowded",
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -7066,7 +7059,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1911-5733"
+            "value": "$847-2541"
           },
           {
             "label": "Margin",
@@ -7102,7 +7095,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ip-geolocation-api",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7113,7 +7106,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6115272258?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -7140,7 +7133,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1097-6582"
+            "value": "$1835-5505"
           },
           {
             "label": "Margin",
@@ -7176,7 +7169,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "markdown-editor",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7187,9 +7180,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5803183749?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
+      "growing",
+      "lessCrowded",
       "trending"
     ],
     "markets": [
@@ -7214,7 +7209,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$851-2553"
+            "value": "$2908-8724"
           },
           {
             "label": "Margin",
@@ -7250,7 +7245,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "dns-lookup-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7261,10 +7256,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2397453111?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "lessCrowded"
+      "lessCrowded",
+      "growing"
     ],
     "markets": [
       "US",
@@ -7288,7 +7284,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$556-2780"
+            "value": "$2500-7500"
           },
           {
             "label": "Margin",
@@ -7324,7 +7320,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "json-formatter-api",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7335,8 +7331,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2272263448?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
       "growing",
       "lessCrowded"
@@ -7363,7 +7359,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2703-10812"
+            "value": "$1988-11928"
           },
           {
             "label": "Margin",
@@ -7399,7 +7395,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "load-testing-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7410,11 +7406,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3725854225?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
       "lessCrowded",
-      "growing",
       "trending"
     ],
     "markets": [
@@ -7439,7 +7434,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$575-3450"
+            "value": "$1376-6880"
           },
           {
             "label": "Margin",
@@ -7475,7 +7470,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "ci-cd-pipeline-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7486,11 +7481,9 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3306660123?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "lessCrowded",
-      "trending",
       "growing"
     ],
     "markets": [
@@ -7515,7 +7508,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1322-6610"
+            "value": "$1425-4275"
           },
           {
             "label": "Margin",
@@ -7551,7 +7544,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "product-photography-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7562,11 +7555,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1612639524?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "growing",
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -7590,7 +7582,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1611-8055"
+            "value": "$2820-16920"
           },
           {
             "label": "Margin",
@@ -7626,7 +7618,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "shipping-calculator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7637,8 +7629,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2798379786?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
       "provenIncome"
     ],
@@ -7664,7 +7656,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2083-8332"
+            "value": "$1736-8680"
           },
           {
             "label": "Margin",
@@ -7700,7 +7692,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "inventory-management",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7711,12 +7703,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1430954624?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
-      "trending",
-      "provenIncome"
+      "provenIncome",
+      "trending"
     ],
     "markets": [
       "US",
@@ -7740,7 +7732,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2677-8031"
+            "value": "$2610-15660"
           },
           {
             "label": "Margin",
@@ -7776,7 +7768,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "return-label-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7787,10 +7779,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-713608492?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -7814,7 +7806,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$588-1764"
+            "value": "$1264-7584"
           },
           {
             "label": "Margin",
@@ -7850,7 +7842,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "product-review-widget",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7861,11 +7853,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1832244?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
-      "provenIncome",
       "growing",
+      "provenIncome",
       "trending"
     ],
     "markets": [
@@ -7890,7 +7882,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$575-2875"
+            "value": "$2276-6828"
           },
           {
             "label": "Margin",
@@ -7926,7 +7918,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "size-guide-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -7937,10 +7929,9 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5623697748?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "growing",
       "provenIncome"
     ],
     "markets": [
@@ -7965,7 +7956,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1629-4887"
+            "value": "$1116-5580"
           },
           {
             "label": "Margin",
@@ -8001,7 +7992,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "abandoned-cart-recovery",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8012,11 +8003,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7264803090?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "trending",
-      "provenIncome"
+      "provenIncome",
+      "trending"
     ],
     "markets": [
       "US",
@@ -8040,7 +8031,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2109-8436"
+            "value": "$1593-7965"
           },
           {
             "label": "Margin",
@@ -8076,7 +8067,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "product-feed-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8087,12 +8078,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2333002444?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "provenIncome",
-      "trending",
-      "growing"
+      "growing",
+      "trending"
     ],
     "markets": [
       "US",
@@ -8116,7 +8106,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2246-11230"
+            "value": "$1114-4456"
           },
           {
             "label": "Margin",
@@ -8152,7 +8142,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "price-comparison-scraper",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8163,11 +8153,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3693402787?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "provenIncome",
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -8191,7 +8180,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2879-11516"
+            "value": "$2286-13716"
           },
           {
             "label": "Margin",
@@ -8227,7 +8216,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "order-tracking-page",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8238,10 +8227,9 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2508400218?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing",
       "trending"
     ],
     "markets": [
@@ -8266,7 +8254,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2813-11252"
+            "value": "$1558-7790"
           },
           {
             "label": "Margin",
@@ -8302,7 +8290,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "upsell-popup-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8313,8 +8301,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8249860367?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
       "growing"
     ],
@@ -8340,7 +8328,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$984-3936"
+            "value": "$2490-7470"
           },
           {
             "label": "Margin",
@@ -8376,7 +8364,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "customer-loyalty-program",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8387,10 +8375,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-146997199?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -8414,7 +8402,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2195-13170"
+            "value": "$2167-10835"
           },
           {
             "label": "Margin",
@@ -8450,7 +8438,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "gift-card-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8461,11 +8449,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-705124722?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "growing",
-      "provenIncome"
+      "trending"
     ],
     "markets": [
       "US",
@@ -8489,7 +8477,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$937-3748"
+            "value": "$2549-7647"
           },
           {
             "label": "Margin",
@@ -8525,7 +8513,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "subscription-box-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8536,10 +8524,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3084332142?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "growing"
+      "growing",
+      "provenIncome",
+      "trending"
     ],
     "markets": [
       "US",
@@ -8563,7 +8553,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2822-11288"
+            "value": "$2956-8868"
           },
           {
             "label": "Margin",
@@ -8599,7 +8589,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "tax-calculator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8610,10 +8600,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3152089386?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "trending"
+      "growing",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -8637,7 +8628,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$825-4950"
+            "value": "$1466-8796"
           },
           {
             "label": "Margin",
@@ -8673,7 +8664,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "supplier-directory",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8684,11 +8675,9 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-9187493682?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
-      "growing",
-      "provenIncome",
       "trending"
     ],
     "markets": [
@@ -8713,7 +8702,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2512-15072"
+            "value": "$2300-13800"
           },
           {
             "label": "Margin",
@@ -8749,7 +8738,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "dropship-automation",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8760,10 +8749,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1006712102?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "trending"
+      "trending",
+      "provenIncome",
+      "growing"
     ],
     "markets": [
       "US",
@@ -8787,7 +8778,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$561-2805"
+            "value": "$1796-10776"
           },
           {
             "label": "Margin",
@@ -8823,7 +8814,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "sku-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8834,9 +8825,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3687224506?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
     "bg": "#4BAEC9",
     "badges": [
+      "trending",
+      "provenIncome",
       "growing"
     ],
     "markets": [
@@ -8861,7 +8854,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1337-4011"
+            "value": "$2006-10030"
           },
           {
             "label": "Margin",
@@ -8897,7 +8890,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "warranty-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8908,10 +8901,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2240583242?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "growing",
+      "trending",
       "provenIncome"
     ],
     "markets": [
@@ -8936,7 +8930,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1510-9060"
+            "value": "$1481-7405"
           },
           {
             "label": "Margin",
@@ -8972,7 +8966,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "packing-slip-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -8983,9 +8977,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4850219306?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
+      "provenIncome",
       "growing"
     ],
     "markets": [
@@ -9010,7 +9005,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1781-10686"
+            "value": "$999-3996"
           },
           {
             "label": "Margin",
@@ -9046,7 +9041,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "online-course-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9058,10 +9053,9 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-2197000713?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "beginner",
       "trending",
       "growing"
     ],
@@ -9087,7 +9081,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1506-9036"
+            "value": "$1732-5196"
           },
           {
             "label": "Margin",
@@ -9123,7 +9117,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "flashcard-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9135,10 +9129,9 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-6069200718?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "growing",
       "trending",
       "beginner"
     ],
@@ -9164,7 +9157,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1747-8735"
+            "value": "$1799-10794"
           },
           {
             "label": "Margin",
@@ -9200,7 +9193,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "quiz-maker-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9212,9 +9205,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-5956680511?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
+      "trending",
       "growing"
     ],
     "markets": [
@@ -9239,7 +9233,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2617-10468"
+            "value": "$1862-11172"
           },
           {
             "label": "Margin",
@@ -9275,7 +9269,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "tutoring-marketplace",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9287,11 +9281,9 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-5686613245?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing",
-      "trending",
       "beginner"
     ],
     "markets": [
@@ -9316,7 +9308,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2738-10952"
+            "value": "$1941-11646"
           },
           {
             "label": "Margin",
@@ -9352,7 +9344,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "language-learning-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9364,11 +9356,12 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-4678975976?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
+      "beginner",
       "growing",
-      "beginner"
+      "trending"
     ],
     "markets": [
       "US",
@@ -9392,7 +9385,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2917-11668"
+            "value": "$1252-7512"
           },
           {
             "label": "Margin",
@@ -9428,7 +9421,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "study-group-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9440,8 +9433,8 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-3997089278?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
       "growing"
     ],
@@ -9467,7 +9460,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1171-3513"
+            "value": "$1785-5355"
           },
           {
             "label": "Margin",
@@ -9503,7 +9496,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "homework-helper-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9515,10 +9508,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-5324218413?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
     "bg": "#4B7BC9",
     "badges": [
-      "beginner"
+      "trending"
     ],
     "markets": [
       "US",
@@ -9542,7 +9535,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$849-5094"
+            "value": "$1032-6192"
           },
           {
             "label": "Margin",
@@ -9578,7 +9571,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "certification-tracker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9590,12 +9583,11 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-9010916043?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "trending",
       "growing",
-      "beginner"
+      "trending"
     ],
     "markets": [
       "US",
@@ -9619,7 +9611,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1872-7488"
+            "value": "$2929-14645"
           },
           {
             "label": "Margin",
@@ -9655,7 +9647,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "student-budget-planner",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9667,8 +9659,8 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-5880257877?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
       "trending"
     ],
@@ -9694,7 +9686,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2218-11090"
+            "value": "$2111-12666"
           },
           {
             "label": "Margin",
@@ -9730,7 +9722,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "note-taking-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9742,11 +9734,9 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-3907652895?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "growing",
-      "beginner",
       "trending"
     ],
     "markets": [
@@ -9771,7 +9761,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1330-3990"
+            "value": "$1436-4308"
           },
           {
             "label": "Margin",
@@ -9807,7 +9797,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "book-summary-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9819,10 +9809,9 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-8604182962?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "trending",
       "growing"
     ],
     "markets": [
@@ -9847,7 +9836,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2726-8178"
+            "value": "$703-4218"
           },
           {
             "label": "Margin",
@@ -9883,7 +9872,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "skill-assessment-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9895,11 +9884,11 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1862294705?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
-      "trending",
-      "beginner"
+      "beginner",
+      "growing"
     ],
     "markets": [
       "US",
@@ -9923,7 +9912,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2358-14148"
+            "value": "$1196-3588"
           },
           {
             "label": "Margin",
@@ -9959,7 +9948,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "vocabulary-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -9971,10 +9960,12 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-4673073373?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "beginner"
+      "beginner",
+      "growing",
+      "trending"
     ],
     "markets": [
       "US",
@@ -9998,7 +9989,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2741-13705"
+            "value": "$985-3940"
           },
           {
             "label": "Margin",
@@ -10034,7 +10025,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "math-practice-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10046,11 +10037,9 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-6307821587?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "beginner",
-      "trending",
       "growing"
     ],
     "markets": [
@@ -10075,7 +10064,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1929-5787"
+            "value": "$2064-8256"
           },
           {
             "label": "Margin",
@@ -10111,7 +10100,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "writing-practice-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10123,8 +10112,8 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-6292387743?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
       "beginner"
     ],
@@ -10150,7 +10139,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1722-8610"
+            "value": "$1275-7650"
           },
           {
             "label": "Margin",
@@ -10186,7 +10175,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "presentation-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10198,10 +10187,11 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-2780958629?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "trending"
+      "trending",
+      "beginner"
     ],
     "markets": [
       "US",
@@ -10225,7 +10215,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1160-5800"
+            "value": "$1464-8784"
           },
           {
             "label": "Margin",
@@ -10261,7 +10251,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "reading-list-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10273,11 +10263,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-2704448746?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
       "beginner",
-      "trending",
       "growing"
     ],
     "markets": [
@@ -10302,7 +10291,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$646-1938"
+            "value": "$1045-5225"
           },
           {
             "label": "Margin",
@@ -10338,7 +10327,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "teacher-resource-hub",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10350,9 +10339,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1378574456?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
+      "trending",
       "growing",
       "beginner"
     ],
@@ -10378,7 +10368,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2754-8262"
+            "value": "$799-2397"
           },
           {
             "label": "Margin",
@@ -10414,7 +10404,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "code-learning-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10426,11 +10416,10 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-8662281951?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "trending",
-      "beginner"
+      "trending"
     ],
     "markets": [
       "US",
@@ -10454,7 +10443,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1848-11088"
+            "value": "$2428-12140"
           },
           {
             "label": "Margin",
@@ -10490,7 +10479,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "parent-communication-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10502,10 +10491,12 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-3496156503?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
-      "beginner"
+      "beginner",
+      "trending",
+      "growing"
     ],
     "markets": [
       "US",
@@ -10529,7 +10520,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$947-2841"
+            "value": "$2060-10300"
           },
           {
             "label": "Margin",
@@ -10565,7 +10556,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "team-standup-bot",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10576,12 +10567,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-9291771959?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
     "bg": "#4BAEC9",
     "badges": [
-      "growing",
       "provenIncome",
-      "trending"
+      "trending",
+      "growing"
     ],
     "markets": [
       "US",
@@ -10605,7 +10596,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1563-7815"
+            "value": "$1195-7170"
           },
           {
             "label": "Margin",
@@ -10641,7 +10632,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "okr-tracking-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10652,12 +10643,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-228231934?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "growing",
-      "provenIncome",
-      "trending"
+      "trending",
+      "growing"
     ],
     "markets": [
       "US",
@@ -10681,7 +10671,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2996-11984"
+            "value": "$2273-9092"
           },
           {
             "label": "Margin",
@@ -10717,7 +10707,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "meeting-agenda-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10728,10 +10718,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3325976512?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
     "bg": "#4BC98A",
     "badges": [
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -10755,7 +10745,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$983-3932"
+            "value": "$2544-12720"
           },
           {
             "label": "Margin",
@@ -10791,7 +10781,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "document-signer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10802,11 +10792,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4500539825?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
       "provenIncome",
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -10830,7 +10820,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1369-4107"
+            "value": "$2617-13085"
           },
           {
             "label": "Margin",
@@ -10866,7 +10856,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "knowledge-base-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10877,12 +10867,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5873795483?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "provenIncome",
-      "growing",
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -10906,7 +10894,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2752-13760"
+            "value": "$1119-6714"
           },
           {
             "label": "Margin",
@@ -10942,7 +10930,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "retrospective-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -10953,10 +10941,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1869170802?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
     "bg": "#4B7BC9",
     "badges": [
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -10980,7 +10968,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2830-8490"
+            "value": "$646-3876"
           },
           {
             "label": "Margin",
@@ -11016,7 +11004,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "employee-onboarding",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11027,10 +11015,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-851127794?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "provenIncome"
+      "growing"
     ],
     "markets": [
       "US",
@@ -11054,7 +11042,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2462-14772"
+            "value": "$2527-7581"
           },
           {
             "label": "Margin",
@@ -11090,7 +11078,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "1-on-1-meeting-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11101,12 +11089,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6475819710?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "trending",
-      "provenIncome",
-      "growing"
+      "growing",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -11130,7 +11117,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1872-11232"
+            "value": "$1106-3318"
           },
           {
             "label": "Margin",
@@ -11166,7 +11153,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "team-directory",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11177,12 +11164,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-9264382345?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "trending",
-      "provenIncome",
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -11206,7 +11191,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1353-6765"
+            "value": "$1189-5945"
           },
           {
             "label": "Margin",
@@ -11242,7 +11227,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "decision-log-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11253,10 +11238,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2884909176?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "trending"
+      "growing",
+      "trending",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -11280,7 +11267,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1889-11334"
+            "value": "$1239-7434"
           },
           {
             "label": "Margin",
@@ -11316,7 +11303,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "shared-inbox-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11327,10 +11314,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7378371050?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -11354,7 +11341,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2937-8811"
+            "value": "$606-3030"
           },
           {
             "label": "Margin",
@@ -11390,7 +11377,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "async-video-messages",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11401,12 +11388,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2469303012?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
-      "trending",
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -11430,7 +11416,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1473-7365"
+            "value": "$618-1854"
           },
           {
             "label": "Margin",
@@ -11466,7 +11452,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "team-mood-tracker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11477,11 +11463,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3875730912?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
     "bg": "#4BAEC9",
     "badges": [
-      "trending",
-      "provenIncome"
+      "growing",
+      "provenIncome",
+      "trending"
     ],
     "markets": [
       "US",
@@ -11505,7 +11492,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$653-2612"
+            "value": "$2933-8799"
           },
           {
             "label": "Margin",
@@ -11541,7 +11528,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "sops-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11552,11 +11539,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3501165683?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "growing",
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -11580,7 +11566,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1131-4524"
+            "value": "$1830-7320"
           },
           {
             "label": "Margin",
@@ -11616,7 +11602,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "brainstorming-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11627,11 +11613,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5397836087?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "growing",
-      "provenIncome"
+      "growing"
     ],
     "markets": [
       "US",
@@ -11655,7 +11640,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$902-3608"
+            "value": "$789-4734"
           },
           {
             "label": "Margin",
@@ -11691,7 +11676,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "resource-scheduler",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11702,12 +11687,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3580669449?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "trending",
       "provenIncome",
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -11731,7 +11715,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$974-2922"
+            "value": "$865-2595"
           },
           {
             "label": "Margin",
@@ -11767,7 +11751,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "weekly-report-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11778,10 +11762,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4685224797?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "growing"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -11805,7 +11789,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1865-11190"
+            "value": "$1131-3393"
           },
           {
             "label": "Margin",
@@ -11841,7 +11825,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "goal-tracking-dashboard",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11852,9 +11836,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3942484966?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
+      "provenIncome",
       "growing"
     ],
     "markets": [
@@ -11879,7 +11864,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1779-5337"
+            "value": "$1037-5185"
           },
           {
             "label": "Margin",
@@ -11915,7 +11900,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "task-delegation-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -11926,8 +11911,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4740299156?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "growing",
       "trending"
@@ -11954,7 +11939,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1673-8365"
+            "value": "$2451-12255"
           },
           {
             "label": "Margin",
@@ -11990,7 +11975,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "remote-work-dashboard",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12001,11 +11986,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6059055350?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome",
-      "trending"
+      "trending",
+      "growing"
     ],
     "markets": [
       "US",
@@ -12029,7 +12015,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1620-4860"
+            "value": "$1263-7578"
           },
           {
             "label": "Margin",
@@ -12065,7 +12051,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "expense-tracker-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12076,12 +12062,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1820001019?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "growing",
-      "trending",
-      "provenIncome"
+      "trending"
     ],
     "markets": [
       "US",
@@ -12105,7 +12089,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1804-9020"
+            "value": "$1418-5672"
           },
           {
             "label": "Margin",
@@ -12141,7 +12125,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "budget-planner",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12152,12 +12136,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4056156853?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "provenIncome",
+      "growing",
       "trending",
-      "growing"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -12181,7 +12165,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1887-11322"
+            "value": "$2456-12280"
           },
           {
             "label": "Margin",
@@ -12217,7 +12201,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "freelance-contract-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12228,10 +12212,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-9999555042?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -12255,7 +12239,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$706-2118"
+            "value": "$2642-15852"
           },
           {
             "label": "Margin",
@@ -12291,7 +12275,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "profit-calculator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12302,10 +12286,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2714567503?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "trending"
+      "trending",
+      "growing",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -12329,7 +12315,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2941-17646"
+            "value": "$2240-13440"
           },
           {
             "label": "Margin",
@@ -12365,7 +12351,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "payment-link-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12376,11 +12362,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1431099024?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "provenIncome",
-      "growing"
+      "growing",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -12404,7 +12390,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2685-8055"
+            "value": "$834-2502"
           },
           {
             "label": "Margin",
@@ -12440,7 +12426,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "financial-dashboard",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12451,12 +12437,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7852808405?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "trending",
       "growing",
-      "provenIncome"
+      "provenIncome",
+      "trending"
     ],
     "markets": [
       "US",
@@ -12480,7 +12466,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2406-14436"
+            "value": "$685-2055"
           },
           {
             "label": "Margin",
@@ -12516,7 +12502,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "tax-prep-organizer",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12527,9 +12513,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8886094267?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
+      "provenIncome",
+      "growing",
       "trending"
     ],
     "markets": [
@@ -12554,7 +12542,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1556-7780"
+            "value": "$1585-7925"
           },
           {
             "label": "Margin",
@@ -12590,7 +12578,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "subscription-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12601,10 +12589,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3294097519?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -12628,7 +12616,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1830-10980"
+            "value": "$1562-4686"
           },
           {
             "label": "Margin",
@@ -12664,7 +12652,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "business-name-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12675,10 +12663,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7274244317?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
     "bg": "#4BAEC9",
     "badges": [
-      "trending"
+      "trending",
+      "growing",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -12702,7 +12692,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2460-14760"
+            "value": "$2454-14724"
           },
           {
             "label": "Margin",
@@ -12738,7 +12728,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "cashflow-forecaster",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12749,9 +12739,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3221497716?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
+      "growing",
       "provenIncome",
       "trending"
     ],
@@ -12777,7 +12768,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$938-4690"
+            "value": "$1977-11862"
           },
           {
             "label": "Margin",
@@ -12813,7 +12804,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "receipt-scanner",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12824,12 +12815,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3462396463?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "trending",
-      "provenIncome",
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -12853,7 +12842,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1477-5908"
+            "value": "$958-2874"
           },
           {
             "label": "Margin",
@@ -12889,7 +12878,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "pricing-page-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12900,10 +12889,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7973603295?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "provenIncome"
+      "trending"
     ],
     "markets": [
       "US",
@@ -12927,7 +12916,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1352-8112"
+            "value": "$1490-8940"
           },
           {
             "label": "Margin",
@@ -12963,7 +12952,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "payroll-calculator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -12974,12 +12963,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7656594911?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "provenIncome",
-      "trending",
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -13003,7 +12990,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2851-17106"
+            "value": "$1106-6636"
           },
           {
             "label": "Margin",
@@ -13039,7 +13026,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "client-portal",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13050,11 +13037,9 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6591066382?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "growing",
-      "provenIncome",
       "trending"
     ],
     "markets": [
@@ -13079,7 +13064,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1221-6105"
+            "value": "$2323-13938"
           },
           {
             "label": "Margin",
@@ -13115,7 +13100,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "equity-calculator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13126,10 +13111,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2527290414?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
     "bg": "#4BAEC9",
     "badges": [
-      "growing"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -13153,7 +13138,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2052-10260"
+            "value": "$1707-10242"
           },
           {
             "label": "Margin",
@@ -13189,7 +13174,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "grant-finder-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13200,12 +13185,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4593410188?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "growing",
       "trending",
-      "provenIncome"
+      "growing"
     ],
     "markets": [
       "US",
@@ -13229,7 +13213,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2878-8634"
+            "value": "$2268-13608"
           },
           {
             "label": "Margin",
@@ -13265,7 +13249,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "mileage-tracker",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13276,12 +13260,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5854907774?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "trending",
+      "growing",
       "provenIncome",
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -13305,7 +13289,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2331-9324"
+            "value": "$2602-15612"
           },
           {
             "label": "Margin",
@@ -13341,7 +13325,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "w-9-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13352,12 +13336,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3627769003?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
-      "provenIncome",
+      "trending",
       "growing",
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -13381,7 +13365,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1910-5730"
+            "value": "$760-3800"
           },
           {
             "label": "Margin",
@@ -13417,7 +13401,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "proposal-template-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13428,10 +13412,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4557550257?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "growing"
+      "trending",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -13455,7 +13440,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1022-5110"
+            "value": "$1920-11520"
           },
           {
             "label": "Margin",
@@ -13491,7 +13476,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "business-plan-generator",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13502,10 +13487,9 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-9619221571?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "growing",
       "trending"
     ],
     "markets": [
@@ -13530,7 +13514,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1971-5913"
+            "value": "$2422-12110"
           },
           {
             "label": "Margin",
@@ -13566,7 +13550,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "paid-newsletter-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13577,10 +13561,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-3755556809?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -13604,7 +13588,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2114-10570"
+            "value": "$1889-11334"
           },
           {
             "label": "Margin",
@@ -13640,7 +13624,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "membership-community-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13651,11 +13635,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5370908223?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "growing",
-      "provenIncome"
+      "provenIncome",
+      "growing"
     ],
     "markets": [
       "US",
@@ -13679,7 +13663,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1210-7260"
+            "value": "$1975-11850"
           },
           {
             "label": "Margin",
@@ -13715,7 +13699,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "discord-bot-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13726,9 +13710,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7175779775?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
     "bg": "#7B4BC9",
     "badges": [
+      "trending",
+      "growing",
       "provenIncome"
     ],
     "markets": [
@@ -13753,7 +13739,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2208-8832"
+            "value": "$1209-4836"
           },
           {
             "label": "Margin",
@@ -13789,7 +13775,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "event-ticketing-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13800,12 +13786,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1990294932?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
+      "growing",
       "trending",
-      "provenIncome",
-      "growing"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -13829,7 +13815,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1089-6534"
+            "value": "$1743-6972"
           },
           {
             "label": "Margin",
@@ -13865,7 +13851,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "online-forum-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13876,10 +13862,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1605747859?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "trending"
+      "trending",
+      "provenIncome",
+      "growing"
     ],
     "markets": [
       "US",
@@ -13903,7 +13891,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2367-14202"
+            "value": "$1149-4596"
           },
           {
             "label": "Margin",
@@ -13939,7 +13927,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "creator-tip-jar",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -13950,10 +13938,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2585549691?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
-      "growing"
+      "trending"
     ],
     "markets": [
       "US",
@@ -13977,7 +13965,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2343-14058"
+            "value": "$1428-4284"
           },
           {
             "label": "Margin",
@@ -14013,7 +14001,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "podcast-community-hub",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14024,10 +14012,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6090180597?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "trending"
+      "growing"
     ],
     "markets": [
       "US",
@@ -14051,7 +14039,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2867-17202"
+            "value": "$1955-5865"
           },
           {
             "label": "Margin",
@@ -14087,7 +14075,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "coaching-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14098,12 +14086,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2472019209?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "provenIncome",
-      "growing",
-      "trending"
+      "trending",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -14127,7 +14114,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2003-6009"
+            "value": "$2372-7116"
           },
           {
             "label": "Margin",
@@ -14163,7 +14150,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "alumni-network-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14174,12 +14161,12 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6924701419?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
     "bg": "#4B7BC9",
     "badges": [
-      "growing",
       "provenIncome",
-      "trending"
+      "trending",
+      "growing"
     ],
     "markets": [
       "US",
@@ -14203,7 +14190,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$827-3308"
+            "value": "$983-3932"
           },
           {
             "label": "Margin",
@@ -14239,7 +14226,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "virtual-meetup-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14250,11 +14237,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4408176993?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
-      "growing",
-      "trending"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -14278,7 +14264,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$862-3448"
+            "value": "$2572-15432"
           },
           {
             "label": "Margin",
@@ -14314,7 +14300,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "challenge-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14325,12 +14311,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-7659723977?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
-      "provenIncome",
-      "trending",
-      "growing"
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -14354,7 +14338,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2691-8073"
+            "value": "$1003-4012"
           },
           {
             "label": "Margin",
@@ -14390,7 +14374,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "fan-club-manager",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14401,11 +14385,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4895024725?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
     "bg": "#4BAEC9",
     "badges": [
-      "provenIncome",
-      "growing"
+      "trending",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -14429,7 +14413,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2224-11120"
+            "value": "$1898-9490"
           },
           {
             "label": "Margin",
@@ -14465,7 +14449,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "book-club-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14476,11 +14460,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-8472906308?w=900&q=80",
-    "bg": "#4BC98A",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "bg": "#6BC94B",
     "badges": [
-      "trending",
-      "provenIncome"
+      "trending"
     ],
     "markets": [
       "US",
@@ -14504,7 +14487,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1745-8725"
+            "value": "$2199-10995"
           },
           {
             "label": "Margin",
@@ -14540,7 +14523,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "mastermind-group-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14551,11 +14534,9 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1168885706?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "bg": "#7B4BC9",
     "badges": [
-      "growing",
-      "trending",
       "provenIncome"
     ],
     "markets": [
@@ -14580,7 +14561,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$611-3055"
+            "value": "$1065-6390"
           },
           {
             "label": "Margin",
@@ -14616,7 +14597,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "local-business-directory",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14627,10 +14608,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-656897792?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
     "bg": "#4BAEC9",
     "badges": [
-      "trending"
+      "growing",
+      "provenIncome"
     ],
     "markets": [
       "US",
@@ -14654,7 +14636,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1532-6128"
+            "value": "$1096-3288"
           },
           {
             "label": "Margin",
@@ -14690,7 +14672,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "marketplace-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14701,11 +14683,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-4465527133?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
     "bg": "#6BC94B",
     "badges": [
-      "growing",
-      "provenIncome"
+      "trending"
     ],
     "markets": [
       "US",
@@ -14729,7 +14710,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2973-11892"
+            "value": "$1173-7038"
           },
           {
             "label": "Margin",
@@ -14765,7 +14746,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "job-board-builder",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14776,11 +14757,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1786306279?w=900&q=80",
-    "bg": "#6BC94B",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "bg": "#4B7BC9",
     "badges": [
       "trending",
-      "growing",
       "provenIncome"
     ],
     "markets": [
@@ -14805,7 +14785,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1467-8802"
+            "value": "$2629-13145"
           },
           {
             "label": "Margin",
@@ -14841,7 +14821,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "mentorship-matching-tool",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14852,12 +14832,11 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-6895196079?w=900&q=80",
-    "bg": "#7B4BC9",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "bg": "#4BAEC9",
     "badges": [
-      "trending",
-      "growing",
-      "provenIncome"
+      "provenIncome",
+      "growing"
     ],
     "markets": [
       "US",
@@ -14881,7 +14860,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1131-6786"
+            "value": "$1909-5727"
           },
           {
             "label": "Margin",
@@ -14917,7 +14896,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "online-retreat-platform",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -14928,9 +14907,10 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-5385530064?w=900&q=80",
-    "bg": "#4BAEC9",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
+      "provenIncome",
       "trending",
       "growing"
     ],
@@ -14956,7 +14936,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$1363-6815"
+            "value": "$2729-16374"
           },
           {
             "label": "Margin",
@@ -14992,7 +14972,7 @@ export const SAAS_IDEAS: Idea[] =
   {
     "id": "accountability-partner-app",
     "deck": "saas",
-    "deckLabel": "SaaS - online",
+    "deckLabel": "SaaS · online",
     "channels": [
       "online"
     ],
@@ -15003,8 +14983,8 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-2330689530?w=900&q=80",
-    "bg": "#4B7BC9",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "bg": "#4BC98A",
     "badges": [
       "growing",
       "trending",
@@ -15032,7 +15012,7 @@ export const SAAS_IDEAS: Idea[] =
         "stats": [
           {
             "label": "Target MRR",
-            "value": "$2450-12250"
+            "value": "$1870-11220"
           },
           {
             "label": "Margin",

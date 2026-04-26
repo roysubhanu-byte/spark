@@ -1424,9 +1424,139 @@ def make_badges(pool):
     return random.sample(pool, min(count, len(pool)))
 
 
+# Real, working Unsplash photo IDs mapped to categories
+CATEGORY_IMAGES = {
+    "Home & Living": [
+        "1616486338812-3dadae4b4ace", "1513694203232-719a280e022f", "1586023492125-27b2c045efd7",
+        "1556228453-efc31bc7f517", "1524758631624-e2822e304c36", "1615874959474-d609969a20ed",
+        "1556909114-f6e7ad7d3136", "1616046229478-9901c5536a45", "1507089947368-19c1da9775ae",
+        "1600210491369-e753d80a41f3", "1583847268964-b28dc8f51f92", "1589834390005-5d4fb9bf3d32",
+    ],
+    "Jewelry & Accessories": [
+        "1515562141207-c0a7aa04c2ab", "1535632066927-ab7c9ab60908", "1611652022419-a9419f74343d",
+        "1573408301185-29e88b3b80e7", "1602173574767-37ac01994b2a", "1611591437281-460bfbe1220a",
+        "1596944924616-7b38e7cfac36", "1599643478518-a784e5dc4c8f", "1630019925203-7f53b0a3d56e",
+    ],
+    "Beauty & Wellness": [
+        "1556228578-8c89e6adf883", "1570194065650-d99fb4b38b8f", "1608248597279-f483dda3a22e",
+        "1598440947619-2c35fc9aa908", "1571781926291-c477ebfd024b", "1596755389378-c31c0e936072",
+        "1617897903246-719242502645", "1612817288484-6f916006741a", "1556228720-195a672e8a03",
+    ],
+    "Pets": [
+        "1587300003388-59208cc962cb", "1601758228041-f3b2795255f1", "1583511655857-d19b40a7a54e",
+        "1548199973-03cce0bbc87b", "1587764379990-fca7d5babd3f", "1595433707802-6b0b73c8b5b0",
+    ],
+    "Food & Beverage": [
+        "1556909114-f6e7ad7d3136", "1563379091339-03246963d96c", "1607877361964-75d3b4b5a0d0",
+        "1473093295043-cdd812d0e601", "1504674900247-0877df9cc836", "1542444592-f985c2d4b0be",
+        "1506368249639-73a05d6f6488", "1547592166-23ac45744acd", "1567306226416-28f0efdc88ce",
+    ],
+    "Kids & Baby": [
+        "1515488042361-ee00e0ddd4e4", "1596461404969-9ae70f2830c1", "1596462502311-e0db3f24b6e3",
+        "1584824486509-112e4181ff6b", "1587654780293-2767b03adf18", "1555963966-b7ae5404b6ed",
+    ],
+    "Stationery & Art": [
+        "1513364776144-60967b0f800f", "1579783901586-d88db74b4fe4", "1531346878377-a5be20888e57",
+        "1558618666-fcd25c85f82e", "1456735190827-d1262f71b8a3", "1452587925148-ce544e77e70d",
+    ],
+    "Clothing & Apparel": [
+        "1489987707025-afc232f7ea0f", "1445205170230-053b83016050", "1556905055-8f358a7a47b2",
+        "1490481651871-ab68de25d43d", "1523381210434-271e8be1f52b", "1558171813-4c2ab7e159b4",
+    ],
+    "Tech & Gadgets": [
+        "1519389950473-47ba0277781c", "1531297484001-80022131f5a1", "1550009158-9ebf69173e03",
+        "1588508065123-287b28e013da", "1605236453806-6ff36851218e", "1625842268584-c355e2741f89",
+    ],
+    "Eco & Sustainability": [
+        "1542601906990-b4d3fb778b09", "1532996122724-e3c354a0b15b", "1558618666-fcd25c85f82e",
+        "1584568694244-14fbdf83bd30", "1610024062303-e355e94c7a8c", "1604187351574-c75ca79f5807",
+    ],
+    "Fitness & Sports": [
+        "1517836357463-d25dfeac3438", "1571019613454-1cb2f99b2d8b", "1544367567-0f2fcb009e0b",
+        "1607962837359-5e7e89f86776", "1518611012118-696072aa579a", "1583454110629-dc9db32e459a",
+    ],
+    "Garden & Outdoor": [
+        "1416879595882-3373a0480b5b", "1585320806297-9794b3e4eeae", "1558618666-fcd25c85f82e",
+        "1591857177580-dc82b9ac4e1e", "1523348837708-15d4a09cfac2", "1466692476868-aef1dfb1e735",
+    ],
+    "Art & Craft Supplies": [
+        "1513364776144-60967b0f800f", "1460661419-21acb73b559f", "1513542789411-b6a5d4f31634",
+        "1596309674828-b93baa3f4f9d", "1452587925148-ce544e77e70d", "1558618666-fcd25c85f82e",
+    ],
+    "Personalized & Custom": [
+        "1549465220-1a8b9238cd48", "1604187351574-c75ca79f5807", "1611652022419-a9419f74343d",
+        "1556228578-8c89e6adf883", "1579783901586-d88db74b4fe4", "1519389950473-47ba0277781c",
+    ],
+    "Health & Supplements": [
+        "1556228578-8c89e6adf883", "1607619056574-7b57d3cc39e2", "1584308666906-d0a2c5e48b17",
+        "1532996122724-e3c354a0b15b", "1571781926291-c477ebfd024b", "1505576399279-0d309e7d9c8c",
+    ],
+    "Party & Events": [
+        "1530103862676-de8c9debad1d", "1464366400600-7168b8af9bc3", "1519225421980-715cb0215aed",
+        "1504196606672-aef5c9cefc92", "1533174072545-7a4b6ad7a6c3", "1464654613926-bd2e1c282ef1",
+    ],
+    "Travel & Lifestyle": [
+        "1488646953014-85cb44e25828", "1473625247510-8ceb1760943f", "1507525428034-b723cf961d3e",
+        "1528127269322-539e4d6d6281", "1523906834658-3eba31e47c66", "1501785888108-9e3e8e21c695",
+    ],
+    "Automotive & Tools": [
+        "1549317661-bd12fae0dced", "1558618666-fcd25c85f82e", "1535732759880-b14b2926b821",
+        "1487754180451-c456f719905b", "1558618666-fcd25c85f82e", "1530046100-ad40e91e3c2b",
+    ],
+    "Candles & Fragrance": [
+        "1602874801007-aa24b7551751", "1572726729207-a78d740a34f6", "1603006905003-be475563bc59",
+        "1608571423902-def2ab547add", "1574263867128-63e3bcd96a06", "1543002588-bfa74002ed7e",
+    ],
+    "Handmade Leather Goods": [
+        "1548036328-c896dbe92955", "1553062407-98eeb64c6a62", "1590874103328-eac38a683ce7",
+        "1548532928-b34e3be62fc6", "1473188588951-0135dabc6b73", "1584568694244-14fbdf83bd30",
+    ],
+    "Woodworking & Carpentry": [
+        "1558618666-fcd25c85f82e", "1564182842519-8a3b2af3d81c", "1566895291251-52f4ddd3d4f0",
+        "1533090161767-e6ffed986c88", "1544457070-4fd4d988885f", "1503602642458-232111445657",
+    ],
+    "Printables & POD": [
+        "1513364776144-60967b0f800f", "1558618666-fcd25c85f82e", "1579783901586-d88db74b4fe4",
+        "1531346878377-a5be20888e57", "1456735190827-d1262f71b8a3", "1452587925148-ce544e77e70d",
+    ],
+    "Vintage & Upcycled": [
+        "1558618666-fcd25c85f82e", "1506377585622-bedcbb027afc", "1513542789411-b6a5d4f31634",
+        "1533636721434-0e2d61030955", "1558051815-d5cb3692e92b", "1471666875520-c75e4108d5b4",
+    ],
+}
+
+SAAS_IMAGES = [
+    "1460925895917-afdab827c52f", "1551288049-bebda4e38f71", "1519389950473-47ba0277781c",
+    "1531297484001-80022131f5a1", "1498050108023-c5249f4df085", "1555949963-aa79dcee981c",
+    "1526374965328-7f61d4dc18c5", "1517694712202-14dd9538aa97", "1542744173-8e7e91415657",
+    "1551434678-e076c223a692", "1581091226825-a6a2a5aee158", "1555066931-4365d14bab8c",
+]
+
+def get_image_for_category(cat_name, index):
+    """Return a real working Unsplash URL for the given category."""
+    images = CATEGORY_IMAGES.get(cat_name, CATEGORY_IMAGES["Home & Living"])
+    img_id = images[index % len(images)]
+    return f"https://images.unsplash.com/photo-{img_id}?w=900&q=80"
+
+def get_saas_image(index):
+    img_id = SAAS_IMAGES[index % len(SAAS_IMAGES)]
+    return f"https://images.unsplash.com/photo-{img_id}?w=900&q=80"
+
+
 # ============================================================
 # GENERATE ALL IDEAS
 # ============================================================
+
+def compute_selling_price(capital):
+    """Compute a realistic selling price from capital range."""
+    cap_nums = [int(x) for x in capital.replace("$", "").replace(",", "").split("-")]
+    low = cap_nums[0]
+    high = cap_nums[1] if len(cap_nums) > 1 else low * 3
+    mid = (low + high) // 2
+    single = max(8, int(mid * random.uniform(0.15, 0.4)))
+    multi = int(single * random.uniform(2.2, 3.0))
+    return {"single": single, "set": multi}
+
 
 def generate_all():
     physical_ideas = []
@@ -1434,40 +1564,41 @@ def generate_all():
 
     # Physical products
     for cat_name, cat_data in PHYSICAL_CATEGORIES.items():
-        for (name, effort, capital, hook) in cat_data["items"]:
+        for idx, (name, effort, capital, hook) in enumerate(cat_data["items"]):
             idea = {
                 "id": make_id(name),
                 "deck": "physical",
-                "deckLabel": "Physical - online + offline",
+                "deckLabel": "Physical \u00b7 online + offline",  # middle dot to match hand-crafted
                 "channels": ["online", "offline"],
                 "name": name,
                 "hook": hook,
                 "capital": capital,
                 "effort": effort,
                 "interests": cat_data["interests"],
-                "image": f"https://images.unsplash.com/photo-{abs(hash(name)) % 10**10}?w=900&q=80",
+                "image": get_image_for_category(cat_name, idx),
                 "bg": random.choice(["#C99A4B", "#4B7BC9", "#7B4BC9", "#4BC98A", "#C94B6E", "#4BAEC9", "#C9834B", "#6BC94B"]),
                 "badges": make_badges(cat_data["badges_pool"]),
                 "markets": ["US", "IN"],
                 "capital_usd": {"low": int(capital.replace("$","").split("-")[0]), "high": int(capital.replace("$","").split("-")[1]) if "-" in capital else int(capital.replace("$","")) * 3},
+                "sellingPrice_usd": compute_selling_price(capital),
                 "breakdown": make_breakdown(name, "physical", capital, effort, cat_name),
             }
             physical_ideas.append(idea)
 
     # SaaS products
     for cat_name, cat_data in SAAS_CATEGORIES.items():
-        for (name, effort, capital, hook) in cat_data["items"]:
+        for idx, (name, effort, capital, hook) in enumerate(cat_data["items"]):
             idea = {
                 "id": make_id(name),
                 "deck": "saas",
-                "deckLabel": "SaaS - online",
+                "deckLabel": "SaaS \u00b7 online",  # middle dot to match hand-crafted
                 "channels": ["online"],
                 "name": name,
                 "hook": hook,
                 "capital": capital,
                 "effort": effort,
                 "interests": cat_data["interests"],
-                "image": f"https://images.unsplash.com/photo-{abs(hash(name)) % 10**10}?w=900&q=80",
+                "image": get_saas_image(idx),
                 "bg": random.choice(["#4B7BC9", "#7B4BC9", "#4BC98A", "#4BAEC9", "#6BC94B"]),
                 "badges": make_badges(cat_data["badges_pool"]),
                 "markets": ["US", "IN"],

@@ -74,7 +74,28 @@ export function ProductPage({ idea, region, profiles, isSaved, onSave, onOpenSto
         </div>
 
         {/* Market validation */}
-        {idea.validation && <ValidationCard validation={idea.validation} />}
+        {idea.validation ? (
+          <ValidationCard validation={idea.validation} />
+        ) : (
+          <div className="mx-5 mb-5 p-4 bg-card border border-line-soft rounded-2xl">
+            <div className="text-[11px] uppercase tracking-[0.18em] text-accent font-medium mb-2">Quick check</div>
+            <div className="space-y-2">
+              <div className="flex items-center gap-2 text-sm">
+                <span className="text-sage">&#10003;</span>
+                <span className="text-ink-soft">Real product category with active sellers</span>
+              </div>
+              <div className="flex items-center gap-2 text-sm">
+                <span className="text-sage">&#10003;</span>
+                <span className="text-ink-soft">Sourcing available on AliExpress/Alibaba</span>
+              </div>
+              <div className="flex items-center gap-2 text-sm">
+                <span className="text-sage">&#10003;</span>
+                <span className="text-ink-soft">Can be sold on Etsy, eBay, or Amazon</span>
+              </div>
+            </div>
+            <div className="mt-3 text-[11px] text-ink-mute">Start the 30-day plan to validate demand for your specific niche.</div>
+          </div>
+        )}
 
         {/* Real sellers section */}
         {profiles.length > 0 && (
