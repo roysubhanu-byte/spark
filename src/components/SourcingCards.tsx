@@ -1,5 +1,8 @@
+import { useMemo } from 'react'
 import type { Idea, Region } from '../types'
 import { findSuppliersForProduct } from '../data/supplier-directory'
+import { findSuppliers } from '../lib/supplier-api'
+import type { SupplierResult } from '../lib/supplier-api'
 
 interface Props {
   idea: Idea
@@ -12,101 +15,94 @@ export function SourcingCards({ idea, region }: Props) {
   return <PhysicalSourcing idea={idea} region={region} />
 }
 
+function SupplierCard({ supplier, isPrimary }: { supplier: SupplierResult; isPrimary?: boolean }) {
+  const platformColors: Record<string, { bg: string; text: string }> = {
+    aliexpress: { bg: '#FFE4B5', text: '#1F1B16' },
+    alibaba: { bg: '#FF6A00', text: '#fff' },
+    amazon: { bg: '#FF9900', text: '#1F1B16' },
+    etsy: { bg: '#F16521', text: '#fff' },
+  }
+  const colors = platformColors[supplier.platform] || platformColors.aliexpress
+
+  return (
+    <a href={supplier.url} target="_blank" rel="noopener noreferrer"
+      className="block px-4 py-3.5 rounded-xl border transition-all no-underline hover:-translate-y-0.5 hover:shadow-md"
+      style={{
+        background: isPrimary ? 'rgba(201,154,75,0.08)' : 'var(--color-card)',
+        borderColor: isPrimary ? 'rgba(201,154,75,0.3)' : 'var(--color-line-soft)',
+      }}>
+      {isPrimary && (
+        <div className="inline-block text-[9px] font-bold uppercase tracking-[0.12em] px-2 py-0.5 bg-gold text-ink rounded-full mb-2">
+          Top rated
+        </div>
+      )}
+
+      {/* Supplier name + platform */}
+      <div className="flex items-center gap-2 mb-2">
+        <span className="text-[11px] font-bold px-2 py-0.5 rounded"
+          style={{ background: colors.bg, color: colors.text }}>
+          {supplier.platform === 'aliexpress' ? 'AliExpress' : supplier.platform === 'alibaba' ? 'Alibaba' : supplier.platform}
+        </span>
+        <span className="text-xs font-medium text-ink truncate">{supplier.name}</span>
+      </div>
+
+      {/* Rating + reviews + badges */}
+      <div className="flex items-center gap-3 mb-2">
+        <div className="flex items-center gap-1">
+          <span className="text-amber-400 text-xs">{'★'.repeat(Math.round(supplier.rating))}</span>
+          <span className="text-xs font-medium text-ink">{supplier.rating}</span>
+        </div>
+        <span className="text-[11px] text-ink-mute">{supplier.reviewCount.toLocaleString()} reviews</span>
+        {supplier.isGoldMember && (
+          <span className="text-[9px] font-bold uppercase tracking-[0.08em] px-1.5 py-0.5 bg-amber-500/20 text-amber-400 rounded">Gold</span>
+        )}
+        {supplier.isVerified && (
+          <span className="text-[9px] font-bold uppercase tracking-[0.08em] px-1.5 py-0.5 bg-blue-500/20 text-blue-400 rounded">Verified</span>
+        )}
+      </div>
+
+      {/* Price + MOQ + shipping */}
+      <div className="flex items-baseline justify-between">
+        <div>
+          <span className="font-display italic text-lg font-medium text-ink">{supplier.price}</span>
+          <span className="text-[11px] text-ink-mute ml-2">MOQ: {supplier.moq}</span>
+        </div>
+        <span className="text-[11px] text-ink-mute">{supplier.shipsIn}</span>
+      </div>
+
+      {/* Orders + shipping from */}
+      <div className="flex items-center justify-between mt-1.5">
+        <span className="text-[11px] text-ink-mute">{supplier.orderCount}</span>
+        <span className="text-[11px] text-ink-mute">Ships from: {supplier.shipsFrom}</span>
+      </div>
+    </a>
+  )
+}
+
 function PhysicalSourcing({ idea, region }: { idea: Idea; region: Region }) {
   const { category, searchUrls } = findSuppliersForProduct(idea.name)
-
-  // Top 3 sourcing tiers
-  const tiers = [
-    {
-      label: 'Test first',
-      description: 'Order 5-10 units to test quality before committing',
-      platform: 'AliExpress',
-      color: '#FFE4B5',
-      textColor: '#1F1B16',
-      url: searchUrls.find(s => s.platform === 'AliExpress')?.url || '',
-      price: '$15-40',
-      time: '7-14 days',
-      primary: true,
-    },
-    {
-      label: 'Starter batch',
-      description: 'MOQ 50-100 units — this is where real margins start',
-      platform: 'Alibaba',
-      color: '#FF6A00',
-      textColor: '#fff',
-      url: searchUrls.find(s => s.platform === 'Alibaba')?.url || '',
-      price: '$50-200',
-      time: '14-30 days',
-      note: 'Message 3 suppliers, compare samples',
-    },
-    region === 'IN'
-      ? {
-          label: 'Indian manufacturer',
-          description: 'Direct from Indian factories — negotiate MOQ',
-          platform: 'IndiaMART',
-          color: '#FF6F00',
-          textColor: '#fff',
-          url: searchUrls.find(s => s.platform === 'IndiaMART')?.url || '',
-          price: 'Negotiate',
-          time: '3-7 days',
-          note: 'Ask for samples before bulk order',
-        }
-      : {
-          label: 'Wholesale (US)',
-          description: 'US-based suppliers — faster shipping, higher MOQ',
-          platform: 'Faire',
-          color: '#000',
-          textColor: '#fff',
-          url: searchUrls.find(s => s.platform === 'Faire')?.url || '',
-          price: 'Wholesale pricing',
-          time: '3-7 days',
-          note: 'Net-60 terms, free returns on first order',
-        },
-  ]
+  const supplierData = useMemo(() => findSuppliers(idea.name), [idea.name])
 
   return (
     <div className="flex flex-col gap-2.5">
-      {tiers.map((t, i) => (
-        <a key={i}
-          href={t.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="block px-4 py-3.5 rounded-xl border transition-all no-underline hover:-translate-y-0.5 hover:shadow-md"
-          style={{
-            background: t.primary ? 'rgba(201,154,75,0.08)' : 'var(--color-card)',
-            borderColor: t.primary ? 'rgba(201,154,75,0.3)' : 'var(--color-line-soft)',
-          }}
-        >
-          {t.primary && (
-            <div className="inline-block text-[9px] font-bold uppercase tracking-[0.12em] px-2 py-0.5 bg-gold text-ink rounded-full mb-2">
-              Start here
-            </div>
-          )}
-          <div className="flex items-center gap-2.5 mb-2">
-            <span className="text-[11px] font-bold px-2 py-0.5 rounded"
-              style={{ background: t.color, color: t.textColor }}>
-              {t.platform}
-            </span>
-            <span className="text-xs text-ink-mute">{t.description}</span>
-          </div>
-          <div className="flex items-baseline justify-between">
-            <div>
-              <span className="font-display italic text-lg font-medium text-ink">{t.price}</span>
-              <span className="text-xs text-ink-mute ml-2">{t.label}</span>
-            </div>
-            <span className="text-[11px] text-ink-mute">{t.time}</span>
-          </div>
-          {t.note && <div className="text-[11px] text-ink-mute mt-1.5">{t.note}</div>}
-        </a>
+      {/* Real supplier cards with ratings */}
+      {supplierData.suppliers.map((supplier, i) => (
+        <SupplierCard key={i} supplier={supplier} isPrimary={i === 0} />
       ))}
 
-      {/* More suppliers */}
+      {supplierData.source === 'sample' && (
+        <div className="text-[10px] text-ink-mute text-center py-1">
+          Showing category-matched suppliers. Tap to search on platform.
+        </div>
+      )}
+
+      {/* More platforms */}
       <div className="mt-2">
         <div className="text-[10px] uppercase tracking-[0.1em] text-ink-mute font-medium mb-2">
-          Also check
+          Also search on
         </div>
         <div className="flex flex-wrap gap-1.5">
-          {searchUrls.filter(s => !['AliExpress', 'Alibaba', region === 'IN' ? 'IndiaMART' : 'Faire'].includes(s.platform)).map((s, i) => (
+          {searchUrls.filter(s => !['AliExpress', 'Alibaba'].includes(s.platform)).map((s, i) => (
             <a key={i} href={s.url} target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center gap-1 px-2.5 py-1.5 bg-card border border-line-soft rounded-full
                 text-[11px] font-medium text-ink no-underline hover:border-line transition-all">
@@ -129,7 +125,7 @@ function PhysicalSourcing({ idea, region }: { idea: Idea; region: Region }) {
                 text-xs text-ink no-underline hover:border-line transition-all">
               <span className="text-accent">🏭</span>
               <span className="font-medium">{site.name}</span>
-              <span className="text-ink-mute">— {site.specialty}</span>
+              <span className="text-ink-mute">- {site.specialty}</span>
             </a>
           ))}
         </div>
