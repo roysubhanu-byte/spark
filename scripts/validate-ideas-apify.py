@@ -21,12 +21,19 @@ from urllib.error import HTTPError
 APIFY_TOKEN = os.getenv('APIFY_API_TOKEN', '')
 if not APIFY_TOKEN:
     # Try loading from integrations credentials
-    cred_path = os.path.join(os.path.dirname(__file__), '..', '..', 'integrations', 'credentials', '.env')
+    # Look in the Subhanuproject root for integrations credentials
+    cred_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', '..', 'integrations', 'credentials', '.env')
+    if not os.path.exists(cred_path):
+        cred_path = os.path.expanduser('~/Documents/Subhanuproject/integrations/credentials/.env')
     if os.path.exists(cred_path):
         with open(cred_path) as f:
             for line in f:
                 if line.startswith('APIFY_API_TOKEN='):
                     APIFY_TOKEN = line.strip().split('=', 1)[1]
+
+# SPENDING CAP: max cost per run (Apify Etsy scraper ~$0.05-0.10 per search)
+MAX_COST_USD = float(os.getenv('MAX_COST_USD', '15.0'))
+ESTIMATED_COST_PER_SEARCH = 0.08  # conservative estimate
 
 # Etsy search scraper actor
 ETSY_ACTOR = 'getdataforme/etsy-product-search-scraper'
@@ -209,12 +216,38 @@ def main():
     # Prioritize physical ideas (they need validation more)
     physical = [i for i in ideas if i['deck'] == 'physical'][:count]
 
-    validations = {}
+    # Load existing validations to skip already-done ideas
+    existing_path = 'scripts/validation-data.json'
+    if os.path.exists(existing_path):
+        with open(existing_path) as f:
+            validations = json.load(f)
+        print(f'Loaded {len(validations)} existing validations (will skip these)')
+    else:
+        validations = {}
+
+    # Filter out already-validated ideas
+    physical = [i for i in physical if i['id'] not in validations]
+    print(f'{len(physical)} ideas remaining to validate')
+
+    max_searches = int(MAX_COST_USD / ESTIMATED_COST_PER_SEARCH)
+    if len(physical) > max_searches:
+        print(f'CAP: Limiting to {max_searches} searches (${MAX_COST_USD:.0f} budget at ~${ESTIMATED_COST_PER_SEARCH}/search)')
+        physical = physical[:max_searches]
+
+    estimated_cost = len(physical) * ESTIMATED_COST_PER_SEARCH
+    print(f'Estimated cost: ${estimated_cost:.2f}')
+
     success = 0
     failed = 0
+    running_cost = 0
 
     for idx, idea in enumerate(physical):
-        print(f'\n[{idx+1}/{len(physical)}] {idea["name"]}...')
+        running_cost = (idx + 1) * ESTIMATED_COST_PER_SEARCH
+        if running_cost > MAX_COST_USD:
+            print(f'\n*** COST CAP REACHED (${running_cost:.2f} >= ${MAX_COST_USD:.2f}). Stopping. ***')
+            break
+
+        print(f'\n[{idx+1}/{len(physical)}] {idea["name"]}... (~${running_cost:.2f} spent)')
 
         results = search_etsy(idea['name'], max_items=15)
 
@@ -224,6 +257,9 @@ def main():
                 validations[idea['id']] = validation
                 print(f'  Score: {validation["sparkScore"]} | ${validation["competition"]["etsyAvgPrice"]} avg | {validation["competition"]["saturationLevel"]}')
                 success += 1
+                # Save incrementally (don't lose progress on crash)
+                with open(existing_path, 'w') as f:
+                    json.dump(validations, f, indent=2)
             else:
                 print(f'  No valid price data')
                 failed += 1

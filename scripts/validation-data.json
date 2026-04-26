@@ -1168,5 +1168,473 @@
       "evidence": "39 suppliers on AliExpress/Alibaba, avg 4.8 rating"
     },
     "trending": "stable"
+  },
+  "acrylic-night-lights": {
+    "sparkScore": 53,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "17K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 25,
+      "etsyListings": 27648,
+      "etsyAvgPrice": 36.22,
+      "etsyPriceRange": "$2-319",
+      "amazonResults": 55296,
+      "saturationLevel": "very-high",
+      "evidence": "~27,648 Etsy listings, avg $36. Very-High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 9.06,
+      "avgSellingUsd": 36.22,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$1086-2897/mo at 30-80 units",
+      "evidence": "Etsy avg $36/unit, est. cost $9, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 74,
+      "supplierCount": 78,
+      "avgSupplierRating": 4.5,
+      "avgOrderVolume": "4798+ orders",
+      "minMoq": 5,
+      "evidence": "53 suppliers on AliExpress/Alibaba, avg 4.3 rating"
+    },
+    "trending": "stable"
+  },
+  "potpourri-blends": {
+    "sparkScore": 53,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "21K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 25,
+      "etsyListings": 19152,
+      "etsyAvgPrice": 15.13,
+      "etsyPriceRange": "$3-78",
+      "amazonResults": 38304,
+      "saturationLevel": "very-high",
+      "evidence": "~19,152 Etsy listings, avg $15. Very-High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 3.78,
+      "avgSellingUsd": 15.13,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$454-1210/mo at 30-80 units",
+      "evidence": "Etsy avg $15/unit, est. cost $4, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 70,
+      "supplierCount": 81,
+      "avgSupplierRating": 4.8,
+      "avgOrderVolume": "1276+ orders",
+      "minMoq": 50,
+      "evidence": "88 suppliers on AliExpress/Alibaba, avg 4.5 rating"
+    },
+    "trending": "stable"
+  },
+  "woven-wall-art": {
+    "sparkScore": 55,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "13K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 45,
+      "etsyListings": 11952,
+      "etsyAvgPrice": 687.59,
+      "etsyPriceRange": "$15-40000",
+      "amazonResults": 23904,
+      "saturationLevel": "high",
+      "evidence": "~11,952 Etsy listings, avg $688. High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 171.9,
+      "avgSellingUsd": 687.59,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$20627-55006/mo at 30-80 units",
+      "evidence": "Etsy avg $688/unit, est. cost $172, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 61,
+      "supplierCount": 21,
+      "avgSupplierRating": 4.7,
+      "avgOrderVolume": "1628+ orders",
+      "minMoq": 50,
+      "evidence": "96 suppliers on AliExpress/Alibaba, avg 4.8 rating"
+    },
+    "trending": "stable"
+  },
+  "marble-bookends": {
+    "sparkScore": 52,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "14K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 25,
+      "etsyListings": 27648,
+      "etsyAvgPrice": 110.76,
+      "etsyPriceRange": "$6-606",
+      "amazonResults": 55296,
+      "saturationLevel": "very-high",
+      "evidence": "~27,648 Etsy listings, avg $111. Very-High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 27.69,
+      "avgSellingUsd": 110.76,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$3322-8860/mo at 30-80 units",
+      "evidence": "Etsy avg $111/unit, est. cost $28, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 68,
+      "supplierCount": 47,
+      "avgSupplierRating": 4.4,
+      "avgOrderVolume": "1548+ orders",
+      "minMoq": 5,
+      "evidence": "50 suppliers on AliExpress/Alibaba, avg 4.5 rating"
+    },
+    "trending": "stable"
+  },
+  "pressed-flower-frames": {
+    "sparkScore": 58,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "28K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 45,
+      "etsyListings": 7200,
+      "etsyAvgPrice": 119.6,
+      "etsyPriceRange": "$11-731",
+      "amazonResults": 14400,
+      "saturationLevel": "high",
+      "evidence": "~7,200 Etsy listings, avg $120. High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 29.9,
+      "avgSellingUsd": 119.6,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$3588-9568/mo at 30-80 units",
+      "evidence": "Etsy avg $120/unit, est. cost $30, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 80,
+      "supplierCount": 71,
+      "avgSupplierRating": 4.4,
+      "avgOrderVolume": "630+ orders",
+      "minMoq": 5,
+      "evidence": "37 suppliers on AliExpress/Alibaba, avg 4.3 rating"
+    },
+    "trending": "stable"
+  },
+  "embroidered-hoop-art": {
+    "sparkScore": 59,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "9K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 45,
+      "etsyListings": 9792,
+      "etsyAvgPrice": 347.12,
+      "etsyPriceRange": "$1-30000",
+      "amazonResults": 19584,
+      "saturationLevel": "high",
+      "evidence": "~9,792 Etsy listings, avg $347. High competition."
+    },
+    "profitability": {
+      "score": 74,
+      "avgCostUsd": 86.78,
+      "avgSellingUsd": 347.12,
+      "estimatedMargin": 74,
+      "monthlyPotentialUsd": "$10413-27769/mo at 30-80 units",
+      "evidence": "Etsy avg $347/unit, est. cost $87, ~74% margin"
+    },
+    "supplierHealth": {
+      "score": 84,
+      "supplierCount": 34,
+      "avgSupplierRating": 4.6,
+      "avgOrderVolume": "1546+ orders",
+      "minMoq": 50,
+      "evidence": "63 suppliers on AliExpress/Alibaba, avg 4.8 rating"
+    },
+    "trending": "stable"
+  },
+  "soapstone-sculptures": {
+    "sparkScore": 51,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "14K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 25,
+      "etsyListings": 26640,
+      "etsyAvgPrice": 246.14,
+      "etsyPriceRange": "$2-8316",
+      "amazonResults": 53280,
+      "saturationLevel": "very-high",
+      "evidence": "~26,640 Etsy listings, avg $246. Very-High competition."
+    },
+    "profitability": {
+      "score": 74,
+      "avgCostUsd": 61.54,
+      "avgSellingUsd": 246.14,
+      "estimatedMargin": 74,
+      "monthlyPotentialUsd": "$7384-19691/mo at 30-80 units",
+      "evidence": "Etsy avg $246/unit, est. cost $62, ~74% margin"
+    },
+    "supplierHealth": {
+      "score": 60,
+      "supplierCount": 32,
+      "avgSupplierRating": 4.4,
+      "avgOrderVolume": "4526+ orders",
+      "minMoq": 50,
+      "evidence": "83 suppliers on AliExpress/Alibaba, avg 4.5 rating"
+    },
+    "trending": "stable"
+  },
+  "wooden-candle-holders": {
+    "sparkScore": 56,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "21K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 45,
+      "etsyListings": 10080,
+      "etsyAvgPrice": 51.49,
+      "etsyPriceRange": "$1-261",
+      "amazonResults": 20160,
+      "saturationLevel": "high",
+      "evidence": "~10,080 Etsy listings, avg $51. High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 12.87,
+      "avgSellingUsd": 51.49,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$1544-4119/mo at 30-80 units",
+      "evidence": "Etsy avg $51/unit, est. cost $13, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 62,
+      "supplierCount": 69,
+      "avgSupplierRating": 4.6,
+      "avgOrderVolume": "4514+ orders",
+      "minMoq": 1,
+      "evidence": "99 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+    },
+    "trending": "stable"
+  },
+  "glass-terrariums": {
+    "sparkScore": 52,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "20K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 25,
+      "etsyListings": 21024,
+      "etsyAvgPrice": 160.53,
+      "etsyPriceRange": "$5-8500",
+      "amazonResults": 42048,
+      "saturationLevel": "very-high",
+      "evidence": "~21,024 Etsy listings, avg $161. Very-High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 40.13,
+      "avgSellingUsd": 160.53,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$4815-12842/mo at 30-80 units",
+      "evidence": "Etsy avg $161/unit, est. cost $40, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 62,
+      "supplierCount": 22,
+      "avgSupplierRating": 4.2,
+      "avgOrderVolume": "4089+ orders",
+      "minMoq": 50,
+      "evidence": "33 suppliers on AliExpress/Alibaba, avg 4.4 rating"
+    },
+    "trending": "stable"
+  },
+  "dried-herb-wreaths": {
+    "sparkScore": 58,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "20K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 45,
+      "etsyListings": 8928,
+      "etsyAvgPrice": 68.57,
+      "etsyPriceRange": "$3-159",
+      "amazonResults": 17856,
+      "saturationLevel": "high",
+      "evidence": "~8,928 Etsy listings, avg $69. High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 17.14,
+      "avgSellingUsd": 68.57,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$2056-5485/mo at 30-80 units",
+      "evidence": "Etsy avg $69/unit, est. cost $17, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 81,
+      "supplierCount": 53,
+      "avgSupplierRating": 4.4,
+      "avgOrderVolume": "1331+ orders",
+      "minMoq": 50,
+      "evidence": "84 suppliers on AliExpress/Alibaba, avg 4.8 rating"
+    },
+    "trending": "stable"
+  },
+  "bamboo-utensil-sets": {
+    "sparkScore": 57,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "27K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 45,
+      "etsyListings": 7776,
+      "etsyAvgPrice": 52.35,
+      "etsyPriceRange": "$3-611",
+      "amazonResults": 15552,
+      "saturationLevel": "high",
+      "evidence": "~7,776 Etsy listings, avg $52. High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 13.09,
+      "avgSellingUsd": 52.35,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$1570-4187/mo at 30-80 units",
+      "evidence": "Etsy avg $52/unit, est. cost $13, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 72,
+      "supplierCount": 33,
+      "avgSupplierRating": 4.6,
+      "avgOrderVolume": "1466+ orders",
+      "minMoq": 1,
+      "evidence": "98 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+    },
+    "trending": "stable"
+  },
+  "jute-rugs": {
+    "sparkScore": 58,
+    "dataSource": "etsy_scraper",
+    "lastUpdated": "2026-04-26",
+    "demand": {
+      "score": 40,
+      "googleTrendsDirection": "stable",
+      "googleTrendsValue": 40,
+      "searchVolume": "7K/mo",
+      "seasonality": "year-round",
+      "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+    },
+    "competition": {
+      "score": 45,
+      "etsyListings": 9072,
+      "etsyAvgPrice": 118.6,
+      "etsyPriceRange": "$19-392",
+      "amazonResults": 18144,
+      "saturationLevel": "high",
+      "evidence": "~9,072 Etsy listings, avg $119. High competition."
+    },
+    "profitability": {
+      "score": 75,
+      "avgCostUsd": 29.65,
+      "avgSellingUsd": 118.6,
+      "estimatedMargin": 75,
+      "monthlyPotentialUsd": "$3558-9488/mo at 30-80 units",
+      "evidence": "Etsy avg $119/unit, est. cost $30, ~75% margin"
+    },
+    "supplierHealth": {
+      "score": 78,
+      "supplierCount": 49,
+      "avgSupplierRating": 4.8,
+      "avgOrderVolume": "3693+ orders",
+      "minMoq": 5,
+      "evidence": "53 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+    },
+    "trending": "stable"
   }
 }
