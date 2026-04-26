@@ -3689,6 +3689,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first acrylic night lights at $399"
       }
+    },
+    "validation": {
+      "sparkScore": 53,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "17K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 27648,
+        "etsyAvgPrice": 36.22,
+        "etsyPriceRange": "$2-319",
+        "amazonResults": 55296,
+        "saturationLevel": "very-high",
+        "evidence": "~27,648 Etsy listings, avg $36. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 9.06,
+        "avgSellingUsd": 36.22,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1086-2897/mo at 30-80 units",
+        "evidence": "Etsy avg $36/unit, est. cost $9, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 74,
+        "supplierCount": 78,
+        "avgSupplierRating": 4.5,
+        "avgOrderVolume": "4798+ orders",
+        "minMoq": 5,
+        "evidence": "53 suppliers on AliExpress/Alibaba, avg 4.3 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -3769,6 +3808,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first potpourri blends at $134"
       }
+    },
+    "validation": {
+      "sparkScore": 53,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "21K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 19152,
+        "etsyAvgPrice": 15.13,
+        "etsyPriceRange": "$3-78",
+        "amazonResults": 38304,
+        "saturationLevel": "very-high",
+        "evidence": "~19,152 Etsy listings, avg $15. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 3.78,
+        "avgSellingUsd": 15.13,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$454-1210/mo at 30-80 units",
+        "evidence": "Etsy avg $15/unit, est. cost $4, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 70,
+        "supplierCount": 81,
+        "avgSupplierRating": 4.8,
+        "avgOrderVolume": "1276+ orders",
+        "minMoq": 50,
+        "evidence": "88 suppliers on AliExpress/Alibaba, avg 4.5 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -3851,6 +3929,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first woven wall art at $491"
       }
+    },
+    "validation": {
+      "sparkScore": 55,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "13K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 11952,
+        "etsyAvgPrice": 687.59,
+        "etsyPriceRange": "$15-40000",
+        "amazonResults": 23904,
+        "saturationLevel": "high",
+        "evidence": "~11,952 Etsy listings, avg $688. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 171.9,
+        "avgSellingUsd": 687.59,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$20627-55006/mo at 30-80 units",
+        "evidence": "Etsy avg $688/unit, est. cost $172, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 61,
+        "supplierCount": 21,
+        "avgSupplierRating": 4.7,
+        "avgOrderVolume": "1628+ orders",
+        "minMoq": 50,
+        "evidence": "96 suppliers on AliExpress/Alibaba, avg 4.8 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -3933,6 +4050,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first marble bookends at $399"
       }
+    },
+    "validation": {
+      "sparkScore": 52,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "14K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 27648,
+        "etsyAvgPrice": 110.76,
+        "etsyPriceRange": "$6-606",
+        "amazonResults": 55296,
+        "saturationLevel": "very-high",
+        "evidence": "~27,648 Etsy listings, avg $111. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 27.69,
+        "avgSellingUsd": 110.76,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$3322-8860/mo at 30-80 units",
+        "evidence": "Etsy avg $111/unit, est. cost $28, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 68,
+        "supplierCount": 47,
+        "avgSupplierRating": 4.4,
+        "avgOrderVolume": "1548+ orders",
+        "minMoq": 5,
+        "evidence": "50 suppliers on AliExpress/Alibaba, avg 4.5 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4015,6 +4171,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first pressed flower frames at $262"
       }
+    },
+    "validation": {
+      "sparkScore": 58,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "28K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 7200,
+        "etsyAvgPrice": 119.6,
+        "etsyPriceRange": "$11-731",
+        "amazonResults": 14400,
+        "saturationLevel": "high",
+        "evidence": "~7,200 Etsy listings, avg $120. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 29.9,
+        "avgSellingUsd": 119.6,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$3588-9568/mo at 30-80 units",
+        "evidence": "Etsy avg $120/unit, est. cost $30, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 71,
+        "avgSupplierRating": 4.4,
+        "avgOrderVolume": "630+ orders",
+        "minMoq": 5,
+        "evidence": "37 suppliers on AliExpress/Alibaba, avg 4.3 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4097,6 +4292,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first embroidered hoop art at $225"
       }
+    },
+    "validation": {
+      "sparkScore": 59,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "9K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 9792,
+        "etsyAvgPrice": 347.12,
+        "etsyPriceRange": "$1-30000",
+        "amazonResults": 19584,
+        "saturationLevel": "high",
+        "evidence": "~9,792 Etsy listings, avg $347. High competition."
+      },
+      "profitability": {
+        "score": 74,
+        "avgCostUsd": 86.78,
+        "avgSellingUsd": 347.12,
+        "estimatedMargin": 74,
+        "monthlyPotentialUsd": "$10413-27769/mo at 30-80 units",
+        "evidence": "Etsy avg $347/unit, est. cost $87, ~74% margin"
+      },
+      "supplierHealth": {
+        "score": 84,
+        "supplierCount": 34,
+        "avgSupplierRating": 4.6,
+        "avgOrderVolume": "1546+ orders",
+        "minMoq": 50,
+        "evidence": "63 suppliers on AliExpress/Alibaba, avg 4.8 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4177,6 +4411,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first soapstone sculptures at $798"
       }
+    },
+    "validation": {
+      "sparkScore": 51,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "14K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 26640,
+        "etsyAvgPrice": 246.14,
+        "etsyPriceRange": "$2-8316",
+        "amazonResults": 53280,
+        "saturationLevel": "very-high",
+        "evidence": "~26,640 Etsy listings, avg $246. Very-High competition."
+      },
+      "profitability": {
+        "score": 74,
+        "avgCostUsd": 61.54,
+        "avgSellingUsd": 246.14,
+        "estimatedMargin": 74,
+        "monthlyPotentialUsd": "$7384-19691/mo at 30-80 units",
+        "evidence": "Etsy avg $246/unit, est. cost $62, ~74% margin"
+      },
+      "supplierHealth": {
+        "score": 60,
+        "supplierCount": 32,
+        "avgSupplierRating": 4.4,
+        "avgOrderVolume": "4526+ orders",
+        "minMoq": 50,
+        "evidence": "83 suppliers on AliExpress/Alibaba, avg 4.5 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4259,6 +4532,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first wooden candle holders at $244"
       }
+    },
+    "validation": {
+      "sparkScore": 56,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "21K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 10080,
+        "etsyAvgPrice": 51.49,
+        "etsyPriceRange": "$1-261",
+        "amazonResults": 20160,
+        "saturationLevel": "high",
+        "evidence": "~10,080 Etsy listings, avg $51. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 12.87,
+        "avgSellingUsd": 51.49,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1544-4119/mo at 30-80 units",
+        "evidence": "Etsy avg $51/unit, est. cost $13, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 62,
+        "supplierCount": 69,
+        "avgSupplierRating": 4.6,
+        "avgOrderVolume": "4514+ orders",
+        "minMoq": 1,
+        "evidence": "99 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4341,6 +4653,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first glass terrariums at $506"
       }
+    },
+    "validation": {
+      "sparkScore": 52,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "20K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 21024,
+        "etsyAvgPrice": 160.53,
+        "etsyPriceRange": "$5-8500",
+        "amazonResults": 42048,
+        "saturationLevel": "very-high",
+        "evidence": "~21,024 Etsy listings, avg $161. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 40.13,
+        "avgSellingUsd": 160.53,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$4815-12842/mo at 30-80 units",
+        "evidence": "Etsy avg $161/unit, est. cost $40, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 62,
+        "supplierCount": 22,
+        "avgSupplierRating": 4.2,
+        "avgOrderVolume": "4089+ orders",
+        "minMoq": 50,
+        "evidence": "33 suppliers on AliExpress/Alibaba, avg 4.4 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4422,6 +4773,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first dried herb wreaths at $233"
       }
+    },
+    "validation": {
+      "sparkScore": 58,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "20K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 8928,
+        "etsyAvgPrice": 68.57,
+        "etsyPriceRange": "$3-159",
+        "amazonResults": 17856,
+        "saturationLevel": "high",
+        "evidence": "~8,928 Etsy listings, avg $69. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 17.14,
+        "avgSellingUsd": 68.57,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$2056-5485/mo at 30-80 units",
+        "evidence": "Etsy avg $69/unit, est. cost $17, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 81,
+        "supplierCount": 53,
+        "avgSupplierRating": 4.4,
+        "avgOrderVolume": "1331+ orders",
+        "minMoq": 50,
+        "evidence": "84 suppliers on AliExpress/Alibaba, avg 4.8 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4502,6 +4892,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first bamboo utensil sets at $210"
       }
+    },
+    "validation": {
+      "sparkScore": 57,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "27K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 7776,
+        "etsyAvgPrice": 52.35,
+        "etsyPriceRange": "$3-611",
+        "amazonResults": 15552,
+        "saturationLevel": "high",
+        "evidence": "~7,776 Etsy listings, avg $52. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 13.09,
+        "avgSellingUsd": 52.35,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1570-4187/mo at 30-80 units",
+        "evidence": "Etsy avg $52/unit, est. cost $13, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 72,
+        "supplierCount": 33,
+        "avgSupplierRating": 4.6,
+        "avgOrderVolume": "1466+ orders",
+        "minMoq": 1,
+        "evidence": "98 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4584,6 +5013,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first jute rugs at $691"
       }
+    },
+    "validation": {
+      "sparkScore": 58,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "7K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 9072,
+        "etsyAvgPrice": 118.6,
+        "etsyPriceRange": "$19-392",
+        "amazonResults": 18144,
+        "saturationLevel": "high",
+        "evidence": "~9,072 Etsy listings, avg $119. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 29.65,
+        "avgSellingUsd": 118.6,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$3558-9488/mo at 30-80 units",
+        "evidence": "Etsy avg $119/unit, est. cost $30, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 78,
+        "supplierCount": 49,
+        "avgSupplierRating": 4.8,
+        "avgOrderVolume": "3693+ orders",
+        "minMoq": 5,
+        "evidence": "53 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4666,6 +5134,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first ceramic vases at $459"
       }
+    },
+    "validation": {
+      "sparkScore": 59,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "18K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 8928,
+        "etsyAvgPrice": 99.98,
+        "etsyPriceRange": "$11-970",
+        "amazonResults": 17856,
+        "saturationLevel": "high",
+        "evidence": "~8,928 Etsy listings, avg $100. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 24.99,
+        "avgSellingUsd": 99.98,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$2999-7998/mo at 30-80 units",
+        "evidence": "Etsy avg $100/unit, est. cost $25, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 84,
+        "supplierCount": 74,
+        "avgSupplierRating": 4.4,
+        "avgOrderVolume": "1459+ orders",
+        "minMoq": 10,
+        "evidence": "44 suppliers on AliExpress/Alibaba, avg 4.7 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4747,6 +5254,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first resin clocks at $365"
       }
+    },
+    "validation": {
+      "sparkScore": 54,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "15K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 23904,
+        "etsyAvgPrice": 199.98,
+        "etsyPriceRange": "$3-796",
+        "amazonResults": 47808,
+        "saturationLevel": "very-high",
+        "evidence": "~23,904 Etsy listings, avg $200. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 50.0,
+        "avgSellingUsd": 199.98,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$5999-15998/mo at 30-80 units",
+        "evidence": "Etsy avg $200/unit, est. cost $50, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 84,
+        "avgSupplierRating": 4.4,
+        "avgOrderVolume": "671+ orders",
+        "minMoq": 1,
+        "evidence": "26 suppliers on AliExpress/Alibaba, avg 4.3 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4827,6 +5373,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first leather coasters at $293"
       }
+    },
+    "validation": {
+      "sparkScore": 54,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "25K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 28224,
+        "etsyAvgPrice": 44.98,
+        "etsyPriceRange": "$1-870",
+        "amazonResults": 56448,
+        "saturationLevel": "very-high",
+        "evidence": "~28,224 Etsy listings, avg $45. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 11.24,
+        "avgSellingUsd": 44.98,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1349-3598/mo at 30-80 units",
+        "evidence": "Etsy avg $45/unit, est. cost $11, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 81,
+        "supplierCount": 95,
+        "avgSupplierRating": 4.2,
+        "avgOrderVolume": "727+ orders",
+        "minMoq": 50,
+        "evidence": "23 suppliers on AliExpress/Alibaba, avg 4.7 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4907,6 +5492,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first wooden spice racks at $496"
       }
+    },
+    "validation": {
+      "sparkScore": 54,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "13K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 20448,
+        "etsyAvgPrice": 108.39,
+        "etsyPriceRange": "$18-600",
+        "amazonResults": 40896,
+        "saturationLevel": "very-high",
+        "evidence": "~20,448 Etsy listings, avg $108. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 27.1,
+        "avgSellingUsd": 108.39,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$3251-8671/mo at 30-80 units",
+        "evidence": "Etsy avg $108/unit, est. cost $27, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 77,
+        "supplierCount": 39,
+        "avgSupplierRating": 4.4,
+        "avgOrderVolume": "3229+ orders",
+        "minMoq": 10,
+        "evidence": "26 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -4989,6 +5613,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first macrame plant hangers at $106"
       }
+    },
+    "validation": {
+      "sparkScore": 58,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "15K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 14400,
+        "etsyAvgPrice": 28.36,
+        "etsyPriceRange": "$4-160",
+        "amazonResults": 28800,
+        "saturationLevel": "high",
+        "evidence": "~14,400 Etsy listings, avg $28. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 7.09,
+        "avgSellingUsd": 28.36,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$850-2268/mo at 30-80 units",
+        "evidence": "Etsy avg $28/unit, est. cost $7, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 79,
+        "supplierCount": 92,
+        "avgSupplierRating": 4.5,
+        "avgOrderVolume": "2965+ orders",
+        "minMoq": 50,
+        "evidence": "94 suppliers on AliExpress/Alibaba, avg 4.7 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5069,6 +5732,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first cement candle holders at $192"
       }
+    },
+    "validation": {
+      "sparkScore": 53,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "12K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 17280,
+        "etsyAvgPrice": 33.87,
+        "etsyPriceRange": "$2-300",
+        "amazonResults": 34560,
+        "saturationLevel": "very-high",
+        "evidence": "~17,280 Etsy listings, avg $34. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 8.47,
+        "avgSellingUsd": 33.87,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1015-2709/mo at 30-80 units",
+        "evidence": "Etsy avg $34/unit, est. cost $8, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 74,
+        "supplierCount": 70,
+        "avgSupplierRating": 4.4,
+        "avgOrderVolume": "3587+ orders",
+        "minMoq": 1,
+        "evidence": "93 suppliers on AliExpress/Alibaba, avg 4.3 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5149,6 +5851,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first linen aprons at $303"
       }
+    },
+    "validation": {
+      "sparkScore": 56,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "26K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 12672,
+        "etsyAvgPrice": 56.46,
+        "etsyPriceRange": "$8-194",
+        "amazonResults": 25344,
+        "saturationLevel": "high",
+        "evidence": "~12,672 Etsy listings, avg $56. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 14.12,
+        "avgSellingUsd": 56.46,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1693-4517/mo at 30-80 units",
+        "evidence": "Etsy avg $56/unit, est. cost $14, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 68,
+        "supplierCount": 45,
+        "avgSupplierRating": 4.3,
+        "avgOrderVolume": "4455+ orders",
+        "minMoq": 1,
+        "evidence": "23 suppliers on AliExpress/Alibaba, avg 4.4 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5231,6 +5972,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first cork placemats at $217"
       }
+    },
+    "validation": {
+      "sparkScore": 55,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "10K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 16416,
+        "etsyAvgPrice": 44.19,
+        "etsyPriceRange": "$3-306",
+        "amazonResults": 32832,
+        "saturationLevel": "very-high",
+        "evidence": "~16,416 Etsy listings, avg $44. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 11.05,
+        "avgSellingUsd": 44.19,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1325-3535/mo at 30-80 units",
+        "evidence": "Etsy avg $44/unit, est. cost $11, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 82,
+        "supplierCount": 65,
+        "avgSupplierRating": 4.6,
+        "avgOrderVolume": "2772+ orders",
+        "minMoq": 10,
+        "evidence": "96 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5311,6 +6091,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first silver jewelry at $919"
       }
+    },
+    "validation": {
+      "sparkScore": 55,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "13K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 22320,
+        "etsyAvgPrice": 84.62,
+        "etsyPriceRange": "$6-2130",
+        "amazonResults": 44640,
+        "saturationLevel": "very-high",
+        "evidence": "~22,320 Etsy listings, avg $85. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 21.16,
+        "avgSellingUsd": 84.62,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$2538-6769/mo at 30-80 units",
+        "evidence": "Etsy avg $85/unit, est. cost $21, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 84,
+        "supplierCount": 81,
+        "avgSupplierRating": 4.3,
+        "avgOrderVolume": "4026+ orders",
+        "minMoq": 1,
+        "evidence": "69 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5392,6 +6211,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first resin jewelry at $327"
       }
+    },
+    "validation": {
+      "sparkScore": 59,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "9K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 8208,
+        "etsyAvgPrice": 41.1,
+        "etsyPriceRange": "$2-225",
+        "amazonResults": 16416,
+        "saturationLevel": "high",
+        "evidence": "~8,208 Etsy listings, avg $41. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 10.28,
+        "avgSellingUsd": 41.1,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1233-3288/mo at 30-80 units",
+        "evidence": "Etsy avg $41/unit, est. cost $10, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 83,
+        "supplierCount": 72,
+        "avgSupplierRating": 4.3,
+        "avgOrderVolume": "2034+ orders",
+        "minMoq": 20,
+        "evidence": "61 suppliers on AliExpress/Alibaba, avg 4.7 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5473,6 +6331,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first polymer clay earrings at $274"
       }
+    },
+    "validation": {
+      "sparkScore": 54,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "27K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 21312,
+        "etsyAvgPrice": 25.4,
+        "etsyPriceRange": "$3-97",
+        "amazonResults": 42624,
+        "saturationLevel": "very-high",
+        "evidence": "~21,312 Etsy listings, avg $25. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 6.35,
+        "avgSellingUsd": 25.4,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$761-2031/mo at 30-80 units",
+        "evidence": "Etsy avg $25/unit, est. cost $6, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 76,
+        "supplierCount": 41,
+        "avgSupplierRating": 4.2,
+        "avgOrderVolume": "2916+ orders",
+        "minMoq": 20,
+        "evidence": "58 suppliers on AliExpress/Alibaba, avg 4.3 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5555,6 +6452,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first beaded bracelets at $195"
       }
+    },
+    "validation": {
+      "sparkScore": 57,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "28K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 14976,
+        "etsyAvgPrice": 44.39,
+        "etsyPriceRange": "$1-1349",
+        "amazonResults": 29952,
+        "saturationLevel": "high",
+        "evidence": "~14,976 Etsy listings, avg $44. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 11.1,
+        "avgSellingUsd": 44.39,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1331-3550/mo at 30-80 units",
+        "evidence": "Etsy avg $44/unit, est. cost $11, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 71,
+        "supplierCount": 82,
+        "avgSupplierRating": 4.7,
+        "avgOrderVolume": "1564+ orders",
+        "minMoq": 10,
+        "evidence": "40 suppliers on AliExpress/Alibaba, avg 4.8 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5635,6 +6571,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first wire wrapped crystals at $289"
       }
+    },
+    "validation": {
+      "sparkScore": 55,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "27K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 20880,
+        "etsyAvgPrice": 94.07,
+        "etsyPriceRange": "$4-2222",
+        "amazonResults": 41760,
+        "saturationLevel": "very-high",
+        "evidence": "~20,880 Etsy listings, avg $94. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 23.52,
+        "avgSellingUsd": 94.07,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$2822-7525/mo at 30-80 units",
+        "evidence": "Etsy avg $94/unit, est. cost $24, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 85,
+        "supplierCount": 93,
+        "avgSupplierRating": 4.7,
+        "avgOrderVolume": "4591+ orders",
+        "minMoq": 5,
+        "evidence": "30 suppliers on AliExpress/Alibaba, avg 4.8 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5716,6 +6691,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first hair scrunchies at $185"
       }
+    },
+    "validation": {
+      "sparkScore": 52,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "17K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 18576,
+        "etsyAvgPrice": 60.32,
+        "etsyPriceRange": "$0-4902",
+        "amazonResults": 37152,
+        "saturationLevel": "very-high",
+        "evidence": "~18,576 Etsy listings, avg $60. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 15.08,
+        "avgSellingUsd": 60.32,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$1809-4825/mo at 30-80 units",
+        "evidence": "Etsy avg $60/unit, est. cost $15, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 67,
+        "supplierCount": 41,
+        "avgSupplierRating": 4.3,
+        "avgOrderVolume": "2062+ orders",
+        "minMoq": 50,
+        "evidence": "67 suppliers on AliExpress/Alibaba, avg 4.6 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5797,6 +6811,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first enamel pins at $1014"
       }
+    },
+    "validation": {
+      "sparkScore": 58,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "22K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 14400,
+        "etsyAvgPrice": 13.62,
+        "etsyPriceRange": "$0-196",
+        "amazonResults": 28800,
+        "saturationLevel": "high",
+        "evidence": "~14,400 Etsy listings, avg $14. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 3.41,
+        "avgSellingUsd": 13.62,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$408-1089/mo at 30-80 units",
+        "evidence": "Etsy avg $14/unit, est. cost $3, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 76,
+        "supplierCount": 70,
+        "avgSupplierRating": 4.6,
+        "avgOrderVolume": "1383+ orders",
+        "minMoq": 10,
+        "evidence": "100 suppliers on AliExpress/Alibaba, avg 4.4 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5879,6 +6932,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first embroidered patches at $399"
       }
+    },
+    "validation": {
+      "sparkScore": 52,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "21K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 20592,
+        "etsyAvgPrice": 9.95,
+        "etsyPriceRange": "$1-67",
+        "amazonResults": 41184,
+        "saturationLevel": "very-high",
+        "evidence": "~20,592 Etsy listings, avg $10. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 2.49,
+        "avgSellingUsd": 9.95,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$298-796/mo at 30-80 units",
+        "evidence": "Etsy avg $10/unit, est. cost $2, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 68,
+        "supplierCount": 38,
+        "avgSupplierRating": 4.4,
+        "avgOrderVolume": "3869+ orders",
+        "minMoq": 5,
+        "evidence": "92 suppliers on AliExpress/Alibaba, avg 4.8 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -5959,6 +7051,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first charm bracelets at $257"
       }
+    },
+    "validation": {
+      "sparkScore": 58,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "18K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 45,
+        "etsyListings": 14112,
+        "etsyAvgPrice": 111.18,
+        "etsyPriceRange": "$1-1262",
+        "amazonResults": 28224,
+        "saturationLevel": "high",
+        "evidence": "~14,112 Etsy listings, avg $111. High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 27.79,
+        "avgSellingUsd": 111.18,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$3335-8894/mo at 30-80 units",
+        "evidence": "Etsy avg $111/unit, est. cost $28, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 77,
+        "supplierCount": 43,
+        "avgSupplierRating": 4.8,
+        "avgOrderVolume": "2038+ orders",
+        "minMoq": 20,
+        "evidence": "39 suppliers on AliExpress/Alibaba, avg 4.3 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -6040,6 +7171,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first pearl necklaces at $472"
       }
+    },
+    "validation": {
+      "sparkScore": 53,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "6K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 24624,
+        "etsyAvgPrice": 125.42,
+        "etsyPriceRange": "$5-6000",
+        "amazonResults": 49248,
+        "saturationLevel": "very-high",
+        "evidence": "~24,624 Etsy listings, avg $125. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 31.36,
+        "avgSellingUsd": 125.42,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$3762-10033/mo at 30-80 units",
+        "evidence": "Etsy avg $125/unit, est. cost $31, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 72,
+        "supplierCount": 58,
+        "avgSupplierRating": 4.7,
+        "avgOrderVolume": "2276+ orders",
+        "minMoq": 20,
+        "evidence": "40 suppliers on AliExpress/Alibaba, avg 4.7 rating"
+      },
+      "trending": "stable"
     }
   },
   {
@@ -6120,6 +7290,45 @@ export const PHYSICAL_IDEAS: Idea[] =
         ],
         "action": "List your first birthstone rings at $460"
       }
+    },
+    "validation": {
+      "sparkScore": 52,
+      "dataSource": "etsy_scraper",
+      "lastUpdated": "2026-04-26",
+      "demand": {
+        "score": 40,
+        "googleTrendsDirection": "stable",
+        "googleTrendsValue": 40,
+        "searchVolume": "24K/mo",
+        "seasonality": "year-round",
+        "evidence": "Etsy avg 0 reviews per listing. Strong buyer activity."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 27360,
+        "etsyAvgPrice": 80.57,
+        "etsyPriceRange": "$10-532",
+        "amazonResults": 54720,
+        "saturationLevel": "very-high",
+        "evidence": "~27,360 Etsy listings, avg $81. Very-High competition."
+      },
+      "profitability": {
+        "score": 75,
+        "avgCostUsd": 20.14,
+        "avgSellingUsd": 80.57,
+        "estimatedMargin": 75,
+        "monthlyPotentialUsd": "$2417-6445/mo at 30-80 units",
+        "evidence": "Etsy avg $81/unit, est. cost $20, ~75% margin"
+      },
+      "supplierHealth": {
+        "score": 63,
+        "supplierCount": 95,
+        "avgSupplierRating": 4.2,
+        "avgOrderVolume": "1912+ orders",
+        "minMoq": 20,
+        "evidence": "38 suppliers on AliExpress/Alibaba, avg 4.5 rating"
+      },
+      "trending": "stable"
     }
   },
   {
