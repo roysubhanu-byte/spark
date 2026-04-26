@@ -15,7 +15,7 @@ export function SourcingCards({ idea, region }: Props) {
   return <PhysicalSourcing idea={idea} region={region} />
 }
 
-function SupplierCard({ supplier, isPrimary }: { supplier: SupplierResult; isPrimary?: boolean }) {
+function SupplierCard({ supplier, isPrimary, isSample }: { supplier: SupplierResult; isPrimary?: boolean; isSample?: boolean }) {
   const platformColors: Record<string, { bg: string; text: string }> = {
     aliexpress: { bg: '#FFE4B5', text: '#1F1B16' },
     alibaba: { bg: '#FF6A00', text: '#fff' },
@@ -31,11 +31,19 @@ function SupplierCard({ supplier, isPrimary }: { supplier: SupplierResult; isPri
         background: isPrimary ? 'rgba(201,154,75,0.08)' : 'var(--color-card)',
         borderColor: isPrimary ? 'rgba(201,154,75,0.3)' : 'var(--color-line-soft)',
       }}>
-      {isPrimary && (
-        <div className="inline-block text-[9px] font-bold uppercase tracking-[0.12em] px-2 py-0.5 bg-gold text-ink rounded-full mb-2">
-          Top rated
-        </div>
-      )}
+      <div className="flex justify-between items-start mb-1">
+        {isPrimary && (
+          <div className="inline-block text-[9px] font-bold uppercase tracking-[0.12em] px-2 py-0.5 bg-gold text-ink rounded-full">
+            Top rated
+          </div>
+        )}
+        {!isPrimary && <div />}
+        {isSample && (
+          <span className="text-[9px] text-gray-400 tracking-wide" title="We're verifying real suppliers for this product. Check back this week.">
+            Sample data
+          </span>
+        )}
+      </div>
 
       {/* Supplier name + platform */}
       <div className="flex items-center gap-2 mb-2">
@@ -85,9 +93,9 @@ function PhysicalSourcing({ idea, region }: { idea: Idea; region: Region }) {
 
   return (
     <div className="flex flex-col gap-2.5">
-      {/* Real supplier cards with ratings */}
+      {/* Supplier cards with ratings */}
       {supplierData.suppliers.map((supplier, i) => (
-        <SupplierCard key={i} supplier={supplier} isPrimary={i === 0} />
+        <SupplierCard key={i} supplier={supplier} isPrimary={i === 0} isSample={supplierData.source === 'sample'} />
       ))}
 
       {supplierData.source === 'sample' && (

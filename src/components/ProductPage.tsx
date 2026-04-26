@@ -174,7 +174,7 @@ export function ProductPage({ idea, region, profiles, isSaved, onSave, onOpenSto
         {/* Sourcing / Build Tools */}
         <div className="mx-5 mb-6">
           <div className="text-[11px] uppercase tracking-[0.18em] text-accent font-medium mb-3">
-            {idea.deck === 'physical' ? 'Where to source' : 'Tools to build it'}
+            {idea.deck === 'physical' ? 'Materials & tools' : 'Tools to build it'}
           </div>
           <SourcingCards idea={idea} region={region} />
         </div>

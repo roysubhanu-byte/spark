@@ -5,7 +5,8 @@ export const REGIONS: Partial<Record<Region, RegionInfo>> & Record<'US' | 'IN', 
   IN: { code: 'IN', name: 'India', flag: '🇮🇳', currency: 'INR', symbol: '₹', rate: 83 },
 }
 
-export const ACTIVE_REGIONS: Region[] = ['US', 'IN']
+// v1: US only. Other regions coming in v2.
+export const ACTIVE_REGIONS: Region[] = ['US']
 
 export function formatMoney(lowUsd: number, highUsd: number, region: Region): string {
   const r = REGIONS[region] || REGIONS.US

@@ -89,6 +89,11 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
         <h2 className="font-display font-light text-4xl leading-[1.1] tracking-tight mb-[22px]">
           {SECTION_LABELS[sectionKey]}
         </h2>
+        {sectionKey === 'distributors' && (
+          <div className="text-xs text-white/50 mb-4 leading-relaxed">
+            These are the raw materials and tools to make this product. The next story covers where to sell the finished product.
+          </div>
+        )}
         <div className="text-base leading-[1.6] text-bg/85 mb-[26px] [&_strong]:text-bg [&_strong]:font-semibold"
           dangerouslySetInnerHTML={{ __html: bodyHtml }} />
 

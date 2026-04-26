@@ -19,7 +19,7 @@ export function RegionPicker({ open, current, onPick, onClose }: Props) {
         style={{ transitionTimingFunction: 'cubic-bezier(0.2, 0.9, 0.3, 1)' }}>
         <div className="w-9 h-1 bg-line rounded-sm mx-auto mb-[18px]" />
         <h3 className="font-display font-normal text-2xl tracking-tight mb-1">Your market</h3>
-        <p className="text-[13px] text-ink-mute mb-[18px]">Prices and sources adjust to your region.</p>
+        <p className="text-[13px] text-ink-mute mb-[18px]">Find ideas that work for US makers and sellers.</p>
         <div className="flex flex-col gap-2">
           {Object.values(REGIONS).map(r => {
             const active = ACTIVE_REGIONS.includes(r.code)

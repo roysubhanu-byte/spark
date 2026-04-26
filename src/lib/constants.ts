@@ -8,18 +8,23 @@ export const SECTION_LABELS: Record<SectionKey, string> = {
   strategy: 'Strategy',
   value: 'Value',
   profit: 'Profit Math',
-  distributors: 'Distributors',
-  pricing: 'Pricing Model',
-  sellingPrice: 'Selling Price',
+  distributors: 'Materials',
+  pricing: 'Pricing',
+  sellingPrice: 'Where to Sell',
 }
 
 export const SECTION_EYEBROW: Record<SectionKey, string> = {
   strategy: 'The angle',
   value: 'Who buys this',
   profit: 'Show me the money',
-  distributors: 'Where to source',
+  distributors: 'What you need to make it',
   pricing: 'How you charge',
-  sellingPrice: 'Your launch price',
+  sellingPrice: 'Where your customers are',
+}
+
+// Feature flags
+export const FEATURE_FLAGS = {
+  multiRegion: false,  // v1 = US only. Set true to enable IN/AE/RU/KZ
 }
 
 export const INTERESTS = [

@@ -40,16 +40,11 @@ export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onT
             </div>
           </div>
           <h3 className="font-display text-[24px] font-light mb-3 tracking-tight leading-tight">
-            You've seen our {Math.min(ideas.length, 100)} picks for you
+            You've explored {cardIdx} ideas
           </h3>
           <p className="text-sm text-ink-soft leading-relaxed mb-5">
-            We add 5-10 new ideas every week based on what's trending. Check back Monday.
+            That's everything matching your filters. Try changing your interests or deck type to discover more.
           </p>
-          <div className="flex flex-col gap-2">
-            <div className="text-xs text-ink-mute bg-card border border-line-soft rounded-xl px-4 py-3">
-              {cardIdx} ideas browsed, {ideas.filter((_, i) => i < cardIdx).length} seen
-            </div>
-          </div>
         </div>
       </div>
     )
