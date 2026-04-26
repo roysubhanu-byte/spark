@@ -79,6 +79,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -154,6 +193,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -229,6 +307,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -305,6 +422,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -382,6 +538,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -459,6 +654,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -535,6 +769,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -610,6 +883,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -687,6 +999,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -762,6 +1113,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -837,6 +1227,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -912,6 +1341,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -988,6 +1456,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1064,6 +1571,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1141,6 +1687,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1216,6 +1801,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1291,6 +1915,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1367,6 +2030,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1442,6 +2144,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1518,6 +2259,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: AI & Automation Tools. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in AI & Automation Tools. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1593,6 +2373,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1669,6 +2488,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1744,6 +2602,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1820,6 +2717,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1896,6 +2832,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -1970,6 +2945,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2046,6 +3060,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2120,6 +3173,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2194,6 +3286,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2270,6 +3401,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2345,6 +3515,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2419,6 +3628,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2495,6 +3743,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2570,6 +3857,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2645,6 +3971,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2719,6 +4084,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2793,6 +4197,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2868,6 +4311,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -2942,6 +4424,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3016,6 +4537,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3092,6 +4652,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3168,6 +4767,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3242,6 +4880,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3316,6 +4993,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3391,6 +5107,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3466,6 +5221,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3542,6 +5336,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3618,6 +5451,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3693,6 +5565,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3768,6 +5679,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3842,6 +5792,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3917,6 +5906,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -3993,6 +6021,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4069,6 +6136,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4145,6 +6251,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4221,6 +6366,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4297,6 +6481,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4372,6 +6595,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4446,6 +6708,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4520,6 +6821,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4596,6 +6936,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4673,6 +7052,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4749,6 +7167,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4826,6 +7283,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4901,6 +7397,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -4976,6 +7511,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5053,6 +7627,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5130,6 +7743,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5207,6 +7859,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5282,6 +7973,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5359,6 +8089,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5434,6 +8203,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5511,6 +8319,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5586,6 +8433,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5662,6 +8548,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5737,6 +8662,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5814,6 +8778,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5889,6 +8892,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -5966,6 +9008,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6041,6 +9122,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6115,6 +9235,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6190,6 +9349,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6264,6 +9462,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6338,6 +9575,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6413,6 +9689,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6488,6 +9803,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6563,6 +9917,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6638,6 +10031,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6714,6 +10146,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6790,6 +10261,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6865,6 +10375,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -6939,6 +10488,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7014,6 +10602,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7090,6 +10717,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7164,6 +10830,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7240,6 +10945,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7315,6 +11059,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7390,6 +11173,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7465,6 +11287,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7539,6 +11400,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7613,6 +11513,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7687,6 +11626,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7763,6 +11741,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7837,6 +11854,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7913,6 +11969,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -7987,6 +12082,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8062,6 +12196,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8137,6 +12310,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8211,6 +12423,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8285,6 +12536,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8359,6 +12649,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8433,6 +12762,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8508,6 +12876,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8584,6 +12991,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8659,6 +13105,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8733,6 +13218,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8809,6 +13333,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8885,6 +13448,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -8961,6 +13563,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9036,6 +13677,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9112,6 +13792,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9188,6 +13907,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9264,6 +14022,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9339,6 +14136,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9416,6 +14252,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9491,6 +14366,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9566,6 +14480,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9642,6 +14595,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9717,6 +14709,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9792,6 +14823,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9867,6 +14937,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -9943,6 +15052,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10020,6 +15168,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10095,6 +15282,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10170,6 +15396,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10246,6 +15511,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10322,6 +15626,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10399,6 +15742,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10474,6 +15856,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10551,6 +15972,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10627,6 +16087,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10702,6 +16201,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10776,6 +16314,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10851,6 +16428,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10925,6 +16541,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -10999,6 +16654,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11073,6 +16767,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11148,6 +16881,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11222,6 +16994,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11298,6 +17109,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11372,6 +17222,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11447,6 +17336,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11523,6 +17451,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11597,6 +17564,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11671,6 +17677,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11746,6 +17791,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11820,6 +17904,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11895,6 +18018,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -11970,6 +18132,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12046,6 +18247,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12120,6 +18360,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12196,6 +18475,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12270,6 +18588,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12346,6 +18703,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12421,6 +18817,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12497,6 +18932,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12573,6 +19047,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12647,6 +19160,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12723,6 +19275,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12799,6 +19390,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12873,6 +19503,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -12947,6 +19616,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13021,6 +19729,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13095,6 +19842,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13169,6 +19955,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13244,6 +20069,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13320,6 +20184,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13396,6 +20299,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13471,6 +20413,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13545,6 +20526,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13619,6 +20639,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13694,6 +20753,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13770,6 +20868,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13846,6 +20983,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13922,6 +21098,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -13996,6 +21211,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14070,6 +21324,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14145,6 +21438,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14221,6 +21553,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14295,6 +21666,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14369,6 +21779,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14444,6 +21893,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14518,6 +22006,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14592,6 +22119,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14667,6 +22233,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14741,6 +22346,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14816,6 +22460,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14891,6 +22574,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -14967,6 +22689,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   },
   {
@@ -15043,6 +22804,45 @@ export const SAAS_IDEAS: Idea[] =
         ],
         "action": "Set your pricing page live with Free + Pro tiers"
       }
+    },
+    "validation": {
+      "sparkScore": 66,
+      "dataSource": "google_trends+category_benchmarks",
+      "lastUpdated": "2026-04-27",
+      "demand": {
+        "score": 90,
+        "googleTrendsDirection": "hot",
+        "googleTrendsValue": 90,
+        "searchVolume": "N/A (SaaS)",
+        "seasonality": "year-round",
+        "evidence": "Category: Tech & Gadgets. Trend: hot. SaaS demand is hot."
+      },
+      "competition": {
+        "score": 25,
+        "etsyListings": 0,
+        "etsyAvgPrice": 0,
+        "etsyPriceRange": "N/A",
+        "amazonResults": 0,
+        "saturationLevel": "very-high",
+        "evidence": "Very-High competition in Tech & Gadgets. MRR potential: $500-5000."
+      },
+      "profitability": {
+        "score": 80,
+        "avgCostUsd": 0,
+        "avgSellingUsd": 0,
+        "estimatedMargin": 85,
+        "monthlyPotentialUsd": "$500-5000",
+        "evidence": "SaaS margins typically 80-90%. $500-5000 MRR potential."
+      },
+      "supplierHealth": {
+        "score": 80,
+        "supplierCount": 0,
+        "avgSupplierRating": 0,
+        "avgOrderVolume": "N/A",
+        "minMoq": 0,
+        "evidence": "SaaS: no physical suppliers. Build with free tools (Vercel, Supabase, Stripe)."
+      },
+      "trending": "hot"
     }
   }
 ]
