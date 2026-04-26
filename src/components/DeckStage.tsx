@@ -21,21 +21,35 @@ export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onT
     if (!idea) return
     if (dir === 'right') {
       onSave(idea)
-      showToast(`Saved · ${idea.name}`)
+      showToast(`Saved \u00b7 ${idea.name}`)
     }
     if (showHint) onDismissHint()
     onCardIdxChange(cardIdx + 1)
   }, [cardIdx, ideas, onSave, onCardIdxChange, showHint, onDismissHint])
 
+  // Empty deck state
   if (cardIdx >= ideas.length) {
     return (
       <div className="flex-1 flex items-center justify-center">
-        <div className="text-center px-7">
-          <div className="text-5xl mb-4 grayscale-[20%]">🎉</div>
-          <h3 className="font-display text-[28px] font-normal mb-2 tracking-tight">You've seen them all!</h3>
-          <p className="text-sm text-ink-soft leading-relaxed">
-            Check your saved ideas or adjust your filters to see more.
+        <div className="text-center px-8 max-w-[320px]">
+          {/* Calm illustration */}
+          <div className="relative w-24 h-24 mx-auto mb-6">
+            <div className="absolute inset-0 rounded-full bg-gradient-to-br from-sage/20 to-accent/10" />
+            <div className="absolute inset-2 rounded-full bg-gradient-to-br from-sage/30 to-gold/20 flex items-center justify-center">
+              <span className="text-4xl">&#10024;</span>
+            </div>
+          </div>
+          <h3 className="font-display text-[24px] font-light mb-3 tracking-tight leading-tight">
+            You've seen our {Math.min(ideas.length, 100)} picks for you
+          </h3>
+          <p className="text-sm text-ink-soft leading-relaxed mb-5">
+            We add 5-10 new ideas every week based on what's trending. Check back Monday.
           </p>
+          <div className="flex flex-col gap-2">
+            <div className="text-xs text-ink-mute bg-card border border-line-soft rounded-xl px-4 py-3">
+              {cardIdx} ideas browsed, {ideas.filter((_, i) => i < cardIdx).length} seen
+            </div>
+          </div>
         </div>
       </div>
     )
@@ -54,6 +68,7 @@ export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onT
                 idea={idea}
                 region={region}
                 depth={i}
+                cardIndex={cardIdx + i}
                 onSwipe={handleSwipe}
                 onTap={() => { if (showHint) onDismissHint(); onTap(idea) }}
                 showHint={i === 0 && showHint}
@@ -77,14 +92,14 @@ export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onT
           className="w-[60px] h-[60px] rounded-full bg-card shadow-sm flex items-center justify-center
             cursor-pointer text-[18px] text-ink-soft transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]"
         >
-          ℹ
+          &#8505;
         </button>
         <button
           onClick={() => handleSwipe('right')}
           className="w-[70px] h-[70px] rounded-full bg-card shadow-sm flex items-center justify-center
             cursor-pointer text-[26px] text-sage transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]"
         >
-          ♡
+          &#9825;
         </button>
       </div>
     </>
