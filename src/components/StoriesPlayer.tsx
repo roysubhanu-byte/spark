@@ -33,10 +33,10 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
     else onClose()
   }, [idx, onClose])
 
-  // Auto-advance (skip for distributors)
+  // Auto-advance (distributors gets 15s instead of 8s — more to read)
   useEffect(() => {
-    if (isDistributors) return
-    timerRef.current = setTimeout(advance, 8000)
+    const delay = isDistributors ? 15000 : 8000
+    timerRef.current = setTimeout(advance, delay)
     return () => clearTimeout(timerRef.current)
   }, [idx, isDistributors, advance])
 
@@ -62,7 +62,7 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
               className={`h-full bg-white transition-[width] ${
                 i < idx ? 'w-full' : i === idx ? 'w-full' : 'w-0'
               }`}
-              style={i === idx && !isDistributors ? { transition: 'width 8s linear' } : undefined}
+              style={i === idx ? { transition: `width ${isDistributors ? '15' : '8'}s linear` } : undefined}
             />
           </div>
         ))}
@@ -124,6 +124,25 @@ export function StoriesPlayer({ idea, region, addedSections, onAddTodo, onClose 
       <div className="absolute inset-0 z-[3] flex">
         <div className="flex-[0.35] cursor-pointer" onClick={() => idx > 0 && setIdx(i => i - 1)} />
         <div className="flex-1 cursor-pointer" onClick={advance} />
+      </div>
+
+      {/* Navigation hints — visible at bottom */}
+      <div className="absolute bottom-4 left-0 right-0 z-[4] flex justify-between px-6 pointer-events-none">
+        <span className={`text-xs text-white/40 ${idx === 0 ? 'opacity-0' : ''}`}>
+          &#8592; Tap left
+        </span>
+        <span className="text-xs text-white/40">
+          {idx < SECTION_KEYS.length - 1 ? 'Tap right \u2192' : 'Tap to close \u2192'}
+        </span>
+      </div>
+
+      {/* Section dots — tap to jump to any section */}
+      <div className="absolute bottom-10 left-0 right-0 z-[4] flex justify-center gap-2">
+        {SECTION_KEYS.map((_, i) => (
+          <button key={i} onClick={() => setIdx(i)}
+            className={`w-2 h-2 rounded-full border-none cursor-pointer transition-all
+              ${i === idx ? 'bg-white w-5' : i < idx ? 'bg-white/50' : 'bg-white/20'}`} />
+        ))}
       </div>
     </div>
   )

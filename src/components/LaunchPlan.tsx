@@ -95,15 +95,15 @@ export function LaunchPlan({ plan, deck, interests, onComplete, onBack }: Props)
                 const planTask = plan.tasks.find(t => t.day === task.day)
                 const isCompleted = planTask?.completed || false
                 const isToday = task.day === currentDay
-                const isLocked = task.day > currentDay + 1 // can do today + tomorrow
+                const isFuture = task.day > currentDay + 2 // visual dimming only, not locked
 
                 return (
                   <div key={task.day}
-                    onClick={() => !isCompleted && !isLocked && onComplete(task.day)}
+                    onClick={() => !isCompleted && onComplete(task.day)}
                     className={`flex items-start gap-3 px-4 py-3.5 rounded-xl mb-2 transition-all
                       ${isToday ? 'bg-ink text-bg border border-ink shadow-md' :
                         isCompleted ? 'bg-card border border-line-soft opacity-70' :
-                        isLocked ? 'bg-bg-deep border border-line-soft opacity-40' :
+                        isFuture ? 'bg-card border border-line-soft opacity-60 cursor-pointer hover:border-line' :
                         'bg-card border border-line-soft cursor-pointer hover:border-line'}
                     `}>
                     {/* Checkbox */}
@@ -113,7 +113,6 @@ export function LaunchPlan({ plan, deck, interests, onComplete, onBack }: Props)
                         isToday ? 'border-bg/40' :
                         'border-line'}`}>
                       {isCompleted && <span className="text-white text-xs font-bold">✓</span>}
-                      {isLocked && !isCompleted && <span className="text-ink-mute text-[10px]">🔒</span>}
                     </div>
 
                     <div className="flex-1 min-w-0">

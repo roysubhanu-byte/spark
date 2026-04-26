@@ -142,12 +142,22 @@ export function SwipeCard({ idea, region, depth, onSwipe, onTap, showHint }: Pro
 
       {/* First-time hint */}
       {depth === 0 && showHint && (
-        <div className="absolute inset-0 z-20 flex items-center justify-center pointer-events-none">
-          <div className="flex items-center gap-6 px-5 py-3 bg-ink/80 backdrop-blur-sm rounded-full text-bg text-xs font-medium">
-            <span className="opacity-70">← Skip</span>
-            <span className="text-gold font-semibold">Tap to explore</span>
-            <span className="opacity-70">Save →</span>
+        <div className="absolute inset-0 z-20 flex flex-col items-center justify-center pointer-events-none">
+          <div className="flex items-center gap-6 px-6 py-3.5 bg-ink/85 backdrop-blur-sm rounded-2xl text-bg text-sm font-medium shadow-xl">
+            <div className="flex flex-col items-center gap-0.5">
+              <span className="text-lg">&#8592;</span>
+              <span className="text-xs opacity-70">Skip</span>
+            </div>
+            <div className="flex flex-col items-center gap-0.5 px-3 border-l border-r border-white/15">
+              <span className="text-lg">&#9758;</span>
+              <span className="text-xs text-gold font-semibold">Tap to explore</span>
+            </div>
+            <div className="flex flex-col items-center gap-0.5">
+              <span className="text-lg">&#8594;</span>
+              <span className="text-xs opacity-70">Save</span>
+            </div>
           </div>
+          <div className="mt-3 text-[11px] text-bg/60 bg-ink/60 px-3 py-1 rounded-full">Swipe or use buttons below</div>
         </div>
       )}
     </motion.div>

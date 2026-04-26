@@ -22,7 +22,7 @@ function buildImg(slug: string) {
 }
 
 export function ProductPage({ idea, region, profiles, isSaved, onSave, onOpenStories, onStartPlan, onClose }: Props) {
-  const [showCalc, setShowCalc] = useState(false)
+  const [showCalc, setShowCalc] = useState(true)
 
   const capitalText = idea.capital_usd
     ? formatMoney(idea.capital_usd.low, idea.capital_usd.high, region)
