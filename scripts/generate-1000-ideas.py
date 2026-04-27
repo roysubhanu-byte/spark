@@ -55,7 +55,7 @@ PHYSICAL_CATEGORIES = {
             ("Marble Bookends", 2, "$80-200", "Heavy, premium, desk decor"),
             ("Pressed Flower Frames", 2, "$40-120", "Nature art that sells fast"),
             ("Embroidered Hoop Art", 2, "$30-100", "Frame it, sell it, repeat"),
-            ("Soapstone Sculptures", 3, "$100-300", "Handcarved decor from India"),
+            ("Soapstone Sculptures", 3, "$100-300", "Handcarved soapstone decor"),
             ("Wooden Candle Holders", 2, "$40-120", "Lathe + finish = done"),
             ("Glass Terrariums", 2, "$60-200", "Mini ecosystems people collect"),
             ("Dried Herb Wreaths", 2, "$40-120", "Seasonal door decor"),
@@ -376,7 +376,7 @@ PHYSICAL_CATEGORIES = {
             ("Crochet Bags", 3, "$40-120", "Handmade totes and clutches"),
             ("Custom Embroidered Hats", 2, "$100-300", "Snapbacks with custom logos"),
             ("Handmade Tote Bags", 1, "$40-120", "Canvas + screen print"),
-            ("Block Print Clothing", 2, "$80-200", "Indian craft, global market"),
+            ("Block Print Clothing", 2, "$80-200", "Block print craft, global market"),
             ("Linen Dresses", 2, "$100-300", "Natural fabric, premium pricing"),
             ("Graphic Socks", 1, "$40-120", "Fun designs, impulse buy"),
             ("Beanies & Knit Hats", 2, "$40-120", "Winter essential, year-round online"),
@@ -400,7 +400,7 @@ PHYSICAL_CATEGORIES = {
             ("Sarong Wraps", 1, "$30-80", "Beach + resort essential"),
             ("Embroidered Jeans", 3, "$80-200", "Custom denim art"),
             ("Athleisure Sets", 2, "$100-300", "Matching sets sell more"),
-            ("Cotton Kurtas", 1, "$40-120", "Indian ethnic wear, global shipping"),
+            ("Cotton Kurtas", 1, "$40-120", "Ethnic wear, global market"),
             ("Printed Pajama Sets", 2, "$60-200", "Matching PJ sets trending"),
             ("Upcycled Denim Bags", 2, "$40-120", "Sustainable fashion angle"),
             ("Custom Jerseys", 2, "$80-200", "Sports fan market"),
@@ -1292,29 +1292,29 @@ def make_breakdown(name, deck, capital, effort, category):
 
     # Category-specific distributor info
     CATEGORY_DISTRIBUTORS = {
-        "Home & Living": f"<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
-        "Jewelry & Accessories": f"<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
-        "Beauty & Wellness": f"Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
-        "Pets": f"<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
-        "Food & Beverage": f"Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
-        "Kids & Baby": f"<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
-        "Stationery & Art": f"<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
-        "Clothing & Apparel": f"<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
-        "Tech & Gadgets": f"<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
-        "Eco & Sustainability": f"<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
-        "Fitness & Sports": f"<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
-        "Garden & Outdoor": f"<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "Home & Living": f"<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
+        "Jewelry & Accessories": f"<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "Beauty & Wellness": f"Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "Pets": f"<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
+        "Food & Beverage": f"Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
+        "Kids & Baby": f"<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
+        "Stationery & Art": f"<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
+        "Clothing & Apparel": f"<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
+        "Tech & Gadgets": f"<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "Eco & Sustainability": f"<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
+        "Fitness & Sports": f"<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
+        "Garden & Outdoor": f"<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "Art & Craft Supplies": f"<strong>Alibaba</strong> for bulk craft materials (yarn, beads, tools). <strong>AliExpress</strong> for sample kits. For instruction cards/booklets: <strong>Canva</strong> to design, <strong>local printer</strong> or <strong>Vistaprint</strong> to print. Your value-add is the curation and instructions, not the raw materials.",
-        "Personalized & Custom": f"Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "Personalized & Custom": f"Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "Health & Supplements": f"<strong>White label manufacturers</strong>: NutraScience Labs, Makers Nutrition (US). <strong>Minimum orders typically 500-1000 units.</strong> Alternatively: buy bulk ingredients from <strong>BulkSupplements.com</strong> and capsule them yourself (capsule machine: $25). <strong>Third-party testing is non-negotiable.</strong>",
-        "Party & Events": f"<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
-        "Travel & Lifestyle": f"<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
-        "Automotive & Tools": f"<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
-        "Candles & Fragrance": f"Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
-        "Handmade Leather Goods": f"Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
-        "Woodworking & Carpentry": f"Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "Party & Events": f"<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
+        "Travel & Lifestyle": f"<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
+        "Automotive & Tools": f"<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
+        "Candles & Fragrance": f"Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
+        "Handmade Leather Goods": f"Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
+        "Woodworking & Carpentry": f"Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "Printables & POD": f"<strong>No physical sourcing needed.</strong> Design tools: <strong>Canva Pro</strong> ($12/mo) or <strong>Procreate</strong> ($12 once). POD fulfillment: <strong>Printful</strong>, <strong>Printify</strong>, or <strong>Gelato</strong>. They print, pack, and ship for you. Mockup tools: <strong>Placeit</strong> or <strong>SmartMockups</strong>.",
-        "Vintage & Upcycled": f"<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "Vintage & Upcycled": f"<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
     }
 
     if deck == "physical":
@@ -1532,10 +1532,24 @@ SAAS_IMAGES = [
     "1551434678-e076c223a692", "1581091226825-a6a2a5aee158", "1555066931-4365d14bab8c",
 ]
 
+def _load_photo_ids():
+    """Load curated photo IDs from the unsplash-photos.json file if available."""
+    import os
+    path = os.path.join(os.path.dirname(__file__), 'unsplash-photos.json')
+    if os.path.exists(path):
+        with open(path) as f:
+            return json.load(f)
+    return None
+
+_PHOTO_DB = _load_photo_ids()
+
 def get_image_for_category(cat_name, index):
     """Return a real working Unsplash URL for the given category."""
-    images = CATEGORY_IMAGES.get(cat_name, CATEGORY_IMAGES["Home & Living"])
-    img_id = images[index % len(images)]
+    if _PHOTO_DB and cat_name in _PHOTO_DB:
+        ids = _PHOTO_DB[cat_name]
+    else:
+        ids = CATEGORY_IMAGES.get(cat_name, CATEGORY_IMAGES["Home & Living"])
+    img_id = ids[index % len(ids)]
     return f"https://images.unsplash.com/photo-{img_id}?w=900&q=80"
 
 def get_saas_image(index):

@@ -18,10 +18,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { single: 6, set: 14 },
     distributors: {
       US: 'Soy wax: <strong>CandleScience</strong>, BulkApothecary. Wicks/jars: <strong>Wholesale Supplies Plus</strong>. Fragrance: <strong>NaturesGarden</strong>. Order $30 sample first.',
-      IN: 'Soy wax: <strong>CandleSci India</strong> (Mumbai), Shubh Wax. Wicks & jars: <strong>Wholesalebox</strong>, Bulk MRO. Fragrance oils: <strong>Aromaaz</strong>, Devinez. Order \u20b9500 sample first.',
-      AE: 'Soy wax: <strong>Soap Supplies Dubai</strong>, BoldChemicals. Containers: <strong>Tiger Stationery</strong> bulk. Fragrance: imported via Aromaaz/UAE distributors.',
-      RU: '\u0421\u043e\u0435\u0432\u044b\u0439 \u0432\u043e\u0441\u043a: <strong>\u0421\u0432\u0435\u0447\u043d\u043e\u0439 \u041c\u0430\u0440\u043a\u0435\u0442</strong>, \u0412\u043e\u0441\u043a.\u0420\u0443. \u0424\u0438\u0442\u0438\u043b\u0438 \u0438 \u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440\u044b: <strong>WildSoap</strong>. \u0410\u0440\u043e\u043c\u0430\u0442\u044b: \u041c\u044b\u043b\u043e\u041e\u043f\u0442.',
-      KZ: '\u0421\u043e\u0435\u0432\u044b\u0439 \u0432\u043e\u0441\u043a: \u0438\u043c\u043f\u043e\u0440\u0442 \u0447\u0435\u0440\u0435\u0437 \u0420\u0424 (\u0421\u0432\u0435\u0447\u043d\u043e\u0439 \u041c\u0430\u0440\u043a\u0435\u0442). \u041a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440\u044b: <strong>Kaspi.kz</strong> \u043e\u043f\u0442. \u0410\u0440\u043e\u043c\u0430\u043c\u0430\u0441\u043b\u0430: \u0438\u043c\u043f\u043e\u0440\u0442.'
     },
     breakdown: {
       strategy: {
@@ -38,8 +34,8 @@ export const IDEAS: Idea[] = [
         action: 'Calculate your numbers \u2014 paste cost & target price'
       },
       distributors: {
-        body: "<strong>Soy wax:</strong> CandleSci India (Mumbai), Shubh Wax (online). <strong>Wicks & jars:</strong> Wholesalebox, Bulk MRO. <strong>Fragrance oils:</strong> Aromaaz, Devinez. Order \u20b9500 sample first. Don't bulk-buy until you know your scent works.",
-        action: 'Order \u20b9500 sample from CandleSci India'
+        body: "<strong>Soy wax:</strong> CandleScience (Mumbai), Shubh Wax (online). <strong>Wicks & jars:</strong> Faire, Wholesale Central. <strong>Fragrance oils:</strong> Bulk Apothecary, Devinez. Order \u20b9500 sample first. Don't bulk-buy until you know your scent works.",
+        action: 'Order \u20b9500 sample from CandleScience'
       },
       pricing: {
         body: "Three pricing models that work: <strong>(1) Singles</strong> \u20b9450-650 each. <strong>(2) Bundles</strong> 3-pack at \u20b91,200 (people buy gifts in 3s). <strong>(3) Subscription</strong> 'scent of the month' at \u20b9999/mo. Start with singles + bundles. Subscription is v2.",
@@ -107,10 +103,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { single: 9, bundle: 22 },
     distributors: {
       US: 'Blank tags: <strong>JRMTags</strong>, BulkPetTags. Engraving machine: <strong>Gravograph</strong> $400 desktop. Chains: AmazonBusiness. Easiest: outsource to local engraver via Yelp.',
-      IN: 'Blank tags: local engraver in your city, or <strong>Tags4Pets</strong> online. Engraving machine: \u20b915K rotary engraver from Amazon \u2014 DIY at home. Chains/rings: <strong>BulkMRO</strong>.',
-      AE: 'Blank tags: <strong>Hassan Tags Dubai</strong>, AmazonAE business. Local engravers in Karama district. Chains: AmazonAE.',
-      RU: '\u0417\u0430\u0433\u043e\u0442\u043e\u0432\u043a\u0438: <strong>\u0413\u0440\u0430\u0432\u0438\u0440\u043e\u0432\u043a\u0430.\u041e\u043f\u0442</strong>. \u0413\u0440\u0430\u0432\u0451\u0440: Wildberries (~\u20bd25K). \u0426\u0435\u043f\u043e\u0447\u043a\u0438: Ozon \u043e\u043f\u0442.',
-      KZ: '\u0418\u043c\u043f\u043e\u0440\u0442 \u0447\u0435\u0440\u0435\u0437 Wildberries.kz \u0438 AliExpress. \u041c\u0435\u0441\u0442\u043d\u0430\u044f \u0433\u0440\u0430\u0432\u0438\u0440\u043e\u0432\u043a\u0430 \u0432 \u0410\u043b\u043c\u0430\u0442\u044b.'
     },
     breakdown: {
       strategy: {
@@ -127,7 +119,7 @@ export const IDEAS: Idea[] = [
         action: 'Calculate cost & target price'
       },
       distributors: {
-        body: "<strong>Blank tags:</strong> Local engraver in your city (cheaper) or Tags4Pets (online). <strong>Engraving machine:</strong> \u20b915K rotary engraver from Amazon \u2014 DIY at home. <strong>Chains/rings:</strong> Bulkmro. Easiest start: outsource engraving locally.",
+        body: "<strong>Blank tags:</strong> Local engraver in your city (cheaper) or JRMTags (online). <strong>Engraving machine:</strong> \u20b915K rotary engraver from Amazon \u2014 DIY at home. <strong>Chains/rings:</strong> Wholesale Central. Easiest start: outsource engraving locally.",
         action: 'Find local engraver near you'
       },
       pricing: {
@@ -157,10 +149,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { single: 12, set: 22 },
     distributors: {
       US: 'Wholesale silver: <strong>RioGrande</strong> (US), HalsteadJewelry. Or import from <strong>India wholesalers</strong> via Alibaba ($2 sample pack). Photos: hire local photographer $50 for 50 shots.',
-      IN: 'Jaipur silver wholesalers: <strong>IndiaMART listings</strong>, Karat Karma, Tribebyamrapali wholesalers. Order \u20b92K sample pack first. Shipping: <strong>Shiprocket</strong>. Photos: \u20b93K for 50 shots.',
-      AE: 'Import from Jaipur via <strong>IndiaMART</strong> wholesalers (\u20b92K samples). Local: Gold Souk for premium. Photography: hire from Fiverr UAE.',
-      RU: '\u0421\u0435\u0440\u0435\u0431\u0440\u043e: <strong>SOKOLOV</strong> \u043e\u043f\u0442, \u0438\u043b\u0438 \u0438\u043c\u043f\u043e\u0440\u0442 \u0438\u0437 \u0418\u043d\u0434\u0438\u0438. \u0424\u043e\u0442\u043e: \u0444\u0440\u0438\u043b\u0430\u043d\u0441\u0435\u0440\u044b \u0441 Profi.ru.',
-      KZ: '\u0418\u043c\u043f\u043e\u0440\u0442 \u0447\u0435\u0440\u0435\u0437 \u0410\u043b\u043c\u0430\u0442\u044b \u043e\u043f\u0442\u043e\u0432\u044b\u0435 \u0440\u044b\u043d\u043a\u0438 \u0438\u043b\u0438 \u043f\u0440\u044f\u043c\u043e \u0438\u0437 \u0418\u043d\u0434\u0438\u0438. \u0421\u0430\u043c\u043f\u043b\u044b \u0437\u0430 ~\u20b815K.'
     },
     breakdown: {
       strategy: {
@@ -177,7 +165,7 @@ export const IDEAS: Idea[] = [
         action: 'Compute breakeven units per month'
       },
       distributors: {
-        body: "<strong>Jaipur silver wholesalers:</strong> IndiaMART listings, Karat Karma, Tribebyamrapali wholesalers. Order \u20b92K sample pack first. <strong>Shipping:</strong> Shiprocket. <strong>Photos:</strong> hire local photographer \u20b93K for 50 shots.",
+        body: "<strong>US silver wholesalers:</strong> Alibaba listings, Rio Grande, Fire Mountain Gems wholesalers. Order \u20b92K sample pack first. <strong>Shipping:</strong> USPS/UPS. <strong>Photos:</strong> hire local photographer \u20b93K for 50 shots.",
         action: 'Order sample pack from Jaipur (~\u20b92K)'
       },
       pricing: {
@@ -207,10 +195,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { single: 11, set: 22 },
     distributors: {
       US: 'Manufacturers: <strong>Alibaba GOTS suppliers</strong> (100-piece minimums). USA-made: <strong>Spoonflower</strong> for print-on-demand. Photography: Amazon-style on white. Use FBA for Prime badge.',
-      IN: 'Organic cotton manufacturers: <strong>Tirupur</strong> (Tamil Nadu) \u2014 minimum 100-piece runs. Search IndiaMART for "GOTS organic baby clothes manufacturer". Photography: Amazon-style on white background.',
-      AE: 'Import from <strong>Tirupur (India)</strong> via Alibaba/IndiaMART. Local printing: Sharjah industrial. Photography: Fiverr UAE.',
-      RU: '\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438: <strong>\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0442\u0435\u043a\u0441\u0442\u0438\u043b\u044c</strong>. \u0418\u043c\u043f\u043e\u0440\u0442 \u0438\u0437 \u0422\u0443\u0440\u0446\u0438\u0438/\u0418\u043d\u0434\u0438\u0438.',
-      KZ: '\u0418\u043c\u043f\u043e\u0440\u0442 \u0438\u0437 \u0422\u0443\u0440\u0446\u0438\u0438 (\u0431\u043b\u0438\u0437\u043a\u043e) \u0438\u043b\u0438 \u0418\u043d\u0434\u0438\u0438. \u041c\u0435\u0441\u0442\u043d\u044b\u0435 \u0448\u0432\u0435\u0438 \u0432 \u0410\u043b\u043c\u0430\u0442\u044b \u0434\u043b\u044f \u043e\u0431\u0440\u0430\u0437\u0446\u043e\u0432.'
     },
     breakdown: {
       strategy: {
@@ -227,7 +211,7 @@ export const IDEAS: Idea[] = [
         action: 'Get cost quote for 100 units'
       },
       distributors: {
-        body: "<strong>Organic cotton manufacturers:</strong> Tirupur (Tamil Nadu) \u2014 minimum 100-piece runs. Search IndiaMART for 'GOTS organic baby clothes manufacturer'. <strong>Photography:</strong> Amazon-style on white background.",
+        body: "<strong>Organic cotton manufacturers:</strong> US-based organic manufacturers \u2014 minimum 100-piece runs. Search Alibaba for 'GOTS organic baby clothes manufacturer'. <strong>Photography:</strong> Amazon-style on white background.",
         action: 'Get 3 quotes from Tirupur manufacturers'
       },
       pricing: {
@@ -257,10 +241,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { single: 4, pack: 9 },
     distributors: {
       US: 'Beeswax & shea: <strong>BulkApothecary</strong>, MountainRoseHerbs. Mica/tint: <strong>BrambleBerry</strong>. Tubes: <strong>SKS Bottle</strong> $0.20 each. Labels: Vistaprint. ~$30 to start.',
-      IN: 'Beeswax & shea: <strong>Aromaaz</strong>, Vinayak Ingredients. Mica/tint: <strong>Soaprepublic</strong>. Tubes: Bulk MRO \u20b98-12 each. Labels: Vistaprint or local print shop. \u20b92K total to start.',
-      AE: 'Ingredients: <strong>SoapSuppliesDubai</strong>, Aroma Zone (import). Tubes: AmazonAE business. Labels: local Dubai printer.',
-      RU: '\u0412\u043e\u0441\u043a/\u043c\u0430\u0441\u043b\u0430: <strong>\u041c\u044b\u043b\u043e\u041e\u043f\u0442</strong>, \u0410\u0440\u043e\u043c\u0430\u0440\u0442\u0438. \u0422\u0443\u0431\u044b: Wildberries \u043e\u043f\u0442. \u042d\u0442\u0438\u043a\u0435\u0442\u043a\u0438: Photoprint.',
-      KZ: '\u0418\u043c\u043f\u043e\u0440\u0442 \u0447\u0435\u0440\u0435\u0437 \u0420\u043e\u0441\u0441\u0438\u044e \u0438\u043b\u0438 AliExpress. \u041c\u0435\u0441\u0442\u043d\u0430\u044f \u043f\u0435\u0447\u0430\u0442\u044c \u043d\u0430\u043a\u043b\u0435\u0435\u043a \u0432 \u0410\u043b\u043c\u0430\u0442\u044b.'
     },
     breakdown: {
       strategy: {
@@ -277,8 +257,8 @@ export const IDEAS: Idea[] = [
         action: 'Calculate breakeven volume'
       },
       distributors: {
-        body: "<strong>Beeswax & shea:</strong> Aromaaz, Vinayak Ingredients. <strong>Mica/tint:</strong> Soaprepublic. <strong>Tubes:</strong> Bulk MRO \u20b98-12 each. <strong>Labels:</strong> Vistaprint or local print shop. \u20b92K total to start.",
-        action: 'Order materials kit from Aromaaz'
+        body: "<strong>Beeswax & shea:</strong> Bulk Apothecary, Vinayak Ingredients. <strong>Mica/tint:</strong> Soaprepublic. <strong>Tubes:</strong> Wholesale Central \u20b98-12 each. <strong>Labels:</strong> Vistaprint or local print shop. \u20b92K total to start.",
+        action: 'Order materials kit from Bulk Apothecary'
       },
       pricing: {
         body: "<strong>Single</strong> \u20b9299. <strong>3-pack</strong> \u20b9749. <strong>Customizable gift box</strong> \u20b9999. 3-pack is the volume driver \u2014 most buyers pick it.",
@@ -318,7 +298,7 @@ export const IDEAS: Idea[] = [
         action: 'Calculate cost per piece'
       },
       distributors: {
-        body: "<strong>Resin & hardener:</strong> Itsy Bitsy, Aromaaz. <strong>Molds:</strong> Amazon (silicone sets \u20b9500). <strong>Pigments/flowers:</strong> Soaprepublic, local craft store. \u20b93K starter kit makes ~30 pieces.",
+        body: "<strong>Resin & hardener:</strong> Itsy Bitsy, Bulk Apothecary. <strong>Molds:</strong> Amazon (silicone sets \u20b9500). <strong>Pigments/flowers:</strong> Soaprepublic, local craft store. \u20b93K starter kit makes ~30 pieces.",
         action: 'Order starter kit from Itsy Bitsy'
       },
       pricing: {
@@ -400,8 +380,8 @@ export const IDEAS: Idea[] = [
         action: 'Get manufacturing quote for 100 patches'
       },
       distributors: {
-        body: "<strong>Manufacturers:</strong> IndiaMART (search 'custom embroidered patches'), or AliExpress 'custom patch' suppliers (MOQ 50-100). <strong>Design tools:</strong> Canva or Procreate. \u20b95K covers first 100-pack.",
-        action: 'Get 3 quotes from IndiaMART suppliers'
+        body: "<strong>Manufacturers:</strong> Alibaba (search 'custom embroidered patches'), or AliExpress 'custom patch' suppliers (MOQ 50-100). <strong>Design tools:</strong> Canva or Procreate. \u20b95K covers first 100-pack.",
+        action: 'Get 3 quotes from Alibaba suppliers'
       },
       pricing: {
         body: "<strong>Single patch</strong> \u20b9249. <strong>3-pack</strong> \u20b9599. <strong>Sticker pack add-on</strong> +\u20b999. Bundles always win.",
@@ -441,8 +421,8 @@ export const IDEAS: Idea[] = [
         action: 'Calculate cost per blend'
       },
       distributors: {
-        body: "<strong>Essential oils:</strong> Aromaaz, Soulflower, KAZIMA. <strong>Roller bottles:</strong> Amazon \u20b915-20 each (10ml). <strong>Carrier oil (jojoba/sweet almond):</strong> Aromaaz. <strong>Labels:</strong> Vistaprint. \u20b93K = 50 bottles.",
-        action: 'Order oils kit from Aromaaz'
+        body: "<strong>Essential oils:</strong> Bulk Apothecary, Soulflower, KAZIMA. <strong>Roller bottles:</strong> Amazon \u20b915-20 each (10ml). <strong>Carrier oil (jojoba/sweet almond):</strong> Bulk Apothecary. <strong>Labels:</strong> Vistaprint. \u20b93K = 50 bottles.",
+        action: 'Order oils kit from Bulk Apothecary'
       },
       pricing: {
         body: "<strong>Single</strong> \u20b9399. <strong>3-pack (sleep+stress+focus)</strong> \u20b9999. <strong>Wellness gift box (5)</strong> \u20b91,799.",
@@ -482,7 +462,7 @@ export const IDEAS: Idea[] = [
         action: 'Pick your POD service'
       },
       distributors: {
-        body: "<strong>POD services:</strong> Printrove (India, best for INR), Printful (global, USD), Qikink (India alternative). They print + ship; you only design. <strong>Design tools:</strong> Canva or Procreate. \u20b90 to start.",
+        body: "<strong>POD services:</strong> Printful (US + global), Printify (multi-provider), Gelato (local production). They print + ship; you only design. <strong>Design tools:</strong> Canva or Procreate. \u20b90 to start.",
         action: 'Sign up on Printrove or Printful'
       },
       pricing: {
@@ -646,7 +626,7 @@ export const IDEAS: Idea[] = [
         action: 'Calculate cost per bar'
       },
       distributors: {
-        body: "<strong>Soap base & oils:</strong> Aromaaz, Vinayak Ingredients, Soaprepublic. <strong>Molds:</strong> Amazon silicone (\u20b9500 set). <strong>Packaging:</strong> Kraft paper boxes from Amazon. \u20b93K = 30 bars.",
+        body: "<strong>Soap base & oils:</strong> Bulk Apothecary, Vinayak Ingredients, Soaprepublic. <strong>Molds:</strong> Amazon silicone (\u20b9500 set). <strong>Packaging:</strong> Kraft paper boxes from Amazon. \u20b93K = 30 bars.",
         action: 'Order soap base + 3 essential oils'
       },
       pricing: {
@@ -687,7 +667,7 @@ export const IDEAS: Idea[] = [
         action: 'Cost out one batch (10 bombs)'
       },
       distributors: {
-        body: "<strong>Citric acid + baking soda:</strong> Local kirana or Amazon (cheap). <strong>Essential oils + mica:</strong> Aromaaz, Soaprepublic. <strong>Molds:</strong> Amazon (silicone hemispheres \u20b9400). \u20b92K = 50 bombs.",
+        body: "<strong>Citric acid + baking soda:</strong> Local kirana or Amazon (cheap). <strong>Essential oils + mica:</strong> Bulk Apothecary, Soaprepublic. <strong>Molds:</strong> Amazon (silicone hemispheres \u20b9400). \u20b92K = 50 bombs.",
         action: 'Order ingredients kit'
       },
       pricing: {
@@ -769,7 +749,7 @@ export const IDEAS: Idea[] = [
         action: 'Cost out one bandana'
       },
       distributors: {
-        body: "<strong>Cotton fabric (printed):</strong> Local market or IndiaMART (cotton printed). <strong>Velcro/snaps:</strong> Local notions store \u20b9100/meter. <strong>Custom labels:</strong> Vistaprint. \u20b92K = 30 bandanas.",
+        body: "<strong>Cotton fabric (printed):</strong> Local market or Alibaba (cotton printed). <strong>Velcro/snaps:</strong> Local notions store \u20b9100/meter. <strong>Custom labels:</strong> Vistaprint. \u20b92K = 30 bandanas.",
         action: 'Buy fabric for first batch (5)'
       },
       pricing: {
@@ -810,7 +790,7 @@ export const IDEAS: Idea[] = [
         action: 'Cost out one 5-pack'
       },
       distributors: {
-        body: "<strong>Fabric (silk, satin, cotton):</strong> Local market or IndiaMART (\u20b950-150/meter \u2014 covers many scrunchies). <strong>Elastic:</strong> Local notions \u20b920/meter. <strong>Sewing machine:</strong> Borrow or \u20b96K used. \u20b91.5K = 30 scrunchies.",
+        body: "<strong>Fabric (silk, satin, cotton):</strong> Local market or Alibaba (\u20b950-150/meter \u2014 covers many scrunchies). <strong>Elastic:</strong> Local notions \u20b920/meter. <strong>Sewing machine:</strong> Borrow or \u20b96K used. \u20b91.5K = 30 scrunchies.",
         action: 'Buy fabric for 30 scrunchies'
       },
       pricing: {
@@ -892,8 +872,8 @@ export const IDEAS: Idea[] = [
         action: 'Cost out one arrangement'
       },
       distributors: {
-        body: "<strong>Dried stems wholesale:</strong> IndiaMART (search 'dried flowers wholesale'), Pune flower wholesalers. Or dry your own (DIY route, takes 2 weeks). <strong>Vases:</strong> IKEA, Amazon. <strong>Wrapping/twine:</strong> local craft store. \u20b94K = 10 arrangements.",
-        action: 'Source dried stems from IndiaMART'
+        body: "<strong>Dried stems wholesale:</strong> Alibaba (search 'dried flowers wholesale'), Pune flower wholesalers. Or dry your own (DIY route, takes 2 weeks). <strong>Vases:</strong> IKEA, Amazon. <strong>Wrapping/twine:</strong> local craft store. \u20b94K = 10 arrangements.",
+        action: 'Source dried stems from Alibaba'
       },
       pricing: {
         body: "<strong>Mini bouquet</strong> \u20b91,499. <strong>Standard</strong> \u20b92,499. <strong>Statement piece</strong> \u20b94,499. Wedding orders custom.",
@@ -923,10 +903,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { single: 19, bundle: 39 },
     distributors: {
       US: 'Sell on: <strong>Gumroad</strong>, Lemon Squeezy, your own site. Tools: Notion + Canva. Free traffic: <strong>Pinterest</strong>, Twitter threads, Reddit (relevant subs).',
-      IN: 'Sell on: <strong>Gumroad</strong> (USD), Topmate.io (INR). Indian creators do best on <strong>Twitter/X</strong> + LinkedIn + Pinterest. Currency: charge in USD for global reach.',
-      AE: 'Same global tools (Gumroad/Lemon). UAE creators have advantage of English-fluent affluent buyers locally.',
-      RU: '\u041f\u0440\u043e\u0434\u0430\u0436\u0430: <strong>Boosty</strong>, Patreon. \u041f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b: Telegram, VK, \u0414\u0437\u0435\u043d.',
-      KZ: '\u0422\u0435 \u0436\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0447\u0442\u043e \u0432 \u0420\u0424. \u0422\u0430\u043a\u0436\u0435 Gumroad \u0434\u043b\u044f \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u0440\u043e\u0434\u0430\u0436\u0438.'
     },
     breakdown: {
       strategy: {
@@ -973,10 +949,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { pack: 19, lifetime: 79 },
     distributors: {
       US: 'Sell: <strong>Etsy</strong> (huge for presets), Gumroad, FilterGrade. Tools: Adobe Lightroom (free trial). Marketing: <strong>Pinterest</strong> is goldmine \u2014 every pin is a landing page.',
-      IN: 'Sell: <strong>Etsy</strong>, Gumroad (USD). Tools: Lightroom. Indian buyers prefer Instagram before/after reels \u2014 start there.',
-      AE: 'Etsy + Gumroad. UAE wedding/lifestyle photographers are big preset buyers \u2014 niche down.',
-      RU: '\u041f\u0440\u043e\u0434\u0430\u0436\u0430: <strong>Boosty</strong>, \u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 Telegram-\u043a\u0430\u043d\u0430\u043b\u044b. \u0415\u0441\u0442\u044c \u043b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b.',
-      KZ: '\u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b (Etsy, Gumroad) \u043b\u0443\u0447\u0448\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u0434\u043b\u044f KZ.'
     },
     breakdown: {
       strategy: {
@@ -1023,10 +995,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { single: 19, bundle: 39 },
     distributors: {
       US: 'Sell on: <strong>Gumroad</strong> (highest cut), <strong>Amazon Kindle</strong> (most traffic), your own site. Tools: Google Docs + Canva for cover. Traffic: Pinterest, email list, Twitter/X threads, niche FB groups.',
-      IN: 'Sell on: <strong>Amazon Kindle India</strong>, Gumroad (USD). Distribution: Twitter/X, LinkedIn, niche WhatsApp groups. Indian readers love tactical PDFs.',
-      AE: 'Amazon Kindle + Gumroad. UAE has large English-reading professional audience for tactical guides.',
-      RU: '\u041b\u0438\u0442\u0420\u0435\u0441.\u0421\u0430\u043c\u0438\u0437\u0434\u0430\u0442, Telegram-\u043a\u0430\u043d\u0430\u043b\u044b, Boosty. \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0435 \u043d\u0438\u0448\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u044b.',
-      KZ: '\u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e: Amazon Kindle. \u041b\u043e\u043a\u0430\u043b\u044c\u043d\u043e: Telegram-\u043a\u0430\u043d\u0430\u043b\u044b.'
     },
     breakdown: {
       strategy: {
@@ -1073,10 +1041,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { pack: 29, lifetime: 99 },
     distributors: {
       US: 'Sell on: <strong>Etsy</strong> (massive Canva template buyer base), Creative Market, Gumroad. Tools: Canva Pro $13/mo. Free traffic: <strong>Pinterest</strong> is THE channel.',
-      IN: 'Sell on: <strong>Etsy</strong> (USD), Gumroad. Indian creators charge in USD for global reach. Pinterest + Instagram reels.',
-      AE: 'Etsy + Creative Market. UAE small-business owners are template buyers \u2014 niche to UAE/Gulf businesses.',
-      RU: '\u041f\u0440\u043e\u0434\u0430\u0436\u0430: <strong>Boosty</strong>, Telegram-\u043a\u0430\u043d\u0430\u043b. \u0422\u0430\u043a\u0436\u0435 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e \u0447\u0435\u0440\u0435\u0437 Etsy.',
-      KZ: '\u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e: Etsy, Gumroad. \u041b\u043e\u043a\u0430\u043b\u044c\u043d\u043e: Instagram reels.'
     },
     breakdown: {
       strategy: {
@@ -1123,10 +1087,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { pack: 39, sub: 199 },
     distributors: {
       US: 'Sell: <strong>Gumroad</strong> (best cut), Creative Market, your own site, Etsy. Tools: phone + natural light. Traffic: Pinterest pins for each photo, Instagram with brand-niche hashtags.',
-      IN: 'Sell on: <strong>Gumroad</strong> (USD). Indian niches (festival, traditional, brown skin) have low supply, growing demand globally.',
-      AE: 'Niche: <strong>Modest fashion, Ramadan, Gulf lifestyle</strong> \u2014 underserved on global stock sites. Sell via Gumroad.',
-      RU: '\u041f\u0440\u043e\u0434\u0430\u0436\u0430: <strong>Shutterstock</strong>, Adobe Stock \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e. \u041b\u043e\u043a\u0430\u043b\u044c\u043d\u043e: Boosty.',
-      KZ: '\u0422\u0435 \u0436\u0435 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b. \u0423\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u0430\u044f \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0437\u0438\u0430\u0442\u0441\u043a\u0430\u044f \u044d\u0441\u0442\u0435\u0442\u0438\u043a\u0430 \u2014 \u043c\u0430\u043b\u043e \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0439.'
     },
     breakdown: {
       strategy: {
@@ -1174,10 +1134,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { starter: 19, pro: 49 },
     distributors: {
       US: 'Build: <strong>Bolt</strong> or Lovable (no-code AI), Vercel hosting, Stripe billing. Backend: OpenAI/Anthropic APIs. Find users: Reddit niche subs, FB groups, cold DMs to top creators in niche. <strong>Indie Hackers</strong> community.',
-      IN: 'Same global stack: Bolt, Vercel, <strong>Razorpay</strong> + Stripe. Distribute via Twitter/X, Indian niche communities.',
-      AE: 'Same stack. UAE has good ecosystem for B2B SaaS \u2014 reach out via LinkedIn UAE.',
-      RU: '\u0421\u0442\u0435\u043a: <strong>Lovable</strong>, Vercel, \u042e\u041assa \u0434\u043b\u044f \u043f\u043b\u0430\u0442\u0435\u0436\u0435\u0439 RU. \u0421\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430: Habr, VC.ru.',
-      KZ: '\u0422\u0430 \u0436\u0435 \u0441\u0442\u0435\u043a. \u0414\u043b\u044f KZ-\u043f\u043b\u0430\u0442\u0435\u0436\u0435\u0439: Kaspi Pay \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f.'
     },
     breakdown: {
       strategy: {
@@ -1224,10 +1180,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { lifetime: 9, monthly: 4 },
     distributors: {
       US: 'Build: Chrome Web Store APIs (free), use <strong>Cursor</strong> or Bolt to build. Hosting: Vercel free tier. Distribution: Chrome Web Store search + <strong>Product Hunt</strong> launch + Reddit niche subs.',
-      IN: 'Same global tools. Indian devs strong on <strong>Twitter/X</strong> + Indie Hackers India community.',
-      AE: 'Same. UAE indie SaaS founder community on LinkedIn growing.',
-      RU: '\u0422\u0435 \u0436\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b. \u0421\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e: Habr, \u0438\u043d\u0434\u0438\u0445\u0430\u043a\u0435\u0440\u0441 RU \u0447\u0430\u0442\u044b \u0432 Telegram.',
-      KZ: '\u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0442\u0435\u043a. KZ developer community \u043c\u0430\u043b\u0430, \u043d\u043e \u0430\u043a\u0442\u0438\u0432\u043d\u0430 \u0432 Telegram.'
     },
     breakdown: {
       strategy: {
@@ -1274,10 +1226,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { audit: 60, project: 300 },
     distributors: {
       US: 'Tools: <strong>Zapier</strong>, Make.com, n8n (free). Find clients: <strong>LinkedIn DMs</strong> to SMB owners, FB groups, local Chamber of Commerce, cold email. Productize: packaged "automation audits".',
-      IN: 'Same tools. Indian SMB outreach: <strong>LinkedIn</strong> + WhatsApp groups for industry niches. Audits in INR for local clients.',
-      AE: 'UAE SMBs are eager for automation but underserved. LinkedIn UAE + DMCC/SHAMS networking events.',
-      RU: '\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b: <strong>Make</strong>, n8n. \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u0421\u041c\u0411 \u043d\u0430\u0439\u0442\u0438 \u0447\u0435\u0440\u0435\u0437 LinkedIn + Telegram-\u043a\u0430\u043d\u0430\u043b\u044b \u043f\u043e \u043d\u0438\u0448\u0430\u043c.',
-      KZ: '\u0422\u0435 \u0436\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b. KZ-\u0421\u041c\u0411 \u043c\u0435\u043d\u044c\u0448\u0435 \u0437\u043d\u0430\u044e\u0442 \u043f\u0440\u043e \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044e \u2014 \u043d\u0438\u0437\u043a\u0430\u044f \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0446\u0438\u044f.'
     },
     breakdown: {
       strategy: {
@@ -1324,10 +1272,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { monthly: 29, annual: 290 },
     distributors: {
       US: 'Build on: <strong>Skool</strong> (best for new), Circle, Mighty Networks. Distribute: Twitter/LinkedIn audience, niche newsletters, podcast guesting. Free pre-launch: waitlist + 1-on-1 calls with first 10.',
-      IN: 'Build on: <strong>Skool</strong> (USD pricing) or Topmate.io (INR). Distribute: LinkedIn + Twitter/X + niche WhatsApp groups.',
-      AE: 'Skool/Circle. UAE professional community on LinkedIn is dense \u2014 niche communities can hit 100 members fast.',
-      RU: '\u041f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b: <strong>Boosty</strong>, Patreon, Sponsr. Telegram premium-\u043a\u0430\u043d\u0430\u043b\u044b \u0442\u043e\u0436\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442.',
-      KZ: 'Boosty + \u0433\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0435. KZ-\u0430\u0443\u0434\u0438\u0442\u043e\u0440\u0438\u044f \u0441\u043e\u0432\u043c\u0435\u0449\u0430\u0435\u0442 \u0441 RU-\u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430\u043c\u0438.'
     },
     breakdown: {
       strategy: {
@@ -1374,10 +1318,6 @@ export const IDEAS: Idea[] = [
     sellingPrice_usd: { monthly: 7, annual: 70 },
     distributors: {
       US: 'Platforms: <strong>Substack</strong> (built-in audience), beehiiv (better tools), Ghost (you own it). Growth: Twitter threads \u2192 free version \u2192 upsell premium.',
-      IN: 'Platforms: <strong>Substack</strong>, beehiiv. Indian niches (D2C, finance, AI) growing fast. Charge in USD for global, INR via Topmate for local.',
-      AE: 'Substack + beehiiv. UAE business newsletters have premium-pricing pull.',
-      RU: '\u041f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b: <strong>Boosty</strong>, Sponsr. Telegram-\u043a\u0430\u043d\u0430\u043b\u044b \u0441 \u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u043e\u0439 \u2014 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0444\u043e\u0440\u043c\u0430\u0442 RU.',
-      KZ: 'Boosty + Substack. \u0414\u0432\u0443\u044f\u0437\u044b\u0447\u043d\u044b\u0435 \u043d\u0438\u0448\u0438 (RU + KZ + EN) \u0432\u044b\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f.'
     },
     breakdown: {
       strategy: {

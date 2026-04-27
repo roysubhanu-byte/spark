@@ -61,7 +61,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -182,7 +182,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -303,7 +303,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -423,7 +423,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -543,7 +543,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -664,7 +664,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -783,7 +783,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -903,7 +903,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -1024,7 +1024,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -1145,7 +1145,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -1266,7 +1266,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -1386,7 +1386,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -1506,7 +1506,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -1627,7 +1627,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -1748,7 +1748,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -1867,7 +1867,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -1988,7 +1988,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -2109,7 +2109,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -2228,7 +2228,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -2349,7 +2349,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -2468,7 +2468,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -2588,7 +2588,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -2709,7 +2709,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -2828,7 +2828,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -2947,7 +2947,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -3067,7 +3067,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -3186,7 +3186,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -3307,7 +3307,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -3428,7 +3428,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -3548,7 +3548,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -3668,7 +3668,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -3787,7 +3787,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -3908,7 +3908,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -4029,7 +4029,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -4150,7 +4150,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -4271,7 +4271,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -4342,7 +4342,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "offline"
     ],
     "name": "Soapstone Sculptures",
-    "hook": "Handcarved decor from India",
+    "hook": "Handcarved soapstone decor",
     "capital": "$100-300",
     "effort": 3,
     "interests": [
@@ -4390,7 +4390,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -4511,7 +4511,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -4632,7 +4632,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -4752,7 +4752,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -4871,7 +4871,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -4992,7 +4992,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -5113,7 +5113,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -5233,7 +5233,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -5352,7 +5352,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -5471,7 +5471,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -5592,7 +5592,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -5711,7 +5711,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -5830,7 +5830,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -5951,7 +5951,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. In India: <strong>IndiaMART</strong> has 200+ home decor manufacturers. Order 3 samples before any bulk commitment.",
+        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -6070,7 +6070,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -6190,7 +6190,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -6310,7 +6310,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -6431,7 +6431,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -6550,7 +6550,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -6670,7 +6670,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -6790,7 +6790,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -6911,7 +6911,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -7030,7 +7030,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -7150,7 +7150,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -7269,7 +7269,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -7390,7 +7390,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -7510,7 +7510,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -7629,7 +7629,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -7748,7 +7748,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -7867,7 +7867,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -7987,7 +7987,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -8108,7 +8108,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -8228,7 +8228,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -8349,7 +8349,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -8468,7 +8468,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -8587,7 +8587,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -8706,7 +8706,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -8827,7 +8827,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -8946,7 +8946,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -9066,7 +9066,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -9185,7 +9185,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -9306,7 +9306,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -9427,7 +9427,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -9547,7 +9547,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -9667,7 +9667,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -9787,7 +9787,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -9907,7 +9907,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -10026,7 +10026,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -10147,7 +10147,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -10268,7 +10268,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -10388,7 +10388,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -10508,7 +10508,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -10627,7 +10627,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -10746,7 +10746,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -10866,7 +10866,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -10985,7 +10985,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -11105,7 +11105,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -11224,7 +11224,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -11345,7 +11345,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -11466,7 +11466,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -11585,7 +11585,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -11705,7 +11705,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -11825,7 +11825,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -11944,7 +11944,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. In India: <strong>IndiaMART</strong> for silver suppliers from Jaipur. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
+        "body": "<strong>AliExpress</strong> for findings (clasps, chains, settings) and gemstones. <strong>Rio Grande</strong> or <strong>Fire Mountain Gems</strong> for quality metals and beads. <strong>Never sell as 'silver' unless you have .925 certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -12063,7 +12063,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -12183,7 +12183,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -12302,7 +12302,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -12423,7 +12423,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -12544,7 +12544,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -12664,7 +12664,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -12783,7 +12783,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -12904,7 +12904,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -13023,7 +13023,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -13142,7 +13142,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -13263,7 +13263,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -13384,7 +13384,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -13504,7 +13504,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -13624,7 +13624,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -13745,7 +13745,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -13865,7 +13865,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -13985,7 +13985,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -14105,7 +14105,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -14226,7 +14226,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -14346,7 +14346,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -14466,7 +14466,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -14587,7 +14587,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -14706,7 +14706,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -14825,7 +14825,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -14946,7 +14946,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -15066,7 +15066,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -15187,7 +15187,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -15306,7 +15306,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -15427,7 +15427,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -15547,7 +15547,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -15668,7 +15668,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -15787,7 +15787,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -15908,7 +15908,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -16027,7 +16027,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -16148,7 +16148,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -16269,7 +16269,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -16390,7 +16390,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -16509,7 +16509,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -16628,7 +16628,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -16749,7 +16749,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -16870,7 +16870,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -16991,7 +16991,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -17112,7 +17112,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -17231,7 +17231,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -17351,7 +17351,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -17470,7 +17470,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -17589,7 +17589,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -17709,7 +17709,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -17829,7 +17829,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -17950,7 +17950,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Aromaaz International</strong> or <strong>VedaOils</strong> (India). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
+        "body": "Ingredients: <strong>Bulk Apothecary</strong> or <strong>Wholesale Supplies Plus</strong> (US). <strong>Nature's Garden</strong>, <strong>Bramble Berry). Containers: <strong>AliExpress</strong> for bottles and jars. Always order ingredient samples first. Your formulation is your IP. <strong>Keep it simple: 5-7 ingredients max.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -18069,7 +18069,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -18189,7 +18189,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -18308,7 +18308,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -18426,7 +18426,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -18544,7 +18544,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -18663,7 +18663,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -18782,7 +18782,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -18900,7 +18900,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -19020,7 +19020,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -19138,7 +19138,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -19256,7 +19256,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -19375,7 +19375,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -19493,7 +19493,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -19613,7 +19613,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -19733,7 +19733,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -19852,7 +19852,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -19970,7 +19970,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -20088,7 +20088,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -20208,7 +20208,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -20328,7 +20328,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -20447,7 +20447,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -20567,7 +20567,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -20685,7 +20685,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -20803,7 +20803,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -20923,7 +20923,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -21042,7 +21042,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -21162,7 +21162,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -21282,7 +21282,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -21401,7 +21401,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -21521,7 +21521,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -21641,7 +21641,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -21760,7 +21760,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -21878,7 +21878,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -21996,7 +21996,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -22116,7 +22116,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -22234,7 +22234,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -22354,7 +22354,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -22474,7 +22474,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -22594,7 +22594,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -22714,7 +22714,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements. In India: <strong>IndiaMART</strong> for pet product manufacturers.",
+        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -22832,7 +22832,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -22952,7 +22952,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -23071,7 +23071,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -23190,7 +23190,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -23308,7 +23308,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -23428,7 +23428,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -23548,7 +23548,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -23668,7 +23668,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -23788,7 +23788,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -23908,7 +23908,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -24028,7 +24028,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -24146,7 +24146,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -24266,7 +24266,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -24384,7 +24384,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -24503,7 +24503,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -24622,7 +24622,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -24740,7 +24740,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -24860,7 +24860,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -24978,7 +24978,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -25098,7 +25098,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -25218,7 +25218,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -25338,7 +25338,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -25458,7 +25458,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -25578,7 +25578,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -25697,7 +25697,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -25815,7 +25815,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -25933,7 +25933,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -26053,7 +26053,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -26172,7 +26172,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -26291,7 +26291,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -26410,7 +26410,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -26529,7 +26529,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -26647,7 +26647,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -26766,7 +26766,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -26884,7 +26884,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -27004,7 +27004,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -27124,7 +27124,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -27244,7 +27244,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -27362,7 +27362,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -27481,7 +27481,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. In India: <strong>IndiaMART</strong> for food packaging. <strong>Always check cottage food laws before selling.</strong>",
+        "body": "Ingredients: <strong>restaurant supply stores</strong> (50% cheaper than retail). Online: <strong>WebstaurantStore</strong>, <strong>Azure Standard</strong>. Packaging: <strong>Uline</strong> for jars, bottles, labels. <strong>Always check cottage food laws before selling.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -27601,7 +27601,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -27719,7 +27719,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -27837,7 +27837,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -27956,7 +27956,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -28074,7 +28074,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -28193,7 +28193,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -28311,7 +28311,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -28430,7 +28430,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -28548,7 +28548,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -28666,7 +28666,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -28786,7 +28786,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -28906,7 +28906,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -29026,7 +29026,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -29145,7 +29145,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -29263,7 +29263,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -29382,7 +29382,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -29502,7 +29502,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -29621,7 +29621,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -29741,7 +29741,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -29861,7 +29861,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -29980,7 +29980,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -30099,7 +30099,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -30219,7 +30219,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -30337,7 +30337,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -30455,7 +30455,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -30575,7 +30575,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -30695,7 +30695,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -30813,7 +30813,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -30931,7 +30931,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -31050,7 +31050,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -31168,7 +31168,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -31288,7 +31288,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -31406,7 +31406,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -31525,7 +31525,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -31645,7 +31645,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -31765,7 +31765,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -31884,7 +31884,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -32002,7 +32002,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -32120,7 +32120,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -32238,7 +32238,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin. In India: <strong>IndiaMART</strong> for wooden toy manufacturers from Channapatna.",
+        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -32358,7 +32358,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -32478,7 +32478,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -32599,7 +32599,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -32719,7 +32719,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -32840,7 +32840,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -32959,7 +32959,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -33078,7 +33078,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -33197,7 +33197,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -33316,7 +33316,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -33435,7 +33435,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -33556,7 +33556,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -33675,7 +33675,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -33796,7 +33796,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -33917,7 +33917,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -34037,7 +34037,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -34157,7 +34157,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -34278,7 +34278,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -34399,7 +34399,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -34518,7 +34518,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -34638,7 +34638,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -34758,7 +34758,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -34878,7 +34878,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -34999,7 +34999,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -35120,7 +35120,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -35240,7 +35240,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -35361,7 +35361,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -35482,7 +35482,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -35603,7 +35603,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -35724,7 +35724,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -35843,7 +35843,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -35963,7 +35963,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -36084,7 +36084,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -36205,7 +36205,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -36324,7 +36324,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -36443,7 +36443,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -36563,7 +36563,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -36683,7 +36683,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -36803,7 +36803,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -36922,7 +36922,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -37042,7 +37042,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). In India: <strong>IndiaMART</strong> for paper products. Digital products: no physical sourcing needed, just design tools.",
+        "body": "<strong>AliExpress</strong> for pens, paper, stickers in bulk. Custom printing: <strong>Sticker Mule</strong> (US), <strong>StickerGiant</strong>. Washi tape: <strong>Alibaba</strong> custom runs (MOQ 500+). Digital products: no physical sourcing needed, just design tools.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -37162,7 +37162,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -37281,7 +37281,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -37401,7 +37401,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -37520,7 +37520,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -37639,7 +37639,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -37710,7 +37710,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "offline"
     ],
     "name": "Block Print Clothing",
-    "hook": "Indian craft, global market",
+    "hook": "Block print craft, global market",
     "capital": "$80-200",
     "effort": 2,
     "interests": [
@@ -37758,7 +37758,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -37879,7 +37879,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -37998,7 +37998,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -38117,7 +38117,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -38237,7 +38237,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -38357,7 +38357,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -38476,7 +38476,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -38596,7 +38596,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -38717,7 +38717,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -38838,7 +38838,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -38958,7 +38958,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -39079,7 +39079,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -39200,7 +39200,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -39321,7 +39321,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -39441,7 +39441,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -39561,7 +39561,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -39681,7 +39681,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -39801,7 +39801,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -39922,7 +39922,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -40043,7 +40043,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -40163,7 +40163,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -40284,7 +40284,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -40405,7 +40405,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -40526,7 +40526,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -40597,7 +40597,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "offline"
     ],
     "name": "Cotton Kurtas",
-    "hook": "Indian ethnic wear, global shipping",
+    "hook": "Ethnic wear, global market",
     "capital": "$40-120",
     "effort": 1,
     "interests": [
@@ -40647,7 +40647,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -40768,7 +40768,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -40887,7 +40887,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -41007,7 +41007,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -41126,7 +41126,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -41247,7 +41247,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -41368,7 +41368,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -41488,7 +41488,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -41607,7 +41607,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -41726,7 +41726,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -41847,7 +41847,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores. In India: <strong>IndiaMART</strong> for garment manufacturers from Tirupur.",
+        "body": "<strong>Alibaba</strong> for custom clothing manufacturing (MOQ 50-100 typically). <strong>Printful/Printify</strong> for print-on-demand (no inventory). Fabric: <strong>Mood Fabrics</strong> or local fabric stores.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -41965,7 +41965,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -42083,7 +42083,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -42202,7 +42202,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -42322,7 +42322,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -42442,7 +42442,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -42561,7 +42561,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -42681,7 +42681,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -42800,7 +42800,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -42918,7 +42918,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -43036,7 +43036,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -43156,7 +43156,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -43274,7 +43274,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -43393,7 +43393,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -43512,7 +43512,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -43630,7 +43630,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -43750,7 +43750,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -43868,7 +43868,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -43987,7 +43987,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -44107,7 +44107,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -44226,7 +44226,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -44345,7 +44345,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -44464,7 +44464,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -44584,7 +44584,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -44703,7 +44703,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -44822,7 +44822,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -44940,7 +44940,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -45060,7 +45060,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -45180,7 +45180,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -45298,7 +45298,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -45417,7 +45417,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). In India: <strong>IndiaMART</strong> for electronics accessories. <strong>Avoid selling anything that needs FCC certification.</strong>",
+        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -45536,7 +45536,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -45655,7 +45655,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -45774,7 +45774,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -45893,7 +45893,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -46013,7 +46013,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -46134,7 +46134,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -46253,7 +46253,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -46373,7 +46373,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -46493,7 +46493,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -46614,7 +46614,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -46735,7 +46735,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -46855,7 +46855,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -46974,7 +46974,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -47093,7 +47093,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -47214,7 +47214,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -47335,7 +47335,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -47454,7 +47454,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -47573,7 +47573,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -47694,7 +47694,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -47814,7 +47814,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -47934,7 +47934,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -48054,7 +48054,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -48174,7 +48174,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -48295,7 +48295,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -48415,7 +48415,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -48535,7 +48535,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -48655,7 +48655,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -48774,7 +48774,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -48895,7 +48895,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -49014,7 +49014,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask. In India: <strong>IndiaMART</strong> for jute, bamboo, and cotton bag manufacturers.",
+        "body": "<strong>Alibaba</strong> for bamboo, silicone, stainless steel eco products in bulk. <strong>AliExpress</strong> for samples. Key: request <strong>material certifications</strong> (BPA-free, food-grade, FSC-certified). Eco buyers will ask.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -49132,7 +49132,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -49251,7 +49251,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -49369,7 +49369,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -49488,7 +49488,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -49606,7 +49606,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -49726,7 +49726,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -49846,7 +49846,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -49966,7 +49966,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -50086,7 +50086,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -50204,7 +50204,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -50323,7 +50323,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -50441,7 +50441,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -50559,7 +50559,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -50678,7 +50678,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -50796,7 +50796,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -50916,7 +50916,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -51034,7 +51034,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -51152,7 +51152,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -51270,7 +51270,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -51390,7 +51390,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -51509,7 +51509,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -51627,7 +51627,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -51747,7 +51747,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -51866,7 +51866,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -51984,7 +51984,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -52102,7 +52102,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -52222,7 +52222,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -52340,7 +52340,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -52458,7 +52458,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -52577,7 +52577,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit. In India: <strong>IndiaMART</strong> for yoga and fitness gear manufacturers.",
+        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -52696,7 +52696,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -52815,7 +52815,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -52935,7 +52935,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -53054,7 +53054,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -53175,7 +53175,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -53294,7 +53294,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -53415,7 +53415,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -53535,7 +53535,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -53656,7 +53656,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -53776,7 +53776,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -53895,7 +53895,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -54015,7 +54015,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -54135,7 +54135,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -54255,7 +54255,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -54376,7 +54376,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -54496,7 +54496,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -54615,7 +54615,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -54736,7 +54736,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -54856,7 +54856,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -54977,7 +54977,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -55097,7 +55097,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -55218,7 +55218,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -55338,7 +55338,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -55458,7 +55458,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -55577,7 +55577,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -55697,7 +55697,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -55818,7 +55818,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -55937,7 +55937,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -56056,7 +56056,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -56175,7 +56175,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself. In India: <strong>IndiaMART</strong> for terracotta and ceramic manufacturers.",
+        "body": "<strong>AliExpress</strong> for garden accessories, solar lights, tools. <strong>Local nurseries</strong> for live plants and seeds. <strong>Alibaba</strong> for ceramic pots and planters. For kits: source components from multiple suppliers, assemble yourself.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -59895,7 +59895,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -60016,7 +60016,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -60136,7 +60136,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -60257,7 +60257,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -60378,7 +60378,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -60497,7 +60497,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -60618,7 +60618,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -60739,7 +60739,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -60860,7 +60860,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -60981,7 +60981,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -61100,7 +61100,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -61219,7 +61219,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -61338,7 +61338,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -61458,7 +61458,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -61577,7 +61577,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -61698,7 +61698,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -61817,7 +61817,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -61936,7 +61936,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -62055,7 +62055,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -62175,7 +62175,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -62296,7 +62296,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -62416,7 +62416,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -62535,7 +62535,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -62654,7 +62654,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -62774,7 +62774,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -62894,7 +62894,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -63015,7 +63015,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -63134,7 +63134,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -63255,7 +63255,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -63375,7 +63375,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders. In India: <strong>IndiaMART</strong> for engraving services.",
+        "body": "Depends on your method: <strong>laser engraver</strong> ($200-400 on Amazon) for wood/leather/metal. <strong>Cricut/Silhouette</strong> for vinyl and paper. <strong>Printful</strong> for custom print products. The machine pays for itself in 20-30 orders.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -67100,7 +67100,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -67219,7 +67219,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -67339,7 +67339,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -67458,7 +67458,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -67577,7 +67577,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -67698,7 +67698,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -67818,7 +67818,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -67939,7 +67939,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -68060,7 +68060,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -68181,7 +68181,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -68300,7 +68300,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -68420,7 +68420,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -68541,7 +68541,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -68660,7 +68660,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -68781,7 +68781,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -68901,7 +68901,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -69021,7 +69021,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -69142,7 +69142,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -69262,7 +69262,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -69381,7 +69381,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -69501,7 +69501,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -69622,7 +69622,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -69743,7 +69743,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -69864,7 +69864,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -69984,7 +69984,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -70103,7 +70103,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -70223,7 +70223,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -70343,7 +70343,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -70462,7 +70462,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -70583,7 +70583,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately. In India: <strong>IndiaMART</strong> for party supply wholesalers.",
+        "body": "<strong>AliExpress</strong> for balloons, banners, tableware. <strong>Alibaba</strong> for custom printed items (MOQ 100+). <strong>Dollar Tree</strong> for filler items. Your value is the curation: themed kits that save people from buying 10 items separately.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -70703,7 +70703,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -70823,7 +70823,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -70942,7 +70942,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -71062,7 +71062,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -71181,7 +71181,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -71300,7 +71300,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -71419,7 +71419,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -71538,7 +71538,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -71658,7 +71658,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -71778,7 +71778,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -71897,7 +71897,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -72017,7 +72017,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -72136,7 +72136,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -72256,7 +72256,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -72377,7 +72377,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -72496,7 +72496,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -72617,7 +72617,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -72737,7 +72737,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -72856,7 +72856,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -72975,7 +72975,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -73094,7 +73094,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -73214,7 +73214,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -73334,7 +73334,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -73455,7 +73455,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -73575,7 +73575,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -73695,7 +73695,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -73816,7 +73816,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -73935,7 +73935,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -74054,7 +74054,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -74174,7 +74174,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews. In India: <strong>IndiaMART</strong> for leather and fabric bag manufacturers.",
+        "body": "<strong>AliExpress</strong> for travel accessories (organizers, adapters, cases). <strong>Alibaba</strong> for custom branding. Key: test durability yourself. Travel products get thrown around. If the zipper breaks on trip #2, you get 1-star reviews.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -74293,7 +74293,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -74413,7 +74413,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -74533,7 +74533,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -74651,7 +74651,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -74770,7 +74770,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -74889,7 +74889,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -75007,7 +75007,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -75125,7 +75125,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -75244,7 +75244,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -75363,7 +75363,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -75481,7 +75481,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -75600,7 +75600,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -75719,7 +75719,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -75837,7 +75837,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -75955,7 +75955,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -76073,7 +76073,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -76193,7 +76193,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -76312,7 +76312,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -76431,7 +76431,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -76550,7 +76550,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -76670,7 +76670,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -76788,7 +76788,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -76906,7 +76906,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -77024,7 +77024,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -77142,7 +77142,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -77262,7 +77262,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -77380,7 +77380,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -77500,7 +77500,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -77620,7 +77620,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -77740,7 +77740,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications. In India: <strong>IndiaMART</strong> for auto accessories manufacturers.",
+        "body": "<strong>AliExpress</strong> for car accessories and tools. <strong>Alibaba</strong> for custom packaging and branding. <strong>Be careful with electronics.</strong> LED strips and chargers need to be safe. Order from suppliers with CE/FCC certifications.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -77861,7 +77861,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -77981,7 +77981,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -78102,7 +78102,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -78223,7 +78223,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -78342,7 +78342,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -78463,7 +78463,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -78582,7 +78582,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -78702,7 +78702,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -78821,7 +78821,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -78940,7 +78940,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -79059,7 +79059,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -79180,7 +79180,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -79299,7 +79299,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -79418,7 +79418,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -79537,7 +79537,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -79657,7 +79657,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -79776,7 +79776,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -79897,7 +79897,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -80017,7 +80017,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -80138,7 +80138,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -80258,7 +80258,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -80379,7 +80379,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -80498,7 +80498,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -80618,7 +80618,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -80737,7 +80737,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -80856,7 +80856,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -80975,7 +80975,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -81094,7 +81094,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -81215,7 +81215,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -81335,7 +81335,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>. In India: <strong>Aromaaz</strong> for oils, <strong>IndiaMART</strong> for wax and containers.",
+        "body": "Wax: <strong>CandleScience</strong>, <strong>Bulk Apothecary</strong> (US). Fragrance oils: <strong>Nature's Garden</strong>, <strong>Bramble Berry</strong>. Wicks: <strong>Wooden Wick Co.</strong> or cotton from <strong>CandleScience</strong>. Jars: <strong>AliExpress</strong> or <strong>Fillmore Container</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -81455,7 +81455,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -81575,7 +81575,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -81695,7 +81695,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -81814,7 +81814,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -81935,7 +81935,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -82056,7 +82056,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -82175,7 +82175,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -82296,7 +82296,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -82417,7 +82417,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -82537,7 +82537,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -82658,7 +82658,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -82778,7 +82778,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -82898,7 +82898,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -83017,7 +83017,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -83137,7 +83137,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -83257,7 +83257,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -83376,7 +83376,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -83497,7 +83497,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -83616,7 +83616,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -83736,7 +83736,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -83855,7 +83855,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -83974,7 +83974,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -84093,7 +84093,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -84212,7 +84212,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -84332,7 +84332,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -84452,7 +84452,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -84571,7 +84571,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -84691,7 +84691,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -84811,7 +84811,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -84930,7 +84930,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. In India: <strong>IndiaMART</strong> for Kolkata and Kanpur leather suppliers. Start with pre-cut pieces to save waste.",
+        "body": "Leather: <strong>Tandy Leather</strong> (US), <strong>Rocky Mountain Leather</strong>. Tools: <strong>Weaver Leather Supply</strong>. Hardware (buckles, snaps): <strong>Ohio Travel Bag</strong> or <strong>AliExpress</strong>. Start with pre-cut pieces to save waste.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -85051,7 +85051,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -85172,7 +85172,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -85293,7 +85293,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -85414,7 +85414,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -85534,7 +85534,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -85655,7 +85655,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -85776,7 +85776,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -85895,7 +85895,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -86016,7 +86016,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -86137,7 +86137,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -86258,7 +86258,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -86379,7 +86379,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -86499,7 +86499,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -86620,7 +86620,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -86740,7 +86740,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -86861,7 +86861,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -86981,7 +86981,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -87100,7 +87100,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -87221,7 +87221,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -87340,7 +87340,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -87460,7 +87460,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -87580,7 +87580,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -87700,7 +87700,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -87820,7 +87820,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -87940,7 +87940,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -88060,7 +88060,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -88181,7 +88181,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -88302,7 +88302,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -88423,7 +88423,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -88542,7 +88542,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>. In India: <strong>IndiaMART</strong> for timber suppliers.",
+        "body": "Wood: <strong>local lumber yards</strong> (40% cheaper than Home Depot). Specialty: <strong>Bell Forest Products</strong>, <strong>Woodworkers Source</strong>. Finishes: <strong>General Finishes</strong>, <strong>Odie's Oil</strong>. Hardware: <strong>Rockler</strong> or <strong>Woodcraft</strong>.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -92231,7 +92231,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -92352,7 +92352,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -92473,7 +92473,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -92592,7 +92592,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -92712,7 +92712,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -92832,7 +92832,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -92951,7 +92951,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -93070,7 +93070,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -93189,7 +93189,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -93310,7 +93310,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -93431,7 +93431,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -93550,7 +93550,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -93670,7 +93670,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -93791,7 +93791,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -93911,7 +93911,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -94031,7 +94031,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -94151,7 +94151,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -94270,7 +94270,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -94391,7 +94391,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -94511,7 +94511,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -94630,7 +94630,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -94751,7 +94751,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -94871,7 +94871,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -94990,7 +94990,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -95109,7 +95109,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -95228,7 +95228,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -95348,7 +95348,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -95468,7 +95468,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -95588,7 +95588,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
@@ -95709,7 +95709,7 @@ export const PHYSICAL_IDEAS: Idea[] =
         "action": "Open the profit calculator and enter your real costs"
       },
       "distributors": {
-        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you. In India: <strong>Chor Bazaar</strong> (Mumbai), <strong>Sunday markets</strong> for vintage finds.",
+        "body": "<strong>Thrift stores</strong>, <strong>estate sales</strong>, <strong>garage sales</strong>, and <strong>Facebook Marketplace</strong> are your supply chain. <strong>Goodwill outlet stores</strong> sell by the pound. <strong>AuctionZip.com</strong> for estate auctions near you.",
         "action": "Order 2-3 samples from different suppliers today"
       },
       "pricing": {
