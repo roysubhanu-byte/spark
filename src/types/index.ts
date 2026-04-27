@@ -66,7 +66,7 @@ export interface IdeaValidation {
 
 export interface DemandData {
   score: number // 0-100
-  googleTrendsDirection: 'rising' | 'stable' | 'declining'
+  googleTrendsDirection: 'hot' | 'rising' | 'stable' | 'cooling' | 'declining'
   googleTrendsValue: number // relative interest 0-100
   searchVolume: string // "18K/mo" — estimated monthly searches
   seasonality: string // "year-round" | "seasonal (Q4 peak)" | "summer only"

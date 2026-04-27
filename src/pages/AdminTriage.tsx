@@ -13,8 +13,12 @@ interface TriageEntry {
   capital: string
   interests: string[]
   quality_tier: Tier
-  priority_score: number
-  reason: string
+  priority_score?: number
+  reason?: string
+  reasons?: string[]
+  hook?: string
+  old_tier?: string
+  was_demoted?: boolean
   upgrade_priority: boolean
 }
 

@@ -31,17 +31,11 @@ export default function AdminAuditReview() {
   })
   const [currentReviewIdx, setCurrentReviewIdx] = useState(0)
 
-  // Load audit results — try runtime fetch first, then bundled import
+  // Load audit results
   useEffect(() => {
-    // In dev: fetch from scripts dir. In prod: bundled import.
     import('../../scripts/audit-results.json')
-      .then(m => { setAuditData(m.default || []); setLoading(false) })
-      .catch(() => {
-        fetch('/audit-results.json')
-          .then(r => r.ok ? r.json() : [])
-          .then(data => { setAuditData(data); setLoading(false) })
-          .catch(() => setLoading(false))
-      })
+      .then(m => { setAuditData((m.default || []) as AuditResult[]); setLoading(false) })
+      .catch(() => setLoading(false))
   }, [])
 
   // Map ideas by ID for lookup
@@ -54,7 +48,7 @@ export default function AdminAuditReview() {
   // Merge audit results with overrides
   const merged = useMemo(() => {
     return auditData.map(audit => {
-      const effectiveRec = overrides.overrides[audit.idea_id] || audit.recommendation
+      const effectiveRec: 'keep' | 'cut' | 'needs-review' = overrides.overrides[audit.idea_id] || audit.recommendation as 'keep' | 'cut' | 'needs-review'
       const idea = ideaMap.get(audit.idea_id)
       const totalScore = audit.scores ?
         audit.scores.hook_strength + audit.scores.commodity_risk + audit.scores.regulatory_risk +

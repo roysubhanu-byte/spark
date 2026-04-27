@@ -87,7 +87,7 @@ function SupplierCard({ supplier, isPrimary, isSample }: { supplier: SupplierRes
   )
 }
 
-function PhysicalSourcing({ idea, region }: { idea: Idea; region: Region }) {
+function PhysicalSourcing({ idea, region: _region }: { idea: Idea; region: Region }) {
   const { category, searchUrls } = findSuppliersForProduct(idea.name)
   const supplierData = useMemo(() => findSuppliers(idea.name), [idea.name])
 
