@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback, useEffect } from 'react'
-import { IDEAS } from '../data'
+import { ALL_IDEAS_UNFILTERED as IDEAS } from '../data'
 import type { Idea } from '../types'
 
 interface AuditResult {

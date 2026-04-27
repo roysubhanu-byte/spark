@@ -1,0 +1,3214 @@
+[
+  {
+    "idea_id": "face-serums",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.3,
+    "keep_score": 3.8,
+    "cut_score": 1.5,
+    "sparkScore": 66,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.8,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 0.8)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While face serums offer strong differentiation potential for makers, they face high commodity risk in a saturated market. More critically, they fall under FDA cosmetic regulations, introducing significant regulatory hurdles for beginners. This combination makes it a challenging entry point despite the good hook and capital honesty.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "body-mists",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.6,
+    "keep_score": 2.6,
+    "cut_score": 1,
+    "sparkScore": 62,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 62 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While body mists offer strong differentiation potential and low startup capital, the regulatory risk for cosmetic products (FDA) is a significant hurdle for beginners. This requires careful attention to ingredients, labeling, and safety claims, making it more complex than typical craft items.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "nail-polish",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 0.8,
+    "keep_score": 2.6,
+    "cut_score": 1.8,
+    "sparkScore": 63,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 55.2,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 63 (decent)",
+      "high competition",
+      "Google Trends stable (avg 55.2)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While the hook and differentiation potential are strong, nail polish is a cosmetic product regulated by the FDA, posing significant regulatory hurdles for a beginner. It also faces high commodity risk due to competition from established mass-market brands, even with a 'non-toxic' angle.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "flavored-syrup",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.0,
+    "keep_score": 3.8,
+    "cut_score": 0.8,
+    "sparkScore": 64,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.9,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "medium competition (good)",
+      "Google Trends stable (avg 0.9)",
+      "commodity risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While this idea offers excellent differentiation potential through unique flavors and branding, the product category itself is highly commoditized, requiring significant effort to stand out from mass-produced options. Additionally, regulatory hurdles for food products (cottage food laws) add friction for beginners, placing it in 'needs-review' despite its creative appeal.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "hand-cream",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.3,
+    "keep_score": 2.8,
+    "cut_score": 1.5,
+    "sparkScore": 61,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 13.2,
+      "trend": "rising"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends RISING (avg 13.2)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "This idea offers strong differentiation potential through unique formulations and branding, and is achievable with the stated low capital. However, hand cream operates in a highly commoditized market with many mass-produced alternatives. Furthermore, it carries notable regulatory considerations from the FDA for cosmetic products, adding complexity and risk for a beginner maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "body-butter",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.8,
+    "keep_score": 3.8,
+    "cut_score": 1,
+    "sparkScore": 67,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 26.4,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 67 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 26.4)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea offers strong differentiation potential and low startup capital, making it appealing for beginners. However, body butter falls under FDA cosmetic regulations, which introduces a significant regulatory hurdle for makers regarding ingredient safety, labeling, and claims. This elevated regulatory risk pushes the idea into 'needs-review' territory for further guidance on compliance.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "hair-oil-blends",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.1,
+    "keep_score": 2.1,
+    "cut_score": 1,
+    "sparkScore": 61,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea benefits from a strong trending hook and excellent differentiation potential for a maker creating unique blends. While capital is low and commodity risk is manageable for a handmade product, the regulatory requirements for cosmetic products (FDA labeling, ingredient safety) pose a significant hurdle for a beginner, warranting a 'needs-review'.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "sugar-scrubs",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.6,
+    "keep_score": 2.6,
+    "cut_score": 1,
+    "sparkScore": 66,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.9,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.9)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "Sugar scrubs offer excellent differentiation potential through unique scents, ingredients, and packaging, with very low startup capital. However, as a cosmetic product, it falls under FDA labeling and good manufacturing practice guidelines, which introduces a moderate regulatory risk for beginners.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "beard-oil",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.8,
+    "keep_score": 3.3,
+    "cut_score": 1.5,
+    "sparkScore": 67,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 11.9,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 67 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 11.9)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While beard oil offers good differentiation potential and low startup capital, it faces high commodity risk from mass-produced brands. Crucially, it falls under FDA cosmetic regulations, which adds significant complexity and potential legal hurdles for a beginner maker, pushing it beyond the 'keep' threshold.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "solid-shampoo-bars",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.6,
+    "keep_score": 2.6,
+    "cut_score": 1,
+    "sparkScore": 65,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 65 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea has a strong 'zero waste' hook, low capital requirements, and excellent differentiation potential for a maker. However, as a cosmetic product, it falls under FDA regulations for labeling and ingredient claims, which presents a notable regulatory hurdle for beginners, pushing it into 'needs-review' territory.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "clay-face-masks",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.8,
+    "keep_score": 4.8,
+    "cut_score": 1,
+    "sparkScore": 68,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 1.5,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 68 (strong)",
+      "high competition",
+      "Google Trends RISING (avg 1.5)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea offers excellent differentiation through custom blends and is highly capital-honest for beginners. However, the regulatory risk for cosmetics, even simple clay masks, is a significant hurdle due to FDA labeling requirements, ingredient safety, and claims, which adds friction beyond a typical craft business.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "whipped-soap",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.5,
+    "keep_score": 3.8,
+    "cut_score": 1.3,
+    "sparkScore": 62,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 3.4,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 62 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 3.4)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "Whipped soap offers excellent differentiation potential and a clear hook for a premium product, with a genuinely low startup cost. However, as a cosmetic product, it falls under FDA regulations, which adds a layer of complexity and risk for a beginner maker, pushing its regulatory risk score to 4 and preventing a 'keep' recommendation.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "salt-bath-soaks",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.6,
+    "keep_score": 2.6,
+    "cut_score": 1,
+    "sparkScore": 67,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 67 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea offers strong differentiation potential and low startup capital, making it appealing for a maker. However, bath soaks fall under cosmetic regulations by the FDA, which introduces a notable regulatory hurdle for beginners regarding ingredients, labeling, and claims, pushing it out of a straightforward 'keep' recommendation.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "dry-shampoo-powder",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.5,
+    "keep_score": 4.8,
+    "cut_score": 1.3,
+    "sparkScore": 68,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 20.9,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 68 (strong)",
+      "high competition",
+      "Google Trends RISING (avg 20.9)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea offers strong differentiation and low commodity risk through its 'natural alternative' hook, and is very capital-efficient. However, as a cosmetic product, it falls under FDA regulations, which introduces a significant regulatory hurdle for a beginner maker, requiring careful consideration.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "hand-soap-bars",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 0.8,
+    "keep_score": 2.1,
+    "cut_score": 1.3,
+    "sparkScore": 63,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.4,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 63 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.4)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While handmade soap offers excellent differentiation potential through ingredients, scents, and aesthetics, the regulatory landscape (FDA guidelines for soap vs. cosmetic claims) introduces significant friction and risk for beginners. This elevates the regulatory risk beyond what's ideal for a 'keep' recommendation, despite manageable startup costs and a clear market hook.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "deodorant-cream",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.3,
+    "keep_score": 3.3,
+    "cut_score": 1,
+    "sparkScore": 66,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 3.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 3.3)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While this idea offers strong differentiation potential and low startup capital, the regulatory risk for cosmetic products (FDA labeling, ingredient restrictions) is higher than ideal for a beginner. This complexity pushes it into 'needs-review' rather than a direct 'keep'.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "facial-mist-spray",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.1,
+    "keep_score": 1.6,
+    "cut_score": 1.5,
+    "sparkScore": 61,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.2,
+      "trend": "stable"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends stable (avg 0.2)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While capital is low and differentiation is possible through branding, this product faces high commodity risk in a saturated market. More critically, it falls under FDA cosmetic regulations, adding significant friction and complexity for a beginner maker operating on a tight budget.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "dog-treats",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 5.0,
+    "keep_score": 6.0,
+    "cut_score": 1,
+    "sparkScore": 70,
+    "competition": "medium",
+    "tier": "B",
+    "google_trends": {
+      "avg": 37.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 70 (strong)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 37.3)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While baking healthy dog treats offers excellent differentiation potential and a clear hook for makers, the regulatory landscape for pet food can be complex. State and federal guidelines for pet food production, even for small-scale operations, introduce significant friction and risk for beginners, pushing it beyond a simple 'keep' recommendation.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "fish-tank-decorations",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 4.7,
+    "keep_score": 6.0,
+    "cut_score": 1.3,
+    "sparkScore": 68,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.7,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 68 (strong)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 0.7)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While this idea offers excellent differentiation and low startup capital, the regulatory risk is significant. Makers must ensure all resin and sealants used are genuinely non-toxic and aquarium-safe to protect aquatic life, which adds a critical layer of material sourcing and safety research for a beginner.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "dried-mushroom-blends",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.0,
+    "keep_score": 3.8,
+    "cut_score": 0.8,
+    "sparkScore": 62,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 62 (decent)",
+      "medium competition (good)",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "The idea offers a clear niche with good differentiation potential through unique blends and branding. However, it carries a moderate commodity risk as dried mushrooms are widely available, and food products inherently involve regulatory friction due to cottage food laws, which can be a significant hurdle for beginners.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "pacifier-clips",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.3,
+    "keep_score": 2.1,
+    "cut_score": 1.8,
+    "sparkScore": 54,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 23.3,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 54 (weak)",
+      "high competition",
+      "Google Trends stable (avg 23.3)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While pacifier clips offer strong differentiation and low startup costs, the significant regulatory hurdles for baby products (CPSC safety standards regarding choking hazards, strangulation risks, and material safety) make this a challenging venture for beginners. Ensuring compliance can be complex and potentially costly, requiring careful research and adherence to specific guidelines.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "kids-science-kits",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.3,
+    "keep_score": 3.3,
+    "cut_score": 1,
+    "sparkScore": 57,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 21.1,
+      "trend": "rising"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends RISING (avg 21.1)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea has strong differentiation potential through unique themes and personalization, and the capital required is very honest. However, the regulatory risk for children's products, especially those involving chemicals or small parts, is a significant concern that beginners need to be aware of and navigate carefully, pushing it to 'needs-review'.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "massage-candles",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.0,
+    "keep_score": 3.0,
+    "cut_score": 3.0,
+    "sparkScore": 53,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 10.5,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 53 (weak)",
+      "very-high competition",
+      "Google Trends RISING (avg 10.5)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea boasts a strong hook and significant differentiation potential for a handmade business, with a realistic starting capital. However, as a cosmetic product applied to the skin, massage candles fall under FDA regulation, which introduces a higher level of compliance complexity for a beginner maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "mushroom-grow-kit",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.2,
+    "keep_score": 3.0,
+    "cut_score": 2.8,
+    "sparkScore": 54,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 35.8,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 54 (weak)",
+      "very-high competition",
+      "Google Trends RISING (avg 35.8)",
+      "commodity risk 4/5",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "The idea offers good differentiation potential and low startup capital. However, the core product, a mushroom grow kit, faces significant competition from mass-produced versions. While a maker can brand and assemble, the inherent 'handmade' value is less distinct, and there are moderate regulatory considerations related to growing food.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "aromatherapy-roll-ons",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.1,
+    "keep_score": 2.1,
+    "cut_score": 1,
+    "sparkScore": 67,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 67 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "This idea offers excellent differentiation potential and low startup costs, making it appealing for makers. However, products applied to the skin, like aromatherapy roll-ons, fall under FDA cosmetic regulations, which introduces a moderate regulatory risk for beginners regarding labeling and claims. This friction warrants a 'needs-review' to ensure makers are properly informed.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "facial-toner",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 0.8,
+    "keep_score": 2.3,
+    "cut_score": 1.5,
+    "sparkScore": 65,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 1.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 65 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 1.3)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces significant regulatory hurdles as a cosmetic product, requiring adherence to FDA guidelines for manufacturing and labeling, which is complex for a beginner. It also competes in a highly commoditized market, making differentiation challenging despite the 'rose water' hook.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "perfume-oil-rollerballs",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.1,
+    "keep_score": 3.1,
+    "cut_score": 1,
+    "sparkScore": 71,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 71 (strong)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "This idea offers excellent differentiation potential and low startup costs, making it attractive for makers. However, perfume oils are classified as cosmetics and are subject to FDA regulations, which introduces a moderate regulatory risk that beginners must understand and comply with.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "body-oil",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.3,
+    "keep_score": 3.3,
+    "cut_score": 1,
+    "sparkScore": 65,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 23.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 65 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 23.3)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "This idea offers excellent differentiation potential and low startup capital, making it attractive for beginners. However, body oils are considered cosmetics and are subject to FDA regulations, which introduces a higher regulatory risk than typical crafts and requires careful attention to labeling and ingredient safety.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "pet-odor-spray",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.3,
+    "keep_score": 2.8,
+    "cut_score": 1.5,
+    "sparkScore": 64,
+    "competition": "medium",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "medium competition (good)",
+      "Google Trends stable (avg 0.1)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While the hook is clear and capital is honest, this product faces high commodity risk competing with mass-produced sprays. The regulatory risk for a beginner making and selling a chemical product with safety claims is also moderate, requiring careful formulation and labeling.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "infused-olive-oil",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.2,
+    "keep_score": 4.0,
+    "cut_score": 0.8,
+    "sparkScore": 58,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.2,
+      "trend": "rising"
+    },
+    "reasons": [
+      "medium competition (good)",
+      "Google Trends RISING (avg 0.2)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While infused olive oil offers good differentiation potential through unique flavors and packaging, it faces moderate commodity risk against established brands. The primary concern is the regulatory friction associated with food products, requiring adherence to cottage food laws which can be complex for beginners.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "pickled-vegetables",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.0,
+    "keep_score": 2.8,
+    "cut_score": 0.8,
+    "sparkScore": 59,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 2.2,
+      "trend": "stable"
+    },
+    "reasons": [
+      "medium competition (good)",
+      "Google Trends stable (avg 2.2)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While 'Fermented foods trending' offers a decent hook and there's good potential for differentiation through unique recipes and branding, this product faces high commodity risk competing with established food brands. Additionally, navigating cottage food laws adds a layer of regulatory complexity that can be challenging for a beginner.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "bbq-sauce",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.5,
+    "keep_score": 3.3,
+    "cut_score": 0.8,
+    "sparkScore": 59,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 60.5,
+      "trend": "stable"
+    },
+    "reasons": [
+      "medium competition (good)",
+      "Google Trends stable (avg 60.5)",
+      "commodity risk 4/5",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "The idea has good differentiation potential through regional flavors and a reasonable starting capital. However, the product category faces high commodity risk from established brands, making it challenging for a beginner to stand out effectively. Additionally, food products inherently carry regulatory friction due to cottage food laws or commercial kitchen requirements, which adds complexity beyond typical handmade crafts.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "sensory-play-kits",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.1,
+    "keep_score": 2.1,
+    "cut_score": 1,
+    "sparkScore": 64,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "This idea offers excellent differentiation and low startup capital, making it appealing for makers. However, the regulatory risk for children's products, including toy safety standards (CPSIA) and potential choking hazards, is significant and requires thorough research and compliance for a beginner.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "baby-mobiles",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.1,
+    "keep_score": 2.1,
+    "cut_score": 1,
+    "sparkScore": 64,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.1)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "This idea offers strong differentiation potential and low commodity risk for handmade items, fitting well into the 'kids & baby' category. However, the 'toy combo' aspect of the hook raises significant concerns regarding potential regulatory hurdles like CPSIA toy safety standards, which can be complex for beginners. This elevates the regulatory risk beyond what is ideal for a 'keep' recommendation.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "toddler-utensil-sets",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.1,
+    "keep_score": 1.6,
+    "cut_score": 1.5,
+    "sparkScore": 58,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as silicone toddler utensils are widely mass-produced and sold cheaply by large retailers. More critically, selling children's feeding products requires navigating CPSC regulations and safety testing, which is a significant hurdle for a beginner with a low budget. While personalization offers differentiation, the core product's nature and regulatory burden make it challenging for a true maker business.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "dog-anxiety-vest",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 5.2,
+    "keep_score": 6.0,
+    "cut_score": 0.8,
+    "sparkScore": 71,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 71 (strong)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 0.3)",
+      "commodity risk 4/5",
+      "differentiation 4/5",
+      "hook 5/5"
+    ],
+    "original_reasoning": "The 'Thunder shirt alternative' hook is strong, and there's good potential for differentiation through custom fabrics, personalization, or unique designs. However, the core product faces high commodity risk from established mass-produced options. While handmade, it's a functional item where mass-market solutions are prevalent, making it challenging for a beginner to compete effectively.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "teething-toys",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 0.6,
+    "keep_score": 1.6,
+    "cut_score": 1,
+    "sparkScore": 55,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 7.6,
+      "trend": "stable"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends stable (avg 7.6)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While this idea offers strong differentiation potential and honest capital requirements for assembling unique designs, the regulatory risk is significant. Teething toys are children's products subject to CPSC safety standards (e.g., choking hazards, material safety), which adds considerable friction and liability for a beginner maker. This requires careful review to ensure makers are fully aware of and can comply with these regulations.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "rattan-mirror-frames",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": -0.5,
+    "keep_score": 1.8,
+    "cut_score": 2.3,
+    "sparkScore": 60,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "The idea has a clear hook, low regulatory risk, and good potential for unique differentiation through design. However, the product category faces high commodity risk, as mass-produced rattan mirrors are widely available and often cheaper, making it challenging for a maker to compete on price and perceived value without significant unique craftsmanship.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "bubble-bath",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.3,
+    "keep_score": 3.3,
+    "cut_score": 1,
+    "sparkScore": 65,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 55.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 65 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 55.3)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While bubble bath offers excellent differentiation potential through unique scents, ingredients, and branding, and has low startup capital, the regulatory risk is significant. As a cosmetic product, it falls under FDA guidelines for ingredients and labeling, which adds complexity for a beginner maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "makeup-remover-pads",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.3,
+    "keep_score": 3.8,
+    "cut_score": 0.5,
+    "sparkScore": 62,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 1.7,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 62 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 1.7)",
+      "commodity risk 4/5",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea benefits from a strong eco-friendly hook, low regulatory risk, and honest capital requirements. There's good potential for differentiation through unique fabrics, patterns, and packaging. However, the primary concern is the high commodity risk, as reusable makeup remover pads are widely available from mass producers, making it challenging for a beginner maker to stand out without significant, unique branding and differentiation.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "granola-and-trail-mix",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.5,
+    "keep_score": 3.3,
+    "cut_score": 0.8,
+    "sparkScore": 64,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "medium competition (good)",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While this idea has low startup capital and good potential for differentiation through unique flavors or dietary niches, the core product category is highly commoditized. A beginner would face significant competition from established brands. Additionally, food products inherently carry regulatory friction due to cottage food laws, adding complexity for a new maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "cold-brew-coffee",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.7,
+    "keep_score": 4.5,
+    "cut_score": 0.8,
+    "sparkScore": 65,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 25.2,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 65 (decent)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 25.2)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces significant commodity risk as cold brew concentrate is widely available from large brands. While differentiation is possible through unique flavors or branding, the regulatory hurdles for food products (cottage food laws) add complexity for a beginner maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "pasta-sauce",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.7,
+    "keep_score": 4.5,
+    "cut_score": 0.8,
+    "sparkScore": 63,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 82.1,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 63 (decent)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 82.1)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces significant commodity risk, competing with established food brands, and regulatory friction due to being a food product. While differentiation through unique flavors or ingredients is possible, the combined challenges of market competition and navigating food safety laws make it less ideal for a beginner with a low budget.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "candied-nuts",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.5,
+    "keep_score": 3.3,
+    "cut_score": 0.8,
+    "sparkScore": 63,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.9,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 63 (decent)",
+      "medium competition (good)",
+      "Google Trends stable (avg 0.9)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk, as candied nuts are widely available from mass producers, making it challenging for a beginner to compete. While differentiation through unique flavors and branding is possible, the inherent regulatory friction of food products (cottage food laws) adds complexity. These combined factors warrant further review despite the low startup capital.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "smoothie-powder-mix",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.0,
+    "keep_score": 2.8,
+    "cut_score": 0.8,
+    "sparkScore": 58,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "medium competition (good)",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While a maker can differentiate with unique blends and branding, the core product category faces high commodity risk against established brands. Additionally, food products introduce regulatory friction with cottage food laws, making it a more complex start for a beginner.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "baby-bibs",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.8,
+    "keep_score": 2.8,
+    "cut_score": 1,
+    "sparkScore": 60,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 4.8,
+      "trend": "rising"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends RISING (avg 4.8)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While baby bibs offer excellent differentiation potential through custom designs, personalization, and material choices, the regulatory risk associated with children's products (e.g., CPSIA compliance) is significant for beginners. This adds friction beyond typical craft items, requiring careful review to ensure makers are adequately informed about safety standards.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "kids-puzzle-sets",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.3,
+    "keep_score": 2.1,
+    "cut_score": 1.8,
+    "sparkScore": 54,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 54 (weak)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea has strong differentiation potential and low commodity risk when handmade, especially for personalized or themed designs. However, the regulatory risk is elevated for products targeting young children (ages 2-6) due to safety standards like choking hazards and non-toxic materials. The listed capital is also quite tight for genuinely 'making' wooden puzzles from scratch, though feasible for decorating blanks.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "herb-garden-kits",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -0.7,
+    "keep_score": 1.3,
+    "cut_score": 2.0,
+    "sparkScore": 57,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While this idea has low startup capital and good potential for differentiation through unique pots, seed varieties, or packaging, it faces high commodity risk from mass-produced kits. Additionally, selling seeds introduces regulatory considerations that add friction for a beginner, preventing a 'keep' recommendation.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "bonsai-starter-kit",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -1.7,
+    "keep_score": 1.3,
+    "cut_score": 3.0,
+    "sparkScore": 59,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends stable (avg 0.1)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While there's good potential for differentiation through unique pots, tree species, or custom guides, the commodity risk is moderate due to many pre-packaged kits existing. The primary concern is the elevated regulatory risk associated with selling live plants or seeds, which can involve specific agricultural and shipping regulations for a beginner maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "linen-spray",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.0,
+    "keep_score": 2.5,
+    "cut_score": 2.5,
+    "sparkScore": 54,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 8.6,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 54 (weak)",
+      "very-high competition",
+      "Google Trends RISING (avg 8.6)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "Linen spray has good potential for differentiation through unique scent blends and branding, and a very low startup cost. However, it faces significant commodity risk from mass-produced alternatives readily available from large brands. Additionally, there are moderate regulatory considerations for ingredients and labeling that add friction for a beginner maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "scented-pinecones",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": -0.2,
+    "keep_score": 1.8,
+    "cut_score": 2.0,
+    "sparkScore": 60,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends stable (avg 0.1)",
+      "commodity risk 4/5",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea has a clear hook, low regulatory risk, and good potential for differentiation through unique scents or aesthetic. However, its commodity risk is high as scented pinecones are widely available from mass retailers, making it challenging for a beginner maker to stand out without a very strong unique selling proposition.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "cuticle-oil-pens",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.1,
+    "keep_score": 2.1,
+    "cut_score": 1,
+    "sparkScore": 64,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While this idea offers excellent differentiation potential and low startup costs, the regulatory risk for cosmetic products (FDA guidelines for ingredients, labeling, and manufacturing) is a significant hurdle for beginners. This complexity elevates it beyond a simple craft, requiring careful consideration before recommending.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "lip-scrub",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.0,
+    "keep_score": 3.3,
+    "cut_score": 1.3,
+    "sparkScore": 64,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 35.1,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 35.1)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "This idea offers strong differentiation potential through unique flavors, ingredients, and packaging, and is very honest about its low startup capital. However, the regulatory risk for cosmetic products (FDA guidelines for labeling and ingredients) is a significant consideration for a beginner, pushing it into 'needs-review'. The hook is also quite generic.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "dried-fruit-snacks",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.7,
+    "keep_score": 3.5,
+    "cut_score": 0.8,
+    "sparkScore": 63,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 2.8,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 63 (decent)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 2.8)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "While capital is honest and regulatory risk is manageable under cottage food laws, dried fruit faces high commodity risk. It's challenging for a beginner maker to differentiate against mass-produced options, even with a 'handmade' process, making it difficult to stand out on platforms like Etsy or TikTok Shop without a very strong, unique niche.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "balloon-garland-kits",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.1,
+    "keep_score": 2.6,
+    "cut_score": 0.5,
+    "sparkScore": 64,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While this idea offers good differentiation potential through curated themes and added value, the core components (balloons, pumps, tape) are highly commoditized. The 'making' aspect is primarily assembly and curation rather than creating the core product, which poses a significant commodity risk and borders on reselling, conflicting with Spark's focus on inherently handmade goods.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "toiletry-bags",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.0,
+    "keep_score": 2.5,
+    "cut_score": 2.5,
+    "sparkScore": 54,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 2.6,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 54 (weak)",
+      "very-high competition",
+      "Google Trends RISING (avg 2.6)",
+      "commodity risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While there is significant potential for differentiation through custom designs, personalization, and unique materials, the core product (toiletry bags) is highly commoditized. A beginner maker would face strong competition from mass-produced options, making it challenging to stand out without a very strong, unique angle from the start. The commodity risk is too high for a 'keep' recommendation.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "wooden-toys",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.3,
+    "keep_score": 3.3,
+    "cut_score": 1,
+    "sparkScore": 57,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 11.0,
+      "trend": "rising"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends RISING (avg 11.0)",
+      "regulatory risk 4/5",
+      "differentiation 5/5",
+      "hook 5/5"
+    ],
+    "original_reasoning": "This idea boasts a strong niche hook targeting Montessori parents and excellent differentiation potential for handmade items. However, the regulatory landscape for children's toys (CPSC compliance, safety testing) presents a significant hurdle for beginners, pushing its regulatory risk higher than ideal. The initial capital might also be tight for acquiring necessary tools and child-safe materials.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "bamboo-utensil-sets",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -0.7,
+    "keep_score": 1.3,
+    "cut_score": 2.0,
+    "sparkScore": 61,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "The commodity risk is high as 'Bamboo Utensil Sets' are widely available. While there's good potential for differentiation through customization (engraving, handmade cases), the idea's hook 'easy to source' implies buying finished goods, which clashes with Spark's focus on making. It needs to be reframed to emphasize the handmade/customization process more strongly.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "beef-jerky",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.5,
+    "keep_score": 3.3,
+    "cut_score": 1.8,
+    "sparkScore": 63,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 71.6,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 63 (decent)",
+      "medium competition (good)",
+      "Google Trends stable (avg 71.6)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "Selling beef jerky presents significant regulatory hurdles, as meat products often fall outside standard cottage food laws and may require commercial kitchens or USDA inspection. It also faces high commodity risk, competing with many established brands. While flavor differentiation is possible, these challenges make it difficult for a beginner with a low budget.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "energy-balls",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.2,
+    "keep_score": 3.0,
+    "cut_score": 0.8,
+    "sparkScore": 60,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 10.6,
+      "trend": "rising"
+    },
+    "reasons": [
+      "medium competition (good)",
+      "Google Trends RISING (avg 10.6)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk, competing directly with mass-produced snacks, and carries regulatory friction due to food safety laws. While capital is low and some differentiation is possible through niche flavors or ingredients, the inherent challenges make it difficult for a beginner maker to stand out and scale.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "mushroom-coffee",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.2,
+    "keep_score": 2.0,
+    "cut_score": 0.8,
+    "sparkScore": 59,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "medium competition (good)",
+      "commodity risk 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While 'functional coffee trending' is a strong hook, mushroom coffee faces high commodity risk, competing directly with established mass-produced brands. Although a maker can blend and package, the product itself is a processed food item, not inherently handmade like crafts. Regulatory hurdles for food products also add friction for beginners.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "reusable-coffee-cups",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -2.0,
+    "keep_score": 0,
+    "cut_score": 2.0,
+    "sparkScore": 61,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "very-high competition",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea carries high commodity risk as the base product (bamboo fiber travel mugs) is widely available from mass producers. While decoration offers some differentiation, the hook doesn't emphasize a unique handmade process. Regulatory considerations for food-contact items also add friction for beginners.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "seed-starting-kits",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -1.5,
+    "keep_score": 1,
+    "cut_score": 2.5,
+    "sparkScore": 51,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 51 (weak)",
+      "very-high competition",
+      "commodity risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While there's significant potential for differentiation through unique seed varieties, custom packaging, or educational content, the core components are highly commoditized. The generic hook 'Trays + soil + seed variety' doesn't immediately convey a handmade or niche angle, leading to a higher commodity risk. A more specific hook is needed to highlight its maker appeal.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "money-belt",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -2.3,
+    "keep_score": 0.5,
+    "cut_score": 2.8,
+    "sparkScore": 48,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 48 (weak)",
+      "very-high competition",
+      "commodity risk 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea benefits from low startup capital and regulatory risk. However, a money belt is a highly commoditized functional item, making it difficult for a handmade version to compete effectively or differentiate itself significantly from mass-produced alternatives, especially given its 'hidden' nature.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "car-seat-cushion",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -2.0,
+    "keep_score": 0.3,
+    "cut_score": 2.3,
+    "sparkScore": 59,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "high competition",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as memory foam car seat cushions are widely mass-produced, making handmade differentiation challenging. There are also potential regulatory concerns for products used in vehicles. While capital is honest, the limited scope for unique handmade spins makes it difficult for a maker to compete effectively.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "car-key-signal-blocker",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.3,
+    "keep_score": 1.6,
+    "cut_score": 1.3,
+    "sparkScore": 63,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 63 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.1)",
+      "commodity risk 4/5",
+      "low differentiation 2/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This product faces high commodity risk as its primary value is a functional security feature, easily replicated by mass manufacturers at lower prices. While capital is low and the hook is clear, differentiation for a handmade maker is limited beyond basic aesthetics. It struggles to align with Spark's focus on inherently creative and unique handmade products that can command a premium over commodity goods.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "scented-drawer-liners",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.2,
+    "keep_score": 2.5,
+    "cut_score": 2.3,
+    "sparkScore": 55,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "rising"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends RISING (avg 0.1)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While this idea has low capital and good differentiation potential through custom scents and designs, the core product is a commodity. A maker would face significant competition from mass-produced versions, making it hard to stand out without a very strong, unique niche or brand from day one. The hook is also quite generic.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "pod-posters",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.6,
+    "keep_score": 2.1,
+    "cut_score": 0.5,
+    "sparkScore": 66,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While designs can be highly differentiated, the Print-on-Demand (POD) model fundamentally conflicts with Spark's emphasis on 'MAKING and SELLING' handmade products. This business model, which outsources physical production, carries a high commodity risk for our audience who are looking to physically create items, making it too close to dropshipping.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "nut-butter",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.2,
+    "keep_score": 4.0,
+    "cut_score": 0.8,
+    "sparkScore": 60,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 49.5,
+      "trend": "rising"
+    },
+    "reasons": [
+      "medium competition (good)",
+      "Google Trends RISING (avg 49.5)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as nut butter is a widely available grocery item, making it challenging for a beginner to stand out against established brands. While differentiation is possible through unique flavors, the product is a food item, introducing regulatory friction via cottage food laws. The hook also lacks a specific business angle.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "natural-loofah-sponges",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -2.0,
+    "keep_score": 0.8,
+    "cut_score": 2.8,
+    "sparkScore": 52,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 52 (weak)",
+      "very-high competition",
+      "Google Trends stable (avg 0.1)",
+      "commodity risk 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While the capital is low and regulatory risk minimal, the core product (natural loofah sponges) faces high commodity risk, making it hard to compete with mass-produced alternatives. Differentiation would rely heavily on branding, unique packaging, or bundling, rather than the inherent uniqueness of the product itself.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "essential-oil-blends",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.0,
+    "keep_score": 3.3,
+    "cut_score": 1.3,
+    "sparkScore": 67,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 12.5,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 67 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 12.5)",
+      "regulatory risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces significant regulatory risk due to the 'therapeutic grade' hook, which can imply health benefits and attract FDA scrutiny for drug claims. While there's good potential for differentiation through unique blends and branding, the regulatory hurdles are too high for a beginner to navigate easily. The hook itself is also somewhat generic.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "travel-cutlery-set",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -1.2,
+    "keep_score": 1.3,
+    "cut_score": 2.5,
+    "sparkScore": 49,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 1.5,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 49 (weak)",
+      "very-high competition",
+      "Google Trends stable (avg 1.5)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While a maker can differentiate with custom cases and personalization, the core product (cutlery) is highly commoditized and widely available from mass producers. This poses a significant competitive risk for a handmade business trying to sell the entire set, even with a handmade component.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "magnetic-wristband",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.8,
+    "keep_score": 2.3,
+    "cut_score": 0.5,
+    "sparkScore": 60,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 2.9,
+      "trend": "rising"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends RISING (avg 2.9)",
+      "commodity risk 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While the capital is low and regulatory risk minimal, the 'Magnetic Wristband' is a highly commoditized utility item. It would be challenging for a beginner maker to differentiate a handmade version against cheap, mass-produced alternatives, despite some potential for personalization. The core function is easily replicated by commodity goods.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "pod-blankets",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.6,
+    "keep_score": 2.1,
+    "cut_score": 0.5,
+    "sparkScore": 67,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.2,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 67 (decent)",
+      "high competition",
+      "Google Trends stable (avg 0.2)",
+      "commodity risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While POD blankets offer strong differentiation through custom designs and personalization, the Print-on-Demand model itself raises significant commodity risk. The physical product is not 'made' by the seller, which conflicts with Spark's core focus on handmade/creative products and could compete with mass-produced items, requiring clarification on what constitutes 'making' for this platform.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "hair-masks",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.0,
+    "keep_score": 4.3,
+    "cut_score": 1.3,
+    "sparkScore": 70,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 55.7,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 70 (strong)",
+      "high competition",
+      "Google Trends RISING (avg 55.7)",
+      "regulatory risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "While handmade hair masks offer excellent differentiation potential through unique formulations and natural ingredients, the regulatory risk is significant. As a cosmetic product, it falls under FDA guidelines for labeling and ingredients, which adds considerable friction and complexity for a beginner maker. This makes it a 'needs-review' to ensure proper guidance on compliance.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "vitamin-c-serum",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.0,
+    "keep_score": 3.3,
+    "cut_score": 2.3,
+    "sparkScore": 69,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 26.1,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 69 (strong)",
+      "high competition",
+      "Google Trends RISING (avg 26.1)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea faces significant regulatory hurdles as skincare products fall under FDA cosmetic regulations, posing a high risk for beginners. It also has high commodity risk, competing with established brands in a saturated market where 'handmade' doesn't inherently reduce competition. Differentiation is challenging, making it difficult for a new maker to stand out.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "cat-tunnel",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.7,
+    "keep_score": 4.5,
+    "cut_score": 0.8,
+    "sparkScore": 67,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 1.8,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 67 (decent)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 1.8)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While this idea has low regulatory risk and good potential for differentiation through unique materials or custom designs, the generic 'Collapsible play tunnel' hook makes it highly vulnerable to competition from mass-produced commodity items. It needs a much stronger, maker-specific angle to succeed on platforms like Etsy or TikTok Shop.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "protein-bars",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.2,
+    "keep_score": 3.5,
+    "cut_score": 1.3,
+    "sparkScore": 65,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 44.9,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 65 (decent)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 44.9)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "While homemade protein bars are possible, the product category itself is highly commoditized, making it difficult for a maker to differentiate against established brands. The 'private label' aspect of the hook also conflicts with the handmade focus. Regulatory hurdles for food products add friction, and the handmade angle doesn't provide strong inherent differentiation compared to crafts.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "gym-shorts",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.0,
+    "keep_score": 2.5,
+    "cut_score": 2.5,
+    "sparkScore": 48,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 8.4,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 48 (weak)",
+      "very-high competition",
+      "Google Trends RISING (avg 8.4)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "The idea faces high commodity risk, especially with the 'POD possible' hook suggesting reselling blank items with designs rather than true handmade creation. While differentiation through design is possible, the generic nature of 'Gym Shorts' and the hook don't strongly emphasize a unique maker angle. It needs review to ensure the 'making' aspect aligns with Spark's core mission.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "reusable-ice-packs",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -1.3,
+    "keep_score": 1.5,
+    "cut_score": 2.8,
+    "sparkScore": 61,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "rising"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends RISING (avg 0.1)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk, as reusable ice packs are widely available and cheap from mass producers. Differentiation is limited primarily to outer fabric designs, making it hard for a maker to stand out. There's also a moderate regulatory risk concerning the safety of homemade gel contents, especially for lunchboxes.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "watering-cans",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -2.3,
+    "keep_score": 1,
+    "cut_score": 3.3,
+    "sparkScore": 60,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 7.0,
+      "trend": "declining"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends declining (avg 7.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as decorative watering cans are widely available from mass producers. While there is potential for differentiation through custom decoration, the initial hook is too generic to clearly position it as a unique handmade product for a maker, making it difficult to stand out against mass-produced items.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "outdoor-thermometer",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": -0.3,
+    "keep_score": 2.5,
+    "cut_score": 2.8,
+    "sparkScore": 53,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 27.9,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 53 (weak)",
+      "very-high competition",
+      "Google Trends RISING (avg 27.9)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While this idea has good differentiation potential through decorative designs and low regulatory risk, the core product is highly commoditized. Makers would compete directly with mass-produced decorative thermometers, making it challenging to stand out and justify handmade pricing. The hook is also somewhat generic, needing a more specific niche.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "paper-fans",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.5,
+    "keep_score": 3.3,
+    "cut_score": 0.8,
+    "sparkScore": 64,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 21.0,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 21.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as basic paper fans are widely mass-produced and sold cheaply. While there's potential for differentiation through unique designs or personalization, the generic hook 'Accordion fold decorations' doesn't guide a beginner towards a strong niche. It needs a more specific angle to overcome the competition.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "shoe-bags",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": -0.3,
+    "keep_score": 2.5,
+    "cut_score": 2.8,
+    "sparkScore": 53,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 26.7,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 53 (weak)",
+      "very-high competition",
+      "Google Trends RISING (avg 26.7)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While shoe bags offer good differentiation potential through custom fabrics and personalization, the core product faces significant commodity risk from mass-produced alternatives. The generic hook doesn't immediately highlight a unique maker angle, making it challenging for a beginner to compete and justify handmade pricing.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "car-trash-can",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.0,
+    "keep_score": 2.8,
+    "cut_score": 0.8,
+    "sparkScore": 61,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 28.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends RISING (avg 28.3)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While a handmade car trash can offers good differentiation potential through custom fabrics and features, and has low regulatory risk, the core product is highly commoditized. The generic hook doesn't emphasize a unique maker angle, making it difficult for a beginner to stand out against mass-produced options despite the low startup capital.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "wooden-laptop-riser",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.0,
+    "keep_score": 2.8,
+    "cut_score": 0.8,
+    "sparkScore": 59,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "medium competition (good)",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While this idea has low regulatory risk and good potential for differentiation through custom designs, wood types, or personalization, the core product is highly commoditized. A maker would face significant competition from mass-produced, cheaper alternatives, making it difficult to stand out. The hook is also functional but not particularly inspiring for a maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "wooden-towel-rack",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.5,
+    "keep_score": 3.3,
+    "cut_score": 0.8,
+    "sparkScore": 65,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 65 (decent)",
+      "medium competition (good)",
+      "Google Trends stable (avg 0.1)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While a wooden towel rack offers good potential for differentiation through custom designs, materials, and finishes, the core product faces high commodity risk. Many similar items are mass-produced and widely available, making it challenging for a beginner to stand out without a very strong unique selling proposition. The capital estimate is reasonable, and regulatory risk is low.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "pet-shampoo",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.0,
+    "keep_score": 4.5,
+    "cut_score": 1.5,
+    "sparkScore": 73,
+    "competition": "medium",
+    "tier": "B",
+    "google_trends": {
+      "avg": 11.7,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 73 (strong)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 11.7)",
+      "regulatory risk 4/5",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces significant commodity and regulatory risks for a beginner. Pet shampoo is a highly competitive market, and creating a unique, safe, and compliant formula requires more expertise and potentially higher startup capital than estimated. While differentiation is possible, the inherent challenges make it less suitable for a zero-to-low budget beginner.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "dog-waste-station",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 5.0,
+    "keep_score": 5.5,
+    "cut_score": 0.5,
+    "sparkScore": 72,
+    "competition": "medium",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.8,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 72 (strong)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 0.8)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as standard dog waste stations are widely available and mass-produced, making it hard to compete as a handmade item. While differentiation through custom design or materials is possible, the product's utilitarian nature and generic hook don't immediately align with Spark's focus on inherently creative and handmade goods. It needs a stronger, more specific creative angle to be viable.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "hamster-habitat-accessories",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.8,
+    "keep_score": 3.3,
+    "cut_score": 0.5,
+    "sparkScore": 65,
+    "competition": "medium",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 65 (decent)",
+      "medium competition (good)",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 5/5"
+    ],
+    "original_reasoning": "The core products (wheels, tunnels, hideouts) face high commodity risk from mass-produced alternatives readily available on platforms like Amazon. While there's strong potential for differentiation through custom designs and personalization, the generic hook doesn't immediately convey this handmade advantage, making it a challenging niche for a beginner without a very specific angle.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "garden-knee-pad",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -1.0,
+    "keep_score": 1.3,
+    "cut_score": 2.3,
+    "sparkScore": 60,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as garden knee pads are widely available and cheap from mass producers. While there's good potential for differentiation through custom fabric designs and personalization, a beginner maker would need a very strong unique selling proposition to compete and justify a handmade price point. The current hook doesn't immediately convey this unique handmade angle.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "insulated-lunch-bag",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.2,
+    "keep_score": 2.5,
+    "cut_score": 2.3,
+    "sparkScore": 58,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 2.6,
+      "trend": "rising"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends RISING (avg 2.6)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While there's good potential for differentiation through unique designs, personalization, or niche targeting, the core product (insulated lunch bag) faces high commodity risk. It directly competes with widely available, inexpensive mass-produced options, making it challenging for a beginner maker to stand out and justify a handmade price point without exceptional design or branding from the start. Regulatory risk is low and capital is honest.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "meal-planner-printable",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 1.1,
+    "keep_score": 1.6,
+    "cut_score": 0.5,
+    "sparkScore": 61,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While the idea has low regulatory risk and good capital honesty for a physical product, it faces high commodity risk competing with mass-produced meal planners. Although there's potential for design and niche differentiation, the generic hook doesn't immediately offer a unique selling proposition for a beginner maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "sunglasses-case",
+    "decision": "keep",
+    "confidence": "medium",
+    "net_score": 0.5,
+    "keep_score": 2.5,
+    "cut_score": 2.0,
+    "sparkScore": 56,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 8.2,
+      "trend": "rising"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends RISING (avg 8.2)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as 'hard shell sunglasses cases' are widely available and mass-produced, making it challenging for a handmade version to compete on basic utility. While there's good potential for differentiation through custom fabrics, personalization, or unique designs, the current hook is generic and doesn't highlight a specific handmade angle. A maker would need a very strong, unique design or niche to succeed.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "jump-ropes",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.2,
+    "keep_score": 3.5,
+    "cut_score": 1.3,
+    "sparkScore": 64,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 1.1,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 1.1)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as jump ropes are widely available and inexpensive from mass producers. While custom handles or unique rope materials offer some differentiation, it's challenging to position a functional fitness tool as a premium handmade item. This makes it difficult for a beginner maker to compete effectively and justify a higher price point.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "gym-bags",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 4.0,
+    "keep_score": 4.5,
+    "cut_score": 0.5,
+    "sparkScore": 62,
+    "competition": "medium",
+    "tier": "B",
+    "google_trends": {
+      "avg": 7.2,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 62 (decent)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 7.2)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While there's potential for differentiation through custom designs, unique fabrics, or personalization, the core product (gym bags) faces significant commodity risk. It directly competes with mass-produced items, making it challenging for a beginner maker to justify a handmade price point. The hook is also quite generic, not immediately highlighting a unique handmade angle.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "gym-towels",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.7,
+    "keep_score": 4.5,
+    "cut_score": 0.8,
+    "sparkScore": 70,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 1.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 70 (strong)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 1.3)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as gym towels are widely available from mass producers, making it hard for a maker to compete. The 'branded' hook, while offering some differentiation, doesn't inherently align with a creative or handmade product focus. While customization is possible, the base product remains a commodity.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "outdoor-cushions",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -1.0,
+    "keep_score": 1.3,
+    "cut_score": 2.3,
+    "sparkScore": 59,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 33.2,
+      "trend": "stable"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends stable (avg 33.2)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as outdoor cushions are widely available from mass producers. While there's good potential for differentiation through custom designs, patterns, or sizes, the current hook 'Weather-resistant fabric' doesn't highlight this handmade advantage. The capital is plausible for a very small start, assuming some tools are already owned.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "travel-laundry-bag",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.2,
+    "keep_score": 2.5,
+    "cut_score": 2.3,
+    "sparkScore": 57,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 1.2,
+      "trend": "rising"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends RISING (avg 1.2)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as travel laundry bags are widely available and inexpensive from mass producers. While there's potential for differentiation through unique fabrics or personalization, the generic hook and the product's fundamental utility make it challenging for a beginner maker to stand out and compete effectively against mass-produced alternatives.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "travel-blanket",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -0.8,
+    "keep_score": 2.0,
+    "cut_score": 2.8,
+    "sparkScore": 56,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 7.0,
+      "trend": "rising"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends RISING (avg 7.0)",
+      "commodity risk 4/5",
+      "low differentiation 2/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While the hook is clear and regulatory risk is low, the travel blanket market is highly commoditized, making it challenging for a handmade version to compete. Differentiation is possible through unique fabrics or personalization, but the core product struggles to stand out against mass-produced alternatives, impacting its viability for a maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "car-visor-organizer",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": 0.3,
+    "keep_score": 1.1,
+    "cut_score": 0.8,
+    "sparkScore": 62,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 1.2,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 62 (decent)",
+      "high competition",
+      "Google Trends stable (avg 1.2)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as car visor organizers are widely mass-produced and sold cheaply. While a maker can differentiate with unique fabrics or personalization, the core product struggles to inherently convey handmade value. It requires significant creative effort to stand out from countless commodity alternatives, leading to a 'needs-review' recommendation.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "budget-tracker-printable",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.3,
+    "keep_score": 3.1,
+    "cut_score": 0.8,
+    "sparkScore": 69,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.8,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 69 (strong)",
+      "high competition",
+      "Google Trends stable (avg 0.8)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While there's good potential for differentiation through design and niche targeting, the core product (physical budget tracker) is highly commoditized. This makes it challenging for a beginner to compete with mass-produced options, despite the low regulatory risk and reasonable starting capital. The hook is also quite generic.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "silk-pillowcases",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.8,
+    "keep_score": 2.8,
+    "cut_score": 1.0,
+    "sparkScore": 62,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 47.0,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 62 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 47.0)",
+      "commodity risk 4/5",
+      "low differentiation 2/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as silk pillowcases are widely available from mass producers and dropshippers. While the 'beauty sleep' hook is clear, there's limited room for a maker to add unique creative differentiation beyond basic colors or minor customization, making it hard to stand out in a crowded market where handmade uniqueness is key.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "kids-water-bottles",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.5,
+    "keep_score": 3.3,
+    "cut_score": 0.8,
+    "sparkScore": 62,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 53.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 62 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 53.3)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "The base product (water bottle) is highly commoditized, making it challenging for a maker to compete without significant differentiation. While personalization offers a strong angle, the listed capital is likely insufficient to start a business, and there are moderate regulatory considerations for children's products that hold liquids.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "themed-straws-pack",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.6,
+    "keep_score": 3.1,
+    "cut_score": 0.5,
+    "sparkScore": 69,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 69 (strong)",
+      "high competition",
+      "Google Trends stable (avg 0.0)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While there's good potential for design differentiation and low regulatory risk, the core product (paper straws) is highly commoditized. It's challenging for a maker to compete against mass-produced options, as the 'handmade' aspect is limited to printing on a pre-made item, making it vulnerable to dropshippers and large manufacturers.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "candle-safety-kit",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -2.2,
+    "keep_score": 0.3,
+    "cut_score": 2.5,
+    "sparkScore": 54,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 2.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 54 (weak)",
+      "very-high competition",
+      "Google Trends stable (avg 2.1)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "The core product (candle snuffer, trimmer, dipper) is highly commoditized and widely available from mass producers, posing a significant commodity risk. While a maker could add unique packaging or minor customization, the inherent 'making' aspect is limited unless they are forging the tools themselves, which isn't implied by the low capital. This makes it challenging for a beginner to stand out in a crowded market focused on handmade goods.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "cat-window-perch",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 4.0,
+    "keep_score": 4.5,
+    "cut_score": 0.5,
+    "sparkScore": 73,
+    "competition": "medium",
+    "tier": "B",
+    "google_trends": {
+      "avg": 36.9,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 73 (strong)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 36.9)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as 'cat window perches' are widely available from mass producers. While differentiation is possible through materials or design, the core product concept is not inherently handmade, making it challenging for a beginner to stand out against established brands. The hook is also quite generic for a maker business.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "sketchbooks",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 1.8,
+    "keep_score": 2.3,
+    "cut_score": 0.5,
+    "sparkScore": 65,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 43.0,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 65 (decent)",
+      "high competition",
+      "Google Trends RISING (avg 43.0)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "Handmade sketchbooks face significant commodity risk, competing with widely available and often cheaper mass-produced options. While there's potential for differentiation through custom covers or niche paper, the generic hook and the nature of a blank book make it challenging for a beginner to establish a unique selling proposition and justify a handmade premium. It doesn't meet the 'keep' criteria due to commodity risk.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "cord-winder-spools",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": -0.4,
+    "keep_score": 0.6,
+    "cut_score": 1.0,
+    "sparkScore": 59,
+    "competition": "high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.2,
+      "trend": "stable"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends stable (avg 0.2)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "While easy to start with low capital and no regulatory hurdles, cord winder spools are a highly commoditized product. It would be challenging for a maker to differentiate sufficiently and compete against mass-produced alternatives, making it difficult to justify a handmade price point.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "garden-kneeling-bench",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -2.5,
+    "keep_score": 0.3,
+    "cut_score": 2.8,
+    "sparkScore": 52,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.4,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 52 (weak)",
+      "very-high competition",
+      "Google Trends stable (avg 0.4)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces significant commodity risk, as garden kneeling benches are widely available from mass manufacturers. While there's potential for differentiation through custom designs or personalization, the generic hook makes it challenging for a beginner to stand out against established, lower-cost options.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "tissue-paper-pom-poms",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -1.5,
+    "keep_score": 0.8,
+    "cut_score": 2.3,
+    "sparkScore": 62,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 1.9,
+      "trend": "declining"
+    },
+    "reasons": [
+      "sparkScore 62 (decent)",
+      "high competition",
+      "Google Trends declining (avg 1.9)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk, as tissue paper pom poms are widely available and inexpensive from mass producers. While capital honest, there's limited room for a maker to add unique differentiation or justify a handmade price point against such competition. The hook is also quite generic.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "honeycomb-balls",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": -0.2,
+    "keep_score": 1.1,
+    "cut_score": 1.3,
+    "sparkScore": 64,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 1.7,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 64 (decent)",
+      "high competition",
+      "Google Trends stable (avg 1.7)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as honeycomb balls are widely mass-produced and sold cheaply, making it difficult for a maker to compete on price or perceived value. While capital is low and regulatory risk minimal, the generic hook and limited inherent differentiation make it challenging to stand out as a handmade product.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "wooden-wine-rack",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.2,
+    "keep_score": 4.0,
+    "cut_score": 0.8,
+    "sparkScore": 60,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 11.2,
+      "trend": "rising"
+    },
+    "reasons": [
+      "medium competition (good)",
+      "Google Trends RISING (avg 11.2)",
+      "commodity risk 4/5",
+      "differentiation 4/5"
+    ],
+    "original_reasoning": "While there's good potential for differentiation through design and personalization, the core product is highly commoditized, making it challenging for a beginner to stand out against mass-produced alternatives. The listed capital is also very tight for acquiring necessary woodworking tools and materials to genuinely start making this product.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "compost-bin-kitchen",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -0.8,
+    "keep_score": 1.5,
+    "cut_score": 2.3,
+    "sparkScore": 55,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 32.2,
+      "trend": "rising"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends RISING (avg 32.2)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "While a kitchen compost bin has low regulatory risk and can be made within budget, it faces high commodity risk competing with mass-produced items. The hook is functional but lacks a strong creative angle for a handmade business, and differentiation relies heavily on aesthetic design rather than inherent customizability, making it challenging for a beginner to stand out.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "massage-gun-attachments",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.3,
+    "keep_score": 3.8,
+    "cut_score": 0.5,
+    "sparkScore": 70,
+    "competition": "medium",
+    "tier": "B",
+    "google_trends": {
+      "avg": 9.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 70 (strong)",
+      "medium competition (good)",
+      "Google Trends stable (avg 9.1)",
+      "commodity risk 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "While 3D printing allows for unique designs and customization, the core product is highly commoditized, making it difficult for a handmade item to compete. The listed capital budget is also likely insufficient for a beginner to acquire the necessary 3D printing equipment.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "balance-board",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 2.7,
+    "keep_score": 3.5,
+    "cut_score": 0.8,
+    "sparkScore": 67,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 24.5,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 67 (decent)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 24.5)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces significant commodity risk, as balance boards are widely available from mass manufacturers, making it challenging for a handmade version to compete. While some differentiation is possible through materials or personalization, the functional nature of the product means it's not inherently unique as a handmade item. The hook also lacks a specific angle for a maker to stand out.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "garden-tool-sets",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -1.7,
+    "keep_score": 0.3,
+    "cut_score": 2.0,
+    "sparkScore": 55,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.1,
+      "trend": "stable"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends stable (avg 0.1)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as garden tool sets are widely available and cheap from mass retailers. While there's potential for differentiation through personalization or unique aesthetics (e.g., custom handles, themed sets), the core products are not inherently handmade. The hook is also quite generic, lacking a specific angle for a maker.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "jute-rugs",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -1.5,
+    "keep_score": 1.5,
+    "cut_score": 3.0,
+    "sparkScore": 51,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 4.5,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 51 (weak)",
+      "very-high competition",
+      "Google Trends RISING (avg 4.5)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "While regulatory risk is low and capital is plausible, 'Jute Rugs' as a general product faces high commodity risk from mass-produced alternatives. The hook is not specific enough, and it's challenging for a beginner maker to differentiate a handmade jute rug significantly against established market options, making it difficult to compete on platforms like Etsy or TikTok Shop.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "reusable-produce-bags",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -1.3,
+    "keep_score": 1.5,
+    "cut_score": 2.8,
+    "sparkScore": 57,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "very-high competition",
+      "Google Trends RISING (avg 0.3)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk, as mass-produced reusable produce bags are widely available and inexpensive, making it hard for a handmade version to compete. While capital is honest and regulatory risk is low, there's limited room for unique differentiation to justify a maker's pricing on platforms like Etsy or TikTok Shop.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "herb-drying-rack",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -1.8,
+    "keep_score": 1.5,
+    "cut_score": 3.3,
+    "sparkScore": 51,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.2,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 51 (weak)",
+      "very-high competition",
+      "Google Trends RISING (avg 0.2)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "The 'Mesh hanging rack' is a highly commoditized product, making it challenging for a beginner to create a genuinely handmade version that stands out from mass-produced alternatives. While capital and regulatory risks are low, the weak hook and limited differentiation potential make it difficult to succeed as a maker selling unique products.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "lifting-straps",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 3.2,
+    "keep_score": 4.5,
+    "cut_score": 1.3,
+    "sparkScore": 71,
+    "competition": "medium",
+    "tier": "C",
+    "google_trends": {
+      "avg": 49.0,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 71 (strong)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 49.0)",
+      "commodity risk 4/5",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "Lifting straps face high commodity risk, competing directly with mass-produced items, and the generic hook offers no clear niche. While technically hand-makeable with low capital, differentiation potential is limited, making it hard for a beginner to stand out in a handmade market.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "paddle-ball-set",
+    "decision": "keep",
+    "confidence": "high",
+    "net_score": 4.0,
+    "keep_score": 4.5,
+    "cut_score": 0.5,
+    "sparkScore": 68,
+    "competition": "medium",
+    "tier": "B",
+    "google_trends": {
+      "avg": 2.8,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 68 (strong)",
+      "medium competition (good)",
+      "Google Trends RISING (avg 2.8)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as paddle ball sets are widely available and cheap from mass producers. While differentiation through custom designs or materials is possible, the initial hook is generic and the capital budget seems low for truly 'making' the paddles from scratch. It needs a much stronger handmade angle or niche to be viable for Spark's audience.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "paper-tape-rolls",
+    "decision": "keep",
+    "confidence": "low (borderline, kept with inclusion bias)",
+    "net_score": -0.2,
+    "keep_score": 0.6,
+    "cut_score": 0.8,
+    "sparkScore": 60,
+    "competition": "high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0.3,
+      "trend": "stable"
+    },
+    "reasons": [
+      "high competition",
+      "Google Trends stable (avg 0.3)",
+      "commodity risk 4/5"
+    ],
+    "original_reasoning": "This idea faces high commodity risk as decorative tape is widely available from mass producers, making it hard for a beginner to compete. While unique designs offer differentiation, the listed capital of $20-60 is likely insufficient to genuinely *make* and sell custom paper tape rolls. The hook is also generic, lacking a specific maker angle.",
+    "audit_type": "physical"
+  },
+  {
+    "idea_id": "tab-manager-extension",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -2.0,
+    "keep_score": 2.0,
+    "cut_score": 4.0,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.3,
+      "trend": "rising"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "Google Trends RISING (avg 0.3)",
+      "HIGH regulatory risk (5/5)",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur to build with minimal capital and no regulatory burden. However, the revenue potential is low due to a saturated market with many free alternatives, and the hook is too generic to identify a specific paying customer or unique value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "dark-mode-everywhere",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -1.2,
+    "keep_score": 2.3,
+    "cut_score": 3.5,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0.0,
+      "trend": "stable"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "Google Trends stable (avg 0.0)",
+      "HIGH regulatory risk (5/5)",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur with minimal capital and regulatory burden. However, its revenue potential is limited, as similar tools typically charge low one-time fees or small annual subscriptions, making it challenging to achieve significant recurring revenue.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "new-tab-dashboard",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -3.0,
+    "keep_score": 0.5,
+    "cut_score": 3.5,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "HIGH regulatory risk (5/5)"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur with minimal capital and regulatory concerns. However, the revenue potential is low due to a crowded market dominated by free alternatives, making it difficult to establish recurring revenue. The hook is also generic, lacking a specific niche or ICP to differentiate it.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "clipboard-manager",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -3.8,
+    "keep_score": 0.5,
+    "cut_score": 4.3,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "HIGH regulatory risk (5/5)",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur with minimal capital and no regulatory burden. However, its revenue potential is low due to a crowded market with many free or one-time purchase alternatives, and the hook is too generic to differentiate it or target a specific paying customer. It needs a stronger, more niche angle to justify a recurring subscription.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "lead-magnet-delivery",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -1.0,
+    "keep_score": 0.5,
+    "cut_score": 1.5,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur with low capital and manageable regulatory burden. However, its revenue potential is limited as 'email gate + PDF delivery' is often a feature within larger marketing suites, making it challenging to command significant standalone pricing. The hook also describes a feature rather than a specific problem for an ideal customer.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "json-formatter-api",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -3.5,
+    "keep_score": 0.5,
+    "cut_score": 4.0,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "HIGH regulatory risk (5/5)",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur with minimal capital and no regulatory burden. However, its revenue potential is low as JSON formatting/validation is a commodity often expected to be free, and the hook doesn't clearly articulate a compelling value proposition for a paid API.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "sku-generator",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -1.8,
+    "keep_score": 2.0,
+    "cut_score": 3.8,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "HIGH regulatory risk (5/5)",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur with minimal capital and no regulatory burden. However, its revenue potential is limited as SKU generation is typically a feature within larger e-commerce or inventory management systems, making it challenging to command high recurring fees for a standalone product. The hook is clear but could benefit from a more specific ICP.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "student-budget-planner",
+    "decision": "cut",
+    "confidence": "medium",
+    "net_score": -0.8,
+    "keep_score": 2.0,
+    "cut_score": 2.8,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "C",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "regulatory risk 4/5",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur to build with minimal capital and low regulatory burden, and the hook is clear. However, the revenue potential is a significant concern due to the crowded market of free and established paid budgeting apps, making it difficult to charge students a sustainable price.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "vocabulary-builder",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -3.5,
+    "keep_score": 0.5,
+    "cut_score": 4.0,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "HIGH regulatory risk (5/5)",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur with low startup capital and minimal regulatory concerns. However, the revenue potential for a standalone 'word-a-day' SaaS is likely limited, as many similar tools are free or one-time purchases. The hook also lacks a specific ideal customer profile, making market positioning challenging.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "reading-list-manager",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -3.5,
+    "keep_score": 0.5,
+    "cut_score": 4.0,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "HIGH regulatory risk (5/5)",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur to build with minimal capital and no regulatory burden. However, its revenue potential is low given the prevalence of free alternatives and the generic hook. It needs a much stronger, more specific value proposition to attract paying customers.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "profit-calculator",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -3.5,
+    "keep_score": 0.5,
+    "cut_score": 4.0,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "HIGH regulatory risk (5/5)",
+      "low differentiation 2/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur with minimal capital and no regulatory burden. However, its revenue potential is low as a standalone SaaS, as profit calculation is often a feature of larger tools or done with spreadsheets. The hook is also too generic, failing to identify a specific ICP or unique angle to attract paying customers.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "business-name-generator",
+    "decision": "cut",
+    "confidence": "high",
+    "net_score": -1.5,
+    "keep_score": 2.0,
+    "cut_score": 3.5,
+    "sparkScore": 66,
+    "competition": "very-high",
+    "tier": "B",
+    "google_trends": {
+      "avg": 0,
+      "trend": "no-data"
+    },
+    "reasons": [
+      "sparkScore 66 (decent)",
+      "very-high competition",
+      "HIGH regulatory risk (5/5)",
+      "differentiation 4/5",
+      "hook 4/5"
+    ],
+    "original_reasoning": "This idea is highly viable for a solopreneur to build with minimal capital and no regulatory hurdles, and the hook is clear. However, its revenue potential is low as most users expect business name generation for free or as part of a larger service. It would be challenging to establish a recurring SaaS revenue model for this standalone tool.",
+    "audit_type": "saas"
+  }
+]

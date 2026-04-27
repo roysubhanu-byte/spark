@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react'
-import { IDEAS } from '../data'
+import { ALL_IDEAS_UNFILTERED as IDEAS } from '../data'
 import type { Idea, Deck } from '../types'
 
 type SortKey = 'name' | 'deck' | 'effort' | 'capital'

@@ -468,12 +468,12 @@ export function findSuppliersForProduct(productName: string): {
   // Generate search URLs for top platforms
   const q = encodeURIComponent(productName.toLowerCase())
   const searchUrls = [
+    { platform: 'Amazon', url: `https://www.amazon.com/s?k=${q}+starter+kit`, color: '#FF9900', textColor: '#1F1B16' },
     { platform: 'AliExpress', url: `https://www.aliexpress.com/wholesale?SearchText=${q}+supplies`, color: '#FFE4B5', textColor: '#1F1B16' },
     { platform: 'Alibaba', url: `https://www.alibaba.com/trade/search?SearchText=${q}`, color: '#FF6A00', textColor: '#fff' },
+    { platform: 'Etsy', url: `https://www.etsy.com/search?q=${q}+supplies`, color: '#F16521', textColor: '#fff' },
     { platform: 'DHgate', url: `https://www.dhgate.com/wholesale/search.do?searchkey=${q}`, color: '#FF6B00', textColor: '#fff' },
-    { platform: 'IndiaMART', url: `https://dir.indiamart.com/search.mp?ss=${q}`, color: '#FF6F00', textColor: '#fff' },
     { platform: 'Faire', url: `https://www.faire.com/search?q=${q}`, color: '#000', textColor: '#fff' },
-    { platform: 'Wholesale Central', url: `https://www.wholesalecentral.com/srch.cfm?searchterm=${q}`, color: '#2563EB', textColor: '#fff' },
   ]
 
   return { category: match || null, searchUrls }

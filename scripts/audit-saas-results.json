@@ -1,0 +1,2589 @@
+[
+  {
+    "idea_id": "ai-resume-builder",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear problem for job seekers with a strong AI-driven hook, offering a proven revenue model. It is highly viable for a solo developer to build and maintain, leveraging existing AI APIs and cloud services. While AI API costs and basic data privacy considerations exist, they are manageable for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-email-writer",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear ICP (sales teams) with a proven problem in a high-revenue category, making it highly viable. A solopreneur can build an MVP with manageable initial AI API costs, and it carries minimal regulatory burden as a content generation tool.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-meeting-notes",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a highly proven market with strong revenue potential, and a solo developer can build a viable MVP. While initial capital is low, ongoing AI API costs will scale with usage, and data privacy considerations require moderate compliance. The current hook is too generic and needs refinement to target a specific ICP and unique angle.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-blog-post-generator",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with high revenue potential, as many successful AI writing tools exist. A solo developer can build an MVP, and the regulatory burden is minimal. The hook clearly defines the core value proposition of generating SEO-optimized content.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-code-reviewer",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a strong, proven market with clear revenue potential and a specific hook for developers. A solopreneur can build a viable MVP, though it will involve moderate AI API costs and require careful attention to data privacy and security due to handling sensitive code.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-customer-support-bot",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a high-demand, proven revenue category with many successful competitors. A solo developer can build an MVP using existing AI APIs, though ongoing API costs will require some capital. While data privacy needs attention, it's manageable for a solopreneur, making this a viable 'keep'.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-social-caption-writer",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with high revenue potential, as many similar AI writing tools are successful. It's highly viable for a solo developer to build an MVP, and there's minimal regulatory burden. The hook clearly defines the value proposition and target audience, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-product-description-writer",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with strong revenue potential, as many e-commerce businesses pay for tools to optimize listings. It's highly viable for a solo developer to build an MVP using existing AI APIs, and faces minimal regulatory burden. The hook clearly defines the ideal customer and their specific problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-image-background-remover",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear niche (e-commerce product photos) with a proven need and existing market. A solo developer can build an MVP by leveraging existing AI APIs, keeping initial capital costs manageable. There are no significant regulatory hurdles, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-podcast-show-notes",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear demand for AI-powered content repurposing, offering strong revenue potential. A solo developer can build an MVP using existing AI APIs, keeping initial capital and regulatory burdens low. The hook clearly communicates its value proposition to podcasters and content creators.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-invoice-parser",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear business problem with proven revenue potential, as many companies pay for invoice automation. A solopreneur can build an MVP by leveraging existing AI APIs with low initial capital. While handling financial data requires attention to data privacy and security, it's a manageable burden for a solo founder.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-diet-plan-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 2,
+      "hook_strength": 3
+    },
+    "recommendation": "cut",
+    "reasoning": "While this idea has good revenue potential and is technically viable for a solopreneur, it falls into the regulated health advice category. Providing diet plans, even AI-generated, carries significant liability and compliance risks that are too high for a solo founder. The hook could also be more specific about the target audience.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-logo-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is viable for a solopreneur using existing AI APIs and has proven revenue potential in the market, with no significant regulatory burdens. However, the current hook is generic and lacks a specific ICP or unique angle, which will be essential for differentiation in a crowded space.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-video-subtitler",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with strong revenue potential, as many successful tools already exist. A solo developer can build an MVP by leveraging existing AI APIs, and the regulatory burden is minimal. While core functionality incurs API costs, the overall viability for a solopreneur is high.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-proposal-writer",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea leverages AI to solve a clear pain point for professionals: writing proposals. It's highly viable for a solopreneur to build with low startup costs, primarily relying on AI APIs and standard SaaS infrastructure. The market for AI writing tools is proven, and this niche focus offers strong revenue potential with minimal regulatory hurdles.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-flashcard-maker",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea leverages AI to solve a clear pain point for students and learners, automating flashcard creation from existing materials. It's highly viable for a solopreneur to build using modern AI APIs and web frameworks, has proven revenue potential in the education tech niche, and faces minimal regulatory burden. The hook is specific and targets a recognizable need.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-recipe-generator",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and posing no significant regulatory burden. While the revenue potential is moderate, people do pay for convenience around food and meal planning. The hook clearly states the function but could be improved by targeting a more specific ideal customer profile.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-legal-doc-analyzer",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 2,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 1,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While the revenue potential is strong and the hook is clear, this idea is not viable for a solopreneur due to the extreme complexity of building a reliable legal AI. More critically, the heavy regulatory burden, high liability risks, and stringent data privacy requirements in the legal sector make this a very difficult and risky venture for a solo founder.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-workout-planner",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea leverages AI for a proven market (fitness planning) and is highly viable for a solo developer to build and maintain with reasonable starting capital. While the hook could be more specific to highlight the AI differentiator and target audience, the core concept addresses a clear need. It requires careful disclaimers regarding health advice, but avoids heavy regulatory burdens.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "tab-manager-extension",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur to build with minimal capital and no regulatory burden. However, the revenue potential is low due to a saturated market with many free alternatives, and the hook is too generic to identify a specific paying customer or unique value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "price-tracker-extension",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 4,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, with a clear hook targeting Amazon shoppers. While the market is competitive with established players, there's proven demand for price tracking tools, and the initial capital requirements are manageable for a solo founder.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "screenshot-and-annotate",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and operating in a proven revenue category with low regulatory burden. The core functionality is well-understood and in demand. However, the current hook is too generic and needs to be refined to target a specific ICP and highlight a unique value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "email-tracker-extension",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "Email tracking is a proven revenue category with many successful competitors, indicating strong market demand. A solo developer can build an MVP as a browser extension with minimal initial capital. While data privacy requires light compliance, it's manageable, and the hook clearly addresses a common pain point for a broad audience.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "bookmark-manager-pro",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and posing no significant regulatory burden. While the revenue potential is moderate due to a crowded market, the core features are achievable. The hook is currently too generic and needs refinement to target a specific niche for better market penetration.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "focus-timer-extension",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and posing no significant regulatory burden. While the productivity extension market is competitive, there's proven demand for paid tools in this category. The hook clearly defines the problem and solution, targeting a broad but identifiable user base.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "grammar-checker",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 4,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea has strong solopreneur viability and proven revenue potential in a category with manageable capital and regulatory burdens. However, the hook 'AI writing assistant in browser' is too broad and needs to be refined to target a specific niche or problem to stand out in a competitive market.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "color-picker-extension",
+    "scores": {
+      "revenue_potential": 1,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "While extremely viable for a solopreneur to build with minimal capital and no regulatory burden, the revenue potential is very low. Basic color pickers are commodity tools, often free or built into browsers, making it difficult to charge a sustainable recurring fee.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "social-media-scheduler",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 1
+    },
+    "recommendation": "keep",
+    "reasoning": "This category has proven revenue potential with many successful competitors, and the regulatory burden is manageable for a solopreneur. While building a competitive MVP is a significant solo effort due to API integrations and ongoing maintenance, the primary weakness is the generic hook. It fails to identify a specific niche or unique selling proposition in a very crowded market.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "coupon-finder-extension",
+    "scores": {
+      "revenue_potential": 1,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "While technically viable for a solopreneur to build with low capital, the revenue potential for a SaaS model is extremely low. The market is dominated by free, affiliate-driven tools (e.g., Honey), making it nearly impossible to charge users a subscription. The hook also lacks a specific ICP or unique angle to compete effectively.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "dark-mode-everywhere",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur with minimal capital and regulatory burden. However, its revenue potential is limited, as similar tools typically charge low one-time fees or small annual subscriptions, making it challenging to achieve significant recurring revenue.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "reader-mode-extension",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and posing no regulatory burden. While the revenue potential is moderate due to strong free alternatives, a premium offering could attract paying users. The current hook is too generic and needs to be refined to target a specific ideal customer profile and unique angle.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "password-generator",
+    "scores": {
+      "revenue_potential": 1,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 1
+    },
+    "recommendation": "cut",
+    "reasoning": "A standalone password generator has virtually no revenue potential as it's a commodity feature widely available for free or integrated into existing password managers. While easy to build and maintain with no regulatory burden, the lack of a viable business model makes it unsuitable for a SaaS business. The hook is also too generic, lacking a specific ICP or unique angle.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "text-to-speech-extension",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur to build as a Chrome extension with minimal regulatory burden. While the basic 'read articles aloud' hook is generic and competes with free options, there's potential for revenue with premium voices or niche features. Ongoing TTS API costs will be the primary capital expense.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "video-speed-controller",
+    "scores": {
+      "revenue_potential": 1,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 1
+    },
+    "recommendation": "cut",
+    "reasoning": "The core feature of speeding up HTML5 video is a commodity, widely available for free as browser features or extensions, making revenue potential extremely low. While technically viable for a solopreneur with minimal capital and no regulatory burden, the lack of a strong hook and monetization opportunity makes it unsuitable for a SaaS business.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "new-tab-dashboard",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur with minimal capital and regulatory concerns. However, the revenue potential is low due to a crowded market dominated by free alternatives, making it difficult to establish recurring revenue. The hook is also generic, lacking a specific niche or ICP to differentiate it.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "clipboard-manager",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur with minimal capital and no regulatory burden. However, its revenue potential is low due to a crowded market with many free or one-time purchase alternatives, and the hook is too generic to differentiate it or target a specific paying customer. It needs a stronger, more niche angle to justify a recurring subscription.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "seo-analyzer-extension",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a large, proven market with clear revenue potential, as many successful SEO tools exist. It's highly viable for a solo developer to build as a Chrome extension with minimal capital, and it avoids significant regulatory hurdles. The hook clearly defines its core function for anyone needing quick SEO insights.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "email-unsubscriber",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a common pain point and is highly viable for a solopreneur to build an MVP using free-tier infrastructure. While similar tools exist and charge, the revenue potential might be in the lower-to-mid range. Handling user email data introduces light data privacy compliance, but it's manageable.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "website-blocker",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and posing no regulatory burdens. While the revenue potential is moderate due to existing free and paid competitors, the clear hook makes it a strong candidate for a focused MVP.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "invoice-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category and is highly viable for a solopreneur to build and maintain. While there's light regulatory burden due to the financial nature of invoices, it's manageable. The primary challenge is the generic hook in a very crowded market, requiring a strong differentiator to succeed.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "link-in-bio-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur due to low startup costs and minimal regulatory burden. The link-in-bio category has proven revenue potential, though it is competitive. The current hook is too generic and needs refinement to target a specific niche or highlight a unique value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "qr-code-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market where businesses pay for dynamic QR codes with analytics. It's highly viable for a solo developer to build an MVP with minimal capital, leveraging free tiers. The regulatory burden is low, and the hook clearly defines the core value proposition for a specific user need.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "email-signature-builder",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and offering a clear path to revenue, as similar tools successfully charge monthly fees. While the market is competitive, a solo developer can build an MVP quickly. Basic data privacy is the main compliance consideration, which is standard for most SaaS.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "waitlist-page-builder",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear need for solopreneurs launching products, offering a focused solution for waitlist and launch pages. It's highly viable for a solo developer to build an MVP with minimal capital, leveraging proven revenue models from landing page builders. Compliance is light, focusing on standard data privacy.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "testimonial-collector",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with many successful indie competitors, indicating strong revenue potential. It's highly viable for a solopreneur to build an MVP with minimal capital. While basic data privacy compliance is needed, it avoids heavy regulatory burdens.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "appointment-scheduler",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a highly proven revenue category with strong demand, making it excellent for a solopreneur. A solo developer can realistically build an MVP by focusing on a specific niche, keeping initial capital costs low. While basic data privacy compliance is necessary, it's manageable and doesn't pose a significant regulatory burden.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "form-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with a strong, clear hook: a cheaper alternative to a premium product like Typeform. It's highly viable for a solo developer to build an MVP with minimal capital, though basic data privacy considerations will be necessary.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "url-shortener",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, with low startup costs and minimal regulatory hurdles. There's proven revenue potential for tools offering custom branding and analytics, despite a competitive market. The hook clearly defines the value proposition for users needing branded and trackable links.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "habit-tracker-app",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 1
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur with low capital and minimal regulatory burden. While there is revenue potential in the habit tracking space, the generic 'Daily streak tracker' hook lacks a specific ICP or unique angle, making it challenging to differentiate in a crowded market.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "digital-business-card",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with existing paid solutions and can be built by a solo founder with minimal capital. The regulatory burden is manageable, primarily concerning standard data privacy. The hook clearly defines the core functionality (NFC + QR) and implies a target user needing efficient contact sharing.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "simple-crm",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "The CRM category has proven revenue potential, and a 'lightweight' version for freelancers is highly viable for a solopreneur to build and maintain. The hook is specific, targeting a clear ICP with a distinct value proposition. While basic data privacy compliance is necessary, it's not a heavy regulatory burden.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "time-tracker",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "Time tracking is a well-established market with proven revenue potential and numerous successful indie competitors. A solo developer can easily build an MVP with minimal capital and no significant regulatory burden. The hook clearly states the core functionality but could be strengthened by targeting a specific niche or offering a unique angle.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "poll-and-survey-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 4,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with strong revenue potential, as many successful tools exist. A solopreneur can build a functional MVP, and the capital needed is low, leveraging free tiers. While data privacy is a consideration, it avoids heavy regulatory burdens, making it a viable solo venture. The hook is decent, identifying 'teams' as a potential ICP.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "changelog-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear revenue potential, as many successful changelog tools exist. It is highly viable for a solopreneur to build and maintain with minimal startup capital, and carries negligible regulatory burden. The hook clearly defines the tool's purpose and target audience within the software industry.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "status-page-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear revenue potential, supported by many successful indie and established competitors. A solo developer can realistically build and maintain an MVP using free tiers, and there are no significant regulatory hurdles. The hook clearly defines the problem and target audience for this essential SaaS tool.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "feedback-widget",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear revenue potential, as many successful tools exist. It's highly viable for a solo developer to build an MVP with minimal capital using free tiers. While basic data privacy considerations apply, the regulatory burden is light, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "rss-feed-reader",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and facing no significant regulatory burdens. While the overall market isn't massive, a dedicated segment of 'power users' exists and is willing to pay for a modern, feature-rich RSS reader, indicating solid revenue potential for a niche product.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "kanban-board",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with a clear hook as a 'Trello alternative for small teams'. A solo founder can realistically build an MVP with minimal capital, and there are no significant regulatory hurdles, making it highly viable for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "social-post-scheduler",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven and lucrative market with many successful competitors, indicating strong revenue potential. A solo developer can realistically build an MVP, and the capital requirements are low, leveraging free tiers. The regulatory burden is minimal, making it straightforward to launch, though the hook could be more specific to stand out.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "seo-keyword-tracker",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with high demand, and avoids significant regulatory burdens. While a solopreneur can build it, the core functionality relies on paid SERP APIs, increasing initial capital needs beyond free tiers. The hook is clear but generic, suggesting potential for niche refinement.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "email-newsletter-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "Email marketing is a highly proven revenue category with many successful indie and large competitors. A solo founder can build a viable MVP focusing on simplicity for creators, leveraging free tiers and affordable email APIs. While basic data privacy and anti-spam compliance are required, they are manageable for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "landing-page-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "The landing page builder market has proven revenue potential with many successful competitors. A solopreneur can build a focused MVP without significant capital or regulatory burden. The hook clearly targets non-technical users seeking conversion-focused pages.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "podcast-hosting-platform",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 2,
+      "capital_realistic": 2,
+      "no_regulatory_burden": 3,
+      "hook_strength": 3
+    },
+    "recommendation": "cut",
+    "reasoning": "This idea has strong revenue potential in a proven market. However, building a robust and scalable podcast hosting platform with distribution and analytics is a significant undertaking for a solo developer, quickly exceeding typical solopreneur-friendly capital limits due to storage and bandwidth costs.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "content-calendar-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with high solopreneur viability and minimal regulatory burden, making it an excellent candidate for a solo founder. An MVP can be built with virtually no upfront capital. The hook could be more specific to define an ICP or unique angle, but the core concept is strong.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "hashtag-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market where users pay for social media tools, and a solo developer can build an MVP leveraging existing APIs. While advanced features might incur API costs beyond free tiers, the regulatory burden is minimal, and the hook clearly communicates value to content creators.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "bio-link-analytics",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and having low regulatory burden. There's a clear market for bio link analytics, often a premium feature in existing tools, indicating solid revenue potential. While the hook is clear, differentiation from established competitors will be crucial for success.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "a-b-testing-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "A/B testing is a well-established category with proven revenue potential, and a focused MVP is viable for a solopreneur with minimal capital. While data privacy requires light compliance, it's not a heavily regulated industry. The hook clearly defines the tool's purpose.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "influencer-outreach-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven niche within marketing tools, offering clear value for solopreneurs needing to connect with influencers. While the 'finding' aspect requires careful scoping to remain solo-viable and cost-effective, the core outreach functionality is well-understood. It falls under light regulatory compliance due to email sending, making it a viable 'keep'.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "social-proof-widget",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven SaaS category with many successful competitors, indicating strong revenue potential. It's highly viable for a solopreneur to build an MVP quickly with minimal capital, leveraging free tiers. The hook is clear, and regulatory burden is low, making it an excellent candidate for Spark.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "blog-comment-manager",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and posing low regulatory risk. While the revenue potential is moderate due to existing free solutions, a focused tool offering a superior moderation and reply experience could attract paying bloggers. The hook clearly defines the problem and target user.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "affiliate-tracking-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with many successful competitors, indicating strong market demand. A solo developer can realistically build an MVP for core tracking and payout features within a reasonable timeframe and budget. While there's light data privacy compliance, it avoids heavily regulated industries, making it a viable solopreneur venture.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "video-thumbnail-maker",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear niche of YouTubers needing efficient thumbnail creation, operating in a proven revenue category with many successful competitors. It is highly viable for a solopreneur to build an MVP with minimal capital, leveraging existing template libraries and basic image editing functionalities. The business also avoids significant regulatory burdens, making it a strong candidate for a solo venture.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "content-repurposer",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear pain point for content creators, with strong revenue potential in the AI content automation market. A solopreneur can realistically build an MVP, and it carries minimal regulatory burden. The hook clearly defines its purpose and target users.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "competitor-monitor",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven business need with clear revenue potential, as similar tools are successfully monetized. A solo developer can build an MVP relatively quickly and affordably, leveraging free tiers for initial setup. The regulatory burden is minimal, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "review-management-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a well-established market with strong revenue potential, as businesses readily pay for tools to manage their online reputation. A solo founder can build a focused MVP by integrating with key review platforms. While the hook could be more specific about the ideal customer, the core problem and solution are clear, and there are no significant regulatory burdens.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "utm-builder-and-tracker",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur to build and launch with minimal capital, addressing a clear need for marketers. While standalone revenue for a basic UTM builder might be moderate, it has manageable regulatory considerations. The hook clearly defines the problem and target user.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "lead-magnet-delivery",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 3
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur with low capital and manageable regulatory burden. However, its revenue potential is limited as 'email gate + PDF delivery' is often a feature within larger marketing suites, making it challenging to command significant standalone pricing. The hook also describes a feature rather than a specific problem for an ideal customer.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "social-listening-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with existing demand, making it a viable market. A solopreneur can build a focused MVP, though scaling to 'everywhere' would require significant effort. While it will likely need paid APIs and light data privacy considerations, it avoids heavy regulatory burdens, making it a solid candidate for a solo founder.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "api-monitoring-service",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "API monitoring is a well-established SaaS category with strong revenue potential and many successful competitors. A solopreneur can build an MVP for uptime and latency tracking with minimal capital, leveraging free tiers. The regulatory burden is low, and the hook clearly defines the problem for a technical audience.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "error-tracking-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear niche of 'indie devs' with a proven need for error tracking, positioning itself as a simpler alternative to Sentry. While building a robust tool solo is challenging, a focused MVP is viable, and initial capital costs are low. Basic data privacy compliance will be required due to handling application error data.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "database-gui-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This category has proven revenue with many successful tools and minimal regulatory burden. A solo developer can build a focused MVP, especially if targeting a niche. However, the current hook is too broad and needs to be refined to target a specific customer and unique value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "webhook-testing-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear technical niche with a strong, proven need for debugging tools among developers. A solo founder can build an MVP with minimal capital, leveraging free tiers, and the regulatory burden is standard for SaaS, not specific to a regulated industry.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "cron-job-manager",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear, recurring need for developers and system administrators, a demographic willing to pay for reliable tools. A solo developer can build a functional MVP, though scaling and ensuring high reliability will require careful planning. The regulatory burden is minimal, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "environment-variable-manager",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear pain point for development teams, indicating a viable revenue stream. A solo developer can build an MVP using free tiers, and while security is paramount, it avoids heavy regulatory burdens. The hook clearly defines the target audience and problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ai-pricing-optimizer",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 2,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 3
+    },
+    "recommendation": "cut",
+    "reasoning": "While dynamic pricing has clear revenue potential and the capital requirements are realistic, the complexity of building and maintaining a robust AI pricing optimizer that pulls and processes market data makes it challenging for a solopreneur. The ongoing data sourcing, integration management, and AI model maintenance would likely be overwhelming for one person.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "file-sharing-tool",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 2,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "While a basic MVP is viable for a solopreneur and the category has revenue potential, the significant regulatory burden around content moderation and data privacy for user-uploaded files makes this a high-risk venture. The generic hook also makes it difficult to differentiate in a crowded market.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "api-documentation-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a well-established market with strong revenue potential, as many companies pay for API documentation tools. A solo developer can build an MVP with minimal capital using free tiers, and there's no significant regulatory burden. The hook clearly identifies the target (developers/companies needing API docs) and value proposition (beautiful output).",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "log-aggregator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with a clear need for small teams, making its revenue potential strong. While building a robust log aggregator requires significant technical skill and attention to data privacy, an MVP is viable for a solo developer. Initial capital needs will likely exceed free tiers quickly due to data storage and processing, but it remains manageable.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "feature-flag-service",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a well-understood problem for developers with a proven revenue model, evidenced by successful competitors. A solopreneur can build an MVP, especially by focusing on a niche, and launch with minimal capital. Regulatory burden is standard for SaaS, not overly complex.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "code-snippet-manager",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and facing no significant regulatory burdens. While the market for code snippet managers is competitive, there is proven revenue potential for tools that enhance developer productivity. The hook clearly targets developers needing to organize and quickly find their code.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ssl-certificate-monitor",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear pain point for website owners and is highly viable for a solopreneur to build and maintain with minimal startup capital. The market for monitoring tools is proven, and regulatory burdens are low, making it a strong candidate for a solo venture.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "docker-dashboard",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear technical audience (Docker users) with a common need for visual management. A solo developer can build an MVP with minimal capital and low regulatory risk. While the market has existing solutions, a focused, well-executed indie tool could find a paying niche.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "git-commit-analyzer",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market for engineering team analytics with clear revenue potential, as similar tools exist. A solo developer can build a valuable MVP using free-tier infrastructure, and it avoids heavy regulatory burdens. The hook clearly defines the target audience (engineering teams) and the problem it solves (productivity insights from git data).",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "regex-tester-tool",
+    "scores": {
+      "revenue_potential": 1,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "This idea scores very low on revenue potential as standalone regex testers are widely available for free or integrated into existing developer tools. While highly viable for a solopreneur to build with minimal capital and no regulatory burden, the absence of a proven paid market makes it unsuitable for a revenue-focused SaaS business.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ip-geolocation-api",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea operates in a proven market with clear revenue potential, and a solo developer can build a functional MVP, especially if focusing on a niche or wrapping existing data sources. While there are light data privacy considerations, it avoids heavy regulatory burdens. The primary area for improvement is the generic hook, which needs to be refined to target a specific customer and problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "markdown-editor",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 2,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While there's some revenue potential and low regulatory burden, the 'collaborative' feature significantly increases complexity, making it challenging for a solo developer to build a robust MVP quickly. This impacts solopreneur viability, pushing it into the 'cut' category.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "dns-lookup-tool",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring low capital and having no regulatory burden. While basic DNS lookup is often free, monitoring offers some revenue potential. However, the hook is generic and lacks a specific ICP or unique selling proposition, making differentiation challenging.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "json-formatter-api",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur with minimal capital and no regulatory burden. However, its revenue potential is low as JSON formatting/validation is a commodity often expected to be free, and the hook doesn't clearly articulate a compelling value proposition for a paid API.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "load-testing-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear revenue potential, as companies readily pay for load testing. A focused MVP for API stress testing is viable for a solopreneur, and the regulatory burden is minimal. The capital requirements are also realistic for a bootstrapped start.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "ci-cd-pipeline-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 2,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While CI/CD is a proven, high-revenue category, building a reliable 'CI/CD Pipeline Builder' is too complex for a solo founder. Even with a 'simple deploy pipelines' hook, managing build environments, security, and infrastructure for code execution is a significant undertaking that typically requires a team, making it unviable for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "product-photography-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear demand for AI-powered product photo editing, making revenue potential high. A solo developer can build an MVP using existing AI APIs, and the regulatory burden is minimal. While core AI APIs will incur some costs, it's manageable for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "shipping-calculator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear pain point for e-commerce businesses and solopreneurs, offering strong revenue potential in a proven market. While building and maintaining carrier API integrations requires significant effort, it's viable for a solo developer to create an MVP. The regulatory burden is low, making it a solid 'keep' for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "inventory-management",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 2,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While inventory management is a proven revenue category with a clear problem, building a robust system to 'track stock across channels' is a significant undertaking for a solo founder. It typically requires complex integrations, real-time data synchronization, and robust error handling, making it difficult to ship a viable MVP quickly.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "return-label-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear need for e-commerce shops, indicating strong revenue potential within an established market. A solo developer can build an MVP by integrating with existing shipping APIs, and it avoids significant regulatory hurdles. The hook clearly defines the ideal customer and problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "product-review-widget",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with strong revenue potential, as many businesses pay for review collection tools. It's highly viable for a solopreneur to build an MVP with minimal capital using free tiers. While it involves light data privacy considerations, it avoids heavy regulatory burdens, making it a solid choice.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "size-guide-builder",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear pain point for e-commerce stores, with existing successful competitors demonstrating strong revenue potential. It's highly viable for a solo developer to build and maintain using free tiers, and operates in a low-regulatory environment. The hook clearly defines the ICP and problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "abandoned-cart-recovery",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 3,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with a clear problem and solution for e-commerce businesses. A solo founder can realistically build an MVP, especially by focusing on one platform, and manage the light regulatory burden associated with marketing communications.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "product-feed-manager",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven, high-revenue e-commerce niche with clear pain points for online sellers. A solo founder can build a focused MVP, and the regulatory burden is manageable. While maintaining integrations will be an ongoing effort, the initial product is viable and addresses a critical need.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "price-comparison-scraper",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 4,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear business need with strong revenue potential, as many businesses pay for competitor intelligence. A solopreneur can build an MVP, though ongoing maintenance for scraper reliability is a consideration. Initial capital is realistic, and regulatory burden is low, making it a viable option.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "order-tracking-page",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 4,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear need for e-commerce businesses, offering strong revenue potential with many successful competitors. A solopreneur can build an MVP, though integrating with multiple shipping carriers adds complexity. It has a strong hook and minimal regulatory burden beyond standard data privacy.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "upsell-popup-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category in e-commerce, offering clear value by increasing average order value. A solo developer can build an MVP with minimal capital, and while some data privacy considerations exist, the regulatory burden is light and manageable. The hook is highly specific, targeting e-commerce store owners.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "customer-loyalty-program",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with many successful competitors, indicating strong revenue potential. A solo founder can build a viable MVP, especially by focusing on a niche or specific integration. However, the hook is generic, and regulatory considerations around customer data and consumer protection will require careful attention.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "gift-card-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear market (shops) with a proven need for digital gift cards, indicating solid revenue potential. A solo developer can build an MVP quickly and affordably using free tiers. While some awareness of gift card regulations is necessary, it's manageable and doesn't pose a heavy compliance burden.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "subscription-box-manager",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear niche with a proven need for recurring order management, indicating strong revenue potential. A solo developer can build a viable MVP by focusing on core features, and the capital requirements are realistic. While handling customer and payment data requires standard compliance, it avoids heavily regulated industries.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "tax-calculator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 1,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 1,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "This idea faces significant challenges for a solopreneur. Sales tax calculation is a heavily regulated domain with complex, constantly changing laws across US states and EU countries, making it extremely difficult for one person to build and maintain accurately without substantial legal and financial liability. While the revenue potential is high, the immense regulatory burden and low solopreneur viability make it unsuitable for a solo venture.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "supplier-directory",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea has solid revenue potential as businesses readily pay for curated supplier data, with the 'vetted' aspect providing a strong value proposition. A solopreneur can build the platform and manage data acquisition, especially by focusing on a niche. It also benefits from low startup costs and minimal regulatory burden.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "dropship-automation",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 4,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear, paying customer base (dropshippers) with a strong need for automation, indicating high revenue potential and hook strength. While building robust integrations can be complex for a solo developer, an MVP focusing on a specific supplier/platform is viable. Regulatory burden is minimal, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "sku-generator",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur with minimal capital and no regulatory burden. However, its revenue potential is limited as SKU generation is typically a feature within larger e-commerce or inventory management systems, making it challenging to command high recurring fees for a standalone product. The hook is clear but could benefit from a more specific ICP.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "warranty-manager",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear business need for companies managing product warranties, indicating viable revenue potential. It's highly feasible for a solopreneur to build an MVP with minimal capital, and regulatory compliance is standard for customer data, not overly burdensome.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "packing-slip-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear niche of e-commerce businesses needing branded packing slips, indicating good revenue potential. It's highly viable for a solo developer to build and maintain with minimal startup capital, leveraging existing free tiers. While basic data privacy compliance is necessary, it avoids heavily regulated industries, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "online-course-platform",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 2,
+      "capital_realistic": 2,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While the revenue potential is high, building a competitive online course platform is a significant undertaking for a solopreneur, requiring extensive development for features like video hosting, streaming, and payment integration. The capital required for video infrastructure alone would likely exceed $500 quickly, making it challenging to start on a shoestring budget.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "flashcard-app",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur due to low capital needs and no regulatory burden. While a basic flashcard app with spaced repetition is buildable, the current hook is too generic, making it hard to differentiate in a crowded market. Revenue potential exists but would require a much more specific niche or problem focus.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "quiz-maker-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "The quiz maker category has proven revenue potential with many successful tools charging monthly fees. A solo developer can build an MVP using free tiers, and regulatory burden is minimal. While the current hook is generic, the core idea is solid and can be refined with a specific niche.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "tutoring-marketplace",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 1,
+      "capital_realistic": 2,
+      "no_regulatory_burden": 1,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "A tutoring marketplace is inherently complex for a solopreneur, requiring management of two user types, payments, and significant operational effort. It also carries high regulatory burdens related to payment processing and potential child safety, making it unsuitable for a solo venture.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "language-learning-app",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with low regulatory burden and is viable for a solopreneur if focused on a specific niche. However, the current hook 'Niche language tools' is too vague and needs refinement to identify a clear ideal customer profile and specific problem to solve.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "study-group-platform",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 4,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea taps into a proven market for online collaboration and learning tools, offering good revenue potential. A solo founder can build an MVP by leveraging existing video and collaboration APIs, though initial capital for these services will likely be needed as usage scales. Regulatory burden is minimal, and the hook provides a clear, albeit somewhat broad, target audience.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "homework-helper-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 2,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "The idea is viable for a solopreneur to build and has clear revenue potential in the AI tools market. However, the 'homework helper' aspect introduces significant ethical and potential regulatory burdens, especially concerning academic integrity and children's data privacy (COPPA), making it a high-risk venture for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "certification-tracker",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur to build and maintain with minimal capital and regulatory burden. There's a clear need for professionals to track certifications, indicating a paying audience, though it's not a hyper-growth niche. The hook clearly defines the problem and target.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "student-budget-planner",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur to build with minimal capital and low regulatory burden, and the hook is clear. However, the revenue potential is a significant concern due to the crowded market of free and established paid budgeting apps, making it difficult to charge students a sustainable price.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "note-taking-app",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur with minimal startup costs and no regulatory burden. While the note-taking market is crowded, there's proven revenue potential for tools offering unique organizational features. However, the current hook is too broad and needs refinement to target a specific ideal customer profile and problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "book-summary-app",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with existing demand for non-fiction book summaries, indicating strong revenue potential. A solopreneur can realistically build and maintain an MVP, leveraging AI for content or focusing on a niche. Initial capital requirements are low, and regulatory burdens are minimal beyond standard content and data privacy considerations.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "skill-assessment-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is viable for a solopreneur to build an MVP, leveraging low capital and targeting a proven revenue category. While regulatory burdens are manageable, the current hook 'Test and certify skills' is too broad. It needs significant refinement to define a specific niche and ideal customer profile for market entry.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "vocabulary-builder",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur with low startup capital and minimal regulatory concerns. However, the revenue potential for a standalone 'word-a-day' SaaS is likely limited, as many similar tools are free or one-time purchases. The hook also lacks a specific ideal customer profile, making market positioning challenging.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "math-practice-app",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 2,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "While the K-12 education market has revenue potential and a solopreneur can build an MVP, the 'K-12' target audience introduces significant regulatory burdens (COPPA, GDPR-K) that are complex for a solo founder. The hook is also too broad, lacking a specific ICP or niche to effectively target.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "writing-practice-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear revenue potential, as many successful writing and productivity tools exist. It's highly viable for a solopreneur to build and maintain, leveraging existing APIs for feedback. The capital requirements are minimal, and there's no significant regulatory burden.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "presentation-builder",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with the timely 'AI-powered' angle. A solo developer can build a focused MVP for AI-powered slide generation, though a full-featured builder would be more complex. While AI API costs will likely exceed free tiers, regulatory burden is minimal, making it a viable 'keep' despite a somewhat broad hook.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "reading-list-manager",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur to build with minimal capital and no regulatory burden. However, its revenue potential is low given the prevalence of free alternatives and the generic hook. It needs a much stronger, more specific value proposition to attract paying customers.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "teacher-resource-hub",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear niche (teachers) with a proven willingness to pay for educational resources and tools. It's highly viable for a solopreneur to build an MVP with minimal capital and faces low regulatory hurdles. The hook clearly identifies the audience and domain, though a more specific problem/solution angle would enhance its strength.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "code-learning-platform",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 2,
+      "capital_realistic": 2,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "cut",
+    "reasoning": "Building a secure and scalable interactive coding challenge platform, especially the code execution environment, is highly complex for a solo developer. This technical hurdle also makes it difficult to keep initial capital costs low, despite the proven revenue potential in the broader market.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "parent-communication-app",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 1,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While the idea has clear revenue potential and is technically viable for a solopreneur to build an MVP with minimal capital, the regulatory burden is extremely high. Dealing with student data, FERPA, GDPR, and school-level compliance makes this unsuitable for a solopreneur without significant legal and security resources, leading to a 'cut' recommendation.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "team-standup-bot",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear demand for async communication tools, especially for remote teams. It's highly viable for a solopreneur to build and maintain with minimal startup capital, leveraging existing chat platforms like Slack/Discord. The regulatory burden is low, and the hook clearly defines the target audience and problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "okr-tracking-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is in a proven revenue category with high solopreneur viability and minimal regulatory burden, making it a strong candidate for a solo founder with low startup costs. While the core concept is solid, the current hook is too generic and needs to be refined to target a specific ideal customer profile and unique value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "meeting-agenda-builder",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur with low startup capital and minimal regulatory concerns, operating in a category with proven revenue potential. However, the current hook is too generic and needs significant refinement to target a specific ideal customer profile and articulate a unique value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "document-signer",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 1,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While e-signatures are a proven revenue category with a clear target, the significant regulatory burden (e.g., ESIGN Act, eIDAS) makes this idea high-risk and complex for a solopreneur. Ensuring legal validity and compliance is a core, non-trivial requirement that pushes it into the 'cut' category.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "knowledge-base-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "Knowledge base builders are a well-established SaaS category with proven revenue and many successful competitors. A solo founder can realistically build an MVP using free tiers, and the regulatory burden is minimal. The hook clearly defines the target (teams) and the tool's purpose (internal wiki).",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "retrospective-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear niche (agile teams) with a specific feature (voting in retrospectives), indicating good hook strength. It's highly viable for a solo developer to build and maintain, has proven revenue potential in the market, and avoids significant regulatory hurdles, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "employee-onboarding",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear business problem with established revenue potential, and a solo founder can realistically build an MVP. While handling HR data requires attention to data privacy, it's manageable for a solopreneur. The hook clearly defines the core functionality and target use case.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "1-on-1-meeting-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven problem space with clear revenue potential, as many businesses pay for meeting management and productivity tools. It's highly viable for a solo developer to build an MVP with minimal capital using free tiers. While the hook could be more specific about its ideal customer, the core functionality addresses a common business need without significant regulatory burdens.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "team-directory",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital to build an MVP. There's a proven market for internal tools, suggesting good revenue potential, though the hook could be more specific. While it involves handling PII, the regulatory burden is manageable and avoids heavily regulated sectors.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "decision-log-tool",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur due to low capital needs and no regulatory burden, making it easy to build and launch. While the revenue potential is moderate, the hook could be strengthened to target a more specific user or articulate a stronger problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "shared-inbox-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 3,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with clear demand for team email collaboration tools. A solo founder can build a viable MVP, though email integration presents a moderate technical challenge. While data privacy and security are critical, the regulatory burden is manageable compared to highly regulated industries.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "async-video-messages",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear revenue potential, as evidenced by successful competitors like Loom. A solo developer can build a viable MVP, especially by leveraging existing video infrastructure services, and the regulatory burden is minimal. The hook clearly defines the target audience and competitive positioning.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "team-mood-tracker",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur to build with minimal capital, addressing a proven need for team feedback and engagement. While the hook could be more specific, the core concept of weekly pulse surveys has clear revenue potential in the HR/employee engagement space, with only standard data privacy considerations.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "sops-manager",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear revenue potential, as many businesses struggle with process documentation and pay for solutions. It's highly viable for a solo developer to build an MVP using free-tier tools, and carries minimal regulatory burden. The hook clearly defines the problem and solution, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "brainstorming-tool",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with clear revenue potential, and a solo developer can build an MVP, especially with the low capital requirements. While the hook is functional, it could be strengthened by specifying a niche audience or a more unique problem beyond general brainstorming.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "resource-scheduler",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 3
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a well-established market with strong revenue potential, as many businesses pay for resource scheduling tools. A solopreneur can build an MVP with minimal capital using free tiers, and there are no significant regulatory burdens. The hook is clear but could be more specific to target a niche ICP.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "weekly-report-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear pain point for teams and managers, offering strong revenue potential as businesses readily pay for automation and productivity tools. It's highly viable for a solopreneur to build an MVP with minimal capital, and the regulatory burden is low, requiring only standard data privacy considerations.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "goal-tracking-dashboard",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with high solopreneur viability and minimal regulatory burden, making it a strong candidate for a solo founder. While initial capital is low, the hook 'Personal + team goals' is too broad and needs refinement to identify a specific niche and unique selling proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "task-delegation-tool",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a well-established market with strong revenue potential and is highly viable for a solo developer to build and maintain. It avoids significant regulatory burdens, and the stated capital requirements are realistic. The hook clearly defines the core functionality, making it easy to understand the value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "remote-work-dashboard",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a clear pain point for remote teams, offering a dashboard for working hours and availability. It's highly viable for a solo developer to build with minimal capital, and the productivity category has proven revenue potential without significant regulatory burdens.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "expense-tracker-app",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with a clear value proposition (receipt scanning) that people pay for. A solopreneur can build an MVP by leveraging existing OCR APIs, though this will likely incur some API costs. While handling financial data requires attention to privacy, it avoids heavy regulatory burdens, making it viable for a solo founder.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "budget-planner",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is viable for a solopreneur to build and maintain with low capital, and there's proven revenue potential in the budgeting space. However, the hook is generic and doesn't specify an ICP or unique angle, making differentiation challenging in a crowded market. Additionally, handling personal financial data requires careful attention to data privacy and security.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "freelance-contract-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 2,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While highly viable for a solopreneur to build with minimal capital and a clear market need, the regulatory burden is a significant concern. Generating legal documents, even with disclaimers, carries inherent risks and potential liability for accuracy, making it a challenging area for a solo founder without legal expertise.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "profit-calculator",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 2
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur with minimal capital and no regulatory burden. However, its revenue potential is low as a standalone SaaS, as profit calculation is often a feature of larger tools or done with spreadsheets. The hook is also too generic, failing to identify a specific ICP or unique angle to attract paying customers.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "payment-link-generator",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur with minimal capital and manageable regulatory concerns, as it leverages Stripe's robust infrastructure. While Stripe offers native payment links, there's potential to build a niche by offering advanced features or a superior UX for specific segments, allowing for moderate revenue. The hook clearly communicates its purpose and technology.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "financial-dashboard",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 2,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "This idea faces significant regulatory burdens due to handling sensitive multi-account financial data, which is a high-risk area for a solopreneur. While revenue potential exists and a solo developer could build it, the compliance overhead and the broad, undifferentiated hook make it challenging to succeed.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "tax-prep-organizer",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 2,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While this idea addresses a clear pain point and is technically viable for a solo developer with minimal capital, storing sensitive personal financial documents introduces significant regulatory and security burdens. The high compliance expectations (data privacy, security, potential future SOC2) make it a challenging and risky venture for a solopreneur to manage effectively.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "subscription-manager",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur due to low development effort, minimal startup costs, and low regulatory burden for a basic MVP. While the revenue potential is moderate and the hook is generic, the core problem of managing subscriptions is real. It could be a 'keep' if a stronger niche or unique value proposition is identified.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "business-name-generator",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "needs-review",
+    "reasoning": "This idea is highly viable for a solopreneur to build with minimal capital and no regulatory hurdles, and the hook is clear. However, its revenue potential is low as most users expect business name generation for free or as part of a larger service. It would be challenging to establish a recurring SaaS revenue model for this standalone tool.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "cashflow-forecaster",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea addresses a critical business need with clear revenue potential and is viable for a solo developer to build an MVP. While handling financial data requires strong security and privacy, it avoids heavy regulatory burdens. The hook could be strengthened by defining a more specific ideal customer profile and unique angle.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "receipt-scanner",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea has proven revenue potential within the expense tracking category and is highly viable for a solopreneur using third-party OCR APIs. While there are light data privacy considerations, it avoids heavy regulatory burdens. The hook clearly communicates the core value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "pricing-page-builder",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and posing no significant regulatory burden. While the revenue potential for a standalone pricing page builder is moderate, a focus on 'beautiful' and easy generation could attract a paying niche. The hook clearly communicates the tool's purpose and a desirable outcome.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "payroll-calculator",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 2,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 1,
+      "hook_strength": 5
+    },
+    "recommendation": "cut",
+    "reasoning": "While payroll is a high-revenue category with a strong hook, it carries an extremely heavy regulatory burden due to constantly changing tax laws and financial compliance. This makes it exceptionally difficult for a solopreneur to build and maintain accurately and legally, leading to a 'cut' recommendation.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "client-portal",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a well-established market with clear revenue potential, as many service-based businesses need to streamline client communication and billing. A solo founder can realistically build an MVP with minimal capital, focusing on core file and invoice sharing features. While data privacy requires attention, it's manageable for a solo operation.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "equity-calculator",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 2,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While a solopreneur can easily build this with low capital and the hook is clear, its revenue potential for a recurring SaaS is low as it's often a one-off task. More critically, it carries significant regulatory and liability risks by touching on financial and legal advice.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "grant-finder-tool",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 2,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "cut",
+    "reasoning": "While the initial capital is low and the hook is clear, the ongoing data maintenance for a comprehensive grant finder tool presents a significant challenge for a solopreneur. Grants constantly change, requiring continuous effort to keep the database accurate and relevant, which could quickly become overwhelming for one person.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "mileage-tracker",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear problem for solopreneurs and gig workers with proven revenue potential, as evidenced by existing successful apps. A solo developer can build an MVP, and the capital requirements are low, with minimal regulatory burden beyond standard data privacy.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "w-9-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 4,
+      "no_regulatory_burden": 2,
+      "hook_strength": 5
+    },
+    "recommendation": "cut",
+    "reasoning": "While this idea has strong solopreneur viability, good revenue potential, and a clear hook, dealing with tax forms and sensitive financial data (TINs) introduces significant regulatory and security burdens. Navigating IRS compliance and data security for financial information is a high-risk area for a solo founder, making it a challenging venture.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "proposal-template-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a well-established market with strong revenue potential, as many businesses pay for proposal software. A solo developer can realistically build an MVP with low startup costs and minimal regulatory hurdles. The hook clearly addresses a common pain point for solopreneurs needing professional proposals quickly.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "business-plan-generator",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea has strong revenue potential as businesses often pay for tools to streamline planning. A solo developer can realistically build an MVP for a guided builder, especially leveraging AI, with minimal capital. It avoids regulatory burdens and offers a clear hook for solopreneurs needing structured guidance.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "paid-newsletter-platform",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with a strong hook, positioning itself as a niche-focused Substack alternative. A solo founder can realistically build an MVP with minimal capital, leveraging free tiers for infrastructure. While light compliance for data privacy and payment processing is necessary, it avoids heavy regulatory burdens.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "membership-community-app",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with strong solopreneur viability and low startup costs. While there's a moderate regulatory burden due to user-generated content, it's manageable. The primary area for improvement is the generic hook, which needs to be refined to target a specific niche or problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "discord-bot-builder",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear market of non-technical users needing custom Discord bots, a niche with established revenue potential. A solo developer can build a viable MVP with minimal startup capital, leveraging free tiers. The business also avoids significant regulatory burdens, making it highly viable for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "event-ticketing-platform",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 2,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 1
+    },
+    "recommendation": "cut",
+    "reasoning": "While event ticketing is a high-revenue market with low startup capital, the complexity of building a robust platform (payment processing, ticket generation, event management) makes it challenging for a single solopreneur to ship a viable MVP quickly. The generic hook also lacks a specific ideal customer profile or unique angle, making differentiation difficult.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "online-forum-builder",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 2,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "While the category has proven revenue potential and can be started with minimal capital, building a competitive 'modern forum' is a substantial undertaking for a solo developer, making its viability low. The hook is also too vague, failing to identify a clear ideal customer profile or unique angle for differentiation.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "creator-tip-jar",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category with successful indie competitors like Buy Me a Coffee. A solopreneur can build an MVP with minimal capital using free tiers and existing payment APIs. While it involves light compliance due to payment processing, the hook clearly defines the ICP (creators) and their problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "podcast-community-hub",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear ICP (podcasters) with a strong need for listener engagement, indicating good revenue potential. A solo developer can build a viable MVP, and initial capital costs are very low. While it involves basic data privacy, the regulatory burden is manageable.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "coaching-platform",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear ICP (coaches) in a proven revenue category with many successful competitors. A solo developer can build an MVP with minimal upfront capital by leveraging existing APIs and free tiers. The regulatory burden for data privacy and payment processing is manageable for a solopreneur.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "alumni-network-tool",
+    "scores": {
+      "revenue_potential": 2,
+      "solopreneur_viability": 2,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "This idea presents a significant challenge for a solopreneur due to the complexity of building and maintaining a secure, feature-rich network tool. The revenue potential for an indie product is low given the market is dominated by larger platforms, and the hook is too vague to identify a clear paying customer or unique value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "virtual-meetup-platform",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 2,
+      "capital_realistic": 2,
+      "no_regulatory_burden": 4,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "Building a robust 'Virtual Meetup Platform' with video and scheduling is too complex for a solopreneur to build and maintain effectively. Video streaming APIs incur significant costs even at low usage, making it difficult to stay within a low capital budget. The hook is also too generic, lacking a specific ICP or unique angle in a highly competitive market.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "challenge-platform",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven revenue category, as coaches and community builders actively pay for tools to manage group challenges. It's highly viable for a solopreneur to build an MVP with minimal capital, leveraging free tiers. Regulatory burden is low, and the hook clearly defines the core functionality, though the ideal customer profile could be further refined.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "fan-club-manager",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 3,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear market of creators monetizing their audience, with existing platforms demonstrating strong revenue potential. A solo developer can build an MVP focused on core management features and payment integration, leveraging free tiers for low startup costs. While payment processing introduces some compliance, it's manageable and not heavily regulated.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "book-club-platform",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur, requiring minimal capital and posing no significant regulatory burdens. While the revenue potential is moderate due to existing free alternatives, a well-executed niche platform for organizing reading groups could attract paying users. The hook clearly defines the target audience and problem.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "mastermind-group-tool",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 5,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur to build and launch with minimal capital and no significant regulatory hurdles. While the revenue potential isn't as proven as some categories, there's a clear need for structured group management, suggesting a niche market willing to pay for a dedicated solution. The hook clearly targets individuals involved in peer groups.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "marketplace-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 1,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 3,
+      "hook_strength": 2
+    },
+    "recommendation": "cut",
+    "reasoning": "Building a generic 'two-sided marketplace platform' is inherently complex, requiring significant development for features like payment processing, user management, and dispute resolution, making it unsuitable for a solopreneur. While the revenue potential is high, the solo viability is extremely low, triggering a 'cut' recommendation.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "job-board-builder",
+    "scores": {
+      "revenue_potential": 5,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a proven market with strong revenue potential, as many successful job board platforms exist. A solo founder can realistically build an MVP with minimal capital, and the regulatory burden is low. The hook clearly defines the target user as those wanting to create niche job boards for specific industries.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "mentorship-matching-tool",
+    "scores": {
+      "revenue_potential": 3,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 4,
+      "hook_strength": 2
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea is highly viable for a solopreneur to build with minimal capital and low regulatory risk. While there is revenue potential, the current hook is too generic and needs to specify an ideal customer profile (e.g., 'for tech bootcamps' or 'internal company programs') to clarify its market and value proposition.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "online-retreat-platform",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 3,
+      "capital_realistic": 3,
+      "no_regulatory_burden": 4,
+      "hook_strength": 5
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea targets a clear niche (virtual wellness retreats) with strong revenue potential, as similar event/community platforms are successful. A solopreneur can build an MVP by integrating existing video and scheduling APIs, keeping initial capital costs realistic. The regulatory burden is low, primarily involving standard data privacy.",
+    "audit_type": "saas"
+  },
+  {
+    "idea_id": "accountability-partner-app",
+    "scores": {
+      "revenue_potential": 4,
+      "solopreneur_viability": 4,
+      "capital_realistic": 5,
+      "no_regulatory_burden": 5,
+      "hook_strength": 4
+    },
+    "recommendation": "keep",
+    "reasoning": "This idea has good revenue potential as people pay for productivity and coaching, and a solo developer can build an MVP with matching and tracking features. It avoids heavy regulatory burdens and can be started with minimal capital. The hook clearly defines the problem and solution, making it a strong candidate for a solopreneur.",
+    "audit_type": "saas"
+  }
+]

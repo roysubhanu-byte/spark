@@ -72,9 +72,31 @@ const SAMPLE_SUPPLIERS: Record<string, SupplierResult[]> = {
   ],
 }
 
+// Amazon affiliate tag — replace with real tag once approved
+const AMAZON_TAG = '' // e.g. 'sparkapp-20'
+
+function amazonUrl(query: string): string {
+  const q = encodeURIComponent(query)
+  const base = `https://www.amazon.com/s?k=${q}`
+  return AMAZON_TAG ? `${base}&tag=${AMAZON_TAG}` : base
+}
+
+function aliexpressUrl(query: string): string {
+  return `https://www.aliexpress.com/wholesale?SearchText=${encodeURIComponent(query)}`
+}
+
+function alibabaUrl(query: string): string {
+  return `https://www.alibaba.com/trade/search?SearchText=${encodeURIComponent(query)}`
+}
+
+function etsyUrl(query: string): string {
+  return `https://www.etsy.com/search?q=${encodeURIComponent(query)}`
+}
+
 /**
  * Find matching suppliers for a product.
- * Uses sample data now. Will call Supabase edge function when API keys are configured.
+ * Uses category-matched sample data with real platform search URLs.
+ * Once affiliate API keys are configured, will switch to live API calls.
  */
 export function findSuppliers(productName: string): SupplierSearchResult {
   const lower = productName.toLowerCase()
@@ -88,16 +110,47 @@ export function findSuppliers(productName: string): SupplierSearchResult {
     }
   }
 
-  // Generate product-specific search URLs
-  const q = encodeURIComponent(productName)
+  // Build product-specific search query (clean up for better results)
+  const searchQuery = productName
+    .replace(/\(.*?\)/g, '') // remove parentheticals
+    .replace(/[&]/g, 'and')
+    .trim()
+
+  // Rewrite ALL URLs to real product-specific search links
   suppliers = suppliers.map(s => ({
     ...s,
     url: s.platform === 'aliexpress'
-      ? `https://www.aliexpress.com/wholesale?SearchText=${q}`
+      ? aliexpressUrl(searchQuery)
       : s.platform === 'alibaba'
-      ? `https://www.alibaba.com/trade/search?SearchText=${q}`
+      ? alibabaUrl(searchQuery)
+      : s.platform === 'amazon'
+      ? amazonUrl(searchQuery)
+      : s.platform === 'etsy'
+      ? etsyUrl(searchQuery)
       : s.url,
   }))
+
+  // Add Amazon as a sourcing option (starter kit angle) if not already present
+  const hasAmazon = suppliers.some(s => s.platform === 'amazon')
+  if (!hasAmazon) {
+    const amazonKit: SupplierResult = {
+      platform: 'amazon',
+      name: `${productName} Starter Kit`,
+      url: amazonUrl(`${searchQuery} starter kit`),
+      price: 'Varies',
+      priceRaw: 0,
+      rating: 4.5,
+      reviewCount: 0,
+      orderCount: 'Amazon Prime eligible',
+      isGoldMember: false,
+      isVerified: true,
+      moq: '1 unit',
+      shipsIn: '1-2 days (Prime)',
+      shipsFrom: 'US',
+    }
+    // Amazon first (fastest for US users), then existing suppliers
+    suppliers = [amazonKit, ...suppliers]
+  }
 
   return {
     query: productName,

@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback } from 'react'
-import { IDEAS } from '../data'
+import { ALL_IDEAS_UNFILTERED as IDEAS } from '../data'
 import type { Idea } from '../types'
 import triageData from '../../scripts/triage-results.json'
 
@@ -10,16 +10,16 @@ interface TriageEntry {
   id: string
   name: string
   deck: string
-  capital: string
-  interests: string[]
-  quality_tier: Tier
+  capital?: string
+  interests?: string[]
+  quality_tier?: Tier
   priority_score?: number
   reason?: string
   reasons?: string[]
   hook?: string
   old_tier?: string
   was_demoted?: boolean
-  upgrade_priority: boolean
+  upgrade_priority?: boolean
 }
 
 interface AdminState {

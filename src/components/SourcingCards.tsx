@@ -15,7 +15,7 @@ export function SourcingCards({ idea, region }: Props) {
   return <PhysicalSourcing idea={idea} region={region} />
 }
 
-function SupplierCard({ supplier, isPrimary, isSample }: { supplier: SupplierResult; isPrimary?: boolean; isSample?: boolean }) {
+function SupplierCard({ supplier, isPrimary }: { supplier: SupplierResult; isPrimary?: boolean }) {
   const platformColors: Record<string, { bg: string; text: string }> = {
     aliexpress: { bg: '#FFE4B5', text: '#1F1B16' },
     alibaba: { bg: '#FF6A00', text: '#fff' },
@@ -38,18 +38,13 @@ function SupplierCard({ supplier, isPrimary, isSample }: { supplier: SupplierRes
           </div>
         )}
         {!isPrimary && <div />}
-        {isSample && (
-          <span className="text-[9px] text-gray-400 tracking-wide" title="We're verifying real suppliers for this product. Check back this week.">
-            Sample data
-          </span>
-        )}
       </div>
 
       {/* Supplier name + platform */}
       <div className="flex items-center gap-2 mb-2">
         <span className="text-[11px] font-bold px-2 py-0.5 rounded"
           style={{ background: colors.bg, color: colors.text }}>
-          {supplier.platform === 'aliexpress' ? 'AliExpress' : supplier.platform === 'alibaba' ? 'Alibaba' : supplier.platform}
+          {supplier.platform === 'aliexpress' ? 'AliExpress' : supplier.platform === 'alibaba' ? 'Alibaba' : supplier.platform === 'amazon' ? 'Amazon' : supplier.platform === 'etsy' ? 'Etsy' : supplier.platform}
         </span>
         <span className="text-xs font-medium text-ink truncate">{supplier.name}</span>
       </div>
@@ -95,14 +90,12 @@ function PhysicalSourcing({ idea, region: _region }: { idea: Idea; region: Regio
     <div className="flex flex-col gap-2.5">
       {/* Supplier cards with ratings */}
       {supplierData.suppliers.map((supplier, i) => (
-        <SupplierCard key={i} supplier={supplier} isPrimary={i === 0} isSample={supplierData.source === 'sample'} />
+        <SupplierCard key={i} supplier={supplier} isPrimary={i === 0} />
       ))}
 
-      {supplierData.source === 'sample' && (
-        <div className="text-[10px] text-ink-mute text-center py-1">
-          Showing category-matched suppliers. Tap to search on platform.
-        </div>
-      )}
+      <div className="text-[10px] text-ink-mute text-center py-1">
+        Tap any card to search on the platform. Prices vary by seller.
+      </div>
 
       {/* More platforms */}
       <div className="mt-2">

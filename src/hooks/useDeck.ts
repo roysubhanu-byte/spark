@@ -24,11 +24,19 @@ export function useDeck(
     // Region filter
     pool = pool.filter(i => !i.markets || i.markets.includes(region as any))
 
-    // Interest sort (soft — matched first, then rest)
+    // Sort by sparkScore (highest first) within interest groups
+    const byScore = (a: Idea, b: Idea) => {
+      const sa = a.validation?.sparkScore ?? 0
+      const sb = b.validation?.sparkScore ?? 0
+      return sb - sa
+    }
+
     if (interests.size > 0) {
       const matched = pool.filter(i => i.interests.some(int => interests.has(int)))
       const rest = pool.filter(i => !i.interests.some(int => interests.has(int)))
-      pool = [...matched, ...rest]
+      pool = [...matched.sort(byScore), ...rest.sort(byScore)]
+    } else {
+      pool.sort(byScore)
     }
 
     return pool
