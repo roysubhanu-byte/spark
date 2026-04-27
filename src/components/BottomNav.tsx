@@ -10,6 +10,7 @@ const tabs: { screen: Screen; icon: string; label: string }[] = [
   { screen: 'deck', icon: '🃏', label: 'Discover' },
   { screen: 'saved', icon: '💖', label: 'Saved' },
   { screen: 'todos', icon: '📋', label: 'Plan' },
+  { screen: 'settings', icon: '⚙️', label: 'Settings' },
 ]
 
 export function BottomNav({ active, openTodos, onNav }: Props) {

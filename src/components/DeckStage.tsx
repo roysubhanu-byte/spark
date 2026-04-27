@@ -73,29 +73,41 @@ export function DeckStage({ ideas, region, cardIdx, onCardIdxChange, onSave, onT
         </div>
       </div>
 
-      {/* Action buttons */}
-      <div className="flex justify-center gap-[18px] px-[22px] pt-2 pb-[22px] shrink-0">
-        <button
-          onClick={() => handleSwipe('left')}
-          className="w-[60px] h-[60px] rounded-full bg-card shadow-sm flex items-center justify-center
-            cursor-pointer text-[22px] text-accent transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]"
-        >
-          ✕
-        </button>
-        <button
-          onClick={() => ideas[cardIdx] && onTap(ideas[cardIdx])}
-          className="w-[60px] h-[60px] rounded-full bg-card shadow-sm flex items-center justify-center
-            cursor-pointer text-[18px] text-ink-soft transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]"
-        >
-          &#8505;
-        </button>
-        <button
-          onClick={() => handleSwipe('right')}
-          className="w-[70px] h-[70px] rounded-full bg-card shadow-sm flex items-center justify-center
-            cursor-pointer text-[26px] text-sage transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]"
-        >
-          &#9825;
-        </button>
+      {/* Action buttons with labels */}
+      <div className="flex justify-center items-end gap-[18px] px-[22px] pt-2 pb-[22px] shrink-0">
+        <div className="flex flex-col items-center gap-1">
+          <button
+            onClick={() => handleSwipe('left')}
+            className="w-[56px] h-[56px] rounded-full bg-card shadow-sm flex items-center justify-center
+              cursor-pointer text-[20px] text-accent transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]
+              border border-line-soft"
+          >
+            ✕
+          </button>
+          <span className="text-[10px] text-ink-mute font-medium">Skip</span>
+        </div>
+        <div className="flex flex-col items-center gap-1">
+          <button
+            onClick={() => ideas[cardIdx] && onTap(ideas[cardIdx])}
+            className="w-[56px] h-[56px] rounded-full bg-card shadow-sm flex items-center justify-center
+              cursor-pointer text-[16px] text-ink-soft transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]
+              border border-line-soft"
+          >
+            &#8505;
+          </button>
+          <span className="text-[10px] text-ink-mute font-medium">Details</span>
+        </div>
+        <div className="flex flex-col items-center gap-1">
+          <button
+            onClick={() => handleSwipe('right')}
+            className="w-[66px] h-[66px] rounded-full bg-sage/10 shadow-sm flex items-center justify-center
+              cursor-pointer text-[24px] text-sage transition-all hover:-translate-y-0.5 hover:shadow-md active:scale-[0.92]
+              border-2 border-sage/30"
+          >
+            &#9825;
+          </button>
+          <span className="text-[10px] text-sage font-semibold">Save</span>
+        </div>
       </div>
     </>
   )

@@ -15,7 +15,7 @@ function saveLS(key: string, value: unknown) {
 
 export type Screen =
   | 'welcome' | 'q2-deck' | 'q1-channel' | 'q3-interests'
-  | 'deck' | 'todos' | 'saved' | 'plan'
+  | 'deck' | 'todos' | 'saved' | 'plan' | 'settings'
 
 export function useStore() {
   const [screen, setScreen] = useState<Screen>(() => {
@@ -31,7 +31,8 @@ export function useStore() {
   const [todos, setTodos] = useState<TodoItem[]>(() => loadLS('todos', []))
   const [cardIdx, setCardIdx] = useState(0)
   const [regionModalOpen, setRegionModalOpen] = useState(false)
-  const [showFirstTimeHint, setShowFirstTimeHint] = useState(() => !loadLS('hint_dismissed', false))
+  const [hintCount, setHintCount] = useState(() => loadLS('hint_count', 0))
+  const [showFirstTimeHint, setShowFirstTimeHint] = useState(() => loadLS('hint_count', 0) < 5)
   const [activePlans, setActivePlans] = useState<ActivePlan[]>(() => loadLS('activePlans', []))
 
   // Persist on change
@@ -51,9 +52,13 @@ export function useStore() {
   }, [])
 
   const dismissHint = useCallback(() => {
-    setShowFirstTimeHint(false)
-    saveLS('hint_dismissed', true)
-  }, [])
+    const next = hintCount + 1
+    setHintCount(next)
+    saveLS('hint_count', next)
+    if (next >= 5) {
+      setShowFirstTimeHint(false)
+    }
+  }, [hintCount])
 
   const saveIdea = useCallback((ideaId: string) => {
     setSaved(prev => prev.includes(ideaId) ? prev : [...prev, ideaId])
@@ -120,6 +125,23 @@ export function useStore() {
     return activePlans.find(p => p.ideaId === ideaId) || null
   }, [activePlans])
 
+  const resetAll = useCallback(() => {
+    const keys = ['onb_done', 'region', 'q2', 'q1', 'interests', 'saved', 'todos', 'hint_count', 'activePlans']
+    keys.forEach(k => localStorage.removeItem(`spark_${k}`))
+    localStorage.removeItem('spark-admin-decisions')
+    localStorage.removeItem('spark-audit-overrides')
+    setScreen('welcome')
+    setQ2(null)
+    setQ1(null)
+    setInterests(new Set())
+    setSaved([])
+    setTodos([])
+    setCardIdx(0)
+    setHintCount(0)
+    setShowFirstTimeHint(true)
+    setActivePlans([])
+  }, [])
+
   const openTodos = todos.filter(t => !t.done).length
   const totalActivePlans = activePlans.length
 
@@ -145,6 +167,7 @@ export function useStore() {
     regionModalOpen, setRegionModalOpen,
     showFirstTimeHint, dismissHint,
     activePlans, startPlan, completePlanTask, getActivePlan, totalActivePlans,
+    resetAll,
   }
 }
 

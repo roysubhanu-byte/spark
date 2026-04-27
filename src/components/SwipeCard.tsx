@@ -27,6 +27,14 @@ const EFFORT_COLORS: Record<number, string> = {
   3: 'text-accent',
 }
 
+function getMarketSignal(idea: Idea): { label: string; color: string } | null {
+  const spark = idea.validation?.sparkScore
+  if (!spark) return null
+  if (spark >= 72) return { label: 'High demand', color: 'bg-sage/90 text-white' }
+  if (spark >= 65) return { label: 'Growing market', color: 'bg-gold/90 text-white' }
+  return null
+}
+
 export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, showHint }: Props) {
   const dragRef = useRef(false)
   const [showCurrency, setShowCurrency] = useState(false)
@@ -196,18 +204,25 @@ export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, show
           {deckParts[0]?.trim()}
         </div>
 
-        {/* Badges */}
-        {badges.length > 0 && (
-          <div className="absolute bottom-4 left-4 flex flex-wrap gap-1.5 z-[2] max-w-[calc(100%-32px)]">
-            {badges.map(b => (
-              <span key={b.key} className={`inline-flex items-center gap-1 px-[9px] py-[5px] rounded-full
-                text-[10px] font-semibold tracking-[0.02em] shadow-[0_2px_6px_rgba(0,0,0,0.12)] ${b.className}`}>
-                <span className="text-[11px] leading-none">{b.icon}</span>
-                {b.label}
+        {/* Badges + market signal */}
+        <div className="absolute bottom-4 left-4 flex flex-wrap gap-1.5 z-[2] max-w-[calc(100%-32px)]">
+          {(() => {
+            const signal = getMarketSignal(idea)
+            return signal ? (
+              <span className={`inline-flex items-center gap-1 px-[9px] py-[5px] rounded-full
+                text-[10px] font-semibold tracking-[0.02em] shadow-[0_2px_6px_rgba(0,0,0,0.12)] ${signal.color}`}>
+                {signal.label}
               </span>
-            ))}
-          </div>
-        )}
+            ) : null
+          })()}
+          {badges.map(b => (
+            <span key={b.key} className={`inline-flex items-center gap-1 px-[9px] py-[5px] rounded-full
+              text-[10px] font-semibold tracking-[0.02em] shadow-[0_2px_6px_rgba(0,0,0,0.12)] ${b.className}`}>
+              <span className="text-[11px] leading-none">{b.icon}</span>
+              {b.label}
+            </span>
+          ))}
+        </div>
 
         {/* Swipe stamps */}
         {depth === 0 && (

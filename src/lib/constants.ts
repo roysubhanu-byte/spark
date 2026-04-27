@@ -5,20 +5,20 @@ export const SECTION_KEYS: SectionKey[] = [
 ]
 
 export const SECTION_LABELS: Record<SectionKey, string> = {
-  strategy: 'Strategy',
-  value: 'Value',
-  profit: 'Profit Math',
-  distributors: 'Materials',
-  pricing: 'Pricing',
-  sellingPrice: 'Where to Sell',
+  strategy: 'Why this works',
+  value: 'Who buys this',
+  profit: 'Your profit math',
+  distributors: 'What you need',
+  pricing: 'How to price it',
+  sellingPrice: 'Where to sell',
 }
 
 export const SECTION_EYEBROW: Record<SectionKey, string> = {
-  strategy: 'The angle',
-  value: 'Who buys this',
+  strategy: 'The angle that wins',
+  value: 'Your ideal buyer',
   profit: 'Show me the money',
-  distributors: 'What you need to make it',
-  pricing: 'How you charge',
+  distributors: 'Materials and tools',
+  pricing: 'Set your price',
   sellingPrice: 'Where your customers are',
 }
 

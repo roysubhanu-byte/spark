@@ -247,6 +247,53 @@ export default function App() {
           </div>
         )}
 
+        {/* === MAIN: SETTINGS === */}
+        {store.screen === 'settings' && !hasOverlay && (
+          <div className="flex-1 flex flex-col h-full">
+            <div className="px-6 pt-5 pb-3 border-b border-line-soft">
+              <h1 className="font-display font-light text-[32px] tracking-tight mb-1">
+                Settings
+              </h1>
+            </div>
+            <div className="flex-1 overflow-y-auto px-5 pt-6 pb-20 scrollbar-hide space-y-3">
+              <div className="bg-card border border-line-soft rounded-xl p-4">
+                <div className="text-sm font-medium text-ink mb-1">Your preferences</div>
+                <div className="text-xs text-ink-mute mb-3">
+                  Deck: {store.q2 || 'All'} | Channel: {store.q1 || 'Both'} | Interests: {store.interests.size > 0 ? Array.from(store.interests).join(', ') : 'None'}
+                </div>
+                <button onClick={() => { store.setScreen('q2-deck') }}
+                  className="text-sm text-accent font-medium bg-transparent border-none cursor-pointer p-0">
+                  Change preferences
+                </button>
+              </div>
+
+              <div className="bg-card border border-line-soft rounded-xl p-4">
+                <div className="text-sm font-medium text-ink mb-1">Stats</div>
+                <div className="text-xs text-ink-mute space-y-1">
+                  <div>Ideas explored: {store.cardIdx}</div>
+                  <div>Ideas saved: {store.saved.length}</div>
+                  <div>Active plans: {store.activePlans.length}</div>
+                </div>
+              </div>
+
+              <button onClick={() => {
+                if (confirm('This will reset everything. Are you sure?')) {
+                  store.resetAll()
+                }
+              }}
+                className="w-full py-3.5 bg-accent/10 text-accent rounded-xl font-body text-sm font-medium
+                  cursor-pointer border border-accent/20 transition-all hover:bg-accent/20">
+                Reset app and start fresh
+              </button>
+
+              <div className="flex gap-4 justify-center pt-4">
+                <a href="/privacy" className="text-xs text-ink-mute hover:text-ink">Privacy Policy</a>
+                <a href="/terms" className="text-xs text-ink-mute hover:text-ink">Terms of Service</a>
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* === OVERLAY: PRODUCT PAGE === */}
         {productIdea && !storiesIdea && !planIdea && (
           <ProductPage

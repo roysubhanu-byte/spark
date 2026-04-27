@@ -26,10 +26,10 @@ export function Welcome({ onContinue }: WelcomeProps) {
           Find what to start
         </div>
         <h1 className="font-display font-light text-[42px] leading-[1.05] tracking-tight text-ink mb-3.5">
-          400 ways to <em className="italic font-normal text-accent">begin</em>.<br/>Swipe to find yours.
+          700+ ways to <em className="italic font-normal text-accent">begin</em>.<br/>Swipe to find yours.
         </h1>
         <p className="text-[15px] leading-[1.55] text-ink-soft mb-8">
-          Stop staring at empty spreadsheets. Real businesses, real numbers, real first steps. Start one tomorrow.
+          Every idea is researched. Real costs, real suppliers, real profit math. Pick one and start this week.
         </p>
         <button onClick={onContinue}
           className="w-full py-[18px] bg-ink text-bg rounded-2xl font-body text-[15px] font-medium
@@ -48,10 +48,9 @@ interface DeckPickerProps {
 }
 export function DeckPicker({ value, onChange, onContinue }: DeckPickerProps) {
   const opts: { value: DeckPref; icon: string; title: string; sub: string }[] = [
-    { value: 'physical', icon: '📦', title: 'Physical products', sub: 'Real things — candles, jewelry, decor' },
-    { value: 'digital', icon: '💾', title: 'Digital products', sub: 'Templates, ebooks, presets, downloads' },
-    { value: 'saas', icon: '⚡', title: 'Software / SaaS', sub: 'Apps, tools, AI products' },
-    { value: 'all', icon: '🎲', title: 'Show me all', sub: "I'm open to anything" },
+    { value: 'physical', icon: '📦', title: 'Physical products', sub: 'Make and sell real things — candles, jewelry, pet products' },
+    { value: 'saas', icon: '⚡', title: 'Software / SaaS', sub: 'Build an app, tool, or AI product' },
+    { value: 'all', icon: '🎲', title: 'Show me everything', sub: "I'm open to anything that works" },
   ]
 
   return (
