@@ -91,6 +91,19 @@
     "reasoning": "This idea carries a significant regulatory risk, as bug repellents (even natural, essential oil-based ones) are often regulated by the EPA as pesticides. This complexity makes it unsuitable for a beginner maker. While there's room for differentiation, the high commodity risk also means competing with many established brands."
   },
   {
+    "idea_id": "hand-cream",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 4,
+      "regulatory_risk": 4,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea offers strong differentiation potential through unique formulations and branding, and is achievable with the stated low capital. However, hand cream operates in a highly commoditized market with many mass-produced alternatives. Furthermore, it carries notable regulatory considerations from the FDA for cosmetic products, adding complexity and risk for a beginner maker."
+  },
+  {
     "idea_id": "body-butter",
     "scores": {
       "hook_strength": 4,
@@ -910,6 +923,97 @@
     "reasoning": "This idea is for a digital product/SAAS, not a handmade physical product. Spark is explicitly for makers selling creative/handmade goods, making this a fundamental mismatch for the platform's core mission and audience."
   },
   {
+    "idea_id": "dog-anxiety-vest",
+    "scores": {
+      "hook_strength": 5,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "The 'Thunder shirt alternative' hook is strong, and there's good potential for differentiation through custom fabrics, personalization, or unique designs. However, the core product faces high commodity risk from established mass-produced options. While handmade, it's a functional item where mass-market solutions are prevalent, making it challenging for a beginner to compete effectively."
+  },
+  {
+    "idea_id": "salad-dressing",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 3,
+      "regulatory_risk": 3,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea leverages a strong hook of 'unique flavors' and 'clean label' to differentiate within the food category. While food products involve navigating cottage food laws, the low capital requirement and significant potential for differentiation (e.g., niche diets, seasonal ingredients, gift sets) make it viable for a maker. The focus on specialty, handmade dressing mitigates commodity risk, positioning it away from mass-produced options."
+  },
+  {
+    "idea_id": "kids-rain-boots",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 2,
+      "regulatory_risk": 3,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea falls into the priority 'Kids & Baby' category, and the 'Printed rubber boots' hook clearly signals a handmade, customizable product. While rain boots can be a commodity, the maker's ability to hand-print or custom-design them offers strong differentiation. Initial capital is realistic, though makers should be aware of potential, manageable regulatory considerations for children's products."
+  },
+  {
+    "idea_id": "compostable-phone-cases",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "The core product, compostable phone cases, is manufactured and not 'made' by a beginner crafter in the spirit of Spark. While customization is possible, the base product is a commodity, making it difficult to align with the app's focus on truly handmade goods and increasing commodity risk significantly."
+  },
+  {
+    "idea_id": "bamboo-cutlery-set",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 5,
+      "regulatory_risk": 2,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "The core product, bamboo cutlery, is a manufactured commodity that cannot be 'made' by a beginner, directly conflicting with Spark's mission. While a maker could customize the travel roll or engrave the cutlery, the fundamental item is not handmade, leading to high commodity risk and competition from mass-produced goods."
+  },
+  {
+    "idea_id": "worm-composting-kit",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 3,
+      "regulatory_risk": 2,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea offers a clear hook for an indoor vermicompost system, which can be genuinely made and sold within the budget. A maker can differentiate significantly through unique design, materials, and targeting specific aesthetics or niches, aligning well with home decor and craft interests. Regulatory risk is low, making it accessible for beginners."
+  },
+  {
+    "idea_id": "vintage-camera-resale",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 5,
+      "regulatory_risk": 2,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea focuses on reselling vintage cameras, which directly contradicts Spark's core mission of supporting businesses that *make* and sell handmade or creative products. While there's potential for curation and presentation, the fundamental activity is not creation, leading to a high commodity risk score for our platform."
+  },
+  {
     "idea_id": "reed-diffusers",
     "scores": {
       "hook_strength": 4,
@@ -1506,6 +1610,110 @@
     "duplicate_of": null,
     "recommendation": "keep",
     "reasoning": "This idea involves designing and selling physical educational materials, which allows for significant differentiation through unique content, design, and niche targeting. Startup capital is low, and regulatory hurdles are minimal. While physical worksheets compete with mass-produced educational items, a maker's unique design and pedagogical approach can create a distinct market, fitting Spark's focus on creative products."
+  },
+  {
+    "idea_id": "cork-placemats",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 3,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea benefits from low regulatory risk and very accessible startup capital. While plain cork placemats can be a commodity, a maker has significant opportunities for differentiation through unique shapes, laser-engraved designs, hand-painted elements, or personalization, aligning well with the 'Eco dining' hook."
+  },
+  {
+    "idea_id": "cuticle-oil-pens",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 2,
+      "regulatory_risk": 4,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While this idea offers excellent differentiation potential and low startup costs, the regulatory risk for cosmetic products (FDA guidelines for ingredients, labeling, and manufacturing) is a significant hurdle for beginners. This complexity elevates it beyond a simple craft, requiring careful consideration before recommending."
+  },
+  {
+    "idea_id": "lip-scrub",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 2,
+      "regulatory_risk": 4,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea offers strong differentiation potential through unique flavors, ingredients, and packaging, and is very honest about its low startup capital. However, the regulatory risk for cosmetic products (FDA guidelines for labeling and ingredients) is a significant consideration for a beginner, pushing it into 'needs-review'. The hook is also quite generic."
+  },
+  {
+    "idea_id": "dog-cooling-mat",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 5,
+      "regulatory_risk": 2,
+      "capital_honesty": 4,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea faces extremely high commodity risk as 'Dog Cooling Mats' are overwhelmingly mass-produced items. It would be challenging for a beginner maker to create a truly handmade version that effectively provides the cooling function without relying on manufactured components, which goes against Spark's core mission of making and selling handmade goods."
+  },
+  {
+    "idea_id": "dried-fruit-snacks",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 4,
+      "regulatory_risk": 3,
+      "capital_honesty": 5,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While capital is honest and regulatory risk is manageable under cottage food laws, dried fruit faces high commodity risk. It's challenging for a beginner maker to differentiate against mass-produced options, even with a 'handmade' process, making it difficult to stand out on platforms like Etsy or TikTok Shop without a very strong, unique niche."
+  },
+  {
+    "idea_id": "chili-crisp-oil",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 3,
+      "regulatory_risk": 3,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea leverages a trending product with good potential for differentiation through unique flavor profiles and branding, allowing a maker to create a distinct product. While food products carry regulatory friction due to cottage food laws, the initial capital requirement is low and achievable for beginners. It aligns with the 'making and selling' ethos, offering a tangible product for a maker to develop."
+  },
+  {
+    "idea_id": "balloon-garland-kits",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While this idea offers good differentiation potential through curated themes and added value, the core components (balloons, pumps, tape) are highly commoditized. The 'making' aspect is primarily assembly and curation rather than creating the core product, which poses a significant commodity risk and borders on reselling, conflicting with Spark's focus on inherently handmade goods."
+  },
+  {
+    "idea_id": "toiletry-bags",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While there is significant potential for differentiation through custom designs, personalization, and unique materials, the core product (toiletry bags) is highly commoditized. A beginner maker would face strong competition from mass-produced options, making it challenging to stand out without a very strong, unique angle from the start. The commodity risk is too high for a 'keep' recommendation."
   },
   {
     "idea_id": "wax-melts",
@@ -3339,6 +3547,227 @@
     "duplicate_of": null,
     "recommendation": "keep",
     "reasoning": "This idea leverages upcycling, inherently creating a unique, handmade product with low commodity risk. Startup costs are minimal, and there are no regulatory concerns. Makers can easily differentiate through book selection, personalization, and interior finishes, appealing to diverse aesthetics and gift markets."
+  },
+  {
+    "idea_id": "lash-serum",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 4,
+      "regulatory_risk": 5,
+      "capital_honesty": 2,
+      "differentiation": 2
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea carries extremely high regulatory risk due to FDA oversight of cosmetic products, especially those making 'growth' claims, making it unsuitable for a beginner with a low budget. It also faces high commodity competition and offers limited unique handmade differentiation compared to traditional crafts."
+  },
+  {
+    "idea_id": "nut-butter",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 3,
+      "capital_honesty": 4,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea faces high commodity risk as nut butter is a widely available grocery item, making it challenging for a beginner to stand out against established brands. While differentiation is possible through unique flavors, the product is a food item, introducing regulatory friction via cottage food laws. The hook also lacks a specific business angle."
+  },
+  {
+    "idea_id": "led-strip-kits",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 4,
+      "differentiation": 2
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "LED Strip Kits are a highly commoditized electronic product, making it extremely difficult for a beginner maker to differentiate against mass manufacturers and dropshippers. Selling electronics also introduces higher regulatory risks (e.g., FCC, UL) compared to typical handmade goods, which goes against Spark's focus on creative, inherently handmade products."
+  },
+  {
+    "idea_id": "screen-cleaning-kit",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 4,
+      "differentiation": 2
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea faces extremely high commodity risk, directly competing with mass-produced items from major retailers, making it difficult for a maker to differentiate or justify a handmade premium. The core product lacks inherent handmade appeal for Spark's audience, and the 'spray' component introduces potential regulatory complexities. It does not align with the 'making and selling creative/handmade products' ethos."
+  },
+  {
+    "idea_id": "natural-loofah-sponges",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While the capital is low and regulatory risk minimal, the core product (natural loofah sponges) faces high commodity risk, making it hard to compete with mass-produced alternatives. Differentiation would rely heavily on branding, unique packaging, or bundling, rather than the inherent uniqueness of the product itself."
+  },
+  {
+    "idea_id": "resin-art-kits",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 3,
+      "regulatory_risk": 2,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "While the hook is generic, selling curated resin art kits offers high differentiation through themes, specific projects, and unique inclusions. The capital and regulatory risks are low, making it accessible for beginners to 'make' and sell a unique craft experience."
+  },
+  {
+    "idea_id": "woodburning-kits",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 5,
+      "regulatory_risk": 3,
+      "capital_honesty": 5,
+      "differentiation": 2
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea involves selling woodburning kits, which are commodity tools readily available from mass retailers and online. This directly conflicts with Spark's focus on helping users MAKE and SELL creative/handmade products, not resell commodity goods. The high commodity risk makes it unsuitable for our platform."
+  },
+  {
+    "idea_id": "book-binding-kit",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea allows makers to curate and assemble unique book binding kits, offering significant differentiation through specific styles, materials, or target audiences. It has a clear hook, low regulatory risk, and the stated capital is realistic for starting. The handmade curation of the kit itself reduces commodity risk."
+  },
+  {
+    "idea_id": "essential-oil-blends",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 3,
+      "regulatory_risk": 4,
+      "capital_honesty": 4,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea faces significant regulatory risk due to the 'therapeutic grade' hook, which can imply health benefits and attract FDA scrutiny for drug claims. While there's good potential for differentiation through unique blends and branding, the regulatory hurdles are too high for a beginner to navigate easily. The hook itself is also somewhat generic."
+  },
+  {
+    "idea_id": "travel-cutlery-set",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 2,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While a maker can differentiate with custom cases and personalization, the core product (cutlery) is highly commoditized and widely available from mass producers. This poses a significant competitive risk for a handmade business trying to sell the entire set, even with a handmade component."
+  },
+  {
+    "idea_id": "magnetic-wristband",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While the capital is low and regulatory risk minimal, the 'Magnetic Wristband' is a highly commoditized utility item. It would be challenging for a beginner maker to differentiate a handmade version against cheap, mass-produced alternatives, despite some potential for personalization. The core function is easily replicated by commodity goods."
+  },
+  {
+    "idea_id": "steering-wheel-desk",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 5,
+      "regulatory_risk": 2,
+      "capital_honesty": 4,
+      "differentiation": 2
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This product faces extremely high commodity risk, as it's a functional item widely available from mass producers at low price points. It's challenging for a maker to genuinely hand-make this in a way that differentiates it or appeals to the handmade market, making it difficult to compete against commodity goods."
+  },
+  {
+    "idea_id": "aroma-beads",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea has a clear hook and very low startup capital, making it accessible for beginners. A maker can differentiate significantly through unique scent blends, creative packaging, and targeting specific niches (e.g., seasonal, pet-friendly, luxury car scents), aligning well with the handmade ethos. Regulatory risk is minimal."
+  },
+  {
+    "idea_id": "baby-shower-games",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea allows makers to leverage design skills to create a physical, gift-able product with very low startup costs and no regulatory hurdles. There's ample room for differentiation through unique themes, personalization, and quality, making it highly suitable for platforms like Etsy and Instagram Shop."
+  },
+  {
+    "idea_id": "pod-mugs",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea aligns well with Spark's focus on creative making, as the 'making' is in the unique design and personalization. It offers low startup capital and regulatory risk, making it highly accessible for beginners. The custom nature allows for significant differentiation, fitting into the popular personalized gift market."
+  },
+  {
+    "idea_id": "pod-blankets",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While POD blankets offer strong differentiation through custom designs and personalization, the Print-on-Demand model itself raises significant commodity risk. The physical product is not 'made' by the seller, which conflicts with Spark's core focus on handmade/creative products and could compete with mass-produced items, requiring clarification on what constitutes 'making' for this platform."
+  },
+  {
+    "idea_id": "pod-pet-bandanas",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea leverages personalization, which inherently differentiates it from mass-produced items, aligning with the 'maker' ethos. Regulatory and startup capital risks are low, making it accessible for beginners. The 'custom' aspect allows for strong differentiation on platforms like Etsy and TikTok Shop."
   },
   {
     "idea_id": "custom-throw-pillows",
@@ -5473,6 +5902,188 @@
     "reasoning": "This idea's 'saas' deck indicates it's not a physical handmade product, which is outside Spark's scope. Even if interpreted as a physical organizer, it's a highly commoditized item that would struggle to differentiate as a handmade product against mass-produced alternatives, making it a high commodity risk."
   },
   {
+    "idea_id": "acrylic-night-lights",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea has strong gift potential due to its customizability, allowing makers to create unique designs that stand out from mass-produced items. The regulatory risk is low for simple LED products, and the initial capital is feasible for beginners to start by personalizing pre-cut blanks or outsourcing custom shapes."
+  },
+  {
+    "idea_id": "eye-cream",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 5,
+      "capital_honesty": 2,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "Making and selling eye cream carries significant regulatory risk, as cosmetic products fall under FDA oversight, requiring careful adherence to labeling, ingredient, and manufacturing guidelines. This is a major hurdle for a beginner. Furthermore, eye cream is a highly commoditized product, making handmade differentiation challenging against established brands, and the listed capital is likely insufficient for proper, safe, and compliant production."
+  },
+  {
+    "idea_id": "pet-shampoo",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 4,
+      "capital_honesty": 3,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea faces significant commodity and regulatory risks for a beginner. Pet shampoo is a highly competitive market, and creating a unique, safe, and compliant formula requires more expertise and potentially higher startup capital than estimated. While differentiation is possible, the inherent challenges make it less suitable for a zero-to-low budget beginner."
+  },
+  {
+    "idea_id": "dog-waste-station",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea faces high commodity risk as standard dog waste stations are widely available and mass-produced, making it hard to compete as a handmade item. While differentiation through custom design or materials is possible, the product's utilitarian nature and generic hook don't immediately align with Spark's focus on inherently creative and handmade goods. It needs a stronger, more specific creative angle to be viable."
+  },
+  {
+    "idea_id": "hamster-habitat-accessories",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "The core products (wheels, tunnels, hideouts) face high commodity risk from mass-produced alternatives readily available on platforms like Amazon. While there's strong potential for differentiation through custom designs and personalization, the generic hook doesn't immediately convey this handmade advantage, making it a challenging niche for a beginner without a very specific angle."
+  },
+  {
+    "idea_id": "garden-knee-pad",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea faces high commodity risk as garden knee pads are widely available and cheap from mass producers. While there's good potential for differentiation through custom fabric designs and personalization, a beginner maker would need a very strong unique selling proposition to compete and justify a handmade price point. The current hook doesn't immediately convey this unique handmade angle."
+  },
+  {
+    "idea_id": "plant-support-stakes",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "The core product, 'Bamboo or metal stakes,' is highly commoditized and readily available from mass retailers, posing a significant commodity risk. While differentiation is possible, the basic idea as presented directly competes with Amazon Basics, which goes against Spark's focus on inherently handmade and unique products."
+  },
+  {
+    "idea_id": "candle-making-kits",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 3,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea has strong differentiation potential through unique scents, themes, and eco-friendly materials, fitting well into the gift-able and home decor categories. Startup capital is low, and regulatory risk is minimal. While there's some competition, a maker can easily carve out a niche with creative branding and specific kit offerings."
+  },
+  {
+    "idea_id": "weaving-loom-kits",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 3,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea offers strong potential for maker differentiation through curated yarn selections, unique loom designs, and custom project instructions, moving it beyond a commodity. Capital requirements are low, and there are no regulatory risks. While the hook is generic, the high differentiation potential makes this a viable handmade business."
+  },
+  {
+    "idea_id": "leather-craft-kits",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea has low commodity and regulatory risks, as the maker curates and assembles unique craft kits. The stated capital is honest, and there are abundant opportunities for differentiation through custom patterns, leather types, and niche projects, making it ideal for creative platforms."
+  },
+  {
+    "idea_id": "cookie-cutter-party-sets",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 2,
+      "regulatory_risk": 3,
+      "capital_honesty": 4,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea has high differentiation potential through custom themes, personalization, and unique bundling, aligning perfectly with the handmade market. Assuming the maker creates custom cookie cutter designs (e.g., 3D printed), the commodity risk is low. Regulatory risk is moderate due to food-contact material requirements, but manageable. The capital is tight but feasible for initial supplies."
+  },
+  {
+    "idea_id": "insulated-lunch-bag",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While there's good potential for differentiation through unique designs, personalization, or niche targeting, the core product (insulated lunch bag) faces high commodity risk. It directly competes with widely available, inexpensive mass-produced options, making it challenging for a beginner maker to stand out and justify a handmade price point without exceptional design or branding from the start. Regulatory risk is low and capital is honest."
+  },
+  {
+    "idea_id": "meal-planner-printable",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While the idea has low regulatory risk and good capital honesty for a physical product, it faces high commodity risk competing with mass-produced meal planners. Although there's potential for design and niche differentiation, the generic hook doesn't immediately offer a unique selling proposition for a beginner maker."
+  },
+  {
+    "idea_id": "supplier-directory",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a digital service/tool for makers, not a handmade product that a maker would create and sell on platforms like Etsy or TikTok Shop. Spark is explicitly about MAKING and SELLING creative/handmade products. Therefore, it fundamentally misunderstands the target business model, leading to a high commodity risk score in the context of Spark's mission."
+  },
+  {
     "idea_id": "linen-napkins",
     "scores": {
       "hook_strength": 2,
@@ -6916,6 +7527,188 @@
     "reasoning": "This idea leverages upcycling, making it inherently unique and low commodity risk, aligning perfectly with a maker's business. There is significant room for creative differentiation in style, finish, and function. The capital estimate is reasonable for sourcing materials, especially given the upcycled nature of the core component."
   },
   {
+    "idea_id": "silk-pillowcases",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 2
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea faces high commodity risk as silk pillowcases are widely available from mass producers and dropshippers. While the 'beauty sleep' hook is clear, there's limited room for a maker to add unique creative differentiation beyond basic colors or minor customization, making it hard to stand out in a crowded market where handmade uniqueness is key."
+  },
+  {
+    "idea_id": "kids-water-bottles",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 3,
+      "capital_honesty": 2,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "The base product (water bottle) is highly commoditized, making it challenging for a maker to compete without significant differentiation. While personalization offers a strong angle, the listed capital is likely insufficient to start a business, and there are moderate regulatory considerations for children's products that hold liquids."
+  },
+  {
+    "idea_id": "fleece-vests",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "Handmade fleece vests offer strong differentiation potential through custom designs, unique fabrics, and personalization, allowing a maker to avoid commodity competition. Regulatory risk is minimal, and the listed capital is realistic for initial materials. The product fits well within the 'fashion & accessories' category, leveraging outdoor casual trends with a unique, handmade spin."
+  },
+  {
+    "idea_id": "biodegradable-glitter",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 3,
+      "capital_honesty": 5,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea, as presented, appears to be about selling a raw material (glitter) rather than a handmade finished product, which contradicts Spark's core mission. It faces high commodity risk, competing directly with mass-produced items, and offers very limited avenues for genuine maker differentiation beyond simple repackaging. The hook also fails to clarify what the maker would actually be creating."
+  },
+  {
+    "idea_id": "wrist-wraps",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "The hook 'bulk import' directly contradicts Spark's core mission of making and selling handmade products. Wrist wraps are also a highly commoditized fitness accessory, making it extremely difficult for a handmade version to compete with mass-produced, performance-focused alternatives on platforms like Etsy or TikTok Shop."
+  },
+  {
+    "idea_id": "block-printing-kits",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea allows makers to curate unique block designs, inks, and fabrics into kits, offering strong differentiation from mass-produced alternatives. The capital needed is low, and regulatory risk is minimal. While the hook is basic, the product itself provides ample creative avenues for a maker to build a distinct brand and niche."
+  },
+  {
+    "idea_id": "glass-painting-kits",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea has low regulatory and commodity risk, as the kits are curated creative products rather than generic supplies. It's highly capital-honest and offers extensive differentiation potential through themes, designs, and target audiences. While the hook is basic, the core concept aligns well with Spark's maker audience."
+  },
+  {
+    "idea_id": "custom-bobblehead",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 1,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea offers strong personalization and differentiation as each bobblehead is custom-made from a photo, making it inherently handmade and gift-able. It carries very low commodity and regulatory risks, aligning perfectly with the Spark app's focus. The capital estimate is also realistic for acquiring a basic 3D printer and materials."
+  },
+  {
+    "idea_id": "themed-straws-pack",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While there's good potential for design differentiation and low regulatory risk, the core product (paper straws) is highly commoditized. It's challenging for a maker to compete against mass-produced options, as the 'handmade' aspect is limited to printing on a pre-made item, making it vulnerable to dropshippers and large manufacturers."
+  },
+  {
+    "idea_id": "essential-oil-diffuser-blends",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea allows for strong differentiation through unique blend recipes, niche targeting, and creative branding, fitting well within the maker ethos. Startup capital is very realistic, and regulatory risk for diffuser-only blends is low. While the hook is generic, the product itself offers significant creative potential for a beginner."
+  },
+  {
+    "idea_id": "candle-safety-kit",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "The core product (candle snuffer, trimmer, dipper) is highly commoditized and widely available from mass producers, posing a significant commodity risk. While a maker could add unique packaging or minor customization, the inherent 'making' aspect is limited unless they are forging the tools themselves, which isn't implied by the low capital. This makes it challenging for a beginner to stand out in a crowded market focused on handmade goods."
+  },
+  {
+    "idea_id": "wooden-phone-dock",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 3,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea has low regulatory risk and strong potential for differentiation through unique designs, wood types, and personalization, making it suitable for handmade platforms. While the initial hook is generic, the maker's ability to add custom touches helps mitigate commodity risk. The listed capital is achievable for a beginner starting with basic tools and materials."
+  },
+  {
+    "idea_id": "wooden-coat-rack",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea has low regulatory and commodity risk when approached as a handmade item, fitting well within the 'home decor' priority category. There is significant potential for differentiation through wood type, finish, design, and personalization. The capital estimate is realistic for a beginner to source materials and start making."
+  },
+  {
+    "idea_id": "wooden-doorstop",
+    "scores": {
+      "hook_strength": 3,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 4
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "The 'wedge or animal shape' hook provides clear design directions for a beginner. This product has low regulatory and commodity risk when approached as a handmade item, fitting well into the 'home decor' priority category. There's ample room for differentiation through unique designs, personalization, and material choices, making it suitable for a maker on a small budget."
+  },
+  {
     "idea_id": "embroidered-hoop-art",
     "scores": {
       "hook_strength": 2,
@@ -7657,6 +8450,84 @@
     "reasoning": "The 'Digital Business Card' idea, especially with a 'SAAS' deck, is fundamentally a tech/service product, not a handmade physical good. This directly contradicts Spark's mission of making and selling creative/handmade products. It faces high commodity risk from established tech companies, and the capital estimate is unrealistic for a SAAS offering."
   },
   {
+    "idea_id": "pet-stroller",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 5,
+      "regulatory_risk": 3,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "A pet stroller is a complex manufactured item, not suitable for a beginner to hand-make within the given budget. It faces extreme commodity risk from mass-produced options, and the capital is entirely unrealistic for creating a safe, functional product. Differentiation as a handmade item is nearly impossible."
+  },
+  {
+    "idea_id": "compost-bin-kitchen",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While a kitchen compost bin has low regulatory risk and can be made within budget, it faces high commodity risk competing with mass-produced items. The hook is functional but lacks a strong creative angle for a handmade business, and differentiation relies heavily on aesthetic design rather than inherent customizability, making it challenging for a beginner to stand out."
+  },
+  {
+    "idea_id": "massage-gun-attachments",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 2,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "While 3D printing allows for unique designs and customization, the core product is highly commoditized, making it difficult for a handmade item to compete. The listed capital budget is also likely insufficient for a beginner to acquire the necessary 3D printing equipment."
+  },
+  {
+    "idea_id": "fiber-supplements",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 5,
+      "regulatory_risk": 5,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a poor fit for Spark. Fiber supplements are highly commoditized and fall under strict FDA regulations, making it impossible for a beginner to start compliantly with a low budget. There is no inherent \"handmade\" or creative angle for differentiation on platforms like Etsy or TikTok Shop, and it directly competes with established mass-market brands."
+  },
+  {
+    "idea_id": "wooden-letter-rack",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 2,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 5
+    },
+    "duplicate_of": null,
+    "recommendation": "keep",
+    "reasoning": "This idea has low regulatory and commodity risk, as a handmade wooden letter rack can be highly differentiated through design, personalization, and unique finishes. It fits well into the home decor and gift-able categories, allowing makers to add a unique spin for platforms like Etsy and Instagram. The capital estimate is reasonable for starting materials."
+  },
+  {
+    "idea_id": "simple-crm",
+    "scores": {
+      "hook_strength": 4,
+      "commodity_risk": 5,
+      "regulatory_risk": 3,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a software product (SaaS), which fundamentally contradicts Spark's mission of helping beginners make and sell creative/handmade physical products. It faces high commodity risk in the software market and does not align with the 'maker' ethos or the target selling platforms like Etsy or TikTok Shop. The stated capital is also unrealistic for developing and launching a functional SaaS product."
+  },
+  {
     "idea_id": "ceramic-mugs",
     "scores": {
       "hook_strength": 2,
@@ -8385,6 +9256,71 @@
     "reasoning": "This idea is a software service (SaaS), not a handmade or creative physical product, which is the explicit focus of Spark. It fundamentally misaligns with the platform's mission and target audience of makers. The idea carries high regulatory risk due to handling tax forms, is highly commoditized in the software market, and the stated capital is completely unrealistic for development. There is no 'maker' aspect or opportunity for differentiation on platforms like Etsy or TikTok Shop for this type of offering."
   },
   {
+    "idea_id": "lifting-straps",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 5,
+      "differentiation": 2
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "Lifting straps face high commodity risk, competing directly with mass-produced items, and the generic hook offers no clear niche. While technically hand-makeable with low capital, differentiation potential is limited, making it hard for a beginner to stand out in a handmade market."
+  },
+  {
+    "idea_id": "paddle-ball-set",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 2,
+      "capital_honesty": 2,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea faces high commodity risk as paddle ball sets are widely available and cheap from mass producers. While differentiation through custom designs or materials is possible, the initial hook is generic and the capital budget seems low for truly 'making' the paddles from scratch. It needs a much stronger handmade angle or niche to be viable for Spark's audience."
+  },
+  {
+    "idea_id": "ai-meeting-notes",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 5,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a SaaS product, not a handmade or creative physical product, making it fundamentally incompatible with Spark's mission. It faces high commodity and regulatory risks typical of software development, and the listed capital is entirely unrealistic for building an AI application. This concept does not align with the 'maker' audience or platforms like Etsy/TikTok Shop."
+  },
+  {
+    "idea_id": "environment-variable-manager",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 5,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SAAS product, an 'Environment Variable Manager,' which fundamentally does not align with Spark's mission of helping beginners make and sell handmade/creative physical products. It is not a handmade item, involves significant regulatory hurdles for software, and is impossible to start for the stated capital. There is no room for differentiation as a handmade product on platforms like Etsy or TikTok Shop."
+  },
+  {
+    "idea_id": "subscription-manager",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 5,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SAAS product, not a handmade or creative physical product, making it fundamentally incompatible with Spark's mission. It presents high commodity and regulatory risks for software, requires significantly more capital than stated, and offers no room for differentiation as a maker on platforms like Etsy or TikTok Shop."
+  },
+  {
     "idea_id": "mini-stepper",
     "scores": {
       "hook_strength": 2,
@@ -8788,6 +9724,253 @@
     "reasoning": "This idea is for a SaaS product, not a handmade or creative physical product, which is the core focus of Spark. It fundamentally fails the 'maker' test and would not be sold on platforms like Etsy or Amazon Handmade. The capital estimate is also unrealistic for developing a functional software tool."
   },
   {
+    "idea_id": "paper-tape-rolls",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 4,
+      "regulatory_risk": 1,
+      "capital_honesty": 2,
+      "differentiation": 3
+    },
+    "duplicate_of": null,
+    "recommendation": "needs-review",
+    "reasoning": "This idea faces high commodity risk as decorative tape is widely available from mass producers, making it hard for a beginner to compete. While unique designs offer differentiation, the listed capital of $20-60 is likely insufficient to genuinely *make* and sell custom paper tape rolls. The hook is also generic, lacking a specific maker angle."
+  },
+  {
+    "idea_id": "desk-fan-usb",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a pure commodity electronic product, making it unsuitable for a handmade business. A beginner maker cannot realistically *produce* a USB desk fan from scratch within the $20-60 budget, and simply branding mass-produced units goes against Spark's mission. It faces intense competition from established manufacturers and carries regulatory risks for electronics."
+  },
+  {
+    "idea_id": "tennis-grip-tape",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 4,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "Tennis grip tape is a highly commoditized functional product, making it extremely difficult for a handmade business to differentiate or compete with established brands. The hook is generic, and there is very little room to add a unique, handmade spin that would justify a premium or appeal to a creative product market. This idea leans heavily towards reselling rather than making."
+  },
+  {
+    "idea_id": "ai-code-reviewer",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a B2B SaaS product, completely outside the scope of Spark's focus on handmade/creative physical products. It cannot be 'made' by a beginner maker for the listed budget, nor sold on platforms like Etsy or TikTok Shop. It fundamentally misses the core mission of Spark."
+  },
+  {
+    "idea_id": "dark-mode-everywhere",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SAAS product, not a handmade or creative physical product, which is the core focus of Spark. It fundamentally misunderstands the target business model, making it unsuitable for a maker selling on platforms like Etsy or TikTok Shop. It scores poorly across all relevant axes for a handmade business."
+  },
+  {
+    "idea_id": "influencer-outreach-tool",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SAAS tool, not a handmade or creative product, making it fundamentally incompatible with Spark's mission. It scores high on commodity risk as it's not a handmade item, and the capital listed is unrealistic for developing a functional SAAS product. There is no 'maker' angle for differentiation."
+  },
+  {
+    "idea_id": "api-monitoring-service",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a SaaS API monitoring service, completely misaligned with Spark's focus on handmade/creative products. It faces high commodity risk in the tech sector, has unrealistic capital requirements for a SaaS, and offers no avenues for differentiation as a handmade item on platforms like Etsy or TikTok Shop."
+  },
+  {
+    "idea_id": "api-documentation-builder",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SaaS product, which is entirely outside the scope of Spark's focus on handmade and creative physical products. It cannot be made and sold by a beginner on platforms like Etsy or TikTok Shop, and the stated capital is completely unrealistic for software development."
+  },
+  {
+    "idea_id": "ssl-certificate-monitor",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SaaS product, not a handmade or creative physical product, making it fundamentally incompatible with Spark's mission. It cannot be sold on platforms like Etsy or TikTok Shop as a handmade item, and the capital estimate for building a functional SaaS is highly unrealistic."
+  },
+  {
+    "idea_id": "ip-geolocation-api",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is an IP Geolocation API, a tech service (SaaS), which fundamentally does not align with Spark's mission of helping beginners make and sell handmade or creative physical products. It cannot be sold on platforms like Etsy or TikTok Shop, and the capital estimate is unrealistic for developing a functional API. Therefore, it carries extremely high commodity risk in the context of handmade goods and offers no differentiation for a maker."
+  },
+  {
+    "idea_id": "shipping-calculator",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SaaS product, not a handmade or creative physical product, which is the explicit focus of Spark. It fundamentally misaligns with the platform's mission for makers. The capital estimate is highly unrealistic for building a functional multi-carrier shipping calculator, and there is no 'maker' angle or differentiation for a handmade business."
+  },
+  {
+    "idea_id": "warranty-manager",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SAAS product, which fundamentally contradicts Spark's mission to help beginners make and sell creative/handmade physical goods. It scores highest on commodity risk as it's not a handmade item, and offers no differentiation potential for a maker selling on platforms like Etsy or TikTok Shop. Additionally, the listed capital is entirely unrealistic for developing and launching a software service."
+  },
+  {
+    "idea_id": "online-course-platform",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a SaaS product, not a handmade or creative physical product, making it fundamentally misaligned with Spark's mission. It faces extreme commodity risk competing with established tech platforms, requires a budget far exceeding $500 to build, and has no relevant differentiation for a maker selling on platforms like Etsy or TikTok Shop."
+  },
+  {
+    "idea_id": "student-budget-planner",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a software application (SaaS), not a handmade or creative physical product, which is the fundamental premise of Spark. As an app, it faces high commodity risk in a crowded digital market and significant regulatory hurdles related to data privacy. The stated capital is also entirely unrealistic for developing a functional app, making it unsuitable for our platform."
+  },
+  {
+    "idea_id": "skill-assessment-tool",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea describes a SaaS (Software as a Service) product, not a handmade or creative physical product, making it fundamentally misaligned with Spark's mission for makers. It would compete in the tech sector, not with other handmade businesses, and the listed capital is highly unrealistic for developing a functional SaaS tool. It offers no room for differentiation as a handmade item."
+  },
+  {
+    "idea_id": "math-practice-app",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a software app, not a handmade or creative physical product, which is the core focus of Spark. It does not fit the target platforms (Etsy, TikTok Shop for handmade goods) or the maker ethos. The capital estimate is also completely unrealistic for app development."
+  },
+  {
+    "idea_id": "team-mood-tracker",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea describes a SaaS product ('Team Mood Tracker' with 'Weekly pulse surveys'), which is fundamentally misaligned with Spark's mission to help beginners make and sell handmade/creative physical products. It cannot be sold as a handmade item on platforms like Etsy or TikTok Shop, and the stated capital is entirely unrealistic for developing and launching a SaaS venture."
+  },
+  {
+    "idea_id": "equity-calculator",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a SaaS product, completely misaligned with Spark's mission of helping beginners make and sell handmade/creative physical products. It scores extremely high on commodity risk and offers no differentiation for a maker on platforms like Etsy or TikTok Shop. The capital estimate is also unrealistic for a SaaS build."
+  },
+  {
+    "idea_id": "alumni-network-tool",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 4,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SAAS 'Alumni Network Tool,' which is a software product, not a handmade or creative physical product. It falls completely outside Spark's focus on makers selling crafts, decor, or fashion. The capital estimate is also unrealistic for software development, and differentiation as a handmade item is impossible."
+  },
+  {
     "idea_id": "matcha-powder",
     "scores": {
       "hook_strength": 1,
@@ -9009,6 +10192,58 @@
     "reasoning": "This idea is for a 'saas' (Software as a Service) product, which fundamentally does not align with Spark's mission of helping beginners make and sell handmade/creative physical products. It scores poorly on commodity risk, capital honesty, and differentiation when judged through the lens of a maker."
   },
   {
+    "idea_id": "packing-cubes",
+    "scores": {
+      "hook_strength": 2,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 2
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "Packing cubes are a highly commoditized product, making it extremely difficult for a handmade business to compete with mass-produced options on price or perceived value. The listed capital is also insufficient for a maker to genuinely produce these from scratch, and there's limited room for unique handmade differentiation."
+  },
+  {
+    "idea_id": "ai-resume-builder",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 3,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a software service (SaaS), not a handmade or creative physical product, which is the core focus of Spark. It competes in a highly commoditized digital space, has an unrealistic capital estimate for building an AI product, and does not fit the platforms or maker-centric approach Spark supports."
+  },
+  {
+    "idea_id": "text-to-speech-extension",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 3,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a software product (Text-to-Speech Extension), which fundamentally contradicts Spark's focus on handmade physical goods. It scores high on commodity risk for software and offers no opportunity for handmade differentiation. The capital estimate is also unrealistic for software development."
+  },
+  {
+    "idea_id": "review-management-tool",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 3,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a software tool, not a handmade product, fundamentally misaligning with Spark's mission for makers. It faces high commodity risk in the SaaS market and offers no differentiation for a crafter selling on platforms like Etsy or TikTok Shop. The stated capital is also unrealistic for developing such a tool."
+  },
+  {
     "idea_id": "wooden-candle-holders",
     "scores": {
       "hook_strength": 2,
@@ -9137,6 +10372,19 @@
     "duplicate_of": null,
     "recommendation": "cut",
     "reasoning": "This idea is for a software service (SaaS), not a handmade or creative physical product, which fundamentally contradicts Spark's mission. It faces extreme competition in the tech industry, has an unrealistic budget for development, and offers no opportunity for a maker to create and sell a unique physical item on platforms like Etsy or TikTok Shop."
+  },
+  {
+    "idea_id": "code-learning-platform",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 2,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a digital SaaS platform, not a handmade or creative physical product, making it fundamentally misaligned with Spark's mission and target selling platforms. It faces extreme commodity risk competing with established tech companies and cannot be realistically started with the stated capital."
   },
   {
     "idea_id": "bluetooth-earbuds-case",
@@ -9386,6 +10634,123 @@
     "reasoning": "This idea is for a SaaS/tech product (local business directory), not a handmade or creative physical product. It fundamentally misses Spark's core mission of helping makers sell physical goods, making it unsuitable for the platform. The capital estimate is also unrealistic for developing and launching a SaaS product."
   },
   {
+    "idea_id": "ai-image-background-remover",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SaaS tool, not a handmade or creative product that a beginner maker would create and sell. It fundamentally misunderstands Spark's mission of 'MAKING and SELLING creative/handmade products.' The capital estimate is also completely unrealistic for developing an AI tool."
+  },
+  {
+    "idea_id": "screenshot-and-annotate",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea describes a SAAS product or digital service, not a handmade physical product. It fundamentally contradicts Spark's mission for makers. There is no handmade aspect, it cannot be sold on typical maker platforms like Etsy, and the capital estimate for building a SAAS is unrealistic."
+  },
+  {
+    "idea_id": "clipboard-manager",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea describes a software utility, a 'Clipboard Manager,' which fundamentally misaligns with Spark's mission to help beginners create and sell handmade or creative physical products. It carries a high commodity risk as a digital product and offers no opportunity for a maker to apply craftsmanship or unique design in the context of platforms like Etsy or TikTok Shop. The capital estimate is also unrealistic for software development."
+  },
+  {
+    "idea_id": "qr-code-generator",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a software service (SaaS) for generating QR codes, which fundamentally deviates from Spark's focus on handmade and creative physical products. It's a highly commoditized digital service with unrealistic capital requirements for development, offering no avenue for a maker to differentiate or sell within the specified platforms."
+  },
+  {
+    "idea_id": "content-calendar-tool",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SaaS product, not a handmade or creative physical product, which is the core focus of Spark. It fundamentally misaligns with the 'maker' audience and the platforms mentioned. The capital estimate is also highly unrealistic for developing a functional software tool."
+  },
+  {
+    "idea_id": "code-snippet-manager",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a 'Code Snippet Manager,' a software (SaaS) product, which is entirely outside Spark's focus on handmade/creative physical products. It cannot be sold on platforms like Etsy or TikTok Shop as a craft, and the capital estimate is unrealistic for software development. It fundamentally misunderstands the target audience and product type."
+  },
+  {
+    "idea_id": "git-commit-analyzer",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a SaaS product, not a handmade or creative physical product, making it fundamentally incompatible with Spark's mission. It scores high on commodity risk (as it's not handmade), and low on capital honesty and differentiation, as these metrics are not applicable to software in the context of handmade goods."
+  },
+  {
+    "idea_id": "packing-slip-generator",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is a SaaS product, not a handmade item, which fundamentally contradicts Spark's mission for makers. It scores high on commodity risk as a software feature and offers no differentiation for a maker selling on platforms like Etsy. The capital estimate for a SaaS product is also unrealistic."
+  },
+  {
+    "idea_id": "goal-tracking-dashboard",
+    "scores": {
+      "hook_strength": 1,
+      "commodity_risk": 5,
+      "regulatory_risk": 1,
+      "capital_honesty": 1,
+      "differentiation": 1
+    },
+    "duplicate_of": null,
+    "recommendation": "cut",
+    "reasoning": "This idea is for a SaaS product, not a handmade physical product, which fundamentally contradicts Spark's mission. It scores high on commodity risk as it's not a handmade item, and capital is unrealistic for software development. There's no room for handmade differentiation on platforms like Etsy or TikTok Shop."
+  },
+  {
     "idea_id": "markdown-editor",
     "scores": {
       "hook_strength": 1,
@@ -9397,421 +10762,5 @@
     "duplicate_of": null,
     "recommendation": "cut",
     "reasoning": "This idea is for a SaaS product (Markdown Editor), which is fundamentally a software tool and not a handmade or creative physical product. It does not fit Spark's core mission of helping makers sell on platforms like Etsy or TikTok Shop. The hook is irrelevant for a handmade business, there's no handmade differentiation, and the capital estimate is completely unrealistic for developing a SaaS."
-  },
-  {
-    "idea_id": "acrylic-night-lights",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 2,
-      "regulatory_risk": 1,
-      "capital_honesty": 4,
-      "differentiation": 5
-    },
-    "duplicate_of": null,
-    "recommendation": "keep",
-    "reasoning": "This idea has strong gift potential due to its customizability, allowing makers to create unique designs that stand out from mass-produced items. The regulatory risk is low for simple LED products, and the initial capital is feasible for beginners to start by personalizing pre-cut blanks or outsourcing custom shapes."
-  },
-  {
-    "idea_id": "cork-placemats",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 3,
-      "regulatory_risk": 1,
-      "capital_honesty": 5,
-      "differentiation": 5
-    },
-    "duplicate_of": null,
-    "recommendation": "keep",
-    "reasoning": "This idea benefits from low regulatory risk and very accessible startup capital. While plain cork placemats can be a commodity, a maker has significant opportunities for differentiation through unique shapes, laser-engraved designs, hand-painted elements, or personalization, aligning well with the 'Eco dining' hook."
-  },
-  {
-    "idea_id": "cuticle-oil-pens",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 2,
-      "regulatory_risk": 4,
-      "capital_honesty": 5,
-      "differentiation": 5
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "While this idea offers excellent differentiation potential and low startup costs, the regulatory risk for cosmetic products (FDA guidelines for ingredients, labeling, and manufacturing) is a significant hurdle for beginners. This complexity elevates it beyond a simple craft, requiring careful consideration before recommending."
-  },
-  {
-    "idea_id": "hand-cream",
-    "scores": {
-      "hook_strength": 3,
-      "commodity_risk": 4,
-      "regulatory_risk": 4,
-      "capital_honesty": 5,
-      "differentiation": 5
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "This idea offers strong differentiation potential through unique formulations and branding, and is achievable with the stated low capital. However, hand cream operates in a highly commoditized market with many mass-produced alternatives. Furthermore, it carries notable regulatory considerations from the FDA for cosmetic products, adding complexity and risk for a beginner maker."
-  },
-  {
-    "idea_id": "eye-cream",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 4,
-      "regulatory_risk": 5,
-      "capital_honesty": 2,
-      "differentiation": 3
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "Making and selling eye cream carries significant regulatory risk, as cosmetic products fall under FDA oversight, requiring careful adherence to labeling, ingredient, and manufacturing guidelines. This is a major hurdle for a beginner. Furthermore, eye cream is a highly commoditized product, making handmade differentiation challenging against established brands, and the listed capital is likely insufficient for proper, safe, and compliant production."
-  },
-  {
-    "idea_id": "lash-serum",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 4,
-      "regulatory_risk": 5,
-      "capital_honesty": 2,
-      "differentiation": 2
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "This idea carries extremely high regulatory risk due to FDA oversight of cosmetic products, especially those making 'growth' claims, making it unsuitable for a beginner with a low budget. It also faces high commodity competition and offers limited unique handmade differentiation compared to traditional crafts."
-  },
-  {
-    "idea_id": "silk-pillowcases",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 4,
-      "regulatory_risk": 1,
-      "capital_honesty": 4,
-      "differentiation": 2
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "This idea faces high commodity risk as silk pillowcases are widely available from mass producers and dropshippers. While the 'beauty sleep' hook is clear, there's limited room for a maker to add unique creative differentiation beyond basic colors or minor customization, making it hard to stand out in a crowded market where handmade uniqueness is key."
-  },
-  {
-    "idea_id": "lip-scrub",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 2,
-      "regulatory_risk": 4,
-      "capital_honesty": 5,
-      "differentiation": 5
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "This idea offers strong differentiation potential through unique flavors, ingredients, and packaging, and is very honest about its low startup capital. However, the regulatory risk for cosmetic products (FDA guidelines for labeling and ingredients) is a significant consideration for a beginner, pushing it into 'needs-review'. The hook is also quite generic."
-  },
-  {
-    "idea_id": "pet-shampoo",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 4,
-      "regulatory_risk": 4,
-      "capital_honesty": 3,
-      "differentiation": 3
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "This idea faces significant commodity and regulatory risks for a beginner. Pet shampoo is a highly competitive market, and creating a unique, safe, and compliant formula requires more expertise and potentially higher startup capital than estimated. While differentiation is possible, the inherent challenges make it less suitable for a zero-to-low budget beginner."
-  },
-  {
-    "idea_id": "dog-cooling-mat",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 5,
-      "regulatory_risk": 2,
-      "capital_honesty": 4,
-      "differentiation": 3
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "This idea faces extremely high commodity risk as 'Dog Cooling Mats' are overwhelmingly mass-produced items. It would be challenging for a beginner maker to create a truly handmade version that effectively provides the cooling function without relying on manufactured components, which goes against Spark's core mission of making and selling handmade goods."
-  },
-  {
-    "idea_id": "dog-waste-station",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 4,
-      "regulatory_risk": 1,
-      "capital_honesty": 5,
-      "differentiation": 4
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "This idea faces high commodity risk as standard dog waste stations are widely available and mass-produced, making it hard to compete as a handmade item. While differentiation through custom design or materials is possible, the product's utilitarian nature and generic hook don't immediately align with Spark's focus on inherently creative and handmade goods. It needs a stronger, more specific creative angle to be viable."
-  },
-  {
-    "idea_id": "hamster-habitat-accessories",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 4,
-      "regulatory_risk": 1,
-      "capital_honesty": 4,
-      "differentiation": 5
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "The core products (wheels, tunnels, hideouts) face high commodity risk from mass-produced alternatives readily available on platforms like Amazon. While there's strong potential for differentiation through custom designs and personalization, the generic hook doesn't immediately convey this handmade advantage, making it a challenging niche for a beginner without a very specific angle."
-  },
-  {
-    "idea_id": "pet-stroller",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 5,
-      "regulatory_risk": 3,
-      "capital_honesty": 1,
-      "differentiation": 1
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "A pet stroller is a complex manufactured item, not suitable for a beginner to hand-make within the given budget. It faces extreme commodity risk from mass-produced options, and the capital is entirely unrealistic for creating a safe, functional product. Differentiation as a handmade item is nearly impossible."
-  },
-  {
-    "idea_id": "dog-anxiety-vest",
-    "scores": {
-      "hook_strength": 5,
-      "commodity_risk": 4,
-      "regulatory_risk": 1,
-      "capital_honesty": 5,
-      "differentiation": 4
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "The 'Thunder shirt alternative' hook is strong, and there's good potential for differentiation through custom fabrics, personalization, or unique designs. However, the core product faces high commodity risk from established mass-produced options. While handmade, it's a functional item where mass-market solutions are prevalent, making it challenging for a beginner to compete effectively."
-  },
-  {
-    "idea_id": "nut-butter",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 4,
-      "regulatory_risk": 3,
-      "capital_honesty": 4,
-      "differentiation": 4
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "This idea faces high commodity risk as nut butter is a widely available grocery item, making it challenging for a beginner to stand out against established brands. While differentiation is possible through unique flavors, the product is a food item, introducing regulatory friction via cottage food laws. The hook also lacks a specific business angle."
-  },
-  {
-    "idea_id": "dried-fruit-snacks",
-    "scores": {
-      "hook_strength": 3,
-      "commodity_risk": 4,
-      "regulatory_risk": 3,
-      "capital_honesty": 5,
-      "differentiation": 3
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "While capital is honest and regulatory risk is manageable under cottage food laws, dried fruit faces high commodity risk. It's challenging for a beginner maker to differentiate against mass-produced options, even with a 'handmade' process, making it difficult to stand out on platforms like Etsy or TikTok Shop without a very strong, unique niche."
-  },
-  {
-    "idea_id": "chili-crisp-oil",
-    "scores": {
-      "hook_strength": 3,
-      "commodity_risk": 3,
-      "regulatory_risk": 3,
-      "capital_honesty": 5,
-      "differentiation": 4
-    },
-    "duplicate_of": null,
-    "recommendation": "keep",
-    "reasoning": "This idea leverages a trending product with good potential for differentiation through unique flavor profiles and branding, allowing a maker to create a distinct product. While food products carry regulatory friction due to cottage food laws, the initial capital requirement is low and achievable for beginners. It aligns with the 'making and selling' ethos, offering a tangible product for a maker to develop."
-  },
-  {
-    "idea_id": "salad-dressing",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 3,
-      "regulatory_risk": 3,
-      "capital_honesty": 5,
-      "differentiation": 4
-    },
-    "duplicate_of": null,
-    "recommendation": "keep",
-    "reasoning": "This idea leverages a strong hook of 'unique flavors' and 'clean label' to differentiate within the food category. While food products involve navigating cottage food laws, the low capital requirement and significant potential for differentiation (e.g., niche diets, seasonal ingredients, gift sets) make it viable for a maker. The focus on specialty, handmade dressing mitigates commodity risk, positioning it away from mass-produced options."
-  },
-  {
-    "idea_id": "kids-rain-boots",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 2,
-      "regulatory_risk": 3,
-      "capital_honesty": 5,
-      "differentiation": 5
-    },
-    "duplicate_of": null,
-    "recommendation": "keep",
-    "reasoning": "This idea falls into the priority 'Kids & Baby' category, and the 'Printed rubber boots' hook clearly signals a handmade, customizable product. While rain boots can be a commodity, the maker's ability to hand-print or custom-design them offers strong differentiation. Initial capital is realistic, though makers should be aware of potential, manageable regulatory considerations for children's products."
-  },
-  {
-    "idea_id": "kids-water-bottles",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 4,
-      "regulatory_risk": 3,
-      "capital_honesty": 2,
-      "differentiation": 4
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "The base product (water bottle) is highly commoditized, making it challenging for a maker to compete without significant differentiation. While personalization offers a strong angle, the listed capital is likely insufficient to start a business, and there are moderate regulatory considerations for children's products that hold liquids."
-  },
-  {
-    "idea_id": "paper-tape-rolls",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 4,
-      "regulatory_risk": 1,
-      "capital_honesty": 2,
-      "differentiation": 3
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "This idea faces high commodity risk as decorative tape is widely available from mass producers, making it hard for a beginner to compete. While unique designs offer differentiation, the listed capital of $20-60 is likely insufficient to genuinely *make* and sell custom paper tape rolls. The hook is also generic, lacking a specific maker angle."
-  },
-  {
-    "idea_id": "fleece-vests",
-    "scores": {
-      "hook_strength": 3,
-      "commodity_risk": 2,
-      "regulatory_risk": 1,
-      "capital_honesty": 4,
-      "differentiation": 5
-    },
-    "duplicate_of": null,
-    "recommendation": "keep",
-    "reasoning": "Handmade fleece vests offer strong differentiation potential through custom designs, unique fabrics, and personalization, allowing a maker to avoid commodity competition. Regulatory risk is minimal, and the listed capital is realistic for initial materials. The product fits well within the 'fashion & accessories' category, leveraging outdoor casual trends with a unique, handmade spin."
-  },
-  {
-    "idea_id": "led-strip-kits",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 5,
-      "regulatory_risk": 4,
-      "capital_honesty": 4,
-      "differentiation": 2
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "LED Strip Kits are a highly commoditized electronic product, making it extremely difficult for a beginner maker to differentiate against mass manufacturers and dropshippers. Selling electronics also introduces higher regulatory risks (e.g., FCC, UL) compared to typical handmade goods, which goes against Spark's focus on creative, inherently handmade products."
-  },
-  {
-    "idea_id": "desk-fan-usb",
-    "scores": {
-      "hook_strength": 1,
-      "commodity_risk": 5,
-      "regulatory_risk": 4,
-      "capital_honesty": 1,
-      "differentiation": 1
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "This idea is a pure commodity electronic product, making it unsuitable for a handmade business. A beginner maker cannot realistically *produce* a USB desk fan from scratch within the $20-60 budget, and simply branding mass-produced units goes against Spark's mission. It faces intense competition from established manufacturers and carries regulatory risks for electronics."
-  },
-  {
-    "idea_id": "screen-cleaning-kit",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 5,
-      "regulatory_risk": 4,
-      "capital_honesty": 4,
-      "differentiation": 2
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "This idea faces extremely high commodity risk, directly competing with mass-produced items from major retailers, making it difficult for a maker to differentiate or justify a handmade premium. The core product lacks inherent handmade appeal for Spark's audience, and the 'spray' component introduces potential regulatory complexities. It does not align with the 'making and selling creative/handmade products' ethos."
-  },
-  {
-    "idea_id": "compostable-phone-cases",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 5,
-      "regulatory_risk": 1,
-      "capital_honesty": 5,
-      "differentiation": 4
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "The core product, compostable phone cases, is manufactured and not 'made' by a beginner crafter in the spirit of Spark. While customization is possible, the base product is a commodity, making it difficult to align with the app's focus on truly handmade goods and increasing commodity risk significantly."
-  },
-  {
-    "idea_id": "biodegradable-glitter",
-    "scores": {
-      "hook_strength": 1,
-      "commodity_risk": 5,
-      "regulatory_risk": 3,
-      "capital_honesty": 5,
-      "differentiation": 1
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "This idea, as presented, appears to be about selling a raw material (glitter) rather than a handmade finished product, which contradicts Spark's core mission. It faces high commodity risk, competing directly with mass-produced items, and offers very limited avenues for genuine maker differentiation beyond simple repackaging. The hook also fails to clarify what the maker would actually be creating."
-  },
-  {
-    "idea_id": "compost-bin-kitchen",
-    "scores": {
-      "hook_strength": 2,
-      "commodity_risk": 4,
-      "regulatory_risk": 1,
-      "capital_honesty": 4,
-      "differentiation": 3
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "While a kitchen compost bin has low regulatory risk and can be made within budget, it faces high commodity risk competing with mass-produced items. The hook is functional but lacks a strong creative angle for a handmade business, and differentiation relies heavily on aesthetic design rather than inherent customizability, making it challenging for a beginner to stand out."
-  },
-  {
-    "idea_id": "bamboo-cutlery-set",
-    "scores": {
-      "hook_strength": 3,
-      "commodity_risk": 5,
-      "regulatory_risk": 2,
-      "capital_honesty": 5,
-      "differentiation": 4
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "The core product, bamboo cutlery, is a manufactured commodity that cannot be 'made' by a beginner, directly conflicting with Spark's mission. While a maker could customize the travel roll or engrave the cutlery, the fundamental item is not handmade, leading to high commodity risk and competition from mass-produced goods."
-  },
-  {
-    "idea_id": "natural-loofah-sponges",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 4,
-      "regulatory_risk": 1,
-      "capital_honesty": 5,
-      "differentiation": 3
-    },
-    "duplicate_of": null,
-    "recommendation": "needs-review",
-    "reasoning": "While the capital is low and regulatory risk minimal, the core product (natural loofah sponges) faces high commodity risk, making it hard to compete with mass-produced alternatives. Differentiation would rely heavily on branding, unique packaging, or bundling, rather than the inherent uniqueness of the product itself."
-  },
-  {
-    "idea_id": "worm-composting-kit",
-    "scores": {
-      "hook_strength": 4,
-      "commodity_risk": 3,
-      "regulatory_risk": 2,
-      "capital_honesty": 5,
-      "differentiation": 5
-    },
-    "duplicate_of": null,
-    "recommendation": "keep",
-    "reasoning": "This idea offers a clear hook for an indoor vermicompost system, which can be genuinely made and sold within the budget. A maker can differentiate significantly through unique design, materials, and targeting specific aesthetics or niches, aligning well with home decor and craft interests. Regulatory risk is low, making it accessible for beginners."
-  },
-  {
-    "idea_id": "wrist-wraps",
-    "scores": {
-      "hook_strength": 1,
-      "commodity_risk": 5,
-      "regulatory_risk": 1,
-      "capital_honesty": 5,
-      "differentiation": 3
-    },
-    "duplicate_of": null,
-    "recommendation": "cut",
-    "reasoning": "The hook 'bulk import' directly contradicts Spark's core mission of making and selling handmade products. Wrist wraps are also a highly commoditized fitness accessory, making it extremely difficult for a handmade version to compete with mass-produced, performance-focused alternatives on platforms like Etsy or TikTok Shop."
   }
 ]
