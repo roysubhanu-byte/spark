@@ -14,7 +14,7 @@ type Tab = 'keep' | 'review' | 'cut'
 const LS_KEY = 'spark-audit-overrides'
 
 interface OverrideState {
-  overrides: Record<string, 'keep' | 'cut'>
+  overrides: Record<string, 'keep' | 'cut' | 'needs-review'>
 }
 
 function loadOverrides(): OverrideState {
