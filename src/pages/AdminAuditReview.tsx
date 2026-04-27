@@ -31,15 +31,15 @@ export default function AdminAuditReview() {
   })
   const [currentReviewIdx, setCurrentReviewIdx] = useState(0)
 
-  // Load audit results from JSON file (bundled at build time)
+  // Load audit results — try runtime fetch first, then bundled import
   useEffect(() => {
-    fetch('/scripts/audit-results.json')
-      .then(r => r.ok ? r.json() : [])
-      .then(data => { setAuditData(data); setLoading(false) })
+    // In dev: fetch from scripts dir. In prod: bundled import.
+    import('../../scripts/audit-results.json')
+      .then(m => { setAuditData(m.default || []); setLoading(false) })
       .catch(() => {
-        // Try inline import for dev
-        import('../../scripts/audit-results.json')
-          .then(m => { setAuditData(m.default || []); setLoading(false) })
+        fetch('/audit-results.json')
+          .then(r => r.ok ? r.json() : [])
+          .then(data => { setAuditData(data); setLoading(false) })
           .catch(() => setLoading(false))
       })
   }, [])
@@ -78,23 +78,33 @@ export default function AdminAuditReview() {
     })
   }
 
-  // Keyboard shortcuts for review tab
+  // Keyboard shortcuts for review tab (K=keep, C=cut, S=skip)
   useEffect(() => {
     function handleKey(e: KeyboardEvent) {
+      // Don't fire when typing in input fields
+      if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return
       if (tab !== 'review' || !currentReview) return
+
+      const id = currentReview.audit.idea_id
       if (e.key === 'k' || e.key === 'K') {
-        saveOverride(currentReview.audit.idea_id, 'keep')
+        e.preventDefault()
+        saveOverride(id, 'keep')
         setCurrentReviewIdx(i => Math.min(i + 1, reviews.length - 1))
       } else if (e.key === 'c' || e.key === 'C') {
-        saveOverride(currentReview.audit.idea_id, 'cut')
+        e.preventDefault()
+        saveOverride(id, 'cut')
         setCurrentReviewIdx(i => Math.min(i + 1, reviews.length - 1))
       } else if (e.key === 's' || e.key === 'S') {
+        e.preventDefault()
         setCurrentReviewIdx(i => Math.min(i + 1, reviews.length - 1))
+      } else if (e.key === 'ArrowLeft' || e.key === 'p' || e.key === 'P') {
+        e.preventDefault()
+        setCurrentReviewIdx(i => Math.max(0, i - 1))
       }
     }
     window.addEventListener('keydown', handleKey)
     return () => window.removeEventListener('keydown', handleKey)
-  }, [tab, currentReview, reviews.length])
+  }, [tab, currentReview, reviews.length]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const exportResults = useCallback(() => {
     const data = merged.map(m => ({
@@ -193,7 +203,11 @@ export default function AdminAuditReview() {
               className="px-4 py-2 bg-gray-700 hover:bg-gray-600 text-white text-sm rounded font-medium">
               Skip (S)
             </button>
-            <span className="text-xs text-gray-500 ml-2">Keyboard: K / C / S</span>
+            <button onClick={() => setCurrentReviewIdx(i => Math.max(0, i - 1))}
+              className="px-3 py-2 bg-gray-700 hover:bg-gray-600 text-white text-sm rounded font-medium">
+              Prev (P)
+            </button>
+            <span className="text-xs text-gray-500 ml-2">Keys: K=keep, C=cut, S=skip, P=prev</span>
           </div>
         </div>
       )}

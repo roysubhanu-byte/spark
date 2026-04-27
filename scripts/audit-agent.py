@@ -44,37 +44,43 @@ MAX_COST_USD = 3.0
 COST_PER_CALL_EST = 0.001  # Gemini Flash is very cheap
 running_cost = 0.0
 
-AUDIT_PROMPT = """You are auditing a business idea for Spark, an app that helps beginners with $0-500 capital start their first product business in the USA. Your job is to decide if this idea is structurally viable for a tired beginner with no prior experience.
+AUDIT_PROMPT = """You are auditing a business idea for Spark, an app that helps beginners start handmade/creative product businesses sold on Etsy, TikTok Shop, Instagram Shop, Shopify, Amazon Handmade, or local markets in the USA. Budget: $0-500 to start.
+
+CRITICAL: Spark is about MAKING and SELLING creative/handmade products — NOT Amazon dropshipping or reselling commodity goods. A "Leather Bracelet" idea means hand-stamping leather and selling on Etsy/TikTok Shop — NOT buying bracelets from China to flip on Amazon. Judge through the lens of a MAKER selling on multiple platforms.
+
+Priority categories (be GENEROUS — these are core to our audience):
+- Fashion & accessories (handmade jewelry, custom clothing — sells great on TikTok Shop, Instagram)
+- Kids & baby products (handmade toys, organic baby items, educational kits — gift market)
+- Gift-able products (personalized, custom, seasonal items — huge Etsy/Shopify category)
+- Home decor (handmade, unique, craft-based items — Instagram aesthetic sells these)
 
 Idea data:
 {idea_json}
 
-Score the idea on 5 axes (1-5 each):
+Score on 5 axes (1 = worst, 5 = best):
 
-1. **hook_strength**: Does the hook explain WHY a beginner should pick this idea over alternatives? Score 5 = clear niche, positioning, or angle. Score 1 = generic product description ('Core workout tool, import') with no reason.
+1. **hook_strength**: Does the hook give a beginner a clear REASON to pick this? 5 = specific angle/niche. 1 = just a product name.
 
-2. **commodity_risk**: How saturated and commoditized is this category? Score 5 = dominated by Amazon Basics + thousands of dropshippers, near-zero margin (Beard Oil, Ab Roller, generic phone cases). Score 1 = niche with room for differentiation.
+2. **commodity_risk**: Would THIS product compete with Amazon Basics or mass dropshippers? 5 = pure commodity (ab roller, phone charger, aloe vera gel). 1 = inherently handmade/custom (hand-stamped leather, custom portraits, crochet bags). IMPORTANT: handmade jewelry, custom kids items, and personalized gifts should score 1-2 (low risk) because the handmade angle IS the differentiation.
 
-3. **regulatory_risk**: Does this require FDA approval, FCC certification, food licensing, or other beginner-blocking compliance? Score 5 = serious compliance needed (supplements, food, electronics). Score 1 = none.
+3. **regulatory_risk**: 5 = FDA supplements, FCC electronics, serious licensing. 3 = food (cottage food laws exist but add friction). 1 = no regulation (crafts, decor, fashion, stationery).
 
-4. **capital_honesty**: Is the listed capital range realistic for actually starting? Score 5 = honest, beginner can start with this. Score 1 = ignores real costs (inventory, photography, packaging, tools).
+4. **capital_honesty**: Can someone genuinely start making and selling this for the listed amount? 5 = yes. 1 = no.
 
-5. **differentiation**: Is there a specific angle (niche, cultural, personalization, bundling, seasonal, regional)? Score 5 = clear angle. Score 1 = generic 'sell the product.'
+5. **differentiation**: Can a maker add a unique spin on Etsy/TikTok/Instagram? 5 = many angles (personalization, custom colors, niche audience, seasonal). 1 = no room.
 
-Then check for duplicates. Is this idea essentially the same business pattern as another, just with a different product name? (e.g., 'Anklets' vs 'Ankle Bracelets Set' vs 'Bangle Sets' all describe the same handmade jewelry pattern). If yes, list the duplicate's name.
+Recommend: 'keep' / 'cut' / 'needs-review'.
+- 'keep': commodity_risk <= 3 AND regulatory_risk <= 3 AND differentiation >= 3
+- 'cut': commodity_risk >= 5 OR regulatory_risk >= 5 OR (hook_strength <= 1 AND differentiation <= 1)
+- 'needs-review': everything else
 
-Finally, recommend: 'keep' / 'cut' / 'needs-review'.
-- 'keep': passes 4+ axes with score >=3, no regulatory risk >=4, not a duplicate
-- 'cut': fails 2+ axes (score <=2), OR commodity_risk>=4, OR regulatory_risk>=4, OR clear duplicate
-- 'needs-review': mixed signals, human judgment needed
-
-Return ONLY valid JSON matching this schema:
+Return ONLY valid JSON:
 {
   "idea_id": "the-id",
   "scores": { "hook_strength": N, "commodity_risk": N, "regulatory_risk": N, "capital_honesty": N, "differentiation": N },
   "duplicate_of": null,
   "recommendation": "keep",
-  "reasoning": "2-3 sentences explaining the call"
+  "reasoning": "2-3 sentences"
 }"""
 
 
