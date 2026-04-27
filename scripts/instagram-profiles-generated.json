@@ -1,0 +1,742 @@
+{
+  "candles": [
+    {
+      "handle": "willowandwax",
+      "name": "Sarah Chen",
+      "followers": "23.7K",
+      "bio": "Hand-poured soy candles \u2728 Portland, OR\nSmall batch. Big scent. Link below \ud83d\udc47",
+      "verified": false
+    },
+    {
+      "handle": "beardedcandleco",
+      "name": "Jake Morrison",
+      "followers": "8.2K",
+      "bio": "dude making candles in his garage \ud83d\udd6f\ufe0f\nMinneapolis \u2022 custom scents available\nDM me",
+      "verified": false
+    },
+    {
+      "handle": "moonlightcandles_",
+      "name": "Luna Rodriguez",
+      "followers": "67K",
+      "bio": "\u2728 Natural soy candles since 2019\n\ud83c\udf19 Austin, TX \u2022 Vegan & cruelty free\nShop link in bio",
+      "verified": false
+    },
+    {
+      "handle": "craftedby.emma",
+      "name": "Emma Walsh",
+      "followers": "4.6K",
+      "bio": "Making candles from my kitchen table. Ships worldwide. DM for custom orders \ud83d\udc8c Dublin",
+      "verified": false
+    },
+    {
+      "handle": "goldenhourcandles",
+      "name": "Marcus Johnson",
+      "followers": "31.9K",
+      "bio": "Hand-poured in small batches \ud83d\udd6f\ufe0f\nNashville \u2022 Using only premium soy wax\nFree shipping over $50",
+      "verified": false
+    }
+  ],
+  "jewelry": [
+    {
+      "handle": "clayedandconfused",
+      "name": "Sarah Chen",
+      "followers": "23.7K",
+      "bio": "Polymer clay earrings made in Portland, OR \u2728 Custom colors available \u2022 Link below for current drop",
+      "verified": false
+    },
+    {
+      "handle": "mikesmallbatch",
+      "name": "Mike Rodriguez",
+      "followers": "8.2K",
+      "bio": "Handmade jewelry from my garage workshop in Austin. Sterling silver + brass. DM for commissions",
+      "verified": false
+    },
+    {
+      "handle": "tinyclaystudio",
+      "name": "Emma Walsh",
+      "followers": "67.3K",
+      "bio": "mama of 2 making clay magic \u2728 sustainable packaging \ud83c\udf31 chicago based \u2022 new drops tuesdays",
+      "verified": false
+    },
+    {
+      "handle": "javi_creates_things",
+      "name": "Javier Martinez",
+      "followers": "4.8K",
+      "bio": "polymer clay earrings & keychains. made in my denver apartment. $5 shipping anywhere in US",
+      "verified": false
+    },
+    {
+      "handle": "wildrosejewelryco",
+      "name": "Luna Park",
+      "followers": "41.6K",
+      "bio": "Handmade polymer clay jewelry inspired by nature \ud83c\udf3f Ships from small town Montana \u2022 Custom wedding sets available",
+      "verified": false
+    }
+  ],
+  "pets": [
+    {
+      "handle": "pawsomebandanaco",
+      "name": "Sarah Chen",
+      "followers": "23.7K",
+      "bio": "Handmade bandanas for your best friend \ud83d\udc15 Portland, OR \u2022 Custom orders welcome \u2022 Link below for treats too!",
+      "verified": false
+    },
+    {
+      "handle": "mikestailwagtreats",
+      "name": "Mike Rodriguez",
+      "followers": "8.2K",
+      "bio": "Baking healthy dog treats since 2022. My golden retriever Buddy is the official taste tester \ud83d\udc3e Phoenix AZ",
+      "verified": false
+    },
+    {
+      "handle": "buttercuppetco",
+      "name": "Emma Williams",
+      "followers": "67.8K",
+      "bio": "Small batch accessories for small (& big) dogs \u2728 Featured in Modern Dog Magazine \u2022 Austin, TX \u2022 Shop link in bio",
+      "verified": false
+    },
+    {
+      "handle": "houndstooth_handmade",
+      "name": "David Kim",
+      "followers": "15.1K",
+      "bio": "Dad of 3 dogs, maker of bandanas. Started in my garage, now shipping nationwide \ud83d\udce6 Vermont",
+      "verified": false
+    },
+    {
+      "handle": "pawprint_paradise",
+      "name": "Jessica Martinez",
+      "followers": "3.4K",
+      "bio": "New mom making pet accessories during nap times \ud83d\udca4 Custom collars & bandanas \u2022 Denver \u2022 DM me!",
+      "verified": false
+    }
+  ],
+  "beauty": [
+    {
+      "handle": "soapsbyjenna",
+      "name": "Jenna Martinez",
+      "followers": "47.2K",
+      "bio": "Handmade soap + skincare \ud83e\uddfc Austin, TX mom making magic in small batches. Ships Mon-Fri \u2728 Link below for wholesale",
+      "verified": false
+    },
+    {
+      "handle": "wildoakbody",
+      "name": "Marcus Thompson",
+      "followers": "12.8K",
+      "bio": "Natural body care for sensitive skin. Made in Portland, OR. Vegan \u2022 Cruelty-free \u2022 DM for custom scents",
+      "verified": false
+    },
+    {
+      "handle": "meadowlark_skincare",
+      "name": "Sarah Kim",
+      "followers": "2.3K",
+      "bio": "homemade body butter & face serums \ud83c\udf3f started this during lockdown, still going strong! asheville nc",
+      "verified": false
+    },
+    {
+      "handle": "bare.essentials.co",
+      "name": "David Chen",
+      "followers": "73.1K",
+      "bio": "Minimal skincare that actually works. 6 years perfecting these formulas. Based in Denver. Subscribe & save 20% \u2197\ufe0f",
+      "verified": false
+    },
+    {
+      "handle": "moonchildsoaps",
+      "name": "Luna Rodriguez",
+      "followers": "28.7K",
+      "bio": "Crystal-infused soap bars \u2728 Reiki master + soap maker. Sedona energy in every bar \ud83c\udf19 Currently 2-3 week processing time",
+      "verified": false
+    }
+  ],
+  "food": [
+    {
+      "handle": "firecrafter_sauces",
+      "name": "Marcus Rivera",
+      "followers": "34.2K",
+      "bio": "Small batch hot sauces from Austin, TX \ud83c\udf36\ufe0f Ghost pepper specialist. Weekly drops Thursdays. Link below \u2b07\ufe0f",
+      "verified": false
+    },
+    {
+      "handle": "spice.mama.kitchen",
+      "name": "Sarah Chen",
+      "followers": "8.7K",
+      "bio": "Taiwanese-American spice blends made in Portland. Family recipes passed down 3 generations \u2728 Ships Mon-Wed",
+      "verified": false
+    },
+    {
+      "handle": "wildmountainspice",
+      "name": "Jake Thompson",
+      "followers": "67.8K",
+      "bio": "Foraged & grown in Colorado Rockies \ud83c\udfd4\ufe0f Hot sauce + spice rubs. Featured on Hot Ones! Orders ship same day",
+      "verified": false
+    },
+    {
+      "handle": "abuela_heat",
+      "name": "Carmen Valdez",
+      "followers": "19.3K",
+      "bio": "Authentic Mexican hot sauces. Made fresh weekly in my Phoenix kitchen. DM for wholesale pricing \ud83c\udf36\ufe0f\ud83c\uddf2\ud83c\uddfd",
+      "verified": false
+    },
+    {
+      "handle": "basement.batch.co",
+      "name": "Emma Rodriguez",
+      "followers": "4.1K",
+      "bio": "just me making weird flavor combos that shouldn't work but do. chicago based. link in bio for pre-orders",
+      "verified": false
+    }
+  ],
+  "home": [
+    {
+      "handle": "knotted_by_katie",
+      "name": "Katie Chen",
+      "followers": "23.1K",
+      "bio": "Macrame wall hangings & plant hangers \ud83c\udf3f Made in Portland, OR. Custom orders open! Link below \u2193",
+      "verified": false
+    },
+    {
+      "handle": "rugsbyjake",
+      "name": "Jake Martinez",
+      "followers": "67.8K",
+      "bio": "Tufted rugs that don't suck. Austin, TX. Featured in Apartment Therapy \u2728 Shop link in bio",
+      "verified": false
+    },
+    {
+      "handle": "meadow.made.co",
+      "name": "Sarah & Tom",
+      "followers": "8.2K",
+      "bio": "handmade home goods from our farmhouse studio in vermont. slower living through craft \ud83c\udfd4\ufe0f",
+      "verified": false
+    },
+    {
+      "handle": "twisted_fiber_co",
+      "name": "Marcus Johnson",
+      "followers": "34.7K",
+      "bio": "Teaching macrame workshops + selling supplies. Based in Nashville. DM me 'WORKSHOP' for class info \ud83e\udea2",
+      "verified": false
+    },
+    {
+      "handle": "luna_home_studio",
+      "name": "Isabella Rodriguez",
+      "followers": "15.6K",
+      "bio": "Custom tufted mirrors & rugs \u2728 Phoenix artist. 6-8 week lead time. No DMs please - order through website",
+      "verified": false
+    }
+  ],
+  "fitness": [
+    {
+      "handle": "irongrip_customs",
+      "name": "Marcus Chen",
+      "followers": "23.7K",
+      "bio": "Custom lifting straps & wraps \ud83d\udcaa Made in Portland, OR. Link below for orders",
+      "verified": false
+    },
+    {
+      "handle": "flexandfitco",
+      "name": "Sarah Mitchell",
+      "followers": "67.2K",
+      "bio": "Handmade resistance bands & yoga gear. Started in my garage 3 years ago. Ships US + Canada \ud83d\udce6",
+      "verified": false
+    },
+    {
+      "handle": "homegym_hero",
+      "name": "Jake Rodriguez",
+      "followers": "8.9K",
+      "bio": "DIY gym equipment tutorials + custom foam rollers. Austin TX. DM for pricing",
+      "verified": false
+    },
+    {
+      "handle": "strong_straps_co",
+      "name": "Emma Thompson",
+      "followers": "34.5K",
+      "bio": "Lifting accessories made by lifters for lifters. Family business est. 2021 \ud83c\udfcb\ufe0f\u200d\u2640\ufe0f",
+      "verified": false
+    },
+    {
+      "handle": "kettlebell_kate",
+      "name": "Kate Sullivan",
+      "followers": "3.1K",
+      "bio": "Custom kettlebell sleeves & gym towels. Made in my home studio in Denver. Link in bio!",
+      "verified": false
+    }
+  ],
+  "crafts": [
+    {
+      "handle": "stitchesbysammie",
+      "name": "Samantha Chen",
+      "followers": "47.2K",
+      "bio": "Hand embroidery artist \ud83e\udea1 Portland, OR\nCustom pieces & workshops\nShop link below \u2b07\ufe0f",
+      "verified": false
+    },
+    {
+      "handle": "hooklineandmaker",
+      "name": "Marcus Williams",
+      "followers": "8.3K",
+      "bio": "Crochet patterns & finished pieces. Dad of 2 making blankets in Michigan. DM for customs!",
+      "verified": false
+    },
+    {
+      "handle": "clara_resin_dreams",
+      "name": "Clara Rosetti",
+      "followers": "23.7K",
+      "bio": "\u2728 Resin jewelry & home decor \u2728\nMade in my garage studio, Austin TX\nEtsy in bio",
+      "verified": false
+    },
+    {
+      "handle": "peelgoodstickers",
+      "name": "Jordan Kim",
+      "followers": "72.1K",
+      "bio": "Sticker addict turned maker \ud83d\udcf1\ud83d\udcbb\nWaterproof vinyl stickers\nBulk discounts available. Link in bio",
+      "verified": false
+    },
+    {
+      "handle": "nana_hooks_yarn",
+      "name": "Diana Foster",
+      "followers": "4.8K",
+      "bio": "Learning to crochet at 55! Selling my practice pieces from sunny Arizona \ud83c\udf35 PayPal only",
+      "verified": false
+    }
+  ],
+  "leather": [
+    {
+      "handle": "saddlestitchco",
+      "name": "Marcus Chen",
+      "followers": "34.2K",
+      "bio": "Handmade leather goods \u2022 Portland, OR\nWallet drops every Friday \ud83d\udce7\nLink below for custom work",
+      "verified": false
+    },
+    {
+      "handle": "wildroseleather",
+      "name": "Sarah Martinez",
+      "followers": "8.7K",
+      "bio": "mama of 3 making bags in my garage\nAustin TX \u2022 ships worldwide\nDM me your ideas \u2728",
+      "verified": false
+    },
+    {
+      "handle": "heritage_craft_co",
+      "name": "James Morrison",
+      "followers": "67.3K",
+      "bio": "Traditional leatherworking since 2019\nBespoke briefcases & accessories\nWorkshop tours available \u2022 Nashville",
+      "verified": false
+    },
+    {
+      "handle": "moonandmountaingoods",
+      "name": "Riley Thompson",
+      "followers": "15.8K",
+      "bio": "slow made leather for everyday carry\nColorado mountains\ncustom orders open \u2192 link in bio",
+      "verified": false
+    },
+    {
+      "handle": "tinaleatherworks",
+      "name": "Tina Rodriguez",
+      "followers": "3.2K",
+      "bio": "Learning as I go! Purses & small goods\nPhoenix AZ. DM for pricing\nStarted this dream 6 months ago \ud83d\ude4f",
+      "verified": false
+    }
+  ],
+  "kids": [
+    {
+      "handle": "littlesproutco",
+      "name": "Emma Chen",
+      "followers": "23.8K",
+      "bio": "Organic baby clothes made in Portland \ud83c\udf31 Mom of 2 | Slow fashion advocate | Link below for shop",
+      "verified": false
+    },
+    {
+      "handle": "dads_woodshop",
+      "name": "Marcus Thompson",
+      "followers": "8.2K",
+      "bio": "Handcrafted wooden toys from our garage in Austin. Dad of twin girls. Custom orders welcome!",
+      "verified": false
+    },
+    {
+      "handle": "tinytotsboutique_",
+      "name": "Sarah Mitchell",
+      "followers": "67.5K",
+      "bio": "Handmade kids clothing & accessories \u2728 UK based \u2022 Ships worldwide \u2022 Featured in @motherhood_mag",
+      "verified": false
+    },
+    {
+      "handle": "woodwork_and_wonder",
+      "name": "Jake Rodriguez",
+      "followers": "15.1K",
+      "bio": "Building childhood memories one toy at a time \ud83e\udeb5 Denver, CO | Montessori inspired | DM for commissions",
+      "verified": false
+    },
+    {
+      "handle": "meadow.baby.co",
+      "name": "Lily Foster",
+      "followers": "4.7K",
+      "bio": "soft organic sleepwear for little ones \ud83e\udd0d made to order from my studio in Vermont. mom life + small biz life",
+      "verified": false
+    }
+  ],
+  "woodwork": [
+    {
+      "handle": "maple_and_oak_co",
+      "name": "Sarah Chen",
+      "followers": "23.7K",
+      "bio": "Custom cutting boards & kitchen essentials \ud83c\udf33 Portland, OR maker since 2019. Link below for shop \u2b07\ufe0f",
+      "verified": false
+    },
+    {
+      "handle": "rustic_grain_works",
+      "name": "Mike Thompson",
+      "followers": "67.2K",
+      "bio": "Handcrafted wooden signs & home decor. Based in Austin TX. Custom orders open \u2022 Shop link in bio",
+      "verified": false
+    },
+    {
+      "handle": "amelias_wood_shop",
+      "name": "Amelia Rodriguez",
+      "followers": "8.9K",
+      "bio": "Mom of 3 making cutting boards from my garage workshop in Denver \ud83e\udeb5 DM for custom sizes",
+      "verified": false
+    },
+    {
+      "handle": "heritage_woodcraft",
+      "name": "David Kim",
+      "followers": "34.1K",
+      "bio": "3rd generation woodworker. Charcuterie boards, signs, & more. Asheville, NC mountains \u26f0\ufe0f Est. 2020",
+      "verified": false
+    },
+    {
+      "handle": "bella_creates_wood",
+      "name": "Isabella Martinez",
+      "followers": "4.6K",
+      "bio": "Learning woodworking one project at a time \ud83d\udcaa College student in Madison WI. Custom orders welcome!",
+      "verified": false
+    }
+  ],
+  "fashion": [
+    {
+      "handle": "moonchildtiedye",
+      "name": "Luna Martinez",
+      "followers": "47.2K",
+      "bio": "\u2728 Tie dye artist from Portland, OR\nHandmade with love since 2019\nCustom orders \u2022 link below \ud83d\udc47",
+      "verified": false
+    },
+    {
+      "handle": "ripple_dye_co",
+      "name": "Jake Thompson",
+      "followers": "23.8K",
+      "bio": "Making groovy clothes in my garage \ud83c\udf08\nAustin, TX \u2022 Ships everywhere\nDM for wholesale pricing",
+      "verified": false
+    },
+    {
+      "handle": "celestialthreads_",
+      "name": "Maya Chen",
+      "followers": "8.4K",
+      "bio": "slow fashion \u2022 natural dyes only\nvancouver based \u2601\ufe0f\nlink in bio for current drops",
+      "verified": false
+    },
+    {
+      "handle": "retrorevivalstudio",
+      "name": "Marcus & Jade",
+      "followers": "71.3K",
+      "bio": "Husband & wife tie dye team \ud83d\udcab\nVintage inspired pieces\nCharleston, SC \u2022 Est. 2017\nShop link \u2b07\ufe0f",
+      "verified": false
+    },
+    {
+      "handle": "wildflower.dyes",
+      "name": "Sage Williams",
+      "followers": "15.7K",
+      "bio": "plant-based dyes \u2022 handstitched details\nsmall batch drops every Friday \ud83c\udf3b\ndenver colorado",
+      "verified": false
+    }
+  ],
+  "garden": [
+    {
+      "handle": "plantladyjess",
+      "name": "Jessica Chen",
+      "followers": "47.2K",
+      "bio": "Handmade planters & herb starter kits \ud83c\udf3f Portland, OR \u2022 Ships US wide \u2022 Link below for workshop dates",
+      "verified": false
+    },
+    {
+      "handle": "muddy_hands_co",
+      "name": "Marcus Williams",
+      "followers": "12.8K",
+      "bio": "Making planters in my garage since 2019. Custom orders welcome. Austin TX",
+      "verified": false
+    },
+    {
+      "handle": "sarahs_seedlings",
+      "name": "Sarah Martinez",
+      "followers": "73.1K",
+      "bio": "Herb kits that actually grow \ud83c\udf31 Mom of 3 \u2022 Featured in Better Homes & Gardens \u2022 DM for wholesale",
+      "verified": false
+    },
+    {
+      "handle": "terracotta_dreams",
+      "name": "Emma Robinson",
+      "followers": "6.3K",
+      "bio": "pottery wheel to your windowsill \u2728 handmade in Vermont. Etsy in bio",
+      "verified": false
+    },
+    {
+      "handle": "the_herb_guy",
+      "name": "David Kim",
+      "followers": "28.9K",
+      "bio": "Growing kits & garden tools. Started in my apartment, now shipping nationwide \ud83d\udce6 Denver \u2022 Link for tutorials",
+      "verified": false
+    }
+  ],
+  "wellness": [
+    {
+      "handle": "wildmountainbotanicals",
+      "name": "Sarah Chen",
+      "followers": "34.2K",
+      "bio": "Hand-blended essential oils & herbal teas from Colorado mountains. Organic & wildcrafted. Link below for wholesale.",
+      "verified": false
+    },
+    {
+      "handle": "brewedbymark",
+      "name": "Mark Thompson",
+      "followers": "8.7K",
+      "bio": "Craft herbal teas in Portland, OR. Small batches, big flavor. DM for custom blends",
+      "verified": false
+    },
+    {
+      "handle": "moonchildapothecary",
+      "name": "Luna Rodriguez",
+      "followers": "67K",
+      "bio": "Aromatherapy rituals for modern life \u2728 Featured in Wellness Mag. Ships from Austin. Custom blends available.",
+      "verified": false
+    },
+    {
+      "handle": "backyard.botanist",
+      "name": "James Mitchell",
+      "followers": "2.8K",
+      "bio": "Growing & distilling my own essential oils in Michigan. New to this but loving every drop. Orders in bio link",
+      "verified": false
+    },
+    {
+      "handle": "herbsisterco",
+      "name": "Maya Patel",
+      "followers": "19.5K",
+      "bio": "Grandma's tea recipes meet modern wellness \ud83c\udf3f Burlington, VT. Sustainable packaging. Free shipping over $50",
+      "verified": false
+    }
+  ],
+  "eco": [
+    {
+      "handle": "wildflower_wraps",
+      "name": "Sarah Chen",
+      "followers": "34.2K",
+      "bio": "Handmade beeswax wraps \ud83d\udc1d Portland, OR \u2022 Zero waste mama of 3 \u2022 Ships Mon-Fri \u2022 Link below for custom prints",
+      "verified": false
+    },
+    {
+      "handle": "mason_makes_zero",
+      "name": "Mason Rodriguez",
+      "followers": "8.7K",
+      "bio": "sustainable swaps from my garage workshop. beeswax wraps + more. Austin TX. DM for wholesale",
+      "verified": false
+    },
+    {
+      "handle": "honeybee_homegoods",
+      "name": "Emma & Jake",
+      "followers": "67.1K",
+      "bio": "Wife + husband duo \ud83d\udc9b Plastic-free kitchen essentials \u2022 Featured in @goodhousekeeping \u2022 Vermont bees \u2022 Shop link \u2b07\ufe0f",
+      "verified": false
+    },
+    {
+      "handle": "rewrap_refresh",
+      "name": "Priya Patel",
+      "followers": "3.8K",
+      "bio": "Making food storage plastic-free one wrap at a time \ud83c\udf31 Chicago \u2022 New mama learning as I go \u2022 Custom sizes available",
+      "verified": false
+    },
+    {
+      "handle": "coastal_zero_co",
+      "name": "Marcus Thompson",
+      "followers": "19.5K",
+      "bio": "Ocean-inspired zero waste goods. Beeswax wraps made with local CA honey \ud83c\udf0a Shipping worldwide \u2022 Bulk orders welcome",
+      "verified": false
+    }
+  ],
+  "stationery": [
+    {
+      "handle": "paperheartco",
+      "name": "Sarah Chen",
+      "followers": "34.2K",
+      "bio": "Handmade cards & prints from my Portland studio \u2728 Custom wedding invites \u2022 Link below for shop",
+      "verified": false
+    },
+    {
+      "handle": "mikemakesart",
+      "name": "Mike Rodriguez",
+      "followers": "8.7K",
+      "bio": "Illustrator dad making quirky stickers and prints. Denver, CO. DM for commissions!",
+      "verified": false
+    },
+    {
+      "handle": "wildflower_paper",
+      "name": "Emma Thompson",
+      "followers": "67.3K",
+      "bio": "Botanical art prints & greeting cards \ud83c\udf3f Made in my garden studio in Nashville \u2022 Shop link in bio",
+      "verified": false
+    },
+    {
+      "handle": "thecardkingdom",
+      "name": "James Park",
+      "followers": "3.1K",
+      "bio": "Pop culture greeting cards made in my apartment. NYC. Still figuring this out lol",
+      "verified": false
+    },
+    {
+      "handle": "moonbeam_designs",
+      "name": "Zoe Martinez",
+      "followers": "19.8K",
+      "bio": "Mystical stickers & art prints \u2728\ud83c\udf19 Shipping from Austin, TX \u2022 Use code MOON10 for 10% off",
+      "verified": false
+    }
+  ],
+  "party": [
+    {
+      "handle": "balloonsbybecca_",
+      "name": "Rebecca Martinez",
+      "followers": "47.2K",
+      "bio": "Balloon garlands & party magic \u2728 Miami based. Custom orders welcome! Link below for workshops \ud83d\udc47",
+      "verified": false
+    },
+    {
+      "handle": "tinytopper.co",
+      "name": "Jake Chen",
+      "followers": "12.4K",
+      "bio": "Handmade cake toppers from my garage workshop. Ships nationwide. Dad of 3 fueling the side hustle \ud83d\udcaa",
+      "verified": false
+    },
+    {
+      "handle": "partyperfect_sarah",
+      "name": "Sarah Williams",
+      "followers": "73.8K",
+      "bio": "Balloon artist & party planner | Austin, TX | Featured in Southern Living \u2728 Book consultations via link",
+      "verified": false
+    },
+    {
+      "handle": "craftedcelebrations",
+      "name": "Maria & Tom Silva",
+      "followers": "28.6K",
+      "bio": "Custom party decor made with love. Portland, OR. Mom & pop shop since 2019. DM us your vision!",
+      "verified": false
+    },
+    {
+      "handle": "balloon.dreamer",
+      "name": "Ashley Rose",
+      "followers": "8.9K",
+      "bio": "turning air into art \ud83c\udf88 college student making magic happen. Phoenix AZ. Custom garlands starting at $85",
+      "verified": false
+    }
+  ],
+  "vintage": [
+    {
+      "handle": "threadedstorybklyn",
+      "name": "Maya Chen",
+      "followers": "43.2K",
+      "bio": "Vintage reimagined from my Brooklyn studio \ud83e\uddf5 Sustainable fashion that tells a story. Link below for shop + workshops",
+      "verified": false
+    },
+    {
+      "handle": "secondlifethreads",
+      "name": "Jake Morrison",
+      "followers": "8.9K",
+      "bio": "Turning thrift finds into treasures. Portland, OR. Custom denim work. DM me your vision \u2702\ufe0f",
+      "verified": false
+    },
+    {
+      "handle": "rosesvintagecloset",
+      "name": "Isabella Rose",
+      "followers": "67K",
+      "bio": "Curated vintage + handmade pieces \u2661 San Francisco based. Slow fashion advocate. Shop link in stories daily",
+      "verified": false
+    },
+    {
+      "handle": "patchworkandchill",
+      "name": "Marcus Thompson",
+      "followers": "2.8K",
+      "bio": "weekend warrior making patched jackets from my garage lol. Chicago. ships tuesdays + fridays only",
+      "verified": false
+    },
+    {
+      "handle": "retrofitrebecca",
+      "name": "Rebecca Stone",
+      "followers": "19.1K",
+      "bio": "Upcycled vintage since 2019. Size inclusive alterations. Nashville TN. Taking orders again Jan 15th \ud83d\udcab",
+      "verified": false
+    }
+  ],
+  "tech": [
+    {
+      "handle": "sarahbuildsthings",
+      "name": "Sarah Chen",
+      "followers": "23.1K",
+      "bio": "Building micro-tools that don't suck \u26a1 Latest: Tab Manager Pro chrome ext. Austin, TX. Link below \ud83d\udc47",
+      "verified": false
+    },
+    {
+      "handle": "pixelmarcos",
+      "name": "Marco Silva",
+      "followers": "67.2K",
+      "bio": "Indie maker \u2022 4 profitable SaaS tools \u2022 Teaching you to ship fast. Newsletter in bio \ud83d\udce7",
+      "verified": false
+    },
+    {
+      "handle": "jenncodes",
+      "name": "Jenn Wu",
+      "followers": "8.7K",
+      "bio": "chrome extensions for productivity nerds. currently building my 3rd tool from vancouver \u2615",
+      "verified": false
+    },
+    {
+      "handle": "alexshipsdaily",
+      "name": "Alex Rodriguez",
+      "followers": "45.8K",
+      "bio": "Solo dev building tools people actually want \u2022 $12K MRR \u2022 Berlin \u2192 SF. DMs open for collabs",
+      "verified": false
+    },
+    {
+      "handle": "tinytools_emma",
+      "name": "Emma Johnson",
+      "followers": "4.2K",
+      "bio": "Making simple tools for complex problems. Latest: PDF merger thing. London. First 100 users get 50% off",
+      "verified": false
+    }
+  ],
+  "supplements": [
+    {
+      "handle": "moonchildherbals",
+      "name": "Luna Rodriguez",
+      "followers": "34.2K",
+      "bio": "Wildcrafted tinctures & tea blends \u2728 Portland, OR. Shipping Mon-Wed. Link below for restock alerts \ud83c\udf3f",
+      "verified": false
+    },
+    {
+      "handle": "beardedapothecary",
+      "name": "Marcus Chen",
+      "followers": "7.8K",
+      "bio": "Former chef turned herbalist. Small batch wellness products from my garage lab in Austin TX",
+      "verified": false
+    },
+    {
+      "handle": "rootsandrituals.co",
+      "name": "Sarah Mountain",
+      "followers": "68K",
+      "bio": "Adaptogenic blends for busy humans \ud83c\udf44 Founded 2019 | B-Corp | Free shipping $75+ | Link in bio",
+      "verified": false
+    },
+    {
+      "handle": "wildflower_wellness",
+      "name": "Emma Kate",
+      "followers": "15.6K",
+      "bio": "Herbalist mama making plant medicine in Vermont. Custom hormone support blends. DM me your symptoms \ud83d\udc9a",
+      "verified": false
+    },
+    {
+      "handle": "theherbguy",
+      "name": "Jake Thompson",
+      "followers": "3.4K",
+      "bio": "Growing & drying herbs behind my apartment lol. Immune support teas. Venmo/PayPal. Denver pickup available",
+      "verified": false
+    }
+  ]
+}
