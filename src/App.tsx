@@ -1,4 +1,5 @@
 import { useState, useCallback, useMemo } from 'react'
+import { motion, AnimatePresence } from 'framer-motion'
 import { PhoneFrame } from './components/PhoneFrame'
 import { Toast, showToast } from './components/Toast'
 import { BottomNav } from './components/BottomNav'
@@ -295,7 +296,16 @@ export default function App() {
         )}
 
         {/* === OVERLAY: PRODUCT PAGE === */}
+        <AnimatePresence>
         {productIdea && !storiesIdea && !planIdea && (
+          <motion.div
+            key="product-overlay"
+            initial={{ y: '100%' }}
+            animate={{ y: 0 }}
+            exit={{ y: '100%' }}
+            transition={{ type: 'spring', damping: 28, stiffness: 300 }}
+            className="absolute inset-0 z-40"
+          >
           <ProductPage
             idea={productIdea}
             region={store.region}
@@ -306,10 +316,21 @@ export default function App() {
             onStartPlan={handleStartPlan}
             onClose={() => setProductIdea(null)}
           />
+          </motion.div>
         )}
+        </AnimatePresence>
 
         {/* === OVERLAY: STORIES === */}
+        <AnimatePresence>
         {storiesIdea && (
+          <motion.div
+            key="stories-overlay"
+            initial={{ opacity: 0, scale: 0.95 }}
+            animate={{ opacity: 1, scale: 1 }}
+            exit={{ opacity: 0, scale: 0.95 }}
+            transition={{ duration: 0.2 }}
+            className="absolute inset-0 z-50"
+          >
           <StoriesPlayer
             idea={storiesIdea}
             region={store.region}
@@ -317,7 +338,9 @@ export default function App() {
             onAddTodo={handleAddTodo}
             onClose={() => setStoriesIdea(null)}
           />
+          </motion.div>
         )}
+        </AnimatePresence>
 
         {/* === OVERLAY: LAUNCH PLAN === */}
         {planIdea && (
