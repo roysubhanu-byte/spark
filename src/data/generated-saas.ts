@@ -34,52 +34,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 100,
       "high": 400
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Resume Builder</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Resume Builder solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1352-6760"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Resume Builder saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Job applications now get filtered by AI before humans see them. Your resume needs to speak robot before it speaks human. Most people don't know ATS systems reject 75% of resumes for formatting issues alone.", "action": "Focus on ATS optimization first, then add the pretty formatting humans like.", "stats": [{ "label": "Resumes rejected by ATS", "value": "75%" }, { "label": "Average job applications per opening", "value": "250" }] }, "value": { "body": "Job seekers making $40K+ will pay $15-50 to not get auto-rejected. Career changers and recent grads are especially desperate. They're already spending $200+ on career coaches, so $29 for instant results feels cheap.", "action": "Target people who've been job hunting for 2+ months without interviews.", "stats": [{ "label": "Average career coach cost", "value": "$200" }, { "label": "Job seekers willing to pay for help", "value": "68%" }] }, "profit": { "body": "OpenAI API costs about $0.50 per resume optimization. Sell for $29, your margin is $28.50 per customer. At 50 customers monthly, that's $1,425 profit with almost no overhead.", "action": "Start with one-time payments, then add monthly subscription for unlimited revisions.", "stats": [{ "label": "Cost per resume (API)", "value": "$0.50" }, { "label": "Net profit per sale", "value": "$28.50" }, { "label": "Monthly profit at 50 sales", "value": "$1,425" }] }, "distributors": { "body": "You need OpenAI API access ($20 monthly minimum), a simple website builder like Bubble ($29/month), and Stripe for payments (2.9% per transaction). Total startup cost under $100.", "action": "Build an MVP on Bubble first, then migrate to custom code if you hit $2K monthly revenue.", "stats": [{ "label": "OpenAI API minimum", "value": "$20/mo" }, { "label": "Bubble platform cost", "value": "$29/mo" }, { "label": "Stripe processing fee", "value": "2.9%" }] }, "pricing": { "body": "Anchor at $49 for premium, offer basic at $29. Most people pick the middle option when you show three tiers. Add a $15 quick-fix option for price-sensitive customers.", "action": "Test three-tier pricing: Quick ($15), Standard ($29), Premium ($49) with different features.", "stats": [{ "label": "Customers choose middle tier", "value": "60%" }, { "label": "Recommended standard price", "value": "$29" }, { "label": "Premium tier conversion", "value": "25%" }] }, "sellingPrice": { "body": "Reddit job search communities have 2M+ active members desperate for help. LinkedIn job seeker groups are goldmines. TikTok career advice content gets millions of views from your exact audience.", "action": "Start by answering resume questions in r/jobs and r/resumes, then soft-pitch your tool.", "stats": [{ "label": "r/jobs members", "value": "2.1M" }, { "label": "LinkedIn job seekers", "value": "58M" }, { "label": "Career TikTok monthly views", "value": "1.2B" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -148,52 +103,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Email Writer</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Email Writer solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2443-14658"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Email Writer saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Sales teams spend 2-3 hours daily writing cold emails, and most suck at it. AI can now write personalized emails that convert 3x better than generic templates. You're riding the AI wave while solving a real daily pain point.", "action": "Start by building a simple MVP that connects to LinkedIn profiles and generates 3 email variations per prospect.", "stats": [{ "label": "Average cold email response rate", "value": "1-3%" }, { "label": "Time saved per email", "value": "15-20 min" }] }, "value": { "body": "SDRs and sales managers at B2B companies buy this. They're drowning in outreach quotas (50-100 emails daily) but lack writing skills. A tool that turns 3 hours of email writing into 30 minutes? They'll pay $50-200 monthly without blinking.", "action": "Interview 5 SDRs at local B2B companies to understand their exact email writing workflow and biggest frustrations.", "stats": [{ "label": "Average SDR salary", "value": "$45-65k" }, { "label": "Daily email quota", "value": "50-100" }] }, "profit": { "body": "Your main costs are AI API calls (about $0.02 per email generated) plus hosting ($20-50 monthly). At $97 monthly per user generating 1,000 emails, you're looking at $20 in AI costs versus $97 revenue. That's 79% gross margin.", "action": "Calculate your break-even point: you need 1 paying customer to cover basic costs, 10 customers for $800+ monthly profit.", "stats": [{ "label": "Cost per generated email", "value": "$0.02" }, { "label": "Gross margin target", "value": "75-85%" }] }, "distributors": { "body": "You need OpenAI API access ($20 credit starts you), basic web hosting (Vercel is free to start), and a simple payment processor like Stripe. Total upfront: $50-100. The hardest part isn't tech, it's getting your first 10 customers to test and refine.", "action": "Sign up for OpenAI API, build a landing page on Vercel, and create a waitlist before writing any code.", "stats": [{ "label": "OpenAI API starting credit", "value": "$20" }, { "label": "Stripe processing fee", "value": "2.9%" }] }, "pricing": { "body": "Use a three-tier model: Starter at $47 (500 emails), Professional at $97 (2,000 emails), Team at $197 (unlimited). The $97 tier will be your sweet spot. Most solo SDRs can't justify $200, but $97 feels reasonable for a tool that saves 10+ hours weekly.", "action": "Start with just the $97 tier to keep things simple, then add other tiers based on actual usage patterns.", "stats": [{ "label": "Optimal middle tier price", "value": "$97/month" }, { "label": "Expected conversion rate", "value": "2-5%" }] }, "sellingPrice": { "body": "LinkedIn is your goldmine. Post email writing tips, comment on sales posts, DM SDRs directly. Also try Product Hunt for launch day buzz and sales-focused Facebook groups. Skip generic social media, go where your buyers actually hang out and complain about email writing.", "action": "Spend 1 hour daily engaging with SDRs on LinkedIn, sharing one email writing tip per day to build credibility.", "stats": [{ "label": "LinkedIn SDR posts daily", "value": "500-1000" }, { "label": "Product Hunt average signups", "value": "200-2000" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -262,52 +172,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 100,
       "high": 400
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Meeting Notes</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Meeting Notes solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1991-9955"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Meeting Notes saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Remote work made everyone hate meetings even more. People spend 3-4 hours daily in calls but remember maybe 20% of what was discussed. AI transcription got scary good in 2024, and now you can build this with OpenAI's API for pennies per hour.", "action": "Start with Zoom's API and OpenAI Whisper to build a basic prototype that records and summarizes one meeting.", "stats": [{ "label": "Average meetings per day", "value": "6-8" }, { "label": "Meeting memory retention", "value": "20%" }, { "label": "Cost per hour transcription", "value": "$0.15" }] }, "value": { "body": "Small business owners and team leads buy this. They're drowning in follow-ups and missed action items cost them real money. A marketing agency owner will pay $50/month to never miss a client deliverable again.", "action": "Interview 10 small business owners about their biggest meeting frustrations and what they'd pay to solve it.", "stats": [{ "label": "Time spent on follow-ups", "value": "45 min/day" }, { "label": "Willingness to pay", "value": "$30-80/month" }, { "label": "Target market size", "value": "2.3M businesses" }] }, "profit": { "body": "Your costs are tiny. OpenAI charges $0.10 per hour of audio, hosting runs $20/month for 100 users. Charge $49/month and you're looking at 90%+ margins once you hit 50 customers.", "action": "Calculate your break-even point at different customer counts and set a goal to reach 25 paying customers in month 3.", "stats": [{ "label": "Cost per user per month", "value": "$2-4" }, { "label": "Gross margin potential", "value": "90%+" }, { "label": "Monthly profit at 50 users", "value": "$2,200" }] }, "distributors": { "body": "You need OpenAI API access ($20 credit starts you), a simple web app (use Bubble or hire a developer for $800-1,500), and Zoom/Teams integration. Stripe handles payments. Total setup under $400.", "action": "Sign up for OpenAI API, create a Bubble account, and build a landing page to collect email addresses from interested users.", "stats": [{ "label": "Initial development cost", "value": "$800-1,500" }, { "label": "Monthly API costs", "value": "$50-200" }, { "label": "Time to basic prototype", "value": "2-4 weeks" }] }, "pricing": { "body": "Use three tiers. Basic at $29/month for 10 hours of recording hooks price-sensitive users. Professional at $59/month for unlimited recording is your money maker. Enterprise at $149/month adds team features and makes $59 look reasonable.", "action": "Test pricing with your first 20 users by offering a 'founder's rate' and asking what they'd normally expect to pay.", "stats": [{ "label": "Sweet spot pricing", "value": "$49-69/month" }, { "label": "Free trial conversion", "value": "15-25%" }, { "label": "Average revenue per user", "value": "$52/month" }] }, "sellingPrice": { "body": "Sell direct through your website first. Then list on software directories like Capterra and G2 where buyers actively search for meeting tools. LinkedIn ads targeting operations managers work well for B2B tools like this.", "action": "Build a simple landing page with video demo, then submit to Product Hunt and 5 software directories for initial visibility.", "stats": [{ "label": "Conversion rate direct sales", "value": "3-5%" }, { "label": "Directory listing cost", "value": "$0-300/month" }, { "label": "Customer acquisition cost", "value": "$120-180" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -377,52 +242,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Blog Post Generator</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Blog Post Generator solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$677-2031"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Blog Post Generator saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Content marketing budgets hit $44 billion in 2024, but good writers cost $100-300 per article. Small businesses need 3-5 blog posts monthly to compete in SEO, but can't afford $1,500/month for quality content. AI can now write decent first drafts that need human polish, not human creation from scratch.", "action": "Build a simple interface that takes keywords and spits out 1,200-word SEO-optimized articles in under 2 minutes.", "stats": [{ "label": "Content marketing spend", "value": "$44B annually" }, { "label": "Avg freelance article cost", "value": "$150-250" }, { "label": "Posts needed monthly", "value": "3-5 for SEO impact" }] }, "value": { "body": "Digital marketing agencies managing 10-50 clients will pay $200/month to save 20 hours of writing time. Small business owners who blog themselves but hate writing will pay $50/month for speed. These buyers currently spend 4-6 hours per article or outsource for $200+ each.", "action": "Target agency owners on LinkedIn and small business Facebook groups with time-saving demos.", "stats": [{ "label": "Agency client average", "value": "15-25 accounts" }, { "label": "Time per article", "value": "4-6 hours" }, { "label": "Current outsource cost", "value": "$200+ each" }] }, "profit": { "body": "OpenAI API costs $0.50 per 1,200-word article. Charge $29/month for 20 articles, your cost is $10, profit is $19 per customer. With 100 customers, that's $1,900 monthly profit after a $500 server bill.", "action": "Start with a $29 tier for 20 articles to test demand before building higher tiers.", "stats": [{ "label": "Cost per article", "value": "$0.50" }, { "label": "Profit per customer", "value": "$19/month" }, { "label": "100 customer profit", "value": "$1,900/month" }] }, "distributors": { "body": "You need OpenAI API access ($20 credit minimum), a simple web app (use Bubble.io for $29/month), and Stripe for payments ($0.30 per transaction). Total monthly overhead is under $100 until you hit 200+ customers.", "action": "Sign up for OpenAI API, create a Bubble.io account, and build a one-page input form this weekend.", "stats": [{ "label": "OpenAI minimum", "value": "$20 credit" }, { "label": "Bubble.io cost", "value": "$29/month" }, { "label": "Monthly overhead", "value": "Under $100" }] }, "pricing": { "body": "Use a three-tier model: Starter at $29 for 20 articles, Professional at $79 for 60 articles, Agency at $199 for 200 articles. The middle tier drives most sales while the high tier makes agencies feel they're getting a deal.", "action": "Launch with just the $29 tier, then add higher tiers once you have 25+ paying customers.", "stats": [{ "label": "Starter tier", "value": "$29 (20 articles)" }, { "label": "Professional tier", "value": "$79 (60 articles)" }, { "label": "Agency tier", "value": "$199 (200 articles)" }] }, "sellingPrice": { "body": "Sell direct through your website with SEO content about 'AI blog writing' and 'automated content creation.' Run Google Ads targeting 'blog writing services' (cheaper than you think at $2-4 per click). Partner with website builders like Wix or Squarespace for referrals.", "action": "Build a landing page with a 7-day free trial and start a $200/month Google Ads budget.", "stats": [{ "label": "Google Ads CPC", "value": "$2-4" }, { "label": "Conversion rate target", "value": "3-5%" }, { "label": "Monthly ad budget", "value": "$200-500" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -493,52 +313,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 200,
       "high": 600
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Code Reviewer</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Code Reviewer solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$790-3160"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Code Reviewer saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Development teams waste 4-6 hours weekly on code reviews that catch the same basic issues. AI can now identify 80% of common problems instantly. GitHub's API makes integration dead simple.", "action": "Build a minimal viable product that catches syntax errors and style violations first.", "stats": [{ "label": "Average review time saved", "value": "65%" }, { "label": "Common issues AI catches", "value": "80%" }] }, "value": { "body": "Engineering managers at 10-50 person startups buy this. They're drowning in review bottlenecks that slow shipping. Senior devs cost $150k+ annually, so saving 5 hours weekly pays for itself.", "action": "Target YC companies and venture-backed startups with 5+ developers.", "stats": [{ "label": "Weekly hours saved per dev", "value": "4-6" }, { "label": "Annual dev salary cost", "value": "$150k+" }] }, "profit": { "body": "OpenAI API costs $0.02 per code review for most repos. Charge $49 monthly per repository. With 100 active repos, that's $4,900 monthly revenue against $200 in AI costs.", "action": "Start with 10 paying customers to validate unit economics before scaling.", "stats": [{ "label": "Cost per review", "value": "$0.02" }, { "label": "Gross margin", "value": "96%" }, { "label": "Monthly revenue at 100 repos", "value": "$4,900" }] }, "distributors": { "body": "You need GitHub API access (free), OpenAI credits ($200 minimum), and basic web hosting ($20 monthly). Vercel or Railway handle deployment. No physical inventory required.", "action": "Set up a GitHub app and connect it to OpenAI's API using their developer documentation.", "stats": [{ "label": "Initial OpenAI credits", "value": "$200" }, { "label": "Monthly hosting cost", "value": "$20" }, { "label": "GitHub API cost", "value": "$0" }] }, "pricing": { "body": "Anchor at $99 monthly for enterprise features, then offer $49 for standard teams and $19 for individual developers. Position the middle tier as most popular.", "action": "Launch with just the $49 tier to simplify initial sales conversations.", "stats": [{ "label": "Individual tier", "value": "$19/mo" }, { "label": "Team tier (anchor)", "value": "$49/mo" }, { "label": "Enterprise tier", "value": "$99/mo" }] }, "sellingPrice": { "body": "GitHub Marketplace gets you in front of 100 million developers directly. Product Hunt drives initial buzz. Dev Twitter and Hacker News bring organic traffic when you launch features.", "action": "Submit to GitHub Marketplace first, then plan a Product Hunt launch for maximum visibility.", "stats": [{ "label": "GitHub active developers", "value": "100M+" }, { "label": "Marketplace approval time", "value": "2-4 weeks" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -609,52 +384,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 200,
       "high": 600
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Customer Support Bot</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Customer Support Bot solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1834-7336"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Customer Support Bot saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Customer support costs companies $1.3 trillion annually, and 67% of customers prefer self-service options. You're hitting the sweet spot where AI finally works well enough to handle common questions, but most small businesses still can't afford $50,000 custom solutions.", "action": "Focus on small to medium businesses with repetitive customer questions who currently use email or basic chat.", "stats": [{ "label": "Support cost savings", "value": "40-60%" }, { "label": "Response time improvement", "value": "24/7 instant" }, { "label": "Market size", "value": "$4.2B by 2025" }] }, "value": { "body": "E-commerce stores, SaaS companies, and professional services firms spend $2,000-8,000 monthly on customer support staff. They'll pay $200-500 monthly to automate 70% of repetitive questions about shipping, billing, and basic product info.", "action": "Target businesses with 10-50 employees who mention 'overwhelmed by customer emails' in Facebook groups.", "stats": [{ "label": "Current support cost", "value": "$2,000-8,000/mo" }, { "label": "Questions automated", "value": "70-80%" }, { "label": "Payback period", "value": "2-3 months" }] }, "profit": { "body": "Your costs are $50-150 monthly per client for AI API usage and hosting. Charge $200-500 monthly subscriptions. That's 75-80% profit margins once you land 20+ clients.", "action": "Start with a $200/month single-bot plan to prove the model before adding premium tiers.", "stats": [{ "label": "Cost per client", "value": "$50-150/mo" }, { "label": "Revenue per client", "value": "$200-500/mo" }, { "label": "Profit margin", "value": "75-80%" }] }, "distributors": { "body": "You need OpenAI or Claude API access ($20-100/month), a hosting platform like Vercel or Railway ($20-50/month), and a website builder like Webflow ($15/month). Total startup tech stack costs around $200-600.", "action": "Start with OpenAI's API, Railway for hosting, and build your first bot manually to understand the workflow.", "stats": [{ "label": "AI API costs", "value": "$20-100/mo" }, { "label": "Hosting costs", "value": "$20-50/mo" }, { "label": "Total monthly overhead", "value": "$55-165" }] }, "pricing": { "body": "Use a three-tier model: Basic bot for $200/month, Advanced with analytics for $350/month, Enterprise with multiple bots for $500/month. Most customers will pick the middle option when they see the value comparison.", "action": "Offer a 14-day free trial, then require annual payment upfront for 15% discount to improve cash flow.", "stats": [{ "label": "Basic tier", "value": "$200/mo" }, { "label": "Popular tier", "value": "$350/mo" }, { "label": "Enterprise tier", "value": "$500/mo" }] }, "sellingPrice": { "body": "Cold email works best for this B2B service. LinkedIn outreach gets 12-18% response rates when you mention specific pain points. Skip marketplaces, focus on direct sales to business owners who control budgets.", "action": "Build a simple landing page, then spend 2 hours daily on LinkedIn connecting with small business owners in target industries.", "stats": [{ "label": "LinkedIn response rate", "value": "12-18%" }, { "label": "Email open rate", "value": "25-35%" }, { "label": "Demo-to-close rate", "value": "30-40%" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -724,52 +454,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Social Caption Writer</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Social Caption Writer solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1319-7914"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Social Caption Writer saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Small businesses post 3-5 times per week but spend 2+ hours crafting captions that sound like them. ChatGPT gives generic responses that don't match their voice. You're building a tool that learns their specific brand voice from past posts, then generates captions that actually sound like them.", "action": "Start by manually analyzing 10 local businesses' Instagram voices to prove you can identify distinct patterns.", "stats": [{ "label": "Businesses posting daily", "value": "73%" }, { "label": "Hours spent on captions weekly", "value": "6-8" }] }, "value": { "body": "Marketing agencies and social media managers who handle 10-50 client accounts buy this. They're drowning in caption requests and charging $800-2000 per month per client. If your tool saves them 15 hours per week, they'll pay $97-297 monthly without blinking.", "action": "Message 5 local marketing agencies and ask about their biggest social media pain points.", "stats": [{ "label": "Agencies per major city", "value": "200-500" }, { "label": "Avg clients per agency", "value": "12-25" }] }, "profit": { "body": "OpenAI API costs you $0.10-0.30 per 100 captions generated. Charge $97 monthly for unlimited captions. If 20 customers use 500 captions monthly, your costs are $30-90 total but revenue is $1,940.", "action": "Calculate your exact API costs by testing caption generation with OpenAI's pricing calculator.", "stats": [{ "label": "Monthly profit margin", "value": "85-95%" }, { "label": "Break-even customers", "value": "3-5" }] }, "distributors": { "body": "You need OpenAI API access ($20 minimum), a simple web interface (use Bubble or Webflow, $29-99/month), and Stripe for payments ($0.30 + 2.9% per transaction). Total monthly overhead is under $150 before you have any customers.", "action": "Sign up for OpenAI API and test generating 50 sample captions in different brand voices.", "stats": [{ "label": "Setup time", "value": "2-4 weeks" }, { "label": "Technical skills needed", "value": "Basic" }] }, "pricing": { "body": "Start with three tiers: $47 for 200 captions, $97 for unlimited, $197 for teams with multiple brand voices. The middle tier becomes your anchor. Most agencies will pick unlimited because they can't predict usage.", "action": "Survey 10 potential customers about which tier they'd choose and why.", "stats": [{ "label": "Customers choosing middle tier", "value": "60-70%" }, { "label": "Annual vs monthly savings", "value": "20%" }] }, "sellingPrice": { "body": "Start with direct outreach to marketing agencies on LinkedIn and Facebook groups like 'Social Media Marketing World' (94k members). Then list on software directories like Capterra and GetApp where agencies actively search for tools.", "action": "Join 3 marketing agency Facebook groups and spend one week observing their biggest complaints.", "stats": [{ "label": "Marketing agency groups on Facebook", "value": "500+" }, { "label": "Directory listing cost", "value": "$0-299" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -838,52 +523,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Product Description Writer</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Product Description Writer solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2285-9140"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Product Description Writer saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "E-commerce sellers waste 2-3 hours writing product descriptions that don't convert. Amazon has 9.7 million sellers who need fresh copy for seasonal updates, A/B tests, and new products. AI can write 50 descriptions in the time it takes a human to write one.", "action": "Start with Shopify app store integration since they process $200B+ annually and sellers already expect app solutions.", "stats": [{ "label": "Time saved per listing", "value": "85%" }, { "label": "Amazon active sellers", "value": "9.7M" }] }, "value": { "body": "Shopify store owners making $10K-100K monthly are your sweet spot. They're launching 20-50 new products quarterly and paying copywriters $25-75 per description. Small agencies managing multiple stores will pay $200-500 monthly to save 15 hours of writing time.", "action": "Interview 10 Shopify sellers about their current copywriting process and pain points.", "stats": [{ "label": "Copywriter cost per description", "value": "$25-75" }, { "label": "New products per quarter", "value": "20-50" }] }, "profit": { "body": "Your costs are minimal: $30 monthly for OpenAI API, $50 for hosting, $20 for domain. Charge $49 monthly for 200 descriptions. With 100 subscribers, that's $4,900 revenue minus $100 costs. Your margin hits 98% once you cover initial development time.", "action": "Build an MVP that generates 10 descriptions for free, then requires subscription for unlimited access.", "stats": [{ "label": "Monthly operating costs", "value": "$100" }, { "label": "Gross margin", "value": "98%" }] }, "distributors": { "body": "You need OpenAI API access, basic web hosting, and a payment processor like Stripe. Shopify's Partner Program lets you list apps for free. No inventory, no shipping, no physical materials required. Your laptop and internet connection are your entire supply chain.", "action": "Sign up for Shopify Partners and OpenAI API today to start building your integration.", "stats": [{ "label": "Shopify app listing fee", "value": "$0" }, { "label": "Required inventory", "value": "$0" }] }, "pricing": { "body": "Start with a freemium model: 10 free descriptions monthly, then $29 for 100, $49 for 500, $99 unlimited. Copywriters charge $25-75 per description, so you're offering 90% savings. Position the $49 plan as your main offer using anchor pricing.", "action": "Test pricing with beta users before launch, focusing on cost-per-description comparisons to human copywriters.", "stats": [{ "label": "Savings vs copywriter", "value": "90%" }, { "label": "Sweet spot price", "value": "$49/mo" }] }, "sellingPrice": { "body": "Shopify App Store is your primary channel since sellers are already browsing for solutions. List on Product Hunt for launch buzz. Join Facebook groups like 'Shopify Entrepreneurs' and 'Amazon FBA High Rollers' where your buyers hang out daily.", "action": "Apply to Shopify App Store first, then build your waitlist through targeted Facebook group participation.", "stats": [{ "label": "Shopify App Store apps", "value": "8,000+" }, { "label": "App discovery rate", "value": "60%" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -954,52 +594,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Image Background Remover</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Image Background Remover solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1295-6475"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Image Background Remover saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Small businesses need product photos but can't afford $200+ per image from photographers. Background removal used to require Photoshop skills or expensive tools like Canva Pro ($15/month). Now AI does it instantly, and you can package this as a simple one-click solution.", "action": "Build using Remove.bg's API ($0.20 per image) and add your own interface with batch processing.", "stats": [{ "label": "Market size", "value": "$2.8B photo editing" }, { "label": "API cost", "value": "$0.20 per image" }] }, "value": { "body": "Etsy sellers, Amazon FBA sellers, and small e-commerce shops are your buyers. They need 10-50 clean product photos monthly but hate spending hours in Photoshop. They'll pay $2-5 per image for instant results instead of learning complex software.", "action": "Survey 20 Etsy sellers about their current photo editing process and pain points.", "stats": [{ "label": "Target photos/month", "value": "10-50 per seller" }, { "label": "Willingness to pay", "value": "$2-5 per image" }] }, "profit": { "body": "You pay $0.20 API cost and charge $2.50 per image for 92% gross margin. With 200 images processed daily, that's $460 profit per day. One power user doing 500 images monthly gives you $1,150 in revenue for $100 in costs.", "action": "Calculate your break-even point at 50 images per day to cover hosting and marketing costs.", "stats": [{ "label": "Gross margin", "value": "92%" }, { "label": "Daily profit potential", "value": "$460" }, { "label": "Monthly revenue per power user", "value": "$1,150" }] }, "distributors": { "body": "You need Remove.bg API access, a simple web interface (use Bubble or Webflow), and Stripe for payments. Total setup cost is under $100. Add batch upload features and you're ahead of 80% of competitors who only do single images.", "action": "Sign up for Remove.bg API and build a basic upload/download interface this week.", "stats": [{ "label": "Setup cost", "value": "Under $100" }, { "label": "Competitors with batch", "value": "20%" }] }, "pricing": { "body": "Charge per image with bulk discounts. Start at $2.50 for 1-10 images, $2.00 for 11-50, $1.50 for 51+. Anchor against Photoshop ($20/month) and photographer costs ($200+ per shoot). Monthly unlimited plans at $49 convert heavy users.", "action": "Test three pricing tiers with early customers and measure conversion rates.", "stats": [{ "label": "Single image price", "value": "$2.50" }, { "label": "Bulk discount price", "value": "$1.50" }, { "label": "Unlimited monthly", "value": "$49" }] }, "sellingPrice": { "body": "Start with direct sales through Facebook groups for Etsy sellers and Amazon FBA communities. These groups have 50K+ active members who regularly ask for photo editing help. Then expand to product listing on Gumroad and eventually your own landing page.", "action": "Join 5 Facebook groups for online sellers and observe their photo editing discussions.", "stats": [{ "label": "Facebook group members", "value": "50K+" }, { "label": "Initial sales channels", "value": "3 platforms" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -1068,52 +663,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Podcast Show Notes</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Podcast Show Notes solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2829-8487"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Podcast Show Notes saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Podcasters spend 3-5 hours editing show notes for every hour of audio. They're drowning in post-production work that doesn't grow their audience. AI can now transcribe, summarize, and pull quotes with 95% accuracy, turning their biggest time sink into a 10-minute task.", "action": "Build an MVP using OpenAI's Whisper API plus GPT-4 to process 30-minute episodes in under 5 minutes.", "stats": [{ "label": "Podcast episodes published daily", "value": "120,000+" }, { "label": "Hours saved per episode", "value": "3-4" }] }, "value": { "body": "Solo podcasters and small podcast networks are your buyers. They're making $500-5,000 monthly from their shows but hate spending weekends writing show notes. They'll pay $30-80 monthly to get their evenings back and look more professional.", "action": "Target podcasters with 1,000-10,000 downloads who already monetize through sponsorships or courses.", "stats": [{ "label": "Podcasters willing to pay for tools", "value": "68%" }, { "label": "Average time spent on show notes", "value": "4 hours" }] }, "profit": { "body": "Your costs are mostly API calls. OpenAI charges about $0.30 per hour of audio processed. Sell subscriptions at $49/month for 20 episodes. That's $48.70 profit per customer monthly, assuming they use their full allowance.", "action": "Start with 50 customers to hit $2,400 monthly revenue with $1,500 profit margins.", "stats": [{ "label": "Gross margin", "value": "94%" }, { "label": "Monthly profit per customer", "value": "$48.70" }, { "label": "Break-even customers", "value": "12" }] }, "distributors": { "body": "You need OpenAI API access ($20/month minimum), a simple web interface, and cloud hosting. Vercel hosts the frontend free, Railway runs your backend for $5/month. Total tech stack costs under $50 monthly until you hit 100+ customers.", "action": "Sign up for OpenAI API today and build a landing page to collect emails from interested podcasters.", "stats": [{ "label": "Initial monthly costs", "value": "$25-45" }, { "label": "Time to build MVP", "value": "2-3 weeks" }] }, "pricing": { "body": "Use tiered pricing anchored high. Basic at $29/month for 10 episodes, Pro at $49/month for 20 episodes, Agency at $149/month for unlimited. Most will pick Pro because it feels like the smart middle choice.", "action": "Launch with a 7-day free trial and grandfather early customers at 20% off for life.", "stats": [{ "label": "Typical customer tier", "value": "Pro ($49)" }, { "label": "Free trial conversion rate", "value": "15-25%" }] }, "sellingPrice": { "body": "Sell directly through your website, not marketplaces that take cuts. Podcasters buy tools from indie developers all the time. Partner with podcast hosting platforms like Anchor or Buzzsprout for referral deals worth 20-30% commission.", "action": "Build your own checkout with Stripe and reach out to 5 podcast hosting platforms about integration partnerships.", "stats": [{ "label": "Direct sales margin", "value": "97%" }, { "label": "Platform referral rates", "value": "20-30%" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -1182,52 +732,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 100,
       "high": 400
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Invoice Parser</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Invoice Parser solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2213-8852"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Invoice Parser saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Small businesses waste 42 minutes per day manually entering invoice data into accounting systems. AI can now extract text from images with 95% accuracy for under $0.01 per invoice. You're riding the AI automation wave while targeting a boring but profitable pain point.", "action": "Start by targeting local accounting firms who handle 50-200 clients each.", "stats": [{ "label": "Data entry time saved", "value": "42 min/day" }, { "label": "AI accuracy rate", "value": "95%" }, { "label": "Processing cost", "value": "$0.01/invoice" }] }, "value": { "body": "Accounting firms and bookkeepers are your goldmine. They process 100-500 invoices monthly per client and charge $35-50/hour for data entry. A tool that cuts their work by 80% lets them serve more clients without hiring staff.", "action": "Interview 5 local bookkeepers about their current invoice processing workflow.", "stats": [{ "label": "Invoices per client/month", "value": "100-500" }, { "label": "Bookkeeper hourly rate", "value": "$35-50" }, { "label": "Time savings potential", "value": "80%" }] }, "profit": { "body": "You'll pay about $0.02 per invoice for AI processing plus $20/month in hosting. Charge $0.25 per invoice processed. At 1,000 invoices monthly, that's $250 revenue minus $40 costs equals $210 profit per month from one client.", "action": "Build an MVP that processes 10 invoices to test your cost assumptions.", "stats": [{ "label": "Revenue per 1K invoices", "value": "$250" }, { "label": "Monthly costs", "value": "$40" }, { "label": "Profit per client", "value": "$210" }] }, "distributors": { "body": "You need Google Cloud Vision API ($1.50 per 1,000 images), a simple web app built on Vercel (free tier), and Stripe for payments ($0.30 per transaction). Total startup cost under $200 if you code it yourself.", "action": "Sign up for Google Cloud and test their Vision API with 10 sample invoices.", "stats": [{ "label": "API cost", "value": "$1.50/1K images" }, { "label": "Hosting cost", "value": "Free tier" }, { "label": "Payment processing", "value": "$0.30/transaction" }] }, "pricing": { "body": "Price per invoice processed, not monthly subscriptions. Start at $0.25 per invoice with volume discounts at 500+ invoices ($0.20) and 1,000+ invoices ($0.15). This beats hiring a $15/hour assistant who takes 3 minutes per invoice.", "action": "Create a simple pricing calculator showing cost savings versus manual entry.", "stats": [{ "label": "Base price", "value": "$0.25/invoice" }, { "label": "Volume discount 500+", "value": "$0.20/invoice" }, { "label": "Volume discount 1K+", "value": "$0.15/invoice" }] }, "sellingPrice": { "body": "Sell direct to accounting firms through cold email and LinkedIn outreach. Skip app stores and marketplaces. You're B2B, not B2C. One accounting firm with 100 clients can generate $2,000+ monthly recurring revenue.", "action": "Make a list of 50 local accounting firms and start reaching out with a free trial offer.", "stats": [{ "label": "Potential monthly revenue per firm", "value": "$2,000+" }, { "label": "Average clients per firm", "value": "100" }, { "label": "Cold email response rate", "value": "2-5%" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -1296,52 +801,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 100,
       "high": 300
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Diet Plan Generator</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Diet Plan Generator solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1196-4784"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Diet Plan Generator saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "AI diet planning hits the sweet spot between personalization and automation. People want custom meal plans but nutritionists charge $200+ per session. You're selling the convenience of instant, tailored nutrition advice that adapts to their specific goals, dietary restrictions, and food preferences.", "action": "Focus on one specific niche first, like keto meal planning or plant-based diets for athletes.", "stats": [{ "label": "Diet app market size", "value": "$4.2B" }, { "label": "Average nutritionist cost", "value": "$200/session" }] }, "value": { "body": "Your buyers are busy professionals aged 25-45 who've tried generic diet apps and failed. They're willing to pay $15-30 monthly for something that actually works with their schedule, cooking skills, and taste preferences. Think working parents who need 30-minute meal prep plans or fitness enthusiasts tracking macros.", "action": "Survey 50 people in Facebook fitness groups about their biggest meal planning frustrations.", "stats": [{ "label": "Monthly spend on health apps", "value": "$15-30" }, { "label": "Diet app retention rate", "value": "12%" }] }, "profit": { "body": "Your main costs are AI API calls (around $0.50 per plan generated) and hosting ($20-50 monthly). If you charge $20 monthly and get 100 subscribers, that's $2000 revenue with roughly $70 in direct costs. The beauty is each new customer costs almost nothing to serve.", "action": "Test your concept with 10 free users first to nail the AI prompts before investing in paid subscriptions.", "stats": [{ "label": "Cost per AI meal plan", "value": "$0.50" }, { "label": "Gross margin potential", "value": "85-90%" }] }, "distributors": { "body": "You'll need access to OpenAI or Claude API ($20 startup credit), a simple website builder like Bubble or Webflow ($25-50 monthly), and Stripe for payments (2.9% fee). Start with a nutrition database API like Edamam ($69 monthly) for accurate calorie and macro calculations.", "action": "Sign up for OpenAI API and build your first meal plan generator as a simple web form this week.", "stats": [{ "label": "Monthly tool costs", "value": "$100-150" }, { "label": "Initial setup time", "value": "2-3 weeks" }] }, "pricing": { "body": "Use a freemium model with 3 free meal plans, then $19 monthly for unlimited plans and grocery lists. Anchor against expensive alternatives by showing you're 10x cheaper than a nutritionist. Offer an annual plan at $149 (saves users $79) to improve cash flow.", "action": "Price test with early users between $15-25 monthly to find your sweet spot.", "stats": [{ "label": "Recommended monthly price", "value": "$19" }, { "label": "Annual discount target", "value": "30-35%" }] }, "sellingPrice": { "body": "Launch on Product Hunt for initial buzz, then focus on Reddit communities like r/MealPrepSunday and r/loseit. Instagram fitness influencers will promote for $100-500 per post if your product actually works. TikTok content about 'AI meal planning hacks' can go viral organically.", "action": "Create 5 TikTok videos showing your AI generating different meal plans for weird dietary restrictions.", "stats": [{ "label": "Reddit fitness communities", "value": "2M+ members" }, { "label": "Micro-influencer cost", "value": "$100-500/post" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -1411,52 +871,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 100,
       "high": 300
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Logo Generator</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Logo Generator solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2923-17538"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Logo Generator saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Every small business needs a logo but paying $500-2000 for custom design feels insane. AI can now create decent logos in 30 seconds that used to take designers 3 hours. You're selling speed and 'good enough' to people who just want to move forward.", "action": "Focus on the 15 million new businesses started annually in the US who need logos fast.", "stats": [{ "label": "Designer cost", "value": "$500-2000" }, { "label": "AI generation time", "value": "30 seconds" }] }, "value": { "body": "Solo entrepreneurs and micro-businesses (under 10 employees) are your buyers. They're stuck between expensive designers and terrible free options like Canva templates. They'll pay $29-99 for something unique that doesn't look obviously templated.", "action": "Target new LLC filings and business registration databases for fresh leads.", "stats": [{ "label": "Target market size", "value": "32M US small biz" }, { "label": "Sweet spot price", "value": "$29-99" }] }, "profit": { "body": "API costs run about $0.50 per logo generation (OpenAI plus image processing). Sell at $49 and you're making $48.50 per sale. Get 100 sales monthly and that's $4,850 profit on a $200 hosting bill.", "action": "Aim for 20% conversion from free trial to paid within your first 90 days.", "stats": [{ "label": "Cost per logo", "value": "$0.50" }, { "label": "Profit per $49 sale", "value": "$48.50" }, { "label": "Monthly potential", "value": "$4,850" }] }, "distributors": { "body": "You need OpenAI API access ($20/month to start), hosting on Vercel or Railway ($10-20/month), and Stripe for payments (2.9%). The hard part isn't the tech, it's training the AI prompts to create logos that don't suck.", "action": "Start with a simple React app and spend 80% of your time perfecting the prompt engineering.", "stats": [{ "label": "Monthly tech costs", "value": "$30-40" }, { "label": "Stripe fees", "value": "2.9%" }] }, "pricing": { "body": "Anchor at $99 for 'Premium' package (10 concepts, vector files, color variations). Make $49 for 5 concepts look reasonable. Offer $19 'Basic' for 2 concepts to capture price-sensitive customers.", "action": "Test a 3-tier structure with most people choosing the middle $49 option.", "stats": [{ "label": "Premium anchor", "value": "$99" }, { "label": "Sweet spot tier", "value": "$49" }, { "label": "Entry tier", "value": "$19" }] }, "sellingPrice": { "body": "Product Hunt for launch buzz, then Google Ads targeting 'logo design' keywords ($2-5 CPC). Facebook groups for new entrepreneurs are gold mines. Skip Instagram, focus on where people actually start businesses.", "action": "Launch on Product Hunt first, then immediately start Google Ads with a $500 test budget.", "stats": [{ "label": "Google Ads CPC", "value": "$2-5" }, { "label": "Test ad budget", "value": "$500" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -1526,52 +941,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Video Subtitler</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Video Subtitler solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1515-7575"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Video Subtitler saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "YouTube's algorithm favors videos with captions, but 85% of creators still don't add them. Manual captioning costs $3-6 per minute while AI can do it for pennies. The explosion of video content means this pain point is getting worse, not better.", "action": "Start with a simple web interface that accepts video uploads and returns SRT caption files.", "stats": [{ "label": "Videos uploaded daily", "value": "720,000 hours" }, { "label": "Manual caption cost", "value": "$3-6/min" }] }, "value": { "body": "Small YouTubers (1K-100K subs) are your sweet spot. They know captions boost views by 12% but can't afford $150-300 per video for manual work. They'll pay $10-20 for instant AI captions they can quickly edit.", "action": "Join YouTube creator Facebook groups and offer free trials to channels with 5K+ subscribers.", "stats": [{ "label": "View boost with captions", "value": "12%" }, { "label": "Target subscriber range", "value": "1K-100K" }] }, "profit": { "body": "OpenAI's Whisper API costs $0.006 per minute of audio. You can charge $0.50-1.00 per minute and pocket 85-95% profit. Process 1,000 minutes monthly and you're making $400-900 with almost no overhead.", "action": "Calculate your break-even at 100 minutes processed per month, then focus on hitting 500 minutes.", "stats": [{ "label": "API cost per minute", "value": "$0.006" }, { "label": "Profit margin", "value": "85-95%" }] }, "distributors": { "body": "You'll need OpenAI API access ($5 minimum deposit), a simple web hosting plan ($10-20/month), and basic payment processing through Stripe. No inventory, no shipping, no physical anything. Your laptop and internet connection are your factory.", "action": "Set up a Vercel account for hosting and get OpenAI API credentials before building anything.", "stats": [{ "label": "Monthly hosting", "value": "$10-20" }, { "label": "OpenAI minimum deposit", "value": "$5" }] }, "pricing": { "body": "Charge per minute of video, not per project. Start at $0.75/minute with bulk discounts (50+ minutes gets $0.50/minute). This beats manual transcription by 80% while staying profitable.", "action": "Offer your first 10 customers a 'founder rate' of $0.50/minute to get testimonials and feedback.", "stats": [{ "label": "Starting price", "value": "$0.75/min" }, { "label": "Bulk discount price", "value": "$0.50/min" }] }, "sellingPrice": { "body": "Skip the app stores initially. Build a simple landing page and drive traffic through YouTube creator communities, Reddit's r/NewTubers, and Twitter. ProductHunt launch can get you 500-1000 early users if done right.", "action": "Create accounts on Indie Hackers, Reddit, and Twitter today and start sharing your building journey.", "stats": [{ "label": "r/NewTubers members", "value": "180K+" }, { "label": "ProductHunt potential users", "value": "500-1,000" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -1642,52 +1012,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 200,
       "high": 600
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Pricing Optimizer</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Pricing Optimizer solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$664-3984"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Pricing Optimizer saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Small e-commerce stores are drowning in pricing decisions. They check competitors manually or guess, losing 15-25% profit from mispricing. You're building software that watches market data and adjusts prices automatically.", "action": "Start with one product category like electronics or supplements where pricing changes frequently.", "stats": [{ "label": "E-commerce stores in US", "value": "2.1M" }, { "label": "Average pricing errors", "value": "15-25%" }] }, "value": { "body": "Online store owners with $50K-$500K annual revenue are your buyers. They're manually checking Amazon prices at 2am or using gut feelings for pricing. They'll pay $200-800/month to automate this and increase profit margins.", "action": "Target Shopify store owners in home goods or beauty who sell 20+ products.", "stats": [{ "label": "Target revenue range", "value": "$50K-$500K" }, { "label": "Monthly willingness to pay", "value": "$200-$800" }] }, "profit": { "body": "Your costs are $80-120/month for data feeds and hosting per customer. Charge $300/month per store. That's $180-220 profit per customer, so 50 customers gets you $9K-11K monthly.", "action": "Build an MVP for $500 using no-code tools and free trial APIs first.", "stats": [{ "label": "Cost per customer", "value": "$80-$120" }, { "label": "Profit per customer", "value": "$180-$220" }, { "label": "50 customers profit", "value": "$9K-$11K" }] }, "distributors": { "body": "You need pricing data APIs like PriceAPI or Keepa ($50-200/month), a no-code platform like Bubble ($29/month), and payment processing via Stripe (2.9%). Total monthly overhead stays under $300.", "action": "Start with PriceAPI's free tier and Bubble's personal plan to test your concept.", "stats": [{ "label": "Data API costs", "value": "$50-$200" }, { "label": "Platform costs", "value": "$29/month" }, { "label": "Total overhead", "value": "Under $300" }] }, "pricing": { "body": "Offer three tiers: Basic at $99 (up to 100 products), Pro at $299 (up to 1,000 products), and Enterprise at $599 (unlimited). Most customers pick the middle option when you anchor high.", "action": "Start with just Basic and Pro tiers, add Enterprise once you have 20+ customers.", "stats": [{ "label": "Basic tier", "value": "$99" }, { "label": "Pro tier", "value": "$299" }, { "label": "Enterprise tier", "value": "$599" }] }, "sellingPrice": { "body": "Sell directly through your website and the Shopify App Store. Shopify takes 20% but gives you access to 4.6 million stores. Cold email works too since store owners check email constantly for orders.", "action": "Apply to Shopify App Store first, then build an email list of store owners through LinkedIn outreach.", "stats": [{ "label": "Shopify stores", "value": "4.6M" }, { "label": "Shopify commission", "value": "20%" }, { "label": "Email open rates", "value": "22-25%" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -1756,52 +1081,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 100,
       "high": 400
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Proposal Writer</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Proposal Writer solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$901-5406"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Proposal Writer saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Freelancers and agencies waste 8-12 hours writing each proposal, and 80% get rejected anyway. AI can now generate coherent, customized proposals in minutes instead of hours. The timing's perfect because ChatGPT proved businesses trust AI for writing tasks.", "action": "Start by targeting freelance writers and consultants who already understand proposal pain.", "stats": [{ "label": "Avg proposal time", "value": "8-12 hours" }, { "label": "Typical win rate", "value": "20%" }] }, "value": { "body": "Freelancers billing $75-150/hour are your buyers. They're losing $600-1,800 in time per proposal that doesn't convert. Marketing agencies writing 4-6 proposals monthly will pay $50-200/month to save 30+ hours.", "action": "Interview 5 freelancers about their biggest proposal frustrations this week.", "stats": [{ "label": "Time cost per proposal", "value": "$600-1,800" }, { "label": "Agency proposals/month", "value": "4-6" }] }, "profit": { "body": "Your costs are $20-40/month for OpenAI API calls per customer. Charge $49-199/month subscription. With 50 customers at $99 average, you're making $4,950 monthly revenue minus $1,500 in API costs.", "action": "Calculate your breakeven at 15-20 paying customers to cover development time.", "stats": [{ "label": "API cost/customer", "value": "$20-40/month" }, { "label": "50 customers profit", "value": "$3,450/month" }] }, "distributors": { "body": "You need a no-code tool like Bubble or basic coding skills for the interface. OpenAI API access costs $5 to start. Stripe handles payments for 2.9% per transaction.", "action": "Sign up for OpenAI API and build a simple prompt interface first.", "stats": [{ "label": "OpenAI minimum", "value": "$5" }, { "label": "Stripe fee", "value": "2.9%" }] }, "pricing": { "body": "Price at $49 (basic), $99 (pro), and $199 (agency) monthly tiers. Most competitors charge $79-299, so you're positioned competitively. Anchor the agency tier at $199 to make $99 feel reasonable.", "action": "Start with just two tiers to simplify choice and test demand.", "stats": [{ "label": "Competitor range", "value": "$79-299" }, { "label": "Sweet spot", "value": "$99/month" }] }, "sellingPrice": { "body": "Sell direct through your website, not marketplaces that take 30% cuts. Use ProductHunt for launch buzz, then LinkedIn outreach to freelancers. Join freelancer Facebook groups where your buyers hang out daily.", "action": "Build a simple landing page and start collecting email addresses before you build anything.", "stats": [{ "label": "Marketplace cut", "value": "30%" }, { "label": "LinkedIn freelancers", "value": "57M+" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -1870,52 +1150,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Flashcard Maker</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Flashcard Maker solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2165-8660"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Flashcard Maker saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Students are drowning in PDF textbooks and messy notes. They spend 2-3 hours manually making flashcards that AI can create in 30 seconds. The explosion of remote learning means 73% of college students now study primarily from digital materials, but flashcard apps like Anki still require manual input.", "action": "Build an MVP that converts one PDF page into 5-10 flashcards to prove the concept works.", "stats": [{ "label": "PDF study materials", "value": "73% of students" }, { "label": "Manual flashcard time", "value": "2-3 hours" }, { "label": "AI processing time", "value": "30 seconds" }] }, "value": { "body": "College students and professionals studying for certifications are your buyers. They're already paying $12-15/month for apps like Quizlet Plus or Anki Pro. Your pain point is different though - you're solving the input problem, not the study problem.", "action": "Survey 20 students about how long they spend making flashcards from their textbooks.", "stats": [{ "label": "Quizlet Plus price", "value": "$12/month" }, { "label": "College students in US", "value": "19.6 million" }, { "label": "Time spent making cards", "value": "45 min/chapter" }] }, "profit": { "body": "OpenAI API costs about $0.02 per PDF page processed. You'll charge $15/month for unlimited conversions. If a customer processes 100 pages monthly, your cost is $2, leaving $13 profit per subscriber. With 200 paying customers, that's $2,600/month.", "action": "Calculate exact API costs by testing with 10 different PDF types and page lengths.", "stats": [{ "label": "API cost per page", "value": "$0.02" }, { "label": "Monthly subscription", "value": "$15" }, { "label": "Profit per customer", "value": "$13" }] }, "distributors": { "body": "You need OpenAI API access ($200 credit gets you started), a simple web app framework like Bubble or Webflow ($29/month), and PDF processing capability through something like PDF.js (free). Total monthly overhead is under $50 until you hit 1,000+ users.", "action": "Sign up for OpenAI API and test PDF text extraction with 5 different textbook pages.", "stats": [{ "label": "OpenAI starter credit", "value": "$200" }, { "label": "No-code platform", "value": "$29/month" }, { "label": "PDF processing", "value": "Free" }] }, "pricing": { "body": "Start with freemium - 10 pages free, then $15/month unlimited. This beats Quizlet's manual approach and undercuts specialized AI study tools that charge $25-40/month. Your anchor is the 3 hours of manual work you're saving.", "action": "Research what students currently pay for study subscriptions and productivity tools.", "stats": [{ "label": "Free tier limit", "value": "10 pages" }, { "label": "Premium price", "value": "$15/month" }, { "label": "Time saved per use", "value": "3 hours" }] }, "sellingPrice": { "body": "Reddit's r/studytips and r/college are goldmines with 500k+ active students discussing study methods daily. TikTok study accounts and YouTube productivity channels will demo your tool for free products. Campus Facebook groups and Discord study servers convert better than ads.", "action": "Post a simple demo video in 3 college subreddits asking for feedback.", "stats": [{ "label": "r/college members", "value": "500k+" }, { "label": "Study TikTok views", "value": "2B+ monthly" }, { "label": "Campus Facebook groups", "value": "1,200+ active" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -1985,52 +1220,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Recipe Generator</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Recipe Generator solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$565-3390"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Recipe Generator saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Food waste hits 40% of all groceries in America, and most people stare at their fridge wondering what to cook. AI recipe generators solve this by turning random ingredients into actual meals. The timing's perfect because ChatGPT proved people trust AI for creative tasks, and grocery prices make waste feel expensive.", "action": "Build a simple MVP using OpenAI's API to generate recipes from ingredient lists.", "stats": [{ "label": "Food waste yearly", "value": "$1,500 per household" }, { "label": "Recipe apps downloads", "value": "50M+ in 2023" }] }, "value": { "body": "Busy parents and young professionals who meal prep but hate planning. They've got ingredients but no inspiration, and they're tired of ordering takeout for $15-20 per meal. They'll pay $5-10 monthly to stop wasting food and save money on groceries.", "action": "Survey 50 people about their biggest cooking frustrations and how much they spend on food waste.", "stats": [{ "label": "Target market size", "value": "85M households" }, { "label": "Average takeout order", "value": "$18.50" }] }, "profit": { "body": "Your main cost is AI API calls at $0.002 per recipe generation. With a $7 monthly subscription, you need users generating 50+ recipes monthly to break even on API costs. At 1,000 subscribers, you're looking at $6,000 monthly revenue minus $100 in API costs.", "action": "Calculate your exact API costs by testing 100 recipe generations with OpenAI.", "stats": [{ "label": "Gross margin", "value": "95%+" }, { "label": "Break-even users", "value": "300 subscribers" }] }, "distributors": { "body": "You need OpenAI API access ($20 monthly minimum), a simple web app (use Bubble or Webflow), and Stripe for payments. Total monthly overhead runs $30-50 before you get your first customer. No inventory, no shipping, just code and API calls.", "action": "Sign up for OpenAI API and build a basic recipe generator in one weekend.", "stats": [{ "label": "Initial setup cost", "value": "$150-200" }, { "label": "Monthly overhead", "value": "$30-50" }] }, "pricing": { "body": "Start with freemium - 5 free recipes monthly, then $7 for unlimited. Most successful food apps use this model because people need to trust the AI first. Anchor against meal delivery services at $60+ weekly to make $7 feel cheap.", "action": "Launch with 3-day free trial, then prompt for $7 monthly subscription.", "stats": [{ "label": "Freemium conversion", "value": "2-5%" }, { "label": "Meal kit comparison", "value": "$60-80 weekly" }] }, "sellingPrice": { "body": "App stores are obvious but competitive. Better to start with Product Hunt launch, then TikTok videos showing the AI in action. Food bloggers and meal prep influencers will demo this for free products because it's genuinely useful content.", "action": "Create 10 TikTok videos of the AI generating recipes from weird ingredient combinations.", "stats": [{ "label": "App store competition", "value": "12,000+ recipe apps" }, { "label": "TikTok food content views", "value": "43B yearly" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -2099,52 +1289,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 200,
       "high": 600
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Legal Doc Analyzer</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Legal Doc Analyzer solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2890-8670"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Legal Doc Analyzer saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Small law firms spend 40% of their billable hours reviewing contracts manually. AI can now spot red flags in NDAs, employment agreements, and vendor contracts in under 2 minutes. You're not replacing lawyers, you're making them faster at the tedious stuff they hate doing.", "action": "Start by building a simple tool that flags common issues in one contract type, like NDAs.", "stats": [{ "label": "Contract review time saved", "value": "85%" }, { "label": "Small law firms in US", "value": "160,000" }] }, "value": { "body": "Solo lawyers and 2-10 person firms who bill $200-400 per hour but waste time on routine contract reviews. They'll pay $50-150 monthly to free up 10 hours per week for higher-value work. Real estate attorneys reviewing purchase agreements are your sweet spot.", "action": "Interview 5 solo attorneys about their biggest contract review headaches this week.", "stats": [{ "label": "Hours saved per attorney monthly", "value": "40" }, { "label": "Value of freed time monthly", "value": "$8,000" }] }, "profit": { "body": "OpenAI API costs you $0.10 per document analyzed. You charge $2-5 per document or $99 monthly for unlimited. With 50 paying customers doing 100 docs monthly, that's $4,950 revenue minus $500 in AI costs. Your margin is 90% after the first year.", "action": "Calculate your break-even point at 20 customers to cover your $300 monthly OpenAI budget.", "stats": [{ "label": "Cost per document", "value": "$0.10" }, { "label": "Revenue per document", "value": "$2-5" }, { "label": "Monthly profit at 50 customers", "value": "$4,450" }] }, "distributors": { "body": "You need OpenAI API access ($20 monthly minimum), a simple web interface (Bubble or Webflow, $30/month), and legal document templates to train your prompts. No complex infrastructure needed. Your biggest expense is actually getting sample contracts to test with.", "action": "Sign up for OpenAI API and build a basic document upload interface this weekend.", "stats": [{ "label": "Monthly tool costs", "value": "$50" }, { "label": "Setup time needed", "value": "2 weeks" }, { "label": "Technical skills required", "value": "Basic" }] }, "pricing": { "body": "Start with pay-per-document at $3 each to test demand without commitment. Once you prove value, offer a $99 monthly unlimited plan. Law firms think in billable hours, so position this as 'pays for itself with one saved hour.'", "action": "Launch with simple per-document pricing, then survey users about monthly plans after 30 days.", "stats": [{ "label": "Per-document price", "value": "$3" }, { "label": "Monthly unlimited plan", "value": "$99" }, { "label": "Conversion rate to monthly", "value": "30-40%" }] }, "sellingPrice": { "body": "LinkedIn is perfect for reaching solo attorneys and small firm partners directly. Legal forums like JD Supra and Avvo have engaged audiences. Skip the big legal conferences initially, they're expensive and you'll get lost among enterprise vendors.", "action": "Create a LinkedIn business page and start commenting helpfully in legal professional groups.", "stats": [{ "label": "LinkedIn legal professionals", "value": "3M+" }, { "label": "Cost per legal lead", "value": "$15-30" }, { "label": "Conversion rate from demo", "value": "15-25%" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -2214,52 +1359,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 100,
       "high": 300
     },
-    "breakdown": {
-      "strategy": {
-        "body": "AI tools win on <strong>one specific output</strong>. <strong>AI Workout Planner</strong> shouldn't try to be ChatGPT. It should do one thing that ChatGPT does poorly: take a messy input from a specific profession and produce a polished, formatted, ready-to-use output. <strong>The output quality is your moat.</strong>",
-        "action": "Write the one problem AI Workout Planner solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>professional drowning in repetitive work</strong>. They've tried ChatGPT but the output needs too much editing. They want a tool that knows their domain and produces ready-to-use results. They'll pay $19-49/mo without blinking if it saves them 1 hour/week.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2401-7203"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If AI Workout Planner saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Fitness apps are everywhere, but most give you the same cookie-cutter workouts. People want personalized plans that actually use their equipment. AI can now create custom routines in seconds, not the weeks it takes human trainers.", "action": "Build a simple form that asks about goals, available equipment, and fitness level to generate instant workout plans.", "stats": [{ "label": "Fitness app market size", "value": "$4.4B" }, { "label": "Users wanting personalization", "value": "73%" }] }, "value": { "body": "Busy professionals aged 25-45 who bought home gym equipment during COVID but don't know how to use it effectively. They're willing to pay $15-30 monthly to avoid wasting time on bad workouts. These people already spend $200+ on fitness subscriptions yearly.", "action": "Survey 10 people with home gym equipment about their biggest workout planning frustrations.", "stats": [{ "label": "Home gym equipment owners", "value": "76M Americans" }, { "label": "Monthly fitness app spending", "value": "$15-30" }] }, "profit": { "body": "With $200 starting costs, you can build an MVP using OpenAI's API at $0.002 per workout generated. Charge $19.99 monthly and keep 85% after payment processing. If you get 100 subscribers, that's $1,700 monthly revenue minus $150 in AI costs.", "action": "Calculate your break-even point at 15 paying subscribers to cover initial development time.", "stats": [{ "label": "Monthly profit per 100 users", "value": "$1,550" }, { "label": "AI cost per workout", "value": "$0.002" }] }, "distributors": { "body": "You need OpenAI API access, a simple website builder like Bubble or Webflow, and Stripe for payments. Total monthly costs stay under $100 until you hit 500+ users. No inventory, no shipping, no physical products to manage.", "action": "Sign up for OpenAI API and test generating 3 different workout plans to understand the output quality.", "stats": [{ "label": "Monthly tool costs", "value": "$50-100" }, { "label": "Setup time", "value": "2-4 weeks" }] }, "pricing": { "body": "Start with one tier at $19.99 monthly, positioned between basic apps ($9.99) and personal trainers ($80+ per session). Offer a 7-day free trial since people need to test if your AI actually creates good workouts for their specific equipment.", "action": "Research 5 competitor apps to confirm your $19.99 price point sits in the sweet spot.", "stats": [{ "label": "Competitor range", "value": "$9.99-29.99" }, { "label": "Free trial conversion", "value": "15-25%" }] }, "sellingPrice": { "body": "Launch on your own website first to keep 100% of revenue and test product-market fit. Then expand to iOS App Store where fitness apps get discovered organically. Avoid Android initially since fitness app users on iOS spend 3x more on subscriptions.", "action": "Build a landing page with email signup to gauge interest before coding the full app.", "stats": [{ "label": "iOS vs Android spending", "value": "3x higher" }, { "label": "App Store fitness category rank needed", "value": "Top 100" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -2328,52 +1428,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Tab Manager Extension</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Tab Manager Extension solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1605-6420"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Tab Manager Extension saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Remote workers open 30-50+ browser tabs daily. Chrome's built-in tab groups are clunky and disappear when you restart. Power users desperately want session management that actually works across devices.", "action": "Build a simple MVP that saves and restores tab groups with one click.", "stats": [{ "label": "Daily tabs per remote worker", "value": "30-50+" }, { "label": "Chrome extension users", "value": "200M+" }] }, "value": { "body": "Knowledge workers, developers, and researchers who juggle multiple projects. They lose 10-15 minutes daily reorganizing tabs after browser crashes or restarts. They'll pay $3-5/month to never lose their workspace again.", "action": "Survey 50 remote workers about their tab management pain points.", "stats": [{ "label": "Time lost daily", "value": "10-15 min" }, { "label": "Target monthly price", "value": "$3-5" }] }, "profit": { "body": "Development costs you $0-50 (just your time). Charge $4/month per user. At 1,000 users, you're making $4,000/month with 95% profit margins since hosting costs are minimal.", "action": "Aim for 100 users in month one to validate demand.", "stats": [{ "label": "Monthly revenue at 1K users", "value": "$4,000" }, { "label": "Profit margin", "value": "95%" }] }, "distributors": { "body": "You need basic JavaScript skills and Chrome extension documentation (free). Use GitHub for version control and Chrome Web Store for distribution. Total setup cost under $25 for developer account.", "action": "Register for Chrome Web Store developer account ($5 one-time fee).", "stats": [{ "label": "Chrome developer fee", "value": "$5" }, { "label": "Monthly hosting cost", "value": "$10-20" }] }, "pricing": { "body": "Start free with basic features, then $4/month for unlimited sessions and cloud sync. Anchor against $50/month productivity tools like Notion. Position as 'coffee money' for massive time savings.", "action": "Launch with 7-day free trial, no credit card required.", "stats": [{ "label": "Free tier limit", "value": "3 sessions" }, { "label": "Premium price", "value": "$4/month" }] }, "sellingPrice": { "body": "Chrome Web Store is your main channel (built-in discovery). Promote in productivity subreddits, Hacker News, and Product Hunt. Tab management extensions regularly hit 10K-100K+ users within 6 months.", "action": "Submit to Product Hunt on launch day for initial visibility boost.", "stats": [{ "label": "Chrome Web Store reach", "value": "200M+ users" }, { "label": "Successful extensions users", "value": "10K-100K+" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -2443,52 +1498,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Price Tracker Extension</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Price Tracker Extension solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1990-5970"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Price Tracker Extension saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Amazon changes prices 2.5 million times per day, but most shoppers only check once before buying. You're building a tool that catches price drops automatically. Extensions like Honey and Capital One Shopping prove people want savings without effort.", "action": "Start with Chrome extension focused on Amazon only, then expand to other retailers.", "stats": [{ "label": "Price changes daily", "value": "2.5M" }, { "label": "Chrome users", "value": "3.2B" }] }, "value": { "body": "Online shoppers who buy $200+ items regularly but hate missing deals. Think parents buying electronics, gamers tracking consoles, or small business owners purchasing supplies. They'll pay $3-10/month to never overpay again.", "action": "Survey 50 people who've bought something over $100 online in the last month about their price-checking habits.", "stats": [{ "label": "Average cart value", "value": "$85" }, { "label": "Deal seekers", "value": "73%" }] }, "profit": { "body": "Freemium model with 5% converting to premium at $5/month. With 10,000 users, that's 500 paying customers generating $2,500 monthly. Your only real cost is hosting at $50-200/month.", "action": "Build MVP and aim for 1,000 free users first, then optimize for premium conversions.", "stats": [{ "label": "Monthly revenue potential", "value": "$2,500" }, { "label": "Hosting costs", "value": "$50-200" }, { "label": "Profit margin", "value": "90%+" }] }, "distributors": { "body": "You need Chrome Web Store developer account ($5), basic web scraping knowledge, and Amazon's Product Advertising API access. No physical inventory or suppliers required. Your 'materials' are code and data.", "action": "Register Chrome developer account and start learning web scraping with Beautiful Soup or Scrapy.", "stats": [{ "label": "Developer account", "value": "$5" }, { "label": "API requests/day", "value": "8,640" }, { "label": "Setup time", "value": "2-4 weeks" }] }, "pricing": { "body": "Free tier tracks 10 items with basic alerts. Premium at $4.99/month for unlimited tracking, price history graphs, and deal predictions. Annual plan at $39.99 saves users $20.", "action": "Test pricing with early users, starting at $2.99 and gradually increasing based on value delivered.", "stats": [{ "label": "Free tier limit", "value": "10 items" }, { "label": "Premium monthly", "value": "$4.99" }, { "label": "Annual discount", "value": "33%" }] }, "sellingPrice": { "body": "Chrome Web Store is your primary channel with 2+ billion potential users. Later expand to Firefox Add-ons and Microsoft Edge. No other platform needed since it's a browser extension.", "action": "Submit to Chrome Web Store first, optimize for keywords like 'price tracker' and 'Amazon deals'.", "stats": [{ "label": "Chrome store users", "value": "2B+" }, { "label": "Extension downloads daily", "value": "200K+" }, { "label": "Store commission", "value": "5%" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -2557,52 +1567,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Screenshot & Annotate</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Screenshot & Annotate solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2000-8000"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Screenshot & Annotate saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Remote work killed the watercooler conversation. Now feedback happens in Slack threads with 12 screenshots and confusing arrows drawn in Paint. Teams waste 2-3 hours weekly just explaining what they mean in visual feedback.", "action": "Build for the specific pain of design reviews and bug reports first.", "stats": [{ "label": "Remote teams", "value": "42% of workforce" }, { "label": "Visual feedback tools", "value": "$2.1B market" }] }, "value": { "body": "Product managers and UX designers buy this. They're drowning in feedback chaos when stakeholders mark up designs. A PM at a 50-person startup will pay $15/month to stop playing screenshot telephone with developers.", "action": "Interview 5 product managers about their current screenshot workflow this week.", "stats": [{ "label": "PMs per company", "value": "1 per 25 employees" }, { "label": "Design tool spend", "value": "$200-500/month" }] }, "profit": { "body": "SaaS margins are beautiful once you hit scale. Your costs are $2-4 per user monthly (hosting, storage, support). Sell at $15/user and you're looking at 70-80% margins after year one.", "action": "Start with a $29/month team plan for 5 users to test willingness to pay.", "stats": [{ "label": "Gross margin target", "value": "75%" }, { "label": "Monthly revenue at 100 users", "value": "$1,500" }] }, "distributors": { "body": "You need cloud hosting (AWS starts at $20/month), screenshot API tools like Puppeteer, and annotation libraries. Frontend frameworks are free. Your biggest cost is customer acquisition, not tech stack.", "action": "Set up a landing page with Vercel and test the screenshot capture with browser APIs first.", "stats": [{ "label": "Initial hosting cost", "value": "$20-50/month" }, { "label": "Development time", "value": "2-3 months MVP" }] }, "pricing": { "body": "Anchor high with an Enterprise tier at $49/month, then offer Starter at $15 and Pro at $29. Most SaaS tools in this space charge $10-25 per user. Your sweet spot is the Pro tier for growing teams.", "action": "Test three price points with early users before you build billing.", "stats": [{ "label": "Competitor range", "value": "$10-25/user" }, { "label": "Freemium limit", "value": "50 screenshots/month" }] }, "sellingPrice": { "body": "Product Hunt for launch buzz, then LinkedIn outreach to product managers. Skip app stores. Your buyers live in Slack, browse Product Hunt, and follow design Twitter. Direct sales beats everything once you hit $5K MRR.", "action": "Build an email list of 100 PMs before you launch by sharing design workflow tips.", "stats": [{ "label": "LinkedIn PMs", "value": "500K+ worldwide" }, { "label": "Product Hunt daily visitors", "value": "150K" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -2672,52 +1637,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Email Tracker Extension</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Email Tracker Extension solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1477-4431"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Email Tracker Extension saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Remote work exploded email volume by 57% since 2020. Sales teams are drowning in follow-ups because they can't tell if prospects even opened their pitch. You're solving the anxiety of sending important emails into a black hole.", "action": "Build a simple Chrome extension that adds invisible pixels to track opens, then displays notifications.", "stats": [{ "label": "Gmail users worldwide", "value": "1.8B" }, { "label": "Average sales emails sent daily", "value": "126" }] }, "value": { "body": "Sales reps and freelancers buy this. They send 50-200 emails weekly and hate wondering if clients are ignoring them or just busy. A $15/month tool that confirms 'email delivered and read' removes that stress completely.", "action": "Target sales professionals on LinkedIn who post about email frustrations.", "stats": [{ "label": "Sales reps in US", "value": "6.2M" }, { "label": "Willingness to pay monthly", "value": "$10-25" }] }, "profit": { "body": "Development costs you $150 for basic coding skills or freelancer. Monthly hosting runs $20 for 1,000 users. At $15/month with 200 subscribers, you're making $2,780 monthly profit after year one.", "action": "Start with a 100-user beta to test tracking accuracy before scaling.", "stats": [{ "label": "Monthly hosting cost", "value": "$20" }, { "label": "Profit margin", "value": "92%" }, { "label": "Break-even users", "value": "12" }] }, "distributors": { "body": "You need basic JavaScript knowledge and Chrome Web Store developer account ($5 fee). Use Mixpanel or similar for analytics tracking. No inventory, no shipping, no physical materials required.", "action": "Register for Chrome Web Store developer account and learn basic extension development through YouTube tutorials.", "stats": [{ "label": "Chrome Web Store fee", "value": "$5" }, { "label": "Development time", "value": "2-4 weeks" }] }, "pricing": { "body": "Free version tracks 50 emails monthly to hook users. Pro at $15/month for unlimited tracking plus read receipts. Enterprise at $35/month adds team analytics and custom domains.", "action": "Launch with just free and $15 Pro tier, add Enterprise after 500+ users.", "stats": [{ "label": "Free tier limit", "value": "50 emails" }, { "label": "Pro conversion rate", "value": "8-12%" }] }, "sellingPrice": { "body": "Chrome Web Store gets you discovered organically. Product Hunt launch drives initial users. Sales-focused Facebook groups and Reddit communities are goldmines for early customers who'll actually pay.", "action": "Start posting helpful email tips in sales subreddits while building your extension.", "stats": [{ "label": "Chrome Web Store users", "value": "3B+" }, { "label": "r/sales members", "value": "180K" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -2787,52 +1707,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Bookmark Manager Pro</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Bookmark Manager Pro solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2562-15372"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Bookmark Manager Pro saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Browser bookmarks are broken. People have 200+ bookmarks they can't find because they're buried in folders or just random lists. Visual bookmarks with smart tagging solve what Google hasn't fixed in 20 years.", "action": "Build an MVP that imports existing bookmarks and automatically generates thumbnails and suggested tags.", "stats": [{ "label": "Average bookmarks per user", "value": "247" }, { "label": "Users who organize bookmarks", "value": "12%" }] }, "value": { "body": "Knowledge workers and researchers are your goldmine. They bookmark 15-30 articles per week but waste 5 minutes finding each one later. A designer at Figma pays $8/month to save 2 hours of searching weekly.", "action": "Survey 50 people about their bookmark habits and pain points before building anything.", "stats": [{ "label": "Time wasted finding bookmarks weekly", "value": "2.3 hours" }, { "label": "Knowledge workers in US", "value": "65M" }] }, "profit": { "body": "Your costs are hosting (AWS starts at $12/month) and your time. Charge $8/month and you're profitable at 2 customers. At 500 subscribers, you're making $4,000 monthly with 92% margins.", "action": "Start with a $3/month plan to test demand, then add premium tiers once you hit 100 users.", "stats": [{ "label": "Monthly hosting cost", "value": "$12-50" }, { "label": "Gross margin", "value": "92%" }, { "label": "Break-even users", "value": "2" }] }, "distributors": { "body": "You need a web app (React or Vue), browser extension, and cloud storage. Use Vercel for hosting ($20/month), AWS S3 for image storage, and Stripe for payments. Total monthly overhead under $100.", "action": "Start with a simple web app first, then build the browser extension once you validate demand.", "stats": [{ "label": "Monthly tool costs", "value": "$45-80" }, { "label": "Development time to MVP", "value": "6-8 weeks" }] }, "pricing": { "body": "Free tier with 50 bookmarks hooks users. Premium at $8/month for unlimited bookmarks and advanced search. Enterprise at $25/month adds team sharing and admin controls.", "action": "Launch with just free and premium tiers, add enterprise pricing after 6 months.", "stats": [{ "label": "Freemium conversion rate", "value": "3-7%" }, { "label": "Average revenue per user", "value": "$6.20" }] }, "sellingPrice": { "body": "Product Hunt for launch day buzz. Reddit communities like r/productivity and r/webdev for organic growth. Chrome Web Store gets you discovered by people actively seeking bookmark tools.", "action": "Build your email list on Twitter by sharing bookmark organization tips 3 months before launch.", "stats": [{ "label": "Chrome Web Store weekly searches", "value": "8,200" }, { "label": "Product Hunt bookmark tool launches", "value": "12/year" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -2900,52 +1775,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 30,
       "high": 100
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Focus Timer Extension</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Focus Timer Extension solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2491-7473"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Focus Timer Extension saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Remote work exploded productivity apps into a $4.8 billion market. Browser extensions get installed 2.5x more than desktop apps because they're right where people procrastinate. You're solving the exact moment someone opens Instagram instead of working.", "action": "Build a Chrome extension first, then expand to Firefox and Edge.", "stats": [{ "label": "Chrome Web Store Downloads", "value": "200M+ daily" }, { "label": "Productivity App Market", "value": "$4.8B" }] }, "value": { "body": "Remote workers, freelancers, and students who lose 2-3 hours daily to distractions. They're already paying $5-15/month for tools like Freedom or Cold Turkey. Your combo of Pomodoro timer plus instant site blocking hits both planning and execution.", "action": "Survey 50 people about their biggest distraction websites and current timer apps.", "stats": [{ "label": "Average Distraction Time", "value": "2.5 hours/day" }, { "label": "Existing Tool Pricing", "value": "$5-15/month" }] }, "profit": { "body": "Extensions cost almost nothing to host. At $4.99/month with 500 subscribers, you're making $2,495 monthly. Your only real costs are hosting ($20) and payment processing (3%).", "action": "Aim for 100 users in month one, then grow 20% monthly.", "stats": [{ "label": "Monthly Revenue Target", "value": "$2,495" }, { "label": "Profit Margin", "value": "94%" }, { "label": "Hosting Cost", "value": "$20/month" }] }, "distributors": { "body": "You need basic coding skills or a developer friend. Use Manifest V3 for Chrome extensions, Firebase for user data, and Stripe for payments. GitHub has free hosting for your landing page.", "action": "Start with a free Pomodoro timer, then add paid blocking features.", "stats": [{ "label": "Development Cost", "value": "$0-500" }, { "label": "Chrome Store Fee", "value": "$5 one-time" }] }, "pricing": { "body": "Free version with basic 25-minute timers. Premium at $4.99/month for custom intervals and site blocking. Annual plan at $39.99 (33% discount) to improve cash flow.", "action": "Test pricing with a simple landing page before building the full extension.", "stats": [{ "label": "Monthly Premium", "value": "$4.99" }, { "label": "Annual Discount", "value": "33%" }, { "label": "Freemium Conversion", "value": "3-5%" }] }, "sellingPrice": { "body": "Chrome Web Store is your main channel since that's where people discover extensions. ProductHunt for launch buzz. Reddit's r/productivity and r/getmotivated for organic growth.", "action": "Submit to Chrome Web Store first, then plan a ProductHunt launch for week two.", "stats": [{ "label": "Chrome Store Reach", "value": "2B+ users" }, { "label": "ProductHunt Traffic", "value": "50K+ visitors/day" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -3015,52 +1845,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 100,
       "high": 400
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Grammar Checker</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Grammar Checker solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$768-3072"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Grammar Checker saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Everyone thinks Grammarly owns this space, but they're missing 80% of potential users. Most people won't pay $12/month for writing help, but they'd pay $3-5 for something simpler. The real opportunity is building a lightweight Chrome extension that catches basic errors without the bloated features.", "action": "Focus on one core feature that Grammarly overdoes, like comma placement or common word mix-ups.", "stats": [{ "label": "Grammarly users", "value": "30M" }, { "label": "Chrome extensions market", "value": "$2.8B" }, { "label": "Average SaaS profit margin", "value": "75%" }] }, "value": { "body": "Your buyers are college students, non-native English speakers, and small business owners who write emails daily. They're frustrated by embarrassing typos but won't commit to expensive tools. Students especially will pay $2-3/month because it's cheaper than one coffee.", "action": "Survey 50 people in Facebook groups for international students or small business owners about their writing pain points.", "stats": [{ "label": "College students in US", "value": "19.6M" }, { "label": "Non-native English speakers", "value": "67M" }, { "label": "Average student monthly app spend", "value": "$23" }] }, "profit": { "body": "At $3/month per user, you need just 167 subscribers to hit $500 monthly profit. Your only real costs are hosting (around $50/month) and AI API calls ($0.02 per check). If you get 1,000 users, that's $2,950 in monthly revenue with maybe $200 in costs.", "action": "Calculate your break-even at 100, 500, and 1,000 users to set realistic growth targets.", "stats": [{ "label": "Monthly hosting cost", "value": "$50" }, { "label": "AI API cost per check", "value": "$0.02" }, { "label": "Profit at 1,000 users", "value": "$2,750" }] }, "distributors": { "body": "You'll need a Chrome extension developer ($200-400 one-time), access to OpenAI or Google's language APIs ($20/month to start), and basic web hosting. Skip the fancy stuff initially. A simple landing page and the extension itself will get you to your first 100 users.", "action": "Find a developer on Upwork who's built Chrome extensions before, budget $300 for the MVP.", "stats": [{ "label": "Chrome extension development", "value": "$200-400" }, { "label": "OpenAI API starting cost", "value": "$20/mo" }, { "label": "Web hosting", "value": "$10/mo" }] }, "pricing": { "body": "Start with a freemium model: 50 checks per month free, then $2.99/month unlimited. This undercuts Grammarly by 75% while still feeling premium. Add a $19/year option later, which converts better because it feels like a steal compared to monthly.", "action": "Launch with just the monthly tier, add annual pricing once you hit 200+ active users.", "stats": [{ "label": "Grammarly monthly price", "value": "$12" }, { "label": "Your monthly price", "value": "$2.99" }, { "label": "Annual conversion rate", "value": "35%" }] }, "sellingPrice": { "body": "Chrome Web Store is your main distribution channel since that's where people discover extensions. You'll also want a simple website for SEO and to capture organic search traffic for 'grammar checker' terms. Reddit communities like r/EnglishLearning have 2M members who'd love this.", "action": "Submit your extension to Chrome Web Store and create helpful content on Reddit without being spammy.", "stats": [{ "label": "Chrome Web Store users", "value": "2B+" }, { "label": "r/EnglishLearning members", "value": "2M" }, { "label": "Avg extension discovery rate", "value": "12%" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -3128,52 +1913,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 30,
       "high": 100
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Color Picker Extension</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Color Picker Extension solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1681-5043"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Color Picker Extension saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Designers waste 15-20 minutes daily hunting for exact color codes from websites and images. Chrome Web Store has 180+ million users searching for productivity tools. You're building a micro-tool that solves one frustrating problem really well.", "action": "Build an MVP browser extension in 2-3 weeks using basic JavaScript and Chrome Extension API.", "stats": [{ "label": "Daily active designers", "value": "2.1M" }, { "label": "Color tools market size", "value": "$12M" }, { "label": "Chrome extensions installed daily", "value": "50K+" }] }, "value": { "body": "Web designers, UI/UX professionals, and digital marketers buy this. They're currently screenshotting websites, opening Photoshop, and using the eyedropper tool just to grab one hex code. Premium users will pay $3-5 monthly for advanced features like color palette exports and history.", "action": "Interview 10 designers about their current color-picking workflow and pain points.", "stats": [{ "label": "Average designer salary", "value": "$65K" }, { "label": "Time saved per day", "value": "20 min" }, { "label": "Willingness to pay monthly", "value": "$4" }] }, "profit": { "body": "Free version covers hosting ($5/month for 10K users). Premium at $4/month with 8% conversion rate from free users. With 5,000 free users, that's 400 paying customers generating $1,600 monthly. Your margin is 95% after hosting costs.", "action": "Launch free version first to validate demand, then add premium features after 1,000+ installs.", "stats": [{ "label": "Monthly hosting cost", "value": "$5-15" }, { "label": "Gross margin", "value": "95%" }, { "label": "Revenue at 1K users", "value": "$320/mo" }] }, "distributors": { "body": "You need a computer, code editor (free), and Chrome Developer account ($5 one-time). Host the backend on Vercel (free tier) or Railway ($5/month). No inventory, no suppliers, no shipping. Just your coding skills and $30 to start.", "action": "Sign up for Chrome Developer account and start with the official extension documentation.", "stats": [{ "label": "Chrome Dev registration", "value": "$5" }, { "label": "Hosting cost (starter)", "value": "$0-5/mo" }, { "label": "Total startup cost", "value": "$30" }] }, "pricing": { "body": "Freemium model works best for browser extensions. Free version picks colors and shows hex codes. Premium ($4/month) adds palette generation, color history, export to Figma/Sketch, and team sharing. Price anchors against Adobe Creative Suite at $20/month.", "action": "Start with generous free tier, then add one premium feature every month based on user feedback.", "stats": [{ "label": "Free tier features", "value": "3-4" }, { "label": "Premium monthly price", "value": "$4" }, { "label": "Annual discount", "value": "25%" }] }, "sellingPrice": { "body": "Chrome Web Store is your main distribution channel, where successful extensions get 10K+ weekly installs organically. ProductHunt launch can drive 2,000+ first-day users. Designer communities on Reddit and Twitter provide steady user acquisition at zero cost.", "action": "Submit to Chrome Web Store first, then plan a ProductHunt launch for maximum visibility.", "stats": [{ "label": "Chrome Store discovery rate", "value": "15%" }, { "label": "ProductHunt launch boost", "value": "2K users" }, { "label": "Organic growth rate", "value": "10%/month" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -3241,52 +1981,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Social Media Scheduler</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Social Media Scheduler solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2532-10128"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Social Media Scheduler saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Small businesses post the same content across 3-5 platforms but manually copying takes 20 minutes per post. Buffer charges $15/month for basic scheduling, but most tools don't let you queue from existing pages like competitors or industry leaders. You're building the missing piece.", "action": "Start by manually testing this workflow for 5 local businesses to validate the pain point.", "stats": [{ "label": "Average platforms per business", "value": "4.2" }, { "label": "Time saved per post", "value": "18 min" }] }, "value": { "body": "Digital marketing agencies managing 10-50 clients will pay $50-200/month to avoid the copy-paste nightmare. Small business owners running their own social media spend 8 hours weekly on posting and gladly pay $25/month to get those hours back. Your buyer isn't the Fortune 500, it's the local gym owner or freelance consultant.", "action": "Interview 10 small business owners about their current social media workflow and pain points.", "stats": [{ "label": "Hours saved per week", "value": "8-12" }, { "label": "Target monthly price", "value": "$25-75" }] }, "profit": { "body": "Your main costs are API access ($30/month for social platforms) and basic hosting ($20/month). At $39/month per customer, you're profitable after 2 customers. With 100 customers, that's $3,600 monthly revenue minus $300 in costs for $3,300 profit.", "action": "Build an MVP with free API tiers first, then upgrade to paid APIs once you hit 20 customers.", "stats": [{ "label": "Monthly costs at 100 users", "value": "$300" }, { "label": "Profit margin", "value": "92%" }, { "label": "Break-even customers", "value": "2" }] }, "distributors": { "body": "You need API access from Meta, Twitter, LinkedIn, and TikTok (most are free to start). Use no-code tools like Bubble or Zapier initially, then hire a developer on Upwork for $2,000-5,000 once you validate demand. Don't build from scratch until you have 50 paying customers.", "action": "Sign up for free API access from all major social platforms and test basic posting functionality.", "stats": [{ "label": "Developer cost", "value": "$2K-5K" }, { "label": "No-code monthly tools", "value": "$50-150" }] }, "pricing": { "body": "Start with three tiers: Basic ($19/month, 3 accounts), Pro ($39/month, 10 accounts), Agency ($99/month, unlimited). Most customers pick the middle option when you anchor high. Offer annual discounts of 20% to improve cash flow and reduce churn.", "action": "Launch with just the Pro tier at $39/month, then add Basic and Agency tiers based on customer feedback.", "stats": [{ "label": "Sweet spot price", "value": "$39/mo" }, { "label": "Annual discount", "value": "20%" }, { "label": "Middle tier pickup rate", "value": "65%" }] }, "sellingPrice": { "body": "Facebook groups for small business owners and digital marketing agencies are goldmines for early customers. Reddit's r/entrepreneur and r/digital_marketing have 2M+ members looking for tools like this. Skip ProductHunt initially, focus on direct outreach to agencies managing multiple clients.", "action": "Join 5 Facebook groups for small business owners and start helping with social media questions before pitching.", "stats": [{ "label": "Target Facebook groups", "value": "10-15" }, { "label": "Reddit community size", "value": "2M+" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -3356,52 +2051,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Coupon Finder Extension</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Coupon Finder Extension solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1040-6240"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Coupon Finder Extension saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Browser extensions are having a moment because people trust them more than random apps. Honey sold for $4 billion in 2019, proving this market works. The timing's perfect since inflation has shoppers hunting for every discount.", "action": "Build for Chrome first since it has 65% browser market share and easiest development tools.", "stats": [{ "label": "Honey's sale price", "value": "$4B" }, { "label": "Chrome market share", "value": "65%" }] }, "value": { "body": "Your buyers are online shoppers who forget to search for coupon codes. They're leaving $150-300 per year on the table because manually hunting codes is annoying. They'll pay for convenience that saves them real money.", "action": "Survey 50 people about their last online purchase and whether they searched for codes.", "stats": [{ "label": "Average savings per user/year", "value": "$150-300" }, { "label": "People who forget codes", "value": "78%" }] }, "profit": { "body": "You earn 3-8% commission from retailers when users buy through your codes. With 1,000 active users spending $200/month each, you're looking at $6,000-16,000 monthly. Development costs under $200 if you code yourself.", "action": "Apply to affiliate programs at Target, Amazon, and Best Buy to test commission rates.", "stats": [{ "label": "Commission rate", "value": "3-8%" }, { "label": "Monthly potential (1K users)", "value": "$6K-16K" }] }, "distributors": { "body": "You need coding skills in JavaScript and HTML, or hire a developer for $500-1,500. Partner with coupon database APIs like RapidAPI or build web scrapers. Chrome Web Store charges $5 for developer registration.", "action": "Sign up for Chrome Developer account and download extension samples to study the code structure.", "stats": [{ "label": "Developer cost", "value": "$500-1,500" }, { "label": "Chrome store fee", "value": "$5" }] }, "pricing": { "body": "Keep the extension free to maximize installs and data collection. Your real revenue comes from affiliate commissions and premium features like price tracking or cashback bonuses at $2.99/month.", "action": "Research what Capital One Shopping and InvisibleHand charge for premium features.", "stats": [{ "label": "Premium tier price", "value": "$2.99/mo" }, { "label": "Free user conversion rate", "value": "2-5%" }] }, "sellingPrice": { "body": "Chrome Web Store is your main platform since that's where people discover extensions. Promote through coupon deal forums like Slickdeals and Reddit's r/deals. TikTok videos showing live savings get massive engagement.", "action": "Create accounts on Slickdeals and r/deals to understand what coupon content gets upvoted.", "stats": [{ "label": "Chrome extensions available", "value": "200K+" }, { "label": "r/deals members", "value": "2.1M" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -3470,52 +2120,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 30,
       "high": 100
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Dark Mode Everywhere</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Dark Mode Everywhere solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1274-3822"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Dark Mode Everywhere saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Eye strain from screens affects 60% of office workers, but most websites still blast white backgrounds. Browser extensions for dark mode exist, but they break layouts and look terrible. You're building something that actually works properly.", "action": "Start by manually testing dark mode CSS on 50 popular websites to prove your approach works.", "stats": [{ "label": "People with eye strain", "value": "60%" }, { "label": "Sites with native dark mode", "value": "<20%" }] }, "value": { "body": "Remote workers spending 8+ hours staring at screens will pay $3-5 monthly to stop headaches. Night shift workers are desperate for this. Developers who code late nights are your sweet spot - they know good UX when they see it.", "action": "Survey 100 remote workers about their current screen time and eye strain solutions.", "stats": [{ "label": "Remote workers in US", "value": "35M" }, { "label": "Average screen time", "value": "9 hrs/day" }] }, "profit": { "body": "Build once, sell forever. Your costs are $15/month for hosting and $50/month for browser extension store fees. At $4/month per user, you're profitable at 20 subscribers. Hit 1,000 users and you're making $3,900 monthly.", "action": "Calculate your break-even point based on development time and monthly hosting costs.", "stats": [{ "label": "Monthly costs", "value": "$65" }, { "label": "Break-even users", "value": "20" }, { "label": "Profit at 1K users", "value": "$3,900/mo" }] }, "distributors": { "body": "You need Chrome Web Store ($5 fee), Firefox Add-ons (free), and basic web hosting ($10/month). Your main 'supplier' is your own coding time. GitHub hosts your code for free, and you can use free CSS frameworks to speed development.", "action": "Set up developer accounts on Chrome Web Store and Firefox Add-ons this week.", "stats": [{ "label": "Chrome store fee", "value": "$5 one-time" }, { "label": "Firefox store fee", "value": "$0" }, { "label": "Basic hosting", "value": "$10/mo" }] }, "pricing": { "body": "Free version handles 10 sites, premium unlocks unlimited sites for $3.99/month. Annual plan at $39.99 (17% discount) gets people committed. Pro version with custom CSS controls hits power users at $7.99/month.", "action": "Research what similar browser extensions charge and test three price points with early users.", "stats": [{ "label": "Free tier limit", "value": "10 sites" }, { "label": "Premium monthly", "value": "$3.99" }, { "label": "Pro monthly", "value": "$7.99" }] }, "sellingPrice": { "body": "Chrome Web Store reaches 3 billion users, but discovery is hard. Firefox Add-ons has less traffic but better curation. Your real goldmine is Product Hunt launch, Reddit communities like r/productivity, and developer Twitter where your users hang out.", "action": "Build an email list of 200 potential users before launching on any store.", "stats": [{ "label": "Chrome store users", "value": "3B" }, { "label": "Product Hunt daily visitors", "value": "500K" }, { "label": "r/productivity members", "value": "1.2M" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -3698,52 +2303,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 30,
       "high": 100
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Password Generator</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Password Generator solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1203-6015"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Password Generator saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Password breaches hit 422 million accounts in 2023 alone. Most people still use 'password123' or their birthday. You're selling peace of mind to the 73% of people who know they need better passwords but won't create them manually.", "action": "Build a simple web app that generates random passwords with customizable length and character types.", "stats": [{ "label": "Data breaches in 2023", "value": "3,205" }, { "label": "People using weak passwords", "value": "73%" }] }, "value": { "body": "Small business owners and remote workers buy this. They're managing 50+ accounts but don't want enterprise solutions costing $300+ per year. They'll pay $5-15 monthly for something that just works without IT department complexity.", "action": "Survey 20 small business owners about their current password habits and what they'd pay to fix them.", "stats": [{ "label": "Average accounts per person", "value": "70+" }, { "label": "Small business password budget", "value": "$5-15/mo" }] }, "profit": { "body": "Web hosting costs you $15 monthly. Add $30 for a domain and SSL certificate annually. At $8 monthly per customer, you're profitable after 3 customers. Each new subscriber adds $96 yearly profit since there's no per-unit cost.", "action": "Start with a free tier to get 100 users, then convert 10% to paid subscribers.", "stats": [{ "label": "Monthly hosting cost", "value": "$15" }, { "label": "Profit per customer/year", "value": "$96" }, { "label": "Break-even customers", "value": "3" }] }, "distributors": { "body": "You need a domain name ($12), basic web hosting ($15/month), and SSL certificate ($50/year). Use GitHub for code storage and Stripe for payments. Total startup cost is under $100 if you can code, or add $500-1000 for a developer.", "action": "Register a .com domain and set up hosting with Hostinger or similar budget provider this week.", "stats": [{ "label": "Domain cost/year", "value": "$12" }, { "label": "Basic hosting/month", "value": "$15" }, { "label": "Developer cost (optional)", "value": "$500-1000" }] }, "pricing": { "body": "Offer three tiers: Free (basic generator), Pro ($8/month for unlimited saves), and Business ($15/month for team sharing). The free tier hooks users, Pro captures individuals, Business targets small companies. Price 40% below LastPass at $36/year.", "action": "Launch with just Free and Pro tiers, add Business tier after you have 50+ Pro subscribers.", "stats": [{ "label": "Free tier conversion rate", "value": "8-12%" }, { "label": "Pro tier price", "value": "$8/mo" }, { "label": "LastPass competitor price", "value": "$36/yr" }] }, "sellingPrice": { "body": "Sell directly through your website using Stripe checkout. List on Product Hunt for launch day traffic. Target Reddit communities like r/smallbusiness and r/cybersecurity. Skip app stores initially since web apps convert better for B2B tools.", "action": "Build an email list with a free password strength checker tool before launching your paid generator.", "stats": [{ "label": "Product Hunt average visitors", "value": "2,000-5,000" }, { "label": "Web app conversion vs mobile", "value": "3x higher" }, { "label": "Reddit cybersecurity members", "value": "500K+" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -3812,52 +2372,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 50,
       "high": 200
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Text-to-Speech Extension</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Text-to-Speech Extension solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$1107-5535"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Text-to-Speech Extension saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "People consume 3x more content when they can multitask while listening. Chrome extensions get 50,000+ daily users within 6 months if they solve a real problem. You're hitting the productivity wave where everyone wants to absorb information faster.", "action": "Build a simple MVP that works on news sites and blogs first.", "stats": [{ "label": "Chrome Web Store extensions", "value": "200,000+" }, { "label": "Average daily active users (successful)", "value": "25,000-100,000" }] }, "value": { "body": "Your buyers are knowledge workers who read 2-4 hours daily for work. Think consultants, researchers, students cramming for exams. They'll pay $5-15/month to turn commute time into learning time.", "action": "Survey 20 people who read articles for work about their current audio habits.", "stats": [{ "label": "Knowledge workers in US", "value": "86 million" }, { "label": "Time spent reading for work daily", "value": "2.5 hours" }] }, "profit": { "body": "Text-to-speech APIs cost $4 per 1 million characters. Most users consume 50,000 characters monthly, so your cost is $0.20 per user. At $8/month subscription, that's $7.80 profit per user.", "action": "Start with Google Text-to-Speech API at $4 per million characters to test demand.", "stats": [{ "label": "Cost per user monthly", "value": "$0.20" }, { "label": "Profit margin at $8/month", "value": "97.5%" }, { "label": "Revenue at 1,000 users", "value": "$8,000/month" }] }, "distributors": { "body": "You need Chrome Extension APIs, a text-to-speech service, and basic web hosting. Google Cloud Text-to-Speech gives you 1 million characters free monthly. Netlify hosts your landing page for free.", "action": "Sign up for Google Cloud and test their text-to-speech demo with 5 different article types.", "stats": [{ "label": "Google Cloud free tier", "value": "1M characters/month" }, { "label": "Netlify hosting cost", "value": "$0-19/month" }] }, "pricing": { "body": "Freemium works best for extensions. Give 10 articles monthly for free, then $4.99 for unlimited basic voices or $9.99 for premium voices and speed controls. ProductHunt extensions average $7/month.", "action": "Start with two tiers: Free (10 articles) and Pro ($4.99 unlimited).", "stats": [{ "label": "Average extension subscription", "value": "$7/month" }, { "label": "Free-to-paid conversion rate", "value": "2-5%" }] }, "sellingPrice": { "body": "Chrome Web Store is your main channel, but 80% of discovery happens outside the store. Reddit communities like r/productivity and ProductHunt launches drive the most quality users. Twitter threads about productivity hacks work too.", "action": "Submit to Chrome Web Store, then plan a ProductHunt launch for week 2.", "stats": [{ "label": "Chrome Web Store fee", "value": "$5 one-time" }, { "label": "ProductHunt featured products traffic", "value": "50,000+ visits" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",
@@ -3926,52 +2441,7 @@ export const SAAS_IDEAS: Idea[] =
       "low": 30,
       "high": 100
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Extensions win by being <strong>invisible until needed</strong>. <strong>Video Speed Controller</strong> should solve one friction in the browser that happens 10+ times per day. The best extensions save 5 seconds each time. That's 50 seconds/day, which sounds small until you do the math: 5 hours/year. That's your pitch.",
-        "action": "Write the one problem Video Speed Controller solves in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer <strong>lives in their browser</strong>. They're a knowledge worker, marketer, or developer who does the same browser action 20+ times per day. They've tried free extensions that are buggy or full of ads. They'll pay $3-9/mo for something that just works.",
-        "action": "Find 3 online communities where your target users complain about this problem"
-      },
-      "profit": {
-        "body": "SaaS margins are <strong>80-90%</strong> after the build phase. Your costs: hosting ($0-20/mo with Vercel/Supabase free tiers), API costs (if using AI: ~$0.01-0.10 per request), domain ($12/yr). <strong>10 paying users at $29/mo = $290 MRR. 100 users = $2,900 MRR.</strong> Revenue compounds every month.",
-        "stats": [
-          {
-            "label": "Target MRR",
-            "value": "$2692-13460"
-          },
-          {
-            "label": "Margin",
-            "value": "80-90%"
-          }
-        ],
-        "action": "Calculate: how many paying users do you need to cover your monthly costs?"
-      },
-      "distributors": {
-        "body": "Build with: <strong>Next.js + Vercel</strong> (deploy free). Database: <strong>Supabase</strong> (free for < 50K rows). Auth: <strong>Clerk</strong> or <strong>Supabase Auth</strong>. Payments: <strong>Stripe</strong> ($0 until you charge). AI: <strong>Claude API</strong> or <strong>OpenAI</strong> (pay per use). Total launch cost: potentially <strong>$0</strong>.",
-        "action": "Create accounts on Vercel + Supabase + Stripe"
-      },
-      "pricing": {
-        "body": "Two tiers to start: <strong>Free</strong> (limited to X uses/month) + <strong>Pro ($19-29/mo)</strong> with unlimited use. Free drives signups, Pro converts serious users (expect 5-10% conversion). Add annual billing at 20% discount. Add a Team tier ($49/user/mo) when companies start asking.",
-        "action": "Define exactly what Free gets vs what Pro unlocks"
-      },
-      "sellingPrice": {
-        "body": "Price on <strong>value, not cost</strong>. If Video Speed Controller saves 1 hour/week, that's worth $50+/mo to a professional. Start at <strong>$19/mo</strong> for individuals. After 50 customers, test <strong>$29/mo</strong> for new signups (grandfather existing). <strong>Underpricing kills SaaS.</strong> People distrust cheap tools.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$19/mo"
-          },
-          {
-            "label": "After 50 users",
-            "value": "$29/mo"
-          }
-        ],
-        "action": "Set your pricing page live with Free + Pro tiers"
-      }
-    },
+    "breakdown": { "strategy": { "body": "People consume 2.5x more video content than five years ago, but most platforms cap playback speeds at 2x. You're building what YouTube, Netflix, and Coursera won't. A browser extension that gives users complete control over any HTML5 video.", "action": "Build an MVP browser extension for Chrome that works on the top 10 video sites.", "stats": [{ "label": "Video hours watched daily", "value": "1 billion" }, { "label": "Chrome extension users", "value": "137 million" }] }, "value": { "body": "Students binge online courses at 3x speed to finish faster. Professionals watch conference recordings at 4x to stay current. Researchers scan hours of interviews in minutes. They'll pay $3-8 monthly because time is their most expensive resource.", "action": "Survey 50 people who watch educational content about their current speed viewing frustrations.", "stats": [{ "label": "Online learners globally", "value": "220 million" }, { "label": "Average course completion time saved", "value": "40%" }] }, "profit": { "body": "Chrome extension hosting costs $0. Payment processing takes 3%. At $5 monthly with 1,000 users, you're making $4,850 monthly. Development time is your only real cost upfront.", "action": "Calculate how many hours you'll need to code the basic features and price your time.", "stats": [{ "label": "Monthly revenue at 1K users", "value": "$4,850" }, { "label": "Gross margin", "value": "97%" }] }, "distributors": { "body": "You need JavaScript skills, Chrome Developer Account ($5), and Stripe for payments ($0 setup). GitHub for version control. That's it. No inventory, no shipping, no manufacturing partners.", "action": "Register your Chrome Developer Account and set up a basic extension template.", "stats": [{ "label": "Chrome Developer fee", "value": "$5" }, { "label": "Stripe transaction fee", "value": "2.9%" }] }, "pricing": { "body": "Freemium works best here. Free version does 0.5x to 3x speed on major sites. Premium at $4.99 monthly unlocks 0.25x to 8x speed, custom shortcuts, and works on all HTML5 videos. Price anchors against Grammarly at $12 monthly.", "action": "Test your free version first, then add premium features based on user feedback.", "stats": [{ "label": "Freemium conversion rate", "value": "3-5%" }, { "label": "Competitor price range", "value": "$3-12" }] }, "sellingPrice": { "body": "Chrome Web Store is your main channel, but Reddit communities like r/productivity and r/studytips drive organic growth. ProductHunt launch gets initial traction. YouTube creators reviewing productivity tools become your best marketing.", "action": "Submit to Chrome Web Store and post in 5 relevant Reddit communities asking for feedback.", "stats": [{ "label": "Chrome Web Store extensions", "value": "188,000" }, { "label": "r/productivity subscribers", "value": "1.2 million" }] } },
     "validation": {
       "sparkScore": 66,
       "dataSource": "google_trends+category_benchmarks",

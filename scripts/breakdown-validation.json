@@ -1,0 +1,25 @@
+{
+  "total": 478,
+  "clean": 472,
+  "flagged": 6,
+  "issues": {
+    "wall-clocks": [
+      "CONTRADICTION: Cost $8.0 > selling price $4.0"
+    ],
+    "glass-terrariums": [
+      "AI-WORD: Found banned word \"ecosystem\""
+    ],
+    "pet-dental-chews": [
+      "CONTRADICTION: Cost $3.0 > selling price $1.0"
+    ],
+    "tea-blends": [
+      "CONTRADICTION: Cost $8.0 > selling price $2.0"
+    ],
+    "baby-changing-pad-covers": [
+      "CONTRADICTION: Cost $3.0 > selling price $2.0"
+    ],
+    "reader-mode-extension": [
+      "CONTRADICTION: Cost $50.0 > selling price $4.99"
+    ]
+  }
+}
