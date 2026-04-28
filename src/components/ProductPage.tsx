@@ -15,13 +15,14 @@ interface Props {
   onOpenStories: (startAt: SectionKey) => void
   onStartPlan: () => void
   onClose: () => void
+  onAskCoach?: () => void
 }
 
 function buildImg(slug: string) {
   return `https://images.unsplash.com/${slug}?w=400&q=70&auto=format&fit=crop`
 }
 
-export function ProductPage({ idea, region, profiles, isSaved, onSave, onOpenStories, onStartPlan, onClose }: Props) {
+export function ProductPage({ idea, region, profiles, isSaved, onSave, onOpenStories, onStartPlan, onClose, onAskCoach }: Props) {
   const [showCalc, setShowCalc] = useState(true)
 
   const capitalText = idea.capital_usd
@@ -194,12 +195,20 @@ export function ProductPage({ idea, region, profiles, isSaved, onSave, onOpenSto
       </div>
 
       {/* Fixed CTA at bottom */}
-      <div className="absolute bottom-0 left-0 right-0 px-5 pt-4 pb-6 bg-gradient-to-t from-bg via-bg to-transparent">
+      <div className="absolute bottom-0 left-0 right-0 px-5 pt-3 pb-6 bg-gradient-to-t from-bg via-bg to-transparent">
+        {onAskCoach && (
+          <button onClick={onAskCoach}
+            className="w-full py-3 mb-2 bg-card border border-accent/30 text-accent rounded-xl font-body text-[13px] font-medium
+              cursor-pointer transition-all hover:bg-accent/10 active:scale-[0.98]
+              flex items-center justify-center gap-2">
+            Ask Spark Coach about this idea
+          </button>
+        )}
         <button onClick={onStartPlan}
           className="w-full py-4 bg-ink text-bg rounded-2xl font-body text-[15px] font-medium
             cursor-pointer transition-all hover:bg-accent-deep active:scale-[0.98]
             flex items-center justify-center gap-2">
-          I'm in — start my 30-day plan →
+          I'm in — start my 30-day plan
         </button>
       </div>
     </div>

@@ -13,6 +13,7 @@ import { ProductPage } from './components/ProductPage'
 import { StoriesPlayer } from './components/StoriesPlayer'
 import { LaunchPlan } from './components/LaunchPlan'
 import { TodoList } from './components/TodoList'
+import { SparkCoach } from './components/SparkCoach'
 import { useStore } from './hooks/useStore'
 import { useDeck } from './hooks/useDeck'
 import { useAuth } from './hooks/useAuth'
@@ -32,6 +33,7 @@ export default function App() {
   const [storiesIdea, setStoriesIdea] = useState<Idea | null>(null)
   const [, setStoriesStartAt] = useState<SectionKey>('strategy')
   const [planIdea, setPlanIdea] = useState<Idea | null>(null)
+  const [coachOpen, setCoachOpen] = useState(false)
 
   const addedSections = useMemo(() => {
     if (!storiesIdea) return new Set<string>()
@@ -315,6 +317,7 @@ export default function App() {
             onOpenStories={handleOpenStories}
             onStartPlan={handleStartPlan}
             onClose={() => setProductIdea(null)}
+            onAskCoach={() => setCoachOpen(true)}
           />
           </motion.div>
         )}
@@ -358,6 +361,13 @@ export default function App() {
             )
           })()
         )}
+
+        {/* === OVERLAY: SPARK COACH === */}
+        <SparkCoach
+          idea={productIdea}
+          open={coachOpen}
+          onClose={() => setCoachOpen(false)}
+        />
 
         {/* === BOTTOM NAV === */}
         {showNav && (
