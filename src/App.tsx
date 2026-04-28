@@ -20,7 +20,7 @@ import { useAuth } from './hooks/useAuth'
 import { useSupabaseSync } from './hooks/useSupabaseSync'
 import { usePushNotifications } from './hooks/usePushNotifications'
 import type { Idea, SectionKey } from './types'
-import { IDEAS, INSPIRE_PROFILES } from './data'
+import { IDEAS, getProfilesForIdea } from './data'
 
 export default function App() {
   const store = useStore()
@@ -351,7 +351,7 @@ export default function App() {
           <ProductPage
             idea={productIdea}
             region={store.region}
-            profiles={INSPIRE_PROFILES[productIdea.id] || []}
+            profiles={getProfilesForIdea(productIdea)}
             isSaved={store.saved.includes(productIdea.id)}
             onSave={() => { store.saveIdea(productIdea.id); showToast('Saved!') }}
             onOpenStories={handleOpenStories}
@@ -394,9 +394,9 @@ export default function App() {
               <LaunchPlan
                 plan={plan}
                 deck={planIdea.deck}
-                interests={planIdea.interests}
                 onComplete={(day) => { store.completePlanTask(planIdea.id, day); syncTaskComplete(planIdea.id, day) }}
                 onBack={() => setPlanIdea(null)}
+                onSelectPlatform={(platform) => store.setPlanPlatform(planIdea.id, platform)}
               />
             )
           })()

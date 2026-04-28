@@ -3,7 +3,6 @@ import { motion, useMotionValue, useTransform, type PanInfo } from 'framer-motio
 import type { Idea, Region } from '../types'
 import { pickBadges } from '../lib/badges'
 import { REGIONS } from '../lib/regions'
-import { findSuppliers } from '../lib/supplier-api'
 
 interface Props {
   idea: Idea
@@ -25,6 +24,30 @@ const EFFORT_COLORS: Record<number, string> = {
   1: 'text-sage',
   2: 'text-gold',
   3: 'text-accent',
+}
+
+// Unsplash photo IDs that are reused across 19+ ideas in the dataset.
+// When a card's image matches one of these, we flip to the text-led variant
+// so the deck doesn't show the same stock photo over and over.
+const OVERUSED_PHOTO_IDS = new Set([
+  'photo-1616486338812-3dadae4b4ace',
+  'photo-1556909114-f6e7ad7d3136',
+  'photo-1586023492125-27b2c045efd7',
+  'photo-1558618666-fcd25c85f82e',
+  'photo-1600585154340-be6161a56a0c',
+  'photo-1505691938895-1758d7feb511',
+  'photo-1615873431201-1d6e6e5ee1e3',
+  'photo-1600210491369-e753d80a41f3',
+  'photo-1524758631624-e2822e304c36',
+  'photo-1618220179428-22790b461013',
+])
+
+function isOverusedImage(url: string | undefined): boolean {
+  if (!url) return true
+  for (const id of OVERUSED_PHOTO_IDS) {
+    if (url.includes(id)) return true
+  }
+  return false
 }
 
 function getMarketSignal(idea: Idea): { label: string; color: string } | null {
@@ -56,16 +79,13 @@ export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, show
     : idea.capital
   const currencyName = r.currency
 
-  // Get real product image from supplier API if available
-  const supplierData = findSuppliers(idea.name)
-  const firstSupplierImage = supplierData.suppliers.find(s => s.image)?.image
-  const heroImage = firstSupplierImage || idea.image
+  const heroImage = idea.image
 
   const badges = pickBadges(idea.badges, 2)
   const deckParts = idea.deckLabel.split('\u00b7')
 
-  // Text-led variant: every 5th card
-  const isTextLed = cardIndex % 5 === 4
+  // Text-led variant: every 5th card, OR when the image is a known overused stock photo.
+  const isTextLed = cardIndex % 5 === 4 || isOverusedImage(heroImage)
 
   function handleDragStart() {
     dragRef.current = true
@@ -103,8 +123,8 @@ export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, show
           zIndex: 10 - depth,
         }}
         drag={depth === 0 ? 'x' : false}
-        dragConstraints={{ left: 0, right: 0 }}
-        dragElastic={0.9}
+        dragElastic={0.7}
+        dragSnapToOrigin
         onDragStart={depth === 0 ? handleDragStart : undefined}
         onDragEnd={depth === 0 ? handleDragEnd : undefined}
         onPointerUp={handleClick}
@@ -186,8 +206,8 @@ export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, show
         zIndex: 10 - depth,
       }}
       drag={depth === 0 ? 'x' : false}
-      dragConstraints={{ left: 0, right: 0 }}
-      dragElastic={0.9}
+      dragElastic={0.7}
+      dragSnapToOrigin
       onDragStart={depth === 0 ? handleDragStart : undefined}
       onDragEnd={depth === 0 ? handleDragEnd : undefined}
       onPointerUp={handleClick}
