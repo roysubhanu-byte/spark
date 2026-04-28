@@ -20,7 +20,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602028915047-37269d1a73f7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lowCapital"
@@ -139,7 +139,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -260,7 +260,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1572726839137-8b80cf67d3ee?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -381,7 +381,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228453-efc31bc7f517?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -501,7 +501,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -621,7 +621,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -742,7 +742,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -861,7 +861,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -981,7 +981,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital",
@@ -1102,7 +1102,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -1223,7 +1223,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -1344,7 +1344,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1589834390005-5d4fb9bf3d32?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -1464,7 +1464,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -1584,7 +1584,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -1705,7 +1705,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1493809842364-78228defb6cc?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital",
@@ -1826,7 +1826,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1605371924599-2d0365da1ae0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital"
@@ -1945,7 +1945,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608181831718-2501c03cba6e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -2066,7 +2066,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616137422495-1e9e46e2a65b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -2187,7 +2187,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602534805618-2f0b21fce6ee?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -2306,7 +2306,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1605650955093-5abe87a0a88a?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -2427,7 +2427,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital"
@@ -2546,7 +2546,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228453-efc31bc7f517?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital",
@@ -2666,7 +2666,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -2787,7 +2787,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -2906,7 +2906,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner"
@@ -3025,7 +3025,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -3145,7 +3145,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner"
@@ -3264,7 +3264,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -3385,7 +3385,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -3506,7 +3506,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1589834390005-5d4fb9bf3d32?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -3626,7 +3626,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -3746,7 +3746,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -3865,7 +3865,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1493809842364-78228defb6cc?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -3986,7 +3986,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1605371924599-2d0365da1ae0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -4107,7 +4107,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -4228,7 +4228,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616137422495-1e9e46e2a65b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -4349,7 +4349,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -4468,7 +4468,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616401780824-a570e4713e8e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -4589,7 +4589,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital",
@@ -4710,7 +4710,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228453-efc31bc7f517?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -4830,7 +4830,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -4949,7 +4949,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -5070,7 +5070,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner",
@@ -5191,7 +5191,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital",
@@ -5311,7 +5311,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -5430,7 +5430,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -5549,7 +5549,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner",
@@ -5670,7 +5670,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1589834390005-5d4fb9bf3d32?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600488999585-e4364713b90c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -5789,7 +5789,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital"
@@ -5908,7 +5908,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital",
@@ -6029,7 +6029,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1515562141207-c0a7aa04c2ab?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending"
@@ -6148,7 +6148,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -6268,7 +6268,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -6388,7 +6388,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1573408301185-29e88b3b80e7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1573408301185-8b1f28fa3b84?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -6509,7 +6509,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital"
@@ -6628,7 +6628,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -6748,7 +6748,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital",
@@ -6868,7 +6868,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -6989,7 +6989,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1630019925203-7f53b0a3d56e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner"
@@ -7108,7 +7108,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -7228,7 +7228,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1610694955371-d4a3ad5d0c71?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital"
@@ -7347,7 +7347,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1561828995-aa79a2db86dd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611107683227-e9060ecbec61?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -7468,7 +7468,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital",
@@ -7588,7 +7588,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1599458252573-56ae36120de1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1612082428207-7b10c6dd6db5?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale"
@@ -7707,7 +7707,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1610694955371-d4a3ad0bdd40?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale"
@@ -7826,7 +7826,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1515562141207-c0a7aa04c2ab?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -7945,7 +7945,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1573408301185-8b1f28fa3b84?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -8065,7 +8065,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital",
@@ -8186,7 +8186,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1573408301185-29e88b3b80e7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -8306,7 +8306,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -8427,7 +8427,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital"
@@ -8546,7 +8546,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -8665,7 +8665,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital"
@@ -8784,7 +8784,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1630019925203-7f53b0a3d56e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -8905,7 +8905,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -9024,7 +9024,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1610694955371-d4a3ad5d0c71?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -9144,7 +9144,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1561828995-aa79a2db86dd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611107683227-e9060ecbec61?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending"
@@ -9263,7 +9263,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1612082428207-7b10c6dd6db5?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -9384,7 +9384,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1599458252573-56ae36120de1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -9505,7 +9505,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1610694955371-d4a3ad0bdd40?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -9625,7 +9625,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1515562141207-c0a7aa04c2ab?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473188588951-60e30be3a860?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner",
@@ -9745,7 +9745,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital",
@@ -9865,7 +9865,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -9985,7 +9985,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1573408301185-29e88b3b80e7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -10104,7 +10104,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1573408301185-8b1f28fa3b84?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -10225,7 +10225,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital",
@@ -10346,7 +10346,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -10466,7 +10466,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale",
@@ -10586,7 +10586,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1630019925203-7f53b0a3d56e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -10705,7 +10705,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1610694955371-d4a3ad5d0c71?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner"
@@ -10824,7 +10824,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611107683227-e9060ecbec61?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -10944,7 +10944,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1561828995-aa79a2db86dd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -11063,7 +11063,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1612082428207-7b10c6dd6db5?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -11183,7 +11183,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1599458252573-56ae36120de1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale"
@@ -11302,7 +11302,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1610694955371-d4a3ad0bdd40?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -11423,7 +11423,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1515562141207-c0a7aa04c2ab?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -11544,7 +11544,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -11663,7 +11663,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1573408301185-8b1f28fa3b84?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -11783,7 +11783,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1573408301185-29e88b3b80e7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -11903,7 +11903,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner"
@@ -12022,7 +12022,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -12141,7 +12141,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1570194065650-d99fb4b38b8f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -12261,7 +12261,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1608248597279-f483dda3a22e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d862?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner"
@@ -12380,7 +12380,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1582673937754-e40e0c40e3c1?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -12501,7 +12501,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing",
@@ -12622,7 +12622,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1596755389378-c31c0e936072?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -12742,7 +12742,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1617897903246-719242502645?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608571423578-66f3099cd0f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital"
@@ -12861,7 +12861,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "growing",
@@ -12982,7 +12982,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner"
@@ -13101,7 +13101,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -13220,7 +13220,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -13341,7 +13341,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -13462,7 +13462,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1608571423902-def2ab547add?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -13582,7 +13582,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1611073615830-2d7e9a9fc97a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -13702,7 +13702,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1598662779094-110c2bad80b5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -13823,7 +13823,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d862?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -13943,7 +13943,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1570194065650-d99fb4b38b8f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "growing",
@@ -14063,7 +14063,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1608248597279-f483dda3a22e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -14183,7 +14183,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -14304,7 +14304,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -14424,7 +14424,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1596755389378-c31c0e936072?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing",
@@ -14544,7 +14544,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1617897903246-719242502645?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -14665,7 +14665,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending"
@@ -14784,7 +14784,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -14903,7 +14903,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -15024,7 +15024,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d862?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital",
@@ -15144,7 +15144,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -15265,7 +15265,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1608571423902-def2ab547add?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing"
@@ -15384,7 +15384,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1611073615830-2d7e9a9fc97a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608571423578-66f3099cd0f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "growing",
@@ -15505,7 +15505,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1598662779094-110c2bad80b5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -15625,7 +15625,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -15746,7 +15746,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1570194065650-d99fb4b38b8f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital"
@@ -15865,7 +15865,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1608248597279-f483dda3a22e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital",
@@ -15986,7 +15986,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing"
@@ -16105,7 +16105,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -16226,7 +16226,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1596755389378-c31c0e936072?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -16347,7 +16347,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1617897903246-719242502645?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -16468,7 +16468,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner"
@@ -16587,7 +16587,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner"
@@ -16706,7 +16706,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d862?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -16827,7 +16827,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital",
@@ -16948,7 +16948,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital",
@@ -17069,7 +17069,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1608571423902-def2ab547add?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -17190,7 +17190,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1611073615830-2d7e9a9fc97a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner"
@@ -17309,7 +17309,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1598662779094-110c2bad80b5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -17429,7 +17429,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital"
@@ -17548,7 +17548,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1570194065650-d99fb4b38b8f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner"
@@ -17667,7 +17667,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1608248597279-f483dda3a22e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505576399279-0a06b4a0b5e6?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -17787,7 +17787,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -17907,7 +17907,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -18027,7 +18027,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -18146,7 +18146,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -18266,7 +18266,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -18385,7 +18385,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -18503,7 +18503,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1587764379990-fca7d5babd3f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner"
@@ -18621,7 +18621,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1595433707802-6b0b73c8b5b0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587559070757-f72a388edbba?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -18740,7 +18740,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1561037404-63e17f16de89?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -18859,7 +18859,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing"
@@ -18977,7 +18977,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1604917018554-f1b4e6cfd4ad?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -19097,7 +19097,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1601758174114-e711c8c56f5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -19215,7 +19215,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner"
@@ -19333,7 +19333,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -19452,7 +19452,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1583337130417-13eafe0f0b60?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -19570,7 +19570,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -19690,7 +19690,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1583337130417-e3c3cc0af466?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -19810,7 +19810,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -19929,7 +19929,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending"
@@ -20047,7 +20047,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing"
@@ -20165,7 +20165,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587559070757-f72a388edbba?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -20285,7 +20285,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1587764379990-fca7d5babd3f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -20405,7 +20405,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1595433707802-6b0b73c8b5b0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -20524,7 +20524,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1561037404-63e17f16de89?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -20644,7 +20644,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -20762,7 +20762,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1604917018554-f1b4e6cfd4ad?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1583337130417-e3c3cc0af466?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner"
@@ -20880,7 +20880,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -21000,7 +21000,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -21119,7 +21119,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -21239,7 +21239,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1583337130417-13eafe0f0b60?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -21359,7 +21359,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -21478,7 +21478,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -21598,7 +21598,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587559070757-f72a388edbba?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -21718,7 +21718,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -21837,7 +21837,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner"
@@ -21955,7 +21955,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1501785888508-aa38f7708b11?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner"
@@ -22073,7 +22073,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1587764379990-fca7d5babd3f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1601758174114-e711c8c56f5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -22193,7 +22193,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1595433707802-6b0b73c8b5b0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -22311,7 +22311,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1561037404-63e17f16de89?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "growing",
@@ -22431,7 +22431,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1583337130417-e3c3cc0af466?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -22551,7 +22551,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1604917018554-f1b4e6cfd4ad?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -22671,7 +22671,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -22791,7 +22791,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -22909,7 +22909,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -23029,7 +23029,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1607877361964-75d3b4b5a0d0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -23148,7 +23148,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "growing",
@@ -23267,7 +23267,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing"
@@ -23385,7 +23385,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1542444592-f985c2d4b0be?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -23505,7 +23505,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -23625,7 +23625,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing",
@@ -23745,7 +23745,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -23865,7 +23865,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -23985,7 +23985,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -24105,7 +24105,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -24223,7 +24223,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1546554137-f86b9593a222?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome",
@@ -24343,7 +24343,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1528712306091-ed0763094c98?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -24461,7 +24461,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1594834749740-62b8ce1ac799?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -24580,7 +24580,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -24699,7 +24699,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome"
@@ -24817,7 +24817,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1607877361964-75d3b4b5a0d0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -24937,7 +24937,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome"
@@ -25055,7 +25055,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -25175,7 +25175,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1542444592-f985c2d4b0be?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -25295,7 +25295,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -25415,7 +25415,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -25535,7 +25535,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -25655,7 +25655,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -25774,7 +25774,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -25892,7 +25892,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -26010,7 +26010,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1546554137-f86b9593a222?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -26130,7 +26130,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1528712306091-ed0763094c98?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -26249,7 +26249,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1594834749740-62b8ce1ac799?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "growing",
@@ -26368,7 +26368,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -26487,7 +26487,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -26606,7 +26606,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1607877361964-75d3b4b5a0d0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -26724,7 +26724,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -26843,7 +26843,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome"
@@ -26961,7 +26961,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1542444592-f985c2d4b0be?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -27081,7 +27081,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -27201,7 +27201,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -27321,7 +27321,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -27439,7 +27439,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome",
@@ -27558,7 +27558,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -27678,7 +27678,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -27796,7 +27796,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1596462502311-e0db3f24b6e3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner"
@@ -27914,7 +27914,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1584824486509-112e4181ff6b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital",
@@ -28033,7 +28033,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1587654780293-2767b03adf18?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587654780014-8a1d0e85bc9c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner"
@@ -28151,7 +28151,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1555963966-b7ae5404b6ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -28270,7 +28270,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1600868535719-5dd42ae5873c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -28388,7 +28388,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1604917018554-f1b4e6cfd4ad?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lowCapital",
@@ -28507,7 +28507,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital"
@@ -28625,7 +28625,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1581862024748-ad4b48f74e92?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital"
@@ -28743,7 +28743,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1557404400-c2f2f2f1ebee?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587654780014-8a1d0e85bc9c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital",
@@ -28863,7 +28863,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1596568022396-29e5f62ef483?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -28983,7 +28983,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -29103,7 +29103,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1584367088273-a6a76b0ae3b2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -29222,7 +29222,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1614174486698-55e1b67c6d7c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner"
@@ -29340,7 +29340,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d862?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital",
@@ -29459,7 +29459,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587654780014-8a1d0e85bc9c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -29579,7 +29579,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1596462502311-e0db3f24b6e3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -29698,7 +29698,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1584824486509-112e4181ff6b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -29818,7 +29818,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1587654780293-2767b03adf18?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -29938,7 +29938,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1555963966-b7ae5404b6ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -30057,7 +30057,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1600868535719-5dd42ae5873c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587654780014-8a1d0e85bc9c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -30176,7 +30176,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1604917018554-f1b4e6cfd4ad?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -30296,7 +30296,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -30414,7 +30414,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1581862024748-ad4b48f74e92?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -30532,7 +30532,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1557404400-c2f2f2f1ebee?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -30652,7 +30652,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1596568022396-29e5f62ef483?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587654780014-8a1d0e85bc9c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -30772,7 +30772,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending"
@@ -30890,7 +30890,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1584367088273-a6a76b0ae3b2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending"
@@ -31008,7 +31008,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1614174486698-55e1b67c6d7c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -31127,7 +31127,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587654780014-8a1d0e85bc9c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -31245,7 +31245,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -31365,7 +31365,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1596462502311-e0db3f24b6e3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner"
@@ -31483,7 +31483,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1584824486509-112e4181ff6b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -31602,7 +31602,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1587654780293-2767b03adf18?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -31722,7 +31722,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1555963966-b7ae5404b6ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587654780014-8a1d0e85bc9c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -31842,7 +31842,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1600868535719-5dd42ae5873c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -31961,7 +31961,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1604917018554-f1b4e6cfd4ad?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -32079,7 +32079,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner"
@@ -32197,7 +32197,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1581862024748-ad4b48f74e92?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner"
@@ -32316,7 +32316,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -32436,7 +32436,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital",
@@ -32556,7 +32556,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -32677,7 +32677,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -32797,7 +32797,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital",
@@ -32918,7 +32918,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital"
@@ -33037,7 +33037,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital"
@@ -33156,7 +33156,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -33275,7 +33275,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner"
@@ -33394,7 +33394,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1558637845-c8b7be8e68e0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale"
@@ -33513,7 +33513,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1573376670774-4427757f7963?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital",
@@ -33634,7 +33634,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1596306161934-a90aec1fb38a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611082446798-2e54e1d25c38?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale"
@@ -33753,7 +33753,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1518674660188-38ab9c0e9bc5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -33874,7 +33874,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital",
@@ -33995,7 +33995,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1540835296355-c04f7a063cbb?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -34115,7 +34115,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner",
@@ -34235,7 +34235,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -34356,7 +34356,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -34477,7 +34477,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale"
@@ -34596,7 +34596,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -34716,7 +34716,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -34836,7 +34836,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -34956,7 +34956,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale",
@@ -35077,7 +35077,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -35198,7 +35198,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1558637845-c8b7be8e68e0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -35318,7 +35318,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1573376670774-4427757f7963?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -35439,7 +35439,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1596306161934-a90aec1fb38a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -35560,7 +35560,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1518674660188-38ab9c0e9bc5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital",
@@ -35681,7 +35681,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -35802,7 +35802,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1540835296355-c04f7a063cbb?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -35921,7 +35921,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lowCapital",
@@ -36041,7 +36041,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -36162,7 +36162,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -36283,7 +36283,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner"
@@ -36402,7 +36402,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale"
@@ -36521,7 +36521,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner",
@@ -36641,7 +36641,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -36761,7 +36761,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -36881,7 +36881,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner"
@@ -37000,7 +37000,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1558637845-c8b7be8e68e0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -37120,7 +37120,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -37240,7 +37240,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -37359,7 +37359,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale",
@@ -37479,7 +37479,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -37598,7 +37598,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -37717,7 +37717,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558171813-4c2ab7e159b4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale"
@@ -37836,7 +37836,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -37957,7 +37957,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -38076,7 +38076,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome"
@@ -38195,7 +38195,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -38315,7 +38315,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -38435,7 +38435,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1562572159-4efc207f5aff?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale"
@@ -38554,7 +38554,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -38674,7 +38674,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -38795,7 +38795,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -38916,7 +38916,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -39036,7 +39036,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -39157,7 +39157,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "provenIncome",
@@ -39278,7 +39278,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -39399,7 +39399,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -39519,7 +39519,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558171813-4c2ab7e159b4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608571423578-66f3099cd0f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -39639,7 +39639,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -39759,7 +39759,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "provenIncome",
@@ -39879,7 +39879,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -40000,7 +40000,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -40121,7 +40121,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -40241,7 +40241,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1562572159-4efc207f5aff?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -40362,7 +40362,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -40483,7 +40483,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome",
@@ -40604,7 +40604,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -40725,7 +40725,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -40846,7 +40846,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale"
@@ -40965,7 +40965,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome",
@@ -41085,7 +41085,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585532299382-2e7bcc064646?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale"
@@ -41204,7 +41204,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome",
@@ -41325,7 +41325,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558171813-4c2ab7e159b4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale",
@@ -41446,7 +41446,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale",
@@ -41566,7 +41566,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome"
@@ -41685,7 +41685,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "provenIncome"
@@ -41804,7 +41804,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -41924,7 +41924,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -42042,7 +42042,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -42160,7 +42160,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -42279,7 +42279,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing",
@@ -42399,7 +42399,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -42519,7 +42519,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1625842268584-c355e2741f89?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -42638,7 +42638,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -42758,7 +42758,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -42877,7 +42877,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale"
@@ -42995,7 +42995,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale"
@@ -43113,7 +43113,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -43233,7 +43233,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -43351,7 +43351,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -43470,7 +43470,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -43589,7 +43589,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -43707,7 +43707,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -43827,7 +43827,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -43945,7 +43945,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -44064,7 +44064,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale",
@@ -44184,7 +44184,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -44303,7 +44303,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1625842268584-c355e2741f89?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -44422,7 +44422,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -44541,7 +44541,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale",
@@ -44661,7 +44661,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -44780,7 +44780,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -44899,7 +44899,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending"
@@ -45017,7 +45017,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1610694955371-d4a3ad5d0c71?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -45137,7 +45137,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -45257,7 +45257,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -45375,7 +45375,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -45495,7 +45495,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3a507b0e2a3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending"
@@ -45614,7 +45614,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1520052205864-92d242b3a76b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital"
@@ -45733,7 +45733,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner"
@@ -45852,7 +45852,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3a507b0e2a3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -45971,7 +45971,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -46091,7 +46091,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1590362891415-65cff9a15e90?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3a507b0e2a3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -46212,7 +46212,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1621451537084-482c73073a0f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -46331,7 +46331,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -46451,7 +46451,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1611284446314-60a58ac0deb9?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -46571,7 +46571,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1520052205864-92d242b3a76b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -46692,7 +46692,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1501088430049-0901050ea0e0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital",
@@ -46813,7 +46813,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -46933,7 +46933,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3a507b0e2a3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -47052,7 +47052,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -47171,7 +47171,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611021061285-de2f8d199846?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -47292,7 +47292,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -47413,7 +47413,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital"
@@ -47532,7 +47532,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1590362891415-65cff9a15e90?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3a507b0e2a3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -47651,7 +47651,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1621451537084-482c73073a0f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1520052205864-92d242b3a76b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -47772,7 +47772,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596548438137-d426bef3cf0d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -47892,7 +47892,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1611284446314-60a58ac0deb9?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -48012,7 +48012,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -48132,7 +48132,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1501088430049-0901050ea0e0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital",
@@ -48252,7 +48252,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -48373,7 +48373,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -48493,7 +48493,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -48613,7 +48613,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -48733,7 +48733,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -48852,7 +48852,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3a507b0e2a3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -48973,7 +48973,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1590362891415-65cff9a15e90?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital"
@@ -49091,7 +49091,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -49209,7 +49209,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -49328,7 +49328,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing"
@@ -49446,7 +49446,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -49565,7 +49565,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome"
@@ -49683,7 +49683,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1583454110629-dc9db32e459a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -49803,7 +49803,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "provenIncome",
@@ -49923,7 +49923,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b13162866?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -50043,7 +50043,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1551958219-acbc608c6377?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -50163,7 +50163,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome"
@@ -50281,7 +50281,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1603287681836-b174ce5074c2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing",
@@ -50400,7 +50400,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -50518,7 +50518,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending"
@@ -50636,7 +50636,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -50755,7 +50755,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending"
@@ -50873,7 +50873,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -50993,7 +50993,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -51111,7 +51111,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1583454110629-dc9db32e459a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -51229,7 +51229,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -51347,7 +51347,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1574680096145-d05b13162866?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -51467,7 +51467,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1551958219-acbc608c6377?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -51586,7 +51586,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome"
@@ -51704,7 +51704,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1603287681836-b174ce5074c2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -51824,7 +51824,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -51943,7 +51943,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -52061,7 +52061,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -52179,7 +52179,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -52299,7 +52299,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome"
@@ -52417,7 +52417,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -52535,7 +52535,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "fitness"
     ],
-    "image": "https://images.unsplash.com/photo-1583454110629-dc9db32e459a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -52655,7 +52655,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -52774,7 +52774,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing"
@@ -52893,7 +52893,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -53013,7 +53013,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -53132,7 +53132,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -53253,7 +53253,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner"
@@ -53372,7 +53372,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1416453072034-c8dbfa2856b5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner",
@@ -53493,7 +53493,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1557429287-b2e26467fc2b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1601058268489-40b23c594f69?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -53613,7 +53613,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1461180017599-c17e1e6c5c55?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -53734,7 +53734,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1595351298020-038700609285?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -53854,7 +53854,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1592150621744-3b0e3c632e59?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611107683227-e9060ecbec61?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner"
@@ -53973,7 +53973,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1585510148024-95dfe33e0ca2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -54093,7 +54093,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -54213,7 +54213,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -54333,7 +54333,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -54454,7 +54454,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -54574,7 +54574,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending"
@@ -54693,7 +54693,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing",
@@ -54814,7 +54814,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1416453072034-c8dbfa2856b5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3a507b0e2a3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -54934,7 +54934,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1557429287-b2e26467fc2b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -55055,7 +55055,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1461180017599-c17e1e6c5c55?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -55175,7 +55175,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1595351298020-038700609285?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -55296,7 +55296,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1592150621744-3b0e3c632e59?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -55416,7 +55416,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1585510148024-95dfe33e0ca2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -55536,7 +55536,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -55655,7 +55655,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner",
@@ -55775,7 +55775,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -55896,7 +55896,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -56015,7 +56015,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending"
@@ -56134,7 +56134,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner"
@@ -56253,7 +56253,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner"
@@ -56372,7 +56372,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1460661419-21acb73b559f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1614178625801-c3babcdc4f84?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -56492,7 +56492,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner"
@@ -56611,7 +56611,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1596309674828-b93baa3f4f9d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -56732,7 +56732,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lessCrowded",
@@ -56852,7 +56852,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -56973,7 +56973,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lessCrowded"
@@ -57092,7 +57092,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lessCrowded",
@@ -57213,7 +57213,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1596306161934-a90aec1fb38a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner"
@@ -57332,7 +57332,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lessCrowded",
@@ -57452,7 +57452,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1460661419-21acb73b559f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -57572,7 +57572,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner"
@@ -57691,7 +57691,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -57811,7 +57811,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1460661419-21acb73b559f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1612082428207-7b10c6dd6db5?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lessCrowded",
@@ -57931,7 +57931,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lessCrowded"
@@ -58050,7 +58050,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1596309674828-b93baa3f4f9d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -58171,7 +58171,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -58292,7 +58292,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded",
@@ -58412,7 +58412,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -58533,7 +58533,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded",
@@ -58653,7 +58653,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1596306161934-a90aec1fb38a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -58774,7 +58774,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lessCrowded"
@@ -58893,7 +58893,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1460661419-21acb73b559f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -59013,7 +59013,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -59134,7 +59134,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital"
@@ -59253,7 +59253,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1460661419-21acb73b559f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital"
@@ -59372,7 +59372,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lessCrowded",
@@ -59493,7 +59493,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1596309674828-b93baa3f4f9d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lessCrowded",
@@ -59613,7 +59613,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital"
@@ -59732,7 +59732,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -59853,7 +59853,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -59973,7 +59973,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -60094,7 +60094,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587559070757-f72a388edbba?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -60214,7 +60214,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "provenIncome",
@@ -60335,7 +60335,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -60456,7 +60456,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -60575,7 +60575,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -60696,7 +60696,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -60817,7 +60817,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale",
@@ -60938,7 +60938,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -61059,7 +61059,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale"
@@ -61178,7 +61178,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1518674660188-38ab9c0e9bc5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale"
@@ -61297,7 +61297,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale"
@@ -61416,7 +61416,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "provenIncome",
@@ -61536,7 +61536,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale"
@@ -61655,7 +61655,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -61776,7 +61776,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -61895,7 +61895,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending"
@@ -62014,7 +62014,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1596944924616-7b38e7cfac36?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -62133,7 +62133,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale",
@@ -62253,7 +62253,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -62374,7 +62374,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -62494,7 +62494,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale"
@@ -62613,7 +62613,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1518674660188-38ab9c0e9bc5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale"
@@ -62732,7 +62732,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale",
@@ -62852,7 +62852,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1604187351574-c75ca79f5807?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -62972,7 +62972,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -63093,7 +63093,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending"
@@ -63212,7 +63212,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -63333,7 +63333,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -63453,7 +63453,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -63574,7 +63574,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1607619056574-7b57d3cc39e2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505576399279-0a06b4a0b5e6?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -63695,7 +63695,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1584308666906-d0a2c5e48b17?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -63816,7 +63816,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome"
@@ -63935,7 +63935,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505576399279-0a06b4a0b5e6?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -64055,7 +64055,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1505576399279-0d309e7d9c8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -64174,7 +64174,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1606937295547-f9e1a0fd1f05?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome"
@@ -64293,7 +64293,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -64412,7 +64412,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "growing",
@@ -64533,7 +64533,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1573883431275-7feca74c27cd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -64653,7 +64653,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1596755389378-c31c0e936072?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -64773,7 +64773,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -64893,7 +64893,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing",
@@ -65013,7 +65013,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1607619056574-7b57d3cc39e2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -65133,7 +65133,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1584308666906-d0a2c5e48b17?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -65253,7 +65253,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "provenIncome",
@@ -65374,7 +65374,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -65495,7 +65495,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1505576399279-0d309e7d9c8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -65615,7 +65615,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1606937295547-f9e1a0fd1f05?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505576399279-0a06b4a0b5e6?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -65736,7 +65736,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -65856,7 +65856,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505576399279-0a06b4a0b5e6?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -65977,7 +65977,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1573883431275-7feca74c27cd?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome"
@@ -66096,7 +66096,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1596755389378-c31c0e936072?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome",
@@ -66217,7 +66217,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -66337,7 +66337,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -66458,7 +66458,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1607619056574-7b57d3cc39e2?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -66577,7 +66577,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1584308666906-d0a2c5e48b17?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517963879433-6ad2b056d712?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -66698,7 +66698,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending"
@@ -66817,7 +66817,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -66938,7 +66938,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1505576399279-0d309e7d9c8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "provenIncome",
@@ -67059,7 +67059,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -67178,7 +67178,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital"
@@ -67297,7 +67297,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -67417,7 +67417,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital"
@@ -67536,7 +67536,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner"
@@ -67655,7 +67655,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1464654613926-bd2e1c282ef1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -67776,7 +67776,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -67896,7 +67896,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -68017,7 +68017,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1516450360452-9258d7782c62?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -68138,7 +68138,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -68259,7 +68259,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner"
@@ -68378,7 +68378,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1533689476487-034f57831a58?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -68498,7 +68498,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -68619,7 +68619,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner"
@@ -68738,7 +68738,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -68859,7 +68859,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -68979,7 +68979,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -69099,7 +69099,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1464654613926-bd2e1c282ef1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital",
@@ -69220,7 +69220,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -69340,7 +69340,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lowCapital"
@@ -69459,7 +69459,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1516450360452-9258d7782c62?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -69579,7 +69579,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale",
@@ -69700,7 +69700,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -69821,7 +69821,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1533689476487-034f57831a58?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -69942,7 +69942,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1520052205864-92d242b3a76b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -70062,7 +70062,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner"
@@ -70181,7 +70181,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -70301,7 +70301,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -70421,7 +70421,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital"
@@ -70540,7 +70540,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1464654613926-bd2e1c282ef1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -70661,7 +70661,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -70781,7 +70781,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing",
@@ -70901,7 +70901,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602751584552-8ba73aad10e1?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -71020,7 +71020,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1528127269322-539e4d6d6281?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1501785888508-aa38f7708b11?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -71140,7 +71140,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1523906834658-3eba31e47c66?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale"
@@ -71259,7 +71259,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1501785888108-9e3e8e21c695?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale"
@@ -71378,7 +71378,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1501785888508-aa38f7708b11?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -71497,7 +71497,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1488085061387-422e29b40080?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing"
@@ -71616,7 +71616,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -71736,7 +71736,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -71856,7 +71856,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1500835556837-99ac94a94552?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -71975,7 +71975,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -72095,7 +72095,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale"
@@ -72214,7 +72214,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -72334,7 +72334,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "fastSale",
@@ -72455,7 +72455,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1528127269322-539e4d6d6281?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending"
@@ -72574,7 +72574,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1523906834658-3eba31e47c66?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -72695,7 +72695,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1501785888108-9e3e8e21c695?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1501785888508-aa38f7708b11?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -72815,7 +72815,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -72934,7 +72934,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1488085061387-422e29b40080?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale"
@@ -73053,7 +73053,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -73172,7 +73172,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -73292,7 +73292,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1500835556837-99ac94a94552?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1501785888508-aa38f7708b11?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -73412,7 +73412,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -73533,7 +73533,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale",
@@ -73653,7 +73653,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1473625247510-8ceb1760943f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -73773,7 +73773,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -73894,7 +73894,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1528127269322-539e4d6d6281?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -74013,7 +74013,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1523906834658-3eba31e47c66?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -74132,7 +74132,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1501785888108-9e3e8e21c695?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -74251,7 +74251,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1549317661-bd12fae0dced?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale",
@@ -74370,7 +74370,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1535732759880-b14b2926b821?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -74490,7 +74490,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1487754180451-c456f719905b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -74610,7 +74610,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1530046100-ad40e91e3c2b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -74728,7 +74728,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -74847,7 +74847,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1562911791-c7a0e4a98320?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -74966,7 +74966,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale"
@@ -75084,7 +75084,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "provenIncome"
@@ -75202,7 +75202,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1621993202119-3e3bc6a8a0dc?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -75321,7 +75321,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -75440,7 +75440,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -75558,7 +75558,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1597858520171-563a8e8b9925?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -75677,7 +75677,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1549317661-bd12fae0dced?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -75796,7 +75796,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1535732759880-b14b2926b821?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "provenIncome"
@@ -75914,7 +75914,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1487754180451-c456f719905b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome"
@@ -76032,7 +76032,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1530046100-ad40e91e3c2b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale"
@@ -76150,7 +76150,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome",
@@ -76270,7 +76270,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1562911791-c7a0e4a98320?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -76389,7 +76389,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -76508,7 +76508,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -76627,7 +76627,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1621993202119-3e3bc6a8a0dc?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -76747,7 +76747,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -76865,7 +76865,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -76983,7 +76983,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1597858520171-563a8e8b9925?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome"
@@ -77101,7 +77101,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1549317661-bd12fae0dced?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome"
@@ -77219,7 +77219,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1535732759880-b14b2926b821?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -77339,7 +77339,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1487754180451-c456f719905b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -77457,7 +77457,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1530046100-ad40e91e3c2b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -77577,7 +77577,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -77697,7 +77697,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1562911791-c7a0e4a98320?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -77818,7 +77818,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1602874801007-aa24b7551751?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1612620076042-5d3d5a527c50?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "provenIncome",
@@ -77939,7 +77939,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1572726729207-a78d740a34f6?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608571423902-0a48a9764619?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome",
@@ -78059,7 +78059,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1609175332804-39e0e2e6be10?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -78180,7 +78180,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1608571423902-def2ab547add?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600264774350-a72c2bbb4e6e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -78301,7 +78301,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1574263867128-63e3bcd96a06?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611072965105-7af27d0f7d38?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital"
@@ -78420,7 +78420,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1604423959370-a07e0df16b75?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lowCapital",
@@ -78541,7 +78541,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1594402919668-c1d9cd2b0869?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1612878010854-1731fd2c0db2?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome"
@@ -78660,7 +78660,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1507646463-9fb7ae09e9c8?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -78780,7 +78780,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1550985543-49bee3167284?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585314062604-1a357de8b000?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital"
@@ -78899,7 +78899,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1574263867128-3f7a14e0cc64?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -79018,7 +79018,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1601058268165-f5a3ea3abca7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome"
@@ -79137,7 +79137,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1602874801007-aa24b7551751?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608571423578-66f3099cd0f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -79258,7 +79258,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602534805682-99e32b60e22d?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -79377,7 +79377,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1603006939587-d99f10f15e84?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -79496,7 +79496,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1605650955093-5abe87a0a88a?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome"
@@ -79615,7 +79615,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1602874801007-aa24b7551751?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -79735,7 +79735,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1572726729207-a78d740a34f6?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner"
@@ -79854,7 +79854,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600488999585-e4364713b90c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -79975,7 +79975,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1608571423902-def2ab547add?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -80095,7 +80095,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1574263867128-63e3bcd96a06?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1597696929736-6d13bed8e6a8?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome",
@@ -80216,7 +80216,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3a507b0e2a3?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -80336,7 +80336,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1594402919668-c1d9cd2b0869?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1608571423902-0a48a9764619?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -80457,7 +80457,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1507646463-9fb7ae09e9c8?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1614178625801-c3babcdc4f84?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lowCapital"
@@ -80576,7 +80576,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1550985543-49bee3167284?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1609175332804-39e0e2e6be10?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -80696,7 +80696,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1594736797933-d0501ba2fe65?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602028915047-37269d1a73f7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "beginner"
@@ -80815,7 +80815,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602534805618-2f0b21fce6ee?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital"
@@ -80934,7 +80934,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1602874801007-aa24b7551751?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611082446798-2e54e1d25c38?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital"
@@ -81053,7 +81053,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner"
@@ -81172,7 +81172,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1612620076042-5d3d5a527c50?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -81293,7 +81293,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616401780824-a570e4713e8e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -81413,7 +81413,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1548036328-c896dbe92955?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473188588951-60e30be3a860?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lessCrowded",
@@ -81533,7 +81533,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585532299382-2e7bcc064646?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -81653,7 +81653,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -81773,7 +81773,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1548532928-b34e3be62fc6?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473188588951-60e30be3a860?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending"
@@ -81892,7 +81892,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1473188588951-0135dabc6b73?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lessCrowded",
@@ -82013,7 +82013,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585532299382-2e7bcc064646?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lessCrowded",
@@ -82134,7 +82134,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1559563458-527698bf5295?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -82253,7 +82253,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1534643960519-11ad79bc19df?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lessCrowded",
@@ -82374,7 +82374,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1604917018554-f1b4e6cfd4ad?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473188588951-60e30be3a860?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome",
@@ -82495,7 +82495,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1622560480654-996b80f18a07?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585532299382-2e7bcc064646?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lessCrowded",
@@ -82615,7 +82615,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lessCrowded",
@@ -82736,7 +82736,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473188588951-60e30be3a860?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -82856,7 +82856,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1582143139259-b5f0d59bc36b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lessCrowded",
@@ -82976,7 +82976,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1473188588951-0135dabc6b73?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585532299382-2e7bcc064646?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lessCrowded"
@@ -83095,7 +83095,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77d99f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -83215,7 +83215,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1548036328-c896dbe92955?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -83335,7 +83335,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473188588951-60e30be3a860?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -83454,7 +83454,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585532299382-2e7bcc064646?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lessCrowded",
@@ -83575,7 +83575,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1548532928-b34e3be62fc6?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -83694,7 +83694,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1473188588951-0135dabc6b73?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473188588951-60e30be3a860?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lessCrowded",
@@ -83814,7 +83814,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome"
@@ -83933,7 +83933,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1559563458-527698bf5295?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -84052,7 +84052,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1534643960519-11ad79bc19df?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585532299382-2e7bcc064646?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lessCrowded"
@@ -84171,7 +84171,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1604917018554-f1b4e6cfd4ad?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending"
@@ -84290,7 +84290,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1622560480654-996b80f18a07?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -84410,7 +84410,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473188588951-60e30be3a860?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lessCrowded",
@@ -84530,7 +84530,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585532299382-2e7bcc064646?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "provenIncome"
@@ -84649,7 +84649,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1582143139259-b5f0d59bc36b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lessCrowded",
@@ -84769,7 +84769,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1473188588951-0135dabc6b73?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1473188588951-60e30be3a860?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded",
@@ -84889,7 +84889,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77d99f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lessCrowded"
@@ -85008,7 +85008,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1564182842519-8a3b2af3d81c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -85129,7 +85129,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1566895291251-52f4ddd3d4f0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611021061285-de2f8d199846?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -85250,7 +85250,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -85371,7 +85371,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1544457070-4fd4d988885f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -85492,7 +85492,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -85612,7 +85612,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611021061285-de2f8d199846?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -85733,7 +85733,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1572687294008-d53d6e42c5bb?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lessCrowded",
@@ -85854,7 +85854,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1516280030808-8d3f5c2d5be8?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome"
@@ -85973,7 +85973,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1567019401614-7f02a2e2f364?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lessCrowded",
@@ -86094,7 +86094,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -86215,7 +86215,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611021061285-de2f8d199846?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -86336,7 +86336,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1588432585377-b7b1a2f65e65?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -86457,7 +86457,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1530027644375-9c83053d3b3a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -86577,7 +86577,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1495214783159-3503fd199f14?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1573408301185-8b1f28fa3b84?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -86698,7 +86698,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1533636721434-0e2d61030955?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -86818,7 +86818,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1564182842519-8a3b2af3d81c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -86939,7 +86939,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1566895291251-52f4ddd3d4f0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611021061285-de2f8d199846?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -87059,7 +87059,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded"
@@ -87178,7 +87178,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1544457070-4fd4d988885f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -87299,7 +87299,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1602028915047-37269d1a73f7?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -87418,7 +87418,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "trending",
@@ -87538,7 +87538,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1572687294008-d53d6e42c5bb?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611021061285-de2f8d199846?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded",
@@ -87658,7 +87658,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1516280030808-8d3f5c2d5be8?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lessCrowded",
@@ -87778,7 +87778,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1567019401614-7f02a2e2f364?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome",
@@ -87898,7 +87898,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -88018,7 +88018,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lessCrowded",
@@ -88138,7 +88138,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1588432585377-b7b1a2f65e65?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611021061285-de2f8d199846?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lessCrowded",
@@ -88259,7 +88259,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1530027644375-9c83053d3b3a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -88380,7 +88380,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1495214783159-3503fd199f14?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "provenIncome",
@@ -88501,7 +88501,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1533636721434-0e2d61030955?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1597589827317-4c6d6e0a90bd?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lessCrowded"
@@ -88619,7 +88619,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital",
@@ -88738,7 +88738,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -88857,7 +88857,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale"
@@ -88975,7 +88975,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner"
@@ -89093,7 +89093,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587654780014-8a1d0e85bc9c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale",
@@ -89212,7 +89212,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital"
@@ -89330,7 +89330,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -89448,7 +89448,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital",
@@ -89568,7 +89568,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558637845-c8b7be8e68e0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -89688,7 +89688,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1540835296355-c04f7a063cbb?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "fastSale"
@@ -89806,7 +89806,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1596306161934-a90aec1fb38a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -89924,7 +89924,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1573376670774-4427757f7963?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -90044,7 +90044,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -90164,7 +90164,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner"
@@ -90282,7 +90282,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -90400,7 +90400,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -90520,7 +90520,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -90640,7 +90640,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital",
@@ -90759,7 +90759,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale",
@@ -90879,7 +90879,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale",
@@ -90999,7 +90999,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1558637845-c8b7be8e68e0?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "fastSale"
@@ -91117,7 +91117,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1540835296355-c04f7a063cbb?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -91237,7 +91237,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1596306161934-a90aec1fb38a?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale"
@@ -91355,7 +91355,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1573376670774-4427757f7963?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lowCapital",
@@ -91474,7 +91474,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale"
@@ -91592,7 +91592,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -91711,7 +91711,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -91830,7 +91830,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a3?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lowCapital",
@@ -91950,7 +91950,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -92069,7 +92069,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -92190,7 +92190,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1506377585622-bedcbb027afc?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending"
@@ -92309,7 +92309,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lessCrowded",
@@ -92430,7 +92430,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1533636721434-0e2d61030955?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -92551,7 +92551,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558051815-d5cb3692e92b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -92670,7 +92670,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1471666875520-c75e4108d5b4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lessCrowded",
@@ -92790,7 +92790,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "lessCrowded",
@@ -92910,7 +92910,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1554080353-a576cf803bda?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -93029,7 +93029,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing"
@@ -93148,7 +93148,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1533689476487-034f57831a58?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending"
@@ -93267,7 +93267,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1581515002102-a48acbe50e55?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -93388,7 +93388,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1534643960519-11ad79bc19df?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "growing",
@@ -93509,7 +93509,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lessCrowded"
@@ -93628,7 +93628,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1506377585622-bedcbb027afc?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -93748,7 +93748,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "lessCrowded",
@@ -93869,7 +93869,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1533636721434-0e2d61030955?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "growing",
@@ -93989,7 +93989,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558051815-d5cb3692e92b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -94109,7 +94109,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1471666875520-c75e4108d5b4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lessCrowded",
@@ -94229,7 +94229,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "lessCrowded"
@@ -94348,7 +94348,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1554080353-a576cf803bda?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -94469,7 +94469,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -94589,7 +94589,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1533689476487-034f57831a58?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -94708,7 +94708,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1581515002102-a48acbe50e55?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -94829,7 +94829,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1534643960519-11ad79bc19df?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lessCrowded",
@@ -94949,7 +94949,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -95068,7 +95068,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1506377585622-bedcbb027afc?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C9834B",
     "badges": [
       "growing"
@@ -95187,7 +95187,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending"
@@ -95306,7 +95306,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1533636721434-0e2d61030955?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#C99A4B",
     "badges": [
       "trending",
@@ -95426,7 +95426,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558051815-d5cb3692e92b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#C94B6E",
     "badges": [
       "growing",
@@ -95546,7 +95546,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1471666875520-c75e4108d5b4?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -95666,7 +95666,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "home"
     ],
-    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded",

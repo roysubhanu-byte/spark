@@ -19,7 +19,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -135,7 +135,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -249,7 +249,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -363,7 +363,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -478,7 +478,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -594,7 +594,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -710,7 +710,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -825,7 +825,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -939,7 +939,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -1055,7 +1055,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -1169,7 +1169,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -1283,7 +1283,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -1397,7 +1397,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -1512,7 +1512,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -1627,7 +1627,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -1743,7 +1743,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -1857,7 +1857,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1456735190827-d1262f71b8a7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -1971,7 +1971,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -2086,7 +2086,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome"
@@ -2200,7 +2200,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -2314,7 +2314,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -2428,7 +2428,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -2543,7 +2543,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -2657,7 +2657,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -2772,7 +2772,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -2887,7 +2887,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -3000,7 +3000,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -3115,7 +3115,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -3228,7 +3228,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -3341,7 +3341,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -3456,7 +3456,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital",
@@ -3570,7 +3570,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -3683,7 +3683,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital",
@@ -3798,7 +3798,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -3912,7 +3912,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -4026,7 +4026,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -4139,7 +4139,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital"
@@ -4252,7 +4252,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -4366,7 +4366,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lowCapital"
@@ -4479,7 +4479,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale"
@@ -4592,7 +4592,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -4707,7 +4707,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -4822,7 +4822,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -4935,7 +4935,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -5048,7 +5048,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -5162,7 +5162,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -5276,7 +5276,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -5391,7 +5391,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -5506,7 +5506,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -5620,7 +5620,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -5734,7 +5734,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -5847,7 +5847,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -5961,7 +5961,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -6076,7 +6076,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -6191,7 +6191,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -6306,7 +6306,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -6421,7 +6421,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -6536,7 +6536,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -6650,7 +6650,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome"
@@ -6763,7 +6763,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome"
@@ -6877,7 +6877,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -6992,7 +6992,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -7108,7 +7108,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -7223,7 +7223,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -7339,7 +7339,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -7453,7 +7453,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing"
@@ -7567,7 +7567,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale",
@@ -7683,7 +7683,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -7799,7 +7799,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -7915,7 +7915,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "fastSale"
@@ -8029,7 +8029,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -8145,7 +8145,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -8259,7 +8259,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -8375,7 +8375,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d862?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing"
@@ -8489,7 +8489,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "fastSale",
@@ -8604,7 +8604,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing"
@@ -8718,7 +8718,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1610694955371-d4a3ad5d0c71?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -8834,7 +8834,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale"
@@ -8948,7 +8948,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "fastSale",
@@ -9064,7 +9064,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -9177,7 +9177,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1611107683227-e9060ecbec61?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing"
@@ -9290,7 +9290,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -9404,7 +9404,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -9517,7 +9517,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded"
@@ -9630,7 +9630,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lessCrowded",
@@ -9744,7 +9744,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -9858,7 +9858,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "lessCrowded",
@@ -9972,7 +9972,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -10086,7 +10086,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -10201,7 +10201,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded",
@@ -10316,7 +10316,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -10430,7 +10430,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded"
@@ -10543,7 +10543,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -10657,7 +10657,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -10772,7 +10772,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1583337130417-e3c3cc0af466?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -10885,7 +10885,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -11000,7 +11000,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "lessCrowded",
@@ -11114,7 +11114,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -11228,7 +11228,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "lessCrowded",
@@ -11342,7 +11342,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -11455,7 +11455,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -11568,7 +11568,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome"
@@ -11681,7 +11681,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -11796,7 +11796,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -11909,7 +11909,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -12024,7 +12024,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome"
@@ -12137,7 +12137,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -12251,7 +12251,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -12365,7 +12365,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome"
@@ -12478,7 +12478,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -12591,7 +12591,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -12704,7 +12704,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome"
@@ -12817,7 +12817,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -12931,7 +12931,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -13046,7 +13046,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -13160,7 +13160,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -13273,7 +13273,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -13388,7 +13388,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -13503,7 +13503,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -13618,7 +13618,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome",
@@ -13733,7 +13733,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -13848,7 +13848,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -13963,7 +13963,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -14078,7 +14078,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1612082428207-7b10c6dd6db5?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner"
@@ -14192,7 +14192,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -14308,7 +14308,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -14422,7 +14422,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -14536,7 +14536,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
@@ -14651,7 +14651,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -14765,7 +14765,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -14879,7 +14879,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing"
@@ -14993,7 +14993,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -15108,7 +15108,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -15224,7 +15224,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -15338,7 +15338,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "beginner"
@@ -15452,7 +15452,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -15567,7 +15567,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "beginner",
@@ -15682,7 +15682,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -15798,7 +15798,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -15912,7 +15912,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "writing"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -16027,7 +16027,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -16142,7 +16142,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -16256,7 +16256,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome"
@@ -16369,7 +16369,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -16483,7 +16483,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome"
@@ -16596,7 +16596,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -16709,7 +16709,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -16822,7 +16822,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -16936,7 +16936,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -17049,7 +17049,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing",
@@ -17164,7 +17164,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome"
@@ -17277,7 +17277,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -17391,7 +17391,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -17506,7 +17506,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -17619,7 +17619,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -17732,7 +17732,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -17846,7 +17846,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -17959,7 +17959,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -18073,7 +18073,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -18187,7 +18187,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "provenIncome",
@@ -18302,7 +18302,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -18415,7 +18415,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -18530,7 +18530,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -18643,7 +18643,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -18758,7 +18758,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -18872,7 +18872,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -18987,7 +18987,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -19102,7 +19102,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -19215,7 +19215,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -19330,7 +19330,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -19445,7 +19445,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -19558,7 +19558,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending"
@@ -19671,7 +19671,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -19784,7 +19784,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -19897,7 +19897,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome"
@@ -20010,7 +20010,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -20124,7 +20124,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -20239,7 +20239,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -20354,7 +20354,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -20468,7 +20468,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending"
@@ -20581,7 +20581,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome"
@@ -20694,7 +20694,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -20808,7 +20808,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -20923,7 +20923,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -21038,7 +21038,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "trending",
@@ -21153,7 +21153,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -21266,7 +21266,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "growing"
@@ -21379,7 +21379,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending",
@@ -21493,7 +21493,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1542744173-8e7e91415657?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -21608,7 +21608,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome"
@@ -21721,7 +21721,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome"
@@ -21834,7 +21834,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -21948,7 +21948,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -22061,7 +22061,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -22174,7 +22174,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -22288,7 +22288,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -22401,7 +22401,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -22515,7 +22515,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BAEC9",
     "badges": [
       "provenIncome",
@@ -22629,7 +22629,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "provenIncome",
@@ -22744,7 +22744,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
     "bg": "#4BC98A",
     "badges": [
       "growing",
