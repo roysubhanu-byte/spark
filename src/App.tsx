@@ -18,6 +18,7 @@ import { useStore } from './hooks/useStore'
 import { useDeck } from './hooks/useDeck'
 import { useAuth } from './hooks/useAuth'
 import { useSupabaseSync } from './hooks/useSupabaseSync'
+import { usePushNotifications } from './hooks/usePushNotifications'
 import type { Idea, SectionKey } from './types'
 import { IDEAS, INSPIRE_PROFILES } from './data'
 
@@ -26,6 +27,7 @@ export default function App() {
   const { user } = useAuth()
   const { syncSave, syncPlanStart, syncTaskComplete, syncProfile } = useSupabaseSync(user, store)
   const filteredIdeas = useDeck(IDEAS, store.q2, store.q1, store.interests, store.region)
+  const push = usePushNotifications()
   const [filterOpen, setFilterOpen] = useState(false)
 
   // Overlay state
@@ -84,8 +86,21 @@ export default function App() {
       showToast(`Plan started for ${productIdea.name}!`)
       setProductIdea(null)
       setPlanIdea(productIdea)
+
+      // Ask for push notification permission on first plan start
+      if (push.supported && push.permission !== 'granted' && push.permission !== 'denied') {
+        setTimeout(() => {
+          push.requestPermission().then((granted) => {
+            if (granted) {
+              push.scheduleDaily(1, productIdea.name)
+            }
+          })
+        }, 2000) // slight delay so plan animation finishes first
+      } else if (push.enabled) {
+        push.scheduleDaily(1, productIdea.name)
+      }
     }
-  }, [productIdea, store, syncPlanStart])
+  }, [productIdea, store, syncPlanStart, push])
 
   // Stories → add todo
   const handleAddTodo = useCallback((section: SectionKey) => {
@@ -276,6 +291,31 @@ export default function App() {
                   <div>Ideas explored: {store.cardIdx}</div>
                   <div>Ideas saved: {store.saved.length}</div>
                   <div>Active plans: {store.activePlans.length}</div>
+                </div>
+              </div>
+
+              {/* Push notifications */}
+              <div className="bg-card border border-line-soft rounded-xl p-4">
+                <div className="flex items-center justify-between">
+                  <div>
+                    <div className="text-sm font-medium text-ink">Daily reminders</div>
+                    <div className="text-xs text-ink-mute mt-0.5">
+                      {push.enabled ? 'You\'ll get daily plan reminders at 9 AM' : 'Get reminded to work on your plan daily'}
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => push.requestPermission()}
+                    disabled={push.permission === 'denied' || !push.supported}
+                    className={`px-3 py-1.5 rounded-full text-xs font-medium cursor-pointer transition-all border-none
+                      ${push.enabled
+                        ? 'bg-sage/20 text-sage'
+                        : push.permission === 'denied'
+                        ? 'bg-line text-ink-mute cursor-not-allowed'
+                        : 'bg-ink text-bg hover:bg-accent-deep'
+                      }`}
+                  >
+                    {push.enabled ? 'On' : push.permission === 'denied' ? 'Blocked' : 'Enable'}
+                  </button>
                 </div>
               </div>
 
