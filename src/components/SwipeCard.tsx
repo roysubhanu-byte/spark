@@ -38,6 +38,7 @@ function getMarketSignal(idea: Idea): { label: string; color: string } | null {
 export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, showHint }: Props) {
   const dragRef = useRef(false)
   const [showCurrency, setShowCurrency] = useState(false)
+  const [imgFailed, setImgFailed] = useState(false)
   const x = useMotionValue(0)
   const rotate = useTransform(x, [-200, 200], [-12, 12])
   const likeOpacity = useTransform(x, [30, 100], [0, 1])
@@ -84,6 +85,13 @@ export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, show
     dragRef.current = false
   }
 
+  // Subtle rock animation for first few cards (teaches swipe gesture)
+  const rockAnimation = showHint && depth === 0 ? {
+    x: [0, 30, -30, 15, 0],
+    rotate: [0, 4, -4, 2, 0],
+    transition: { duration: 1.5, delay: 0.8, times: [0, 0.2, 0.5, 0.75, 1] }
+  } : undefined
+
   if (isTextLed) {
     // TEXT-LED VARIANT: hook is the hero, small image inset
     return (
@@ -101,7 +109,7 @@ export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, show
         onDragEnd={depth === 0 ? handleDragEnd : undefined}
         onPointerUp={handleClick}
         initial={{ scale, y: yOff + 30, opacity: 0 }}
-        animate={{ scale, y: yOff, opacity: 1 }}
+        animate={rockAnimation || { scale, y: yOff, opacity: 1 }}
         exit={{ opacity: 0, transition: { duration: 0.2 } }}
         transition={{ type: 'spring', stiffness: 260, damping: 28, delay: depth * 0.04 }}
       >
@@ -164,7 +172,6 @@ export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, show
           )}
         </div>
 
-        {showHint && depth === 0 && <SwipeHint />}
       </motion.div>
     )
   }
@@ -185,15 +192,25 @@ export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, show
       onDragEnd={depth === 0 ? handleDragEnd : undefined}
       onPointerUp={handleClick}
       initial={{ scale, y: yOff + 30, opacity: 0 }}
-      animate={{ scale, y: yOff, opacity: 1 }}
+      animate={rockAnimation || { scale, y: yOff, opacity: 1 }}
       exit={{ opacity: 0, transition: { duration: 0.2 } }}
       transition={{ type: 'spring', stiffness: 260, damping: 28, delay: depth * 0.04 }}
     >
       {/* Image area */}
       <div
         className="w-full h-[64%] bg-cover bg-center relative"
-        style={{ backgroundImage: `url(${heroImage})`, backgroundColor: idea.bg }}
+        style={{ backgroundImage: imgFailed ? 'none' : `url(${heroImage})`, backgroundColor: idea.bg }}
       >
+        {/* Hidden img to detect load failure */}
+        {!imgFailed && <img src={heroImage} alt="" className="hidden" onError={() => setImgFailed(true)} />}
+        {/* Fallback: show idea name on gradient when image fails */}
+        {imgFailed && (
+          <div className="absolute inset-0 flex items-center justify-center p-6">
+            <span className="font-display text-3xl font-light text-white/90 text-center leading-tight drop-shadow-lg">
+              {idea.name}
+            </span>
+          </div>
+        )}
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/35" />
         <div className="absolute top-4 left-4 px-3 py-1.5 bg-white/92 backdrop-blur-lg rounded-full
           text-[11px] font-semibold text-ink tracking-[0.04em] uppercase">
@@ -253,29 +270,8 @@ export function SwipeCard({ idea, region, depth, cardIndex, onSwipe, onTap, show
         </div>
       </div>
 
-      {showHint && depth === 0 && <SwipeHint />}
     </motion.div>
   )
 }
 
-function SwipeHint() {
-  return (
-    <div className="absolute inset-0 z-20 flex flex-col items-center justify-center pointer-events-none">
-      <div className="flex items-center gap-6 px-6 py-3.5 bg-ink/85 backdrop-blur-sm rounded-2xl text-bg text-sm font-medium shadow-xl">
-        <div className="flex flex-col items-center gap-0.5">
-          <span className="text-lg">&#8592;</span>
-          <span className="text-xs opacity-70">Skip</span>
-        </div>
-        <div className="flex flex-col items-center gap-0.5 px-3 border-l border-r border-white/15">
-          <span className="text-lg">&#9758;</span>
-          <span className="text-xs text-gold font-semibold">Tap to explore</span>
-        </div>
-        <div className="flex flex-col items-center gap-0.5">
-          <span className="text-lg">&#8594;</span>
-          <span className="text-xs opacity-70">Save</span>
-        </div>
-      </div>
-      <div className="mt-3 text-[11px] text-bg/60 bg-ink/60 px-3 py-1 rounded-full">Swipe or use buttons below</div>
-    </div>
-  )
-}
+// No overlay hint. The card itself rocks to teach the gesture.
