@@ -19,7 +19,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1589959320004-bf0f2f6b13ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxsYXB0b3AlMjByZXN1bWUlMjB3cml0aW5nfGVufDB8Mnx8fDE3NzczNjEwODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "growing",
@@ -135,7 +135,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1645717558647-5290516259c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxlbWFpbCUyMGluYm94JTIwbGFwdG9wfGVufDB8Mnx8fDE3NzczNjEwNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -249,7 +249,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1708492671286-8c8bed2e0ed9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMG1lZXRpbmclMjBsYXB0b3B8ZW58MHwyfHx8MTc3NzM2MTAyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome"
@@ -363,7 +363,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1587725835427-a9ff8e559dc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxibG9nZ2luZyUyMGxhcHRvcCUyMGNvZmZlZXxlbnwwfDJ8fHwxNzc3MzYxMDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -478,7 +478,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1761123044903-1671e0edc3f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjb2RpbmclMjBsYXB0b3AlMjBzY3JlZW58ZW58MHwyfHx8MTc3NzM2MTA1MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -710,7 +710,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYSUyMHBob25lfGVufDB8Mnx8fDE3NzczNjEwODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -1055,7 +1055,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1657121576683-0bb88b348053?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxwb2RjYXN0JTIwbWljcm9waG9uZXxlbnwwfDJ8fHwxNzc3MzYxMDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "growing"
@@ -1169,7 +1169,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1606327054469-cf9dd7162d6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxpbnZvaWNlJTIwYnVzaW5lc3MlMjBkZXNrfGVufDB8Mnx8fDE3NzczNjEwNjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -1397,7 +1397,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1692970969158-8ca0985e98dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxsb2dvJTIwZGVzaWduJTIwY3JlYXRpdmV8ZW58MHwyfHx8MTc3NzM2MTA2OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -1512,7 +1512,7 @@ export const SAAS_IDEAS: Idea[] =
       "ai",
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1543336472-fcf478c443db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGVkaXRpbmclMjBzY3JlZW58ZW58MHwyfHx8MTc3NzM2MTA4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BAEC9",
     "badges": [
       "trending",
@@ -8145,7 +8145,7 @@ export const SAAS_IDEAS: Idea[] =
       "tech",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1587725835427-a9ff8e559dc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxibG9nZ2luZyUyMGxhcHRvcCUyMGNvZmZlZXxlbnwwfDJ8fHwxNzc3MzYxMDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -9858,7 +9858,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1542395765-761de4ee9696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHx3ZWJzaXRlJTIwYnVpbGRpbmclMjBsYXB0b3B8ZW58MHwyfHx8MTc3NzM2MTA5OXww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#6BC94B",
     "badges": [
       "lessCrowded",
@@ -16822,7 +16822,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1708492671286-8c8bed2e0ed9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMG1lZXRpbmclMjBsYXB0b3B8ZW58MHwyfHx8MTc3NzM2MTAyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BAEC9",
     "badges": [
       "growing",
@@ -17277,7 +17277,7 @@ export const SAAS_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1543336472-fcf478c443db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGVkaXRpbmclMjBzY3JlZW58ZW58MHwyfHx8MTc3NzM2MTA4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",

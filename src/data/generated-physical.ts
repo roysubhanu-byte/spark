@@ -2906,7 +2906,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1737094661981-baad6b211852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxhcm9tYXRoZXJhcHklMjBwaWxsb3dzJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzYxMTA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#6BC94B",
     "badges": [
       "beginner"
@@ -3626,7 +3626,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1574858652193-552d8be18519?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxhY3J5bGljJTIwbmlnaHQlMjBsaWdodHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjEwNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -8665,7 +8665,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1615873431201-1d6e6e5ee1e3?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1690175867343-2af70ea57537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYW5nbGUlMjBzZXRzJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzYxMTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital"
@@ -14903,7 +14903,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1774663543332-03e32085e8f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxhbG9lJTIwdmVyYSUyMGdlbCUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM2MTA5NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -21119,7 +21119,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1720535190566-89d1e2aa0e39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiaXJkJTIwdG95cyUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM2MTE5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "trending",
@@ -25055,7 +25055,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1722594534971-36d98e7eb3a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYnElMjBzYXVjZSUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM2MTE0OXww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#7B4BC9",
     "badges": [
       "provenIncome",
@@ -28270,7 +28270,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1766185166626-718b8335c27b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYWJ5JTIwbWlsZXN0b25lJTIwY2FyZHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjExMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
@@ -30296,7 +30296,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1599549960904-c6cbf85ed979?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYWJ5JTIwY2hhbmdpbmclMjBwYWQlMjBjb3ZlcnMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjExMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -31602,7 +31602,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/flagged/photo-1568004614836-9a79797332da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYWJ5JTIwY2FycmllciUyMGNvdmVyJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzYxMTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -32079,7 +32079,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "kids"
     ],
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1559454403-b8fb88521f11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYWJ5JTIwYmxhbmtldHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjExMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "beginner"
@@ -37000,7 +37000,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1600210491369-e753d80a41f3?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1643647705844-75abcec40a1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxhY3J5bGljJTIwZGVzayUyMHNpZ25zJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzYxMDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C9834B",
     "badges": [
       "beginner",
@@ -37717,7 +37717,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1732414601271-0b63b575a795?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxibG9jayUyMHByaW50JTIwY2xvdGhpbmclMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjExOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C9834B",
     "badges": [
       "fastSale"
@@ -45614,7 +45614,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1520052205864-92d242b3a76b?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1607612919507-d60beaec59bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYW1ib28lMjB0b290aGJydXNoZXMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjExMzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "lowCapital"
@@ -46212,7 +46212,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1643563599594-3daa2ebdb31d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiaW9kZWdyYWRhYmxlJTIwZ2xpdHRlciUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM2MTE5MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -48252,7 +48252,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1607612919507-d60beaec59bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYW1ib28lMjBoYWlyJTIwYnJ1c2glMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjExMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "trending",
@@ -58412,7 +58412,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1735346424466-292c9b63882a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxibG9jayUyMHByaW50aW5nJTIwa2l0cyUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM2MTIwMHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -58533,7 +58533,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1716110260365-acbbb773714b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYXNrZXQlMjB3ZWF2aW5nJTIwa2l0cyUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM2MTE0NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "lessCrowded",
@@ -59134,7 +59134,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1761516126183-6edcbaa8be57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYXRpayUyMG1ha2luZyUyMGtpdHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjExNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#6BC94B",
     "badges": [
       "lowCapital"
@@ -67059,7 +67059,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1600620344395-0d5c45f31a20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxiYWxsb29uJTIwZ2FybGFuZCUyMGtpdHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjExMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#7B4BC9",
     "badges": [
       "beginner"
@@ -67297,7 +67297,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1664032655802-ef0a6895619a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxhY3J5bGljJTIwY2FrZSUyMHRvcHBlcnMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjEwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -89330,7 +89330,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1637054234936-afff500ff66f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxhZmZpcm1hdGlvbiUyMGNhcmRzJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzYxMDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BAEC9",
     "badges": [
       "lowCapital"
