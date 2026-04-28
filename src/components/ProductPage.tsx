@@ -142,13 +142,13 @@ export function ProductPage({ idea, region, profiles, isSaved, onSave, onOpenSto
                 onClick={() => onOpenStories(key)}
                 className="flex items-center gap-3 px-4 py-3.5 bg-card border border-line-soft rounded-xl
                   cursor-pointer transition-all hover:border-line text-left w-full font-body group">
-                <div className="w-9 h-9 rounded-full bg-bg-deep flex items-center justify-center text-lg shrink-0">
-                  {key === 'strategy' && '🎯'}
-                  {key === 'value' && '👤'}
-                  {key === 'profit' && '💰'}
-                  {key === 'distributors' && '📦'}
-                  {key === 'pricing' && '🏷'}
-                  {key === 'sellingPrice' && '💵'}
+                <div className="w-9 h-9 rounded-full bg-bg-deep flex items-center justify-center text-xs font-bold text-accent shrink-0">
+                  {key === 'strategy' && '01'}
+                  {key === 'value' && '02'}
+                  {key === 'profit' && '03'}
+                  {key === 'distributors' && '04'}
+                  {key === 'pricing' && '05'}
+                  {key === 'sellingPrice' && '06'}
                 </div>
                 <div className="flex-1">
                   <div className="text-sm font-medium text-ink">{SECTION_LABELS[key]}</div>
@@ -166,7 +166,7 @@ export function ProductPage({ idea, region, profiles, isSaved, onSave, onOpenSto
             className="w-full flex items-center justify-between px-4 py-3.5 bg-gradient-to-r from-gold/10 to-accent/10
               border border-gold/20 rounded-xl cursor-pointer font-body text-left">
             <div className="flex items-center gap-3">
-              <span className="text-xl">🧮</span>
+              <span className="text-sm font-bold text-accent">P/L</span>
               <div>
                 <div className="text-sm font-medium text-ink">Profit Calculator</div>
                 <div className="text-xs text-ink-mute">Plug in your numbers</div>
