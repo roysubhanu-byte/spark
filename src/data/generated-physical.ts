@@ -967,7 +967,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1666403167298-b1718274b1d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjb25jcmV0ZSUyMHBsYW50ZXJzJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzcyMTEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -2325,52 +2325,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "single": 42,
       "set": 94
     },
-    "breakdown": {
-      "strategy": {
-        "body": "People don't buy <strong>Wall Clocks</strong> for function. They buy it because it makes their space feel like <strong>them</strong>. Your angle isn't the product itself. It's the aesthetic, the vibe, the feeling when someone walks into a room and says 'where did you get that?' Pick one interior style and own it completely.",
-        "action": "Write your one unique angle for Wall Clocks in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is decorating a space on a budget but with taste. She's scrolling Pinterest, saving inspo boards, and wants her apartment to look like a magazine without IKEA basics. <strong>She'll pay more for 'unique' and 'handmade.'</strong> She's buying for herself or as a housewarming gift.",
-        "action": "Describe your ideal buyer in 1 sentence (age, situation, what they're looking for)"
-      },
-      "profit": {
-        "body": "Your first batch costs roughly <strong>$60-130</strong> for materials. Each wall clocks sells for about <strong>$338</strong>. After packaging, platform fees (Etsy takes ~9%), and shipping, you keep about <strong>61%</strong>. Sell 30 units/month and that's <strong>$10140/month</strong>.",
-        "stats": [
-          {
-            "label": "Margin",
-            "value": "61%"
-          },
-          {
-            "label": "Monthly (30 units)",
-            "value": "$10140"
-          }
-        ],
-        "action": "Open the profit calculator and enter your real costs"
-      },
-      "distributors": {
-        "body": "<strong>AliExpress</strong> for samples of finished goods. <strong>Alibaba</strong> for bulk orders (30-50% cheaper). For raw materials (wax, resin, cement): <strong>specialty suppliers</strong> ship direct. Order 3 samples before any bulk commitment.",
-        "action": "Order 2-3 samples from different suppliers today"
-      },
-      "pricing": {
-        "body": "Three tiers: <strong>(1) Single</strong> at $338 to build reviews. <strong>(2) Bundle</strong> (set of 3) at $878 (saves the buyer 13%). <strong>(3) Gift set</strong> with premium packaging at $507. Gift sets have the highest margin. Start with singles + one bundle.",
-        "action": "Set your 3 price tiers and write them down"
-      },
-      "sellingPrice": {
-        "body": "Launch at <strong>$338</strong>. This is slightly below the market average to build initial reviews. After 20 sales, raise to <strong>$405</strong>. After 50 sales, test <strong>$473</strong>. <strong>Never price below $236</strong> because bargain hunters leave 1-star reviews.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$338"
-          },
-          {
-            "label": "After 20 sales",
-            "value": "$405"
-          }
-        ],
-        "action": "List your first wall clocks at $338"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Wall clocks are having a moment because remote work made people obsess over their home workspace. Everyone's staring at bare walls during Zoom calls. Minimalist clocks solve the 'my apartment looks basic' problem without breaking the bank.", "action": "Start by browsing top-selling clock designs on Etsy to spot gaps in popular styles.", "stats": [{ "label": "Etsy clock searches/month", "value": "890K+" }, { "label": "Average selling price", "value": "$35-85" }] }, "value": { "body": "Your buyers are 25-40 year olds who just moved, got promoted, or started working from home. They want something that looks expensive but isn't. They'll pay $40-80 for a clock that makes their space feel 'curated' instead of buying a $12 one from Target.", "action": "Create 3 different styles targeting renters, new homeowners, and home office workers.", "stats": [{ "label": "Target age range", "value": "25-40" }, { "label": "Avg. home decor budget", "value": "$200-500/year" }] }, "profit": { "body": "You'll spend $8-15 per clock on materials (wood, mechanism, hands). Sell for $45-75 each. That's roughly 70% profit margins. If you make 20 clocks monthly, you're looking at $600-900 profit after Etsy fees.", "action": "Start with a batch of 10 to test demand, then scale based on what sells fastest.", "stats": [{ "label": "Material cost per unit", "value": "$8-15" }, { "label": "Profit margin", "value": "65-75%" }, { "label": "Monthly profit potential", "value": "$600-900" }] }, "distributors": { "body": "You'll need clock mechanisms ($2-4 each from Amazon), wood blanks ($3-8 from craft stores), and clock hands ($1-3 per set). Hobby Lobby and Michaels have everything, but buying wholesale from Alibaba cuts costs in half once you're moving 50+ units monthly.", "action": "Start local with Michaels 40% off coupons, then switch to wholesale at $500+ monthly sales.", "stats": [{ "label": "Local markup vs wholesale", "value": "40-60%" }, { "label": "Wholesale minimum order", "value": "50-100 units" }] }, "pricing": { "body": "Price your simplest design at $42, mid-tier at $58, and premium at $78. The middle option will sell most because it feels reasonable compared to your high anchor. Never price below $35 or you'll attract bargain hunters who leave bad reviews.", "action": "Launch with 3 price tiers and track which gets the most views vs purchases.", "stats": [{ "label": "Sweet spot price range", "value": "$45-65" }, { "label": "Price floor to maintain quality perception", "value": "$35" }] }, "sellingPrice": { "body": "Etsy is your goldmine because people search 'wall clock' there expecting handmade quality. Instagram works for building your brand, but Etsy converts better. Facebook Marketplace is good for local sales to avoid shipping costs on your first few pieces.", "action": "Start with Etsy, post progress videos on Instagram, then add Facebook Marketplace once you have 10+ reviews.", "stats": [{ "label": "Etsy conversion rate for clocks", "value": "2-4%" }, { "label": "Instagram vs Etsy sales ratio", "value": "1:5" }] } },
     "validation": {
       "sparkScore": 60,
       "dataSource": "google_trends+category_benchmarks",
@@ -2769,7 +2724,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1701383700322-007c0fe0a154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjZXJhbWljJTIwcmluZyUyMGRpc2hlcyUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MjA2MXww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "beginner",
@@ -4215,7 +4170,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1723779235151-a33924d170da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjZXJhbWljJTIwdmFzZXMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwNjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#7B4BC9",
     "badges": [
       "beginner",
@@ -4635,7 +4590,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1600488999585-e4364713b90c?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1692846191450-5ecb60990488?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjZW1lbnQlMjBjYW5kbGUlMjBob2xkZXJzJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzcyMDU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#6BC94B",
     "badges": [
       "trending"
@@ -7314,7 +7269,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1610694955371-d4a3ad5d0c71?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1617791693847-e9a22372299e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjb2luJTIwbmVja2xhY2VzJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzcyMDk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C94B6E",
     "badges": [
       "beginner",
@@ -9233,7 +9188,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "jewelry",
       "fashion"
     ],
-    "image": "https://images.unsplash.com/photo-1573408301185-8b1f28fa3b84?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1570932627489-52b0caa213d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxib2hvJTIwcmluZyUyMHNldHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNjEyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -9891,7 +9846,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1772442934379-21275cb79134?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxib2R5JTIwYnV0dGVyJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzYxMjA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C9834B",
     "badges": [
       "growing",
@@ -10475,7 +10430,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbec6f?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1773489805766-ba4bd17eaca7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjbGF5JTIwZmFjZSUyMG1hc2tzJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzcyMDgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C94B6E",
     "badges": [
       "trending",
@@ -11724,7 +11679,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1624459402601-f3060340e809?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjaGFyY29hbCUyMHNvYXAlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#7B4BC9",
     "badges": [
       "growing"
@@ -12882,7 +12837,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "beauty",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1612590838546-42efc879aa49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxicm93JTIwbGFtaW5hdGlvbiUyMGtpdCUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MTk4OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -14972,7 +14927,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1680925652180-cee37b90b371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYXQlMjBzY3JhdGNoaW5nJTIwcG9zdHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -15979,7 +15934,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1638826597207-7b97eae03810?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYXQlMjBwdXp6bGUlMjBmZWVkZXIlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -16573,7 +16528,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1698326560865-3f94a67fb301?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYXQlMjBjb2xsYXIlMjBiZWxscyUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MjA0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#6BC94B",
     "badges": [
       "beginner",
@@ -16667,52 +16622,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "single": 18,
       "set": 47
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Pet owners spend irrationally on their animals (in a good way). <strong>Pet Dental Chews</strong> works because pet parents want the <strong>best for their fur baby</strong>. Your angle: either make it safer than mass-market alternatives, or make it cuter. Personalization (pet's name) adds $5-10 to any product.",
-        "action": "Write your one unique angle for Pet Dental Chews in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>pet parent</strong> who calls their dog 'my baby.' They follow 15+ pet accounts, celebrate their pet's birthday, and feel guilty buying cheap stuff. They'll pay premium for anything that's safer, cuter, or more personalized than PetSmart.",
-        "action": "Describe your ideal buyer in 1 sentence (age, situation, what they're looking for)"
-      },
-      "profit": {
-        "body": "Your first batch costs roughly <strong>$40-80</strong> for materials. Each pet dental chews sells for about <strong>$246</strong>. After packaging, platform fees (Etsy takes ~9%), and shipping, you keep about <strong>67%</strong>. Sell 50 units/month and that's <strong>$12300/month</strong>.",
-        "stats": [
-          {
-            "label": "Margin",
-            "value": "67%"
-          },
-          {
-            "label": "Monthly (50 units)",
-            "value": "$12300"
-          }
-        ],
-        "action": "Open the profit calculator and enter your real costs"
-      },
-      "distributors": {
-        "body": "<strong>AliExpress</strong> for accessories (tags, collars, toys). <strong>Alibaba</strong> for custom printing (bandanas, bowls). Treat ingredients: <strong>local butchers</strong> for dehydrated meats, <strong>Bulk Apothecary</strong> for supplements.",
-        "action": "Order 2-3 samples from different suppliers today"
-      },
-      "pricing": {
-        "body": "Three tiers: <strong>(1) Single</strong> at $246 to build reviews. <strong>(2) Bundle</strong> (set of 3) at $639 (saves the buyer 13%). <strong>(3) Gift set</strong> with premium packaging at $369. Gift sets have the highest margin. Start with singles + one bundle.",
-        "action": "Set your 3 price tiers and write them down"
-      },
-      "sellingPrice": {
-        "body": "Launch at <strong>$246</strong>. This is slightly below the market average to build initial reviews. After 20 sales, raise to <strong>$295</strong>. After 50 sales, test <strong>$344</strong>. <strong>Never price below $172</strong> because bargain hunters leave 1-star reviews.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$246"
-          },
-          {
-            "label": "After 20 sales",
-            "value": "$295"
-          }
-        ],
-        "action": "List your first pet dental chews at $246"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Pet owners spend $136 billion annually on their animals, and 80% of dogs show signs of dental disease by age 3. Most people won't brush their dog's teeth daily, but they'll absolutely buy treats that do the job for them. You're solving guilt and convenience in one chewy package.", "action": "Research local pet stores and identify 3-5 ingredients that actually help with dental health, like sweet potato or coconut oil.", "stats": [{ "label": "Dogs with dental issues", "value": "80% by age 3" }, { "label": "Pet industry size", "value": "$136B annually" }] }, "value": { "body": "Your buyer is the dog owner who spends $50+ monthly on premium pet food and feels bad about their dog's breath. They're already buying dental treats at $12-18 per bag but want something more natural or effective. These aren't impulse buyers, they're committed pet parents who research ingredients.", "action": "Visit 2 local pet stores and ask staff what dental chew complaints they hear most often from customers.", "stats": [{ "label": "Monthly premium pet spending", "value": "$50+" }, { "label": "Current dental treat prices", "value": "$12-18/bag" }] }, "profit": { "body": "Homemade dental chews cost $2-4 per bag to make (ingredients, packaging, labels). Sell them for $8-12, giving you a 60-75% margin. Start with 20 bags per week and you're looking at $80-160 in weekly profit once you find your rhythm.", "action": "Calculate exact ingredient costs by pricing sweet potato flour, coconut oil, and parsley at your local bulk store.", "stats": [{ "label": "Cost per bag", "value": "$2-4" }, { "label": "Profit margin", "value": "60-75%" }, { "label": "Weekly potential", "value": "$80-160" }] }, "distributors": { "body": "You need food-grade ingredients (sweet potato flour, coconut oil, parsley), silicone molds or cookie cutters, a dehydrator or low oven, and simple packaging bags with labels. Most ingredients come from restaurant supply stores or online bulk retailers. Total startup equipment runs $40-80.", "action": "Source dehydrator trays from Facebook Marketplace and find a local restaurant supply store for bulk ingredients.", "stats": [{ "label": "Equipment cost", "value": "$40-80" }, { "label": "Ingredient sources", "value": "2-3 suppliers needed" }] }, "pricing": { "body": "Price based on weight and premium positioning. Small bags (8-10 treats) at $8, medium bags (15-20 treats) at $12, and bulk bags (30+ treats) at $18. This undercuts premium brands like Greenies ($20+ for similar quantities) while staying above cheap grocery store options.", "action": "Create three clear size options and test pricing with 5 dog owners in your network before launching.", "stats": [{ "label": "Small bag price", "value": "$8" }, { "label": "Medium bag price", "value": "$12" }, { "label": "Bulk bag price", "value": "$18" }] }, "sellingPrice": { "body": "Start with Facebook Marketplace and local pet stores on consignment (they take 30-40%). Farmers markets work great since pet owners shop there for natural products. Online through Etsy or your own website once you have 10+ reviews and photos of happy dogs.", "action": "Contact 3 local pet stores about consignment deals and sign up for your nearest Saturday farmers market.", "stats": [{ "label": "Store commission", "value": "30-40%" }, { "label": "Farmers market booth", "value": "$25-50/day" }, { "label": "Etsy success threshold", "value": "10+ reviews" }] } },
     "validation": {
       "sparkScore": 63,
       "dataSource": "google_trends+category_benchmarks",
@@ -16988,7 +16898,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "pets"
     ],
-    "image": "https://images.unsplash.com/photo-1601758174114-e711c8c56f5b?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1620552785085-f3f98bfe1efd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYXQlMjBsaXR0ZXIlMjBtYXQlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "beginner",
@@ -17912,7 +17822,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1585597621365-00607210e3e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjb29raWUlMjBtaXhlcyUyMGluJTIwamFycyUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MjEyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BAEC9",
     "badges": [
       "growing"
@@ -19850,7 +19760,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1608634070674-2db08b533d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYXJhbWVsJTIwc2F1Y2UlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwMzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#7B4BC9",
     "badges": [
       "growing",
@@ -20383,7 +20293,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "food"
     ],
-    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1614313511387-1436a4480ebb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjb2NrdGFpbCUyMG1peGVycyUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MjA5MHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "provenIncome",
@@ -21926,52 +21836,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "single": 28,
       "set": 83
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Parents buy <strong>Kids Lunch Boxes</strong> to feel like good parents. Safety and quality are non-negotiable. Your angle: <strong>one clear benefit</strong> ('develops fine motor skills' or 'organic cotton, no chemicals'). Pair the benefit with beautiful packaging. It's a gift market. Make it giftable.",
-        "action": "Write your one unique angle for Kids Lunch Boxes in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>first-time parent or a gift-buyer</strong>. Parents are overwhelmed and want curated, safe, non-toxic options. Gift-buyers want something cute and photo-worthy. In both cases, packaging matters as much as the product.",
-        "action": "Describe your ideal buyer in 1 sentence (age, situation, what they're looking for)"
-      },
-      "profit": {
-        "body": "Your first batch costs roughly <strong>$60-130</strong> for materials. Each kids lunch boxes sells for about <strong>$457</strong>. After packaging, platform fees (Etsy takes ~9%), and shipping, you keep about <strong>71%</strong>. Sell 30 units/month and that's <strong>$13710/month</strong>.",
-        "stats": [
-          {
-            "label": "Margin",
-            "value": "71%"
-          },
-          {
-            "label": "Monthly (30 units)",
-            "value": "$13710"
-          }
-        ],
-        "action": "Open the profit calculator and enter your real costs"
-      },
-      "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
-        "action": "Order 2-3 samples from different suppliers today"
-      },
-      "pricing": {
-        "body": "Three tiers: <strong>(1) Single</strong> at $457 to build reviews. <strong>(2) Bundle</strong> (set of 3) at $1188 (saves the buyer 13%). <strong>(3) Gift set</strong> with premium packaging at $685. Gift sets have the highest margin. Start with singles + one bundle.",
-        "action": "Set your 3 price tiers and write them down"
-      },
-      "sellingPrice": {
-        "body": "Launch at <strong>$457</strong>. This is slightly below the market average to build initial reviews. After 20 sales, raise to <strong>$548</strong>. After 50 sales, test <strong>$639</strong>. <strong>Never price below $319</strong> because bargain hunters leave 1-star reviews.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$457"
-          },
-          {
-            "label": "After 20 sales",
-            "value": "$548"
-          }
-        ],
-        "action": "List your first kids lunch boxes at $457"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Parents spend $2,500+ per year on school lunches, but most kids throw away half their food. Bento boxes solve this by making lunch feel like a fun puzzle with separate compartments. The Japanese-inspired trend hit mainstream when Bentgo sold over 8 million units, proving parents will pay premium for portion control and presentation.", "action": "Research trending bento designs on Pinterest and identify 3 unique compartment layouts that aren't being made locally.", "stats": [{ "label": "Average lunch waste", "value": "40%" }, { "label": "Back-to-school market", "value": "$37B" }] }, "value": { "body": "Working moms aged 28-42 with household income over $65k buy these. They're frustrated by soggy sandwiches, food waste, and daily lunch prep stress. These parents already spend $15-25 on regular lunch boxes, so they'll pay $35-45 for something that keeps food fresh and makes their kid excited to eat.", "action": "Join 3 local mom Facebook groups and ask what their biggest lunch packing frustrations are.", "stats": [{ "label": "Target buyer age", "value": "28-42" }, { "label": "Willing to pay", "value": "$35-45" }] }, "profit": { "body": "Quality bento boxes cost $8-12 to manufacture in small batches (200-500 units). Sell them for $35-40, giving you $23-32 profit per box. Start with 100 units for $1,000, and if you sell 25 boxes monthly, that's $575-800 profit after covering your initial investment in month 2.", "action": "Contact 3 local manufacturers or 3D printing services to get quotes for 100-unit runs.", "stats": [{ "label": "Cost to make", "value": "$8-12" }, { "label": "Monthly profit potential", "value": "$575-800" }] }, "distributors": { "body": "You need food-grade BPA-free plastic suppliers, silicone gasket manufacturers, and packaging materials. Alibaba has minimum orders of 500+ units, but local plastic manufacturers often do 100-unit runs for $2-3 more per box. For $60-200 startup budget, partner with a local 3D printing shop that uses food-safe materials.", "action": "Contact 5 local 3D printing services and ask about food-grade materials and bulk pricing for lunch box prototypes.", "stats": [{ "label": "Local vs overseas cost difference", "value": "$2-3 more" }, { "label": "Minimum local order", "value": "100 units" }] }, "pricing": { "body": "Price at $35 for basic 4-compartment, $40 for 6-compartment with ice pack, $45 for deluxe with utensil holder. This puts you between cheap drugstore boxes ($8-15) and premium brands like PlanetBox ($65-80). The middle price point feels reasonable while the deluxe option increases average order value by 20%.", "action": "Check prices of 10 competing lunch boxes on Amazon and position yours exactly in the middle tier.", "stats": [{ "label": "Basic model price", "value": "$35" }, { "label": "Premium model price", "value": "$45" }, { "label": "AOV increase with tiers", "value": "20%" }] }, "sellingPrice": { "body": "Start with local Facebook mom groups and school pickup lines for immediate feedback and sales. Etsy works great for handmade/custom designs, with average bento box sellers making $800-2,000 monthly. Amazon requires more capital but the lunch box category gets 50,000+ searches monthly during back-to-school season.", "action": "List your first prototype on Etsy and post in 2 local parent Facebook groups to test demand before scaling.", "stats": [{ "label": "Etsy seller average", "value": "$800-2K/mo" }, { "label": "Amazon monthly searches", "value": "50,000+" }] } },
     "validation": {
       "sparkScore": 56,
       "dataSource": "google_trends+category_benchmarks",
@@ -23518,52 +23383,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "single": 11,
       "set": 30
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Parents buy <strong>Baby Changing Pad Covers</strong> to feel like good parents. Safety and quality are non-negotiable. Your angle: <strong>one clear benefit</strong> ('develops fine motor skills' or 'organic cotton, no chemicals'). Pair the benefit with beautiful packaging. It's a gift market. Make it giftable.",
-        "action": "Write your one unique angle for Baby Changing Pad Covers in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is a <strong>first-time parent or a gift-buyer</strong>. Parents are overwhelmed and want curated, safe, non-toxic options. Gift-buyers want something cute and photo-worthy. In both cases, packaging matters as much as the product.",
-        "action": "Describe your ideal buyer in 1 sentence (age, situation, what they're looking for)"
-      },
-      "profit": {
-        "body": "Your first batch costs roughly <strong>$30-55</strong> for materials. Each baby changing pad covers sells for about <strong>$181</strong>. After packaging, platform fees (Etsy takes ~9%), and shipping, you keep about <strong>69%</strong>. Sell 100 units/month and that's <strong>$18100/month</strong>.",
-        "stats": [
-          {
-            "label": "Margin",
-            "value": "69%"
-          },
-          {
-            "label": "Monthly (100 units)",
-            "value": "$18100"
-          }
-        ],
-        "action": "Open the profit calculator and enter your real costs"
-      },
-      "distributors": {
-        "body": "<strong>AliExpress</strong> for silicone teethers, wooden toys, fabric items. <strong>Must be CPSC compliant</strong> for US sales (no small parts under 3). <strong>OEKO-TEX certified</strong> fabrics for anything touching baby skin.",
-        "action": "Order 2-3 samples from different suppliers today"
-      },
-      "pricing": {
-        "body": "Three tiers: <strong>(1) Single</strong> at $181 to build reviews. <strong>(2) Bundle</strong> (set of 3) at $470 (saves the buyer 13%). <strong>(3) Gift set</strong> with premium packaging at $271. Gift sets have the highest margin. Start with singles + one bundle.",
-        "action": "Set your 3 price tiers and write them down"
-      },
-      "sellingPrice": {
-        "body": "Launch at <strong>$181</strong>. This is slightly below the market average to build initial reviews. After 20 sales, raise to <strong>$217</strong>. After 50 sales, test <strong>$253</strong>. <strong>Never price below $126</strong> because bargain hunters leave 1-star reviews.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$181"
-          },
-          {
-            "label": "After 20 sales",
-            "value": "$217"
-          }
-        ],
-        "action": "List your first baby changing pad covers at $181"
-      }
-    },
+    "breakdown": { "strategy": { "body": "New parents replace changing pad covers constantly because babies make messes. Standard covers are plastic or polyester that trap heat and feel cheap. Muslin is trendy, breathable, and feels premium while still being machine washable.", "action": "Start with 3-4 neutral patterns that match modern nursery aesthetics.", "stats": [{ "label": "US births annually", "value": "3.6M" }, { "label": "Changing pad market", "value": "$180M" }] }, "value": { "body": "First-time moms aged 25-35 who spend $200+ on nursery decor. They want everything to look Instagram-worthy but still be functional. They'll pay extra for organic, soft materials that won't irritate baby's skin.", "action": "Focus marketing on mom groups and nursery design hashtags on Instagram.", "stats": [{ "label": "Average nursery spend", "value": "$2,000" }, { "label": "Premium baby textile markup", "value": "300-400%" }] }, "profit": { "body": "Muslin fabric costs $3-4 per yard, you need 0.75 yards per cover. Add elastic and thread for $1 total. Sell for $18-25 each with 70% profit margins.", "action": "Aim for 50 covers per month to hit $600-800 profit after materials.", "stats": [{ "label": "Material cost per cover", "value": "$4.25" }, { "label": "Target selling price", "value": "$22" }, { "label": "Profit per cover", "value": "$17.75" }] }, "distributors": { "body": "Buy organic muslin from Fabric.com or local fabric stores at $8-12 per yard. Get 1/4 inch elastic from Amazon in bulk. You'll need a basic sewing machine (Brother XM2701 for $150) and measuring tools.", "action": "Start with 20 yards of muslin in 2 patterns to make your first batch of 25 covers.", "stats": [{ "label": "Initial fabric investment", "value": "$200" }, { "label": "Elastic cost (100 yards)", "value": "$15" }] }, "pricing": { "body": "Price single covers at $22, two-packs at $38, and three-packs at $55. The bundle discount makes parents feel smart while increasing your average order value. Position against $8-12 basic covers at Target.", "action": "Lead with the two-pack option as your main product offering.", "stats": [{ "label": "Single cover price", "value": "$22" }, { "label": "Bundle savings", "value": "15-20%" }, { "label": "Competitor basic covers", "value": "$8-12" }] }, "sellingPrice": { "body": "Etsy is perfect for handmade baby items with high search volume. Facebook Marketplace works for local sales. Amazon Handmade takes 15% but gives massive reach to prime customers who buy baby stuff in bulk.", "action": "Start on Etsy, then expand to Amazon Handmade once you have 25+ five-star reviews.", "stats": [{ "label": "Etsy monthly baby searches", "value": "2.1M" }, { "label": "Amazon Handmade fee", "value": "15%" }, { "label": "Etsy transaction fee", "value": "6.5%" }] } },
     "validation": {
       "sparkScore": 59,
       "dataSource": "google_trends+category_benchmarks",
@@ -25583,7 +25403,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1561865406-62a037159577?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxib29rbWFya3MlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzE5ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C99A4B",
     "badges": [
       "lowCapital"
@@ -26148,7 +25968,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1568639152391-61b4303bead7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxidWxsZXQlMjBqb3VybmFsJTIwc3VwcGxpZXMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzE5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#7B4BC9",
     "badges": [
       "fastSale",
@@ -27308,7 +27128,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1677668098021-e2337d409f50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxicnVzaCUyMHBlbiUyMHNldHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzE5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -30049,7 +29869,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "fashion",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1774547133425-e9589a9f0a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxidWNrZXQlMjBoYXRzJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzcxOTkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -33506,52 +33326,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "single": 40,
       "set": 110
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Tech accessories sell on <strong>convenience + aesthetics</strong>. <strong>Custom Keycaps</strong> needs to solve an annoying daily friction. Your angle: make it look premium (not cheap Amazon plastic) and solve one specific problem really well. 'The only [X] you'll ever need' is your headline energy.",
-        "action": "Write your one unique angle for Custom Keycaps in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer is an <strong>optimizer</strong>. They want their desk setup, car, or daily carry to work perfectly. They read Amazon reviews obsessively and will pay 2x for a product with 4.5+ stars over a cheaper unknown. Make quality obvious.",
-        "action": "Describe your ideal buyer in 1 sentence (age, situation, what they're looking for)"
-      },
-      "profit": {
-        "body": "Your first batch costs roughly <strong>$100-200</strong> for materials. Each custom keycaps sells for about <strong>$539</strong>. After packaging, platform fees (Etsy takes ~9%), and shipping, you keep about <strong>62%</strong>. Sell 100 units/month and that's <strong>$53900/month</strong>.",
-        "stats": [
-          {
-            "label": "Margin",
-            "value": "62%"
-          },
-          {
-            "label": "Monthly (100 units)",
-            "value": "$53900"
-          }
-        ],
-        "action": "Open the profit calculator and enter your real costs"
-      },
-      "distributors": {
-        "body": "<strong>AliExpress</strong> for samples and small batches. <strong>Alibaba</strong> for custom branding (MOQ 100+). Key: find a supplier who'll add your logo (laser etching for metal, pad printing for plastic). <strong>Avoid selling anything that needs FCC certification.</strong>",
-        "action": "Order 2-3 samples from different suppliers today"
-      },
-      "pricing": {
-        "body": "Three tiers: <strong>(1) Single</strong> at $539 to build reviews. <strong>(2) Bundle</strong> (set of 3) at $1401 (saves the buyer 13%). <strong>(3) Gift set</strong> with premium packaging at $808. Gift sets have the highest margin. Start with singles + one bundle.",
-        "action": "Set your 3 price tiers and write them down"
-      },
-      "sellingPrice": {
-        "body": "Launch at <strong>$539</strong>. This is slightly below the market average to build initial reviews. After 20 sales, raise to <strong>$646</strong>. After 50 sales, test <strong>$754</strong>. <strong>Never price below $377</strong> because bargain hunters leave 1-star reviews.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$539"
-          },
-          {
-            "label": "After 20 sales",
-            "value": "$646"
-          }
-        ],
-        "action": "List your first custom keycaps at $539"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Mechanical keyboard enthusiasts spend $150-500+ on keyboards, then want unique keycaps to match their setups. The gaming and work-from-home boom created 40+ million new mech keyboard users since 2020. Most keycaps are mass-produced plastic, so custom artisan pieces command premium prices.", "action": "Start with 2-3 popular themes like cyberpunk, nature, or anime to test demand.", "stats": [{ "label": "Mech keyboard market size", "value": "$2.1B by 2025" }, { "label": "Custom keycap price range", "value": "$15-80 each" }] }, "value": { "body": "Your buyers are gamers, programmers, and remote workers who've invested in premium keyboards. They want keycaps that reflect their personality or match their desk aesthetic. These aren't impulse buyers, they research and pay $20-50 for single artisan keycaps.", "action": "Focus on gaming themes first, they spend the most on customization.", "stats": [{ "label": "Average custom keycap purchase", "value": "$35-120" }, { "label": "Repeat customer rate", "value": "60-70%" }] }, "profit": { "body": "Resin costs $0.50-2 per keycap to make, sells for $15-45. That's 750-2200% markup. Start small with 20 keycaps monthly at $25 average, that's $500 revenue minus $40 materials equals $460 profit.", "action": "Track your time per keycap to find your true hourly rate.", "stats": [{ "label": "Material cost per keycap", "value": "$0.50-2.00" }, { "label": "Profit margin", "value": "85-95%" }] }, "distributors": { "body": "You need UV resin ($30), silicone molds ($15-25 each), UV lamp ($40), and colorants ($20). Start with Cherry MX compatible molds since 80% of mechs use that standard. Amazon has everything, but specialty stores like Smooth-On offer better resin quality.", "action": "Buy 3 basic molds first: ESC key, single keycap, and spacebar sizes.", "stats": [{ "label": "Initial equipment cost", "value": "$150-200" }, { "label": "Cherry MX compatibility", "value": "80% of keyboards" }] }, "pricing": { "body": "Single artisan keycaps sell for $15-25, detailed designs go $30-45, full custom sets hit $80-200. Price based on complexity and cure time, not materials. Position yourself below $50 premium makers but above $10 mass market.", "action": "Start at $20-25 per keycap, then raise prices as demand grows.", "stats": [{ "label": "Sweet spot price range", "value": "$20-35" }, { "label": "Premium keycap prices", "value": "$50-80" }] }, "sellingPrice": { "body": "Etsy dominates artisan keycap sales with lower fees than eBay. Reddit's r/mechanicalkeyboards has 1.2M members who buy custom pieces regularly. Instagram works well for showcasing designs, but conversion happens on dedicated platforms.", "action": "List on Etsy first, then share progress photos in keyboard communities.", "stats": [{ "label": "Etsy keycap listings", "value": "15,000+" }, { "label": "r/mechanicalkeyboards members", "value": "1.2M" }] } },
     "validation": {
       "sparkScore": 59,
       "dataSource": "google_trends+category_benchmarks",
@@ -36328,7 +36103,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1535157412991-2ef801c1748b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjb21wb3N0YWJsZSUyMHBob25lJTIwY2FzZXMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIxMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C9834B",
     "badges": [
       "beginner"
@@ -37213,7 +36988,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1532996122724-e3a507b0e2a3?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1542739674-b449a8938b59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjb21wb3N0JTIwYmluJTIwa2l0Y2hlbiUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MjEwOHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "trending"
@@ -41308,52 +41083,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "single": 8,
       "set": 21
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Fitness buyers want <strong>results</strong>, not equipment. <strong>Tennis Grip Tape</strong> sells when you connect it to an outcome: 'better grip,' 'faster recovery,' 'no more knee pain.' Your angle: pick one fitness tribe (CrossFit, yoga, runners) and speak their language. Don't be generic.",
-        "action": "Write your one unique angle for Tennis Grip Tape in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer trains 3-5x per week and considers gear an investment in performance. They follow fitness influencers and buy what their favorite trainer uses. <strong>Social proof from one micro-influencer is worth 100 product photos.</strong>",
-        "action": "Describe your ideal buyer in 1 sentence (age, situation, what they're looking for)"
-      },
-      "profit": {
-        "body": "Your first batch costs roughly <strong>$20-40</strong> for materials. Each tennis grip tape sells for about <strong>$133</strong>. After packaging, platform fees (Etsy takes ~9%), and shipping, you keep about <strong>69%</strong>. Sell 50 units/month and that's <strong>$6650/month</strong>.",
-        "stats": [
-          {
-            "label": "Margin",
-            "value": "69%"
-          },
-          {
-            "label": "Monthly (50 units)",
-            "value": "$6650"
-          }
-        ],
-        "action": "Open the profit calculator and enter your real costs"
-      },
-      "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
-        "action": "Order 2-3 samples from different suppliers today"
-      },
-      "pricing": {
-        "body": "Three tiers: <strong>(1) Single</strong> at $133 to build reviews. <strong>(2) Bundle</strong> (set of 3) at $345 (saves the buyer 13%). <strong>(3) Gift set</strong> with premium packaging at $199. Gift sets have the highest margin. Start with singles + one bundle.",
-        "action": "Set your 3 price tiers and write them down"
-      },
-      "sellingPrice": {
-        "body": "Launch at <strong>$133</strong>. This is slightly below the market average to build initial reviews. After 20 sales, raise to <strong>$159</strong>. After 50 sales, test <strong>$186</strong>. <strong>Never price below $93</strong> because bargain hunters leave 1-star reviews.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$133"
-          },
-          {
-            "label": "After 20 sales",
-            "value": "$159"
-          }
-        ],
-        "action": "List your first tennis grip tape at $133"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Tennis players replace grips every 15-30 hours of play, but buying individual grips costs $8-12 each. You're selling bulk packs of 10-20 grips at wholesale prices. Tennis clubs, coaches, and serious players will jump on this because they burn through grips constantly.", "action": "Start by targeting local tennis clubs and teaching pros who replace 50+ grips monthly.", "stats": [{ "label": "Grip replacement frequency", "value": "Every 20 hours" }, { "label": "Individual grip cost", "value": "$8-12" }, { "label": "Club monthly usage", "value": "50+ grips" }] }, "value": { "body": "Tennis coaches and club pros are your goldmine. They replace grips for students weekly and hate paying retail markup. Serious tournament players who practice 15+ hours weekly will also buy bulk because they're already spending $40-60 monthly on grips.", "action": "Contact local tennis academies and offer a trial pack of 10 grips at 40% below retail.", "stats": [{ "label": "Coach grip changes", "value": "10-15 per week" }, { "label": "Tournament player spend", "value": "$40-60/month" }, { "label": "Retail markup savings", "value": "40-50%" }] }, "profit": { "body": "Quality overgrip tape costs $1.20-1.80 from Alibaba in bulk. You'll sell packs of 10 for $35-45, making $18-27 profit per pack. One tennis club ordering 5 packs monthly puts $90-135 in your pocket.", "action": "Order 500 grips ($600-900) to start and target 3 local clubs for monthly orders.", "stats": [{ "label": "Cost per grip", "value": "$1.20-1.80" }, { "label": "Profit per 10-pack", "value": "$18-27" }, { "label": "Monthly per club", "value": "$90-135" }] }, "distributors": { "body": "Alibaba suppliers offer tennis overgrips for $1.20-2.00 each with 100+ minimum orders. Look for suppliers with Wilson or Babolat-style tacky materials and perforation patterns. You'll also need poly mailers ($0.15 each) and printed labels.", "action": "Contact 5 Alibaba grip suppliers, request samples, and test them on actual rackets first.", "stats": [{ "label": "Minimum order", "value": "100+ grips" }, { "label": "Supplier cost range", "value": "$1.20-2.00" }, { "label": "Packaging cost", "value": "$0.15 per order" }] }, "pricing": { "body": "Individual grips retail for $8-12, so your 10-packs at $35-45 show clear savings. Offer tiered pricing: 10-pack for $35, 20-pack for $65, 50-pack for $140. The 20-pack becomes your bestseller because it hits the sweet spot for monthly usage.", "action": "Price your 10-pack at $35 and push the 20-pack as 'best value' at $65.", "stats": [{ "label": "10-pack price", "value": "$35" }, { "label": "20-pack price", "value": "$65" }, { "label": "Cost savings vs retail", "value": "40-50%" }] }, "sellingPrice": { "body": "Facebook Marketplace and local tennis Facebook groups are perfect for starting. Tennis clubs have bulletin boards where you can post flyers. Once you're moving 100+ grips monthly, expand to Amazon FBA or create a simple Shopify store.", "action": "Join 3 local tennis Facebook groups and post your bulk grip offer with photos.", "stats": [{ "label": "Local Facebook groups", "value": "500-2000 members" }, { "label": "Amazon FBA threshold", "value": "100+ monthly sales" }, { "label": "Club bulletin board reach", "value": "50-200 players" }] } },
     "validation": {
       "sparkScore": 69,
       "dataSource": "google_trends+category_benchmarks",
@@ -41426,52 +41156,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "single": 12,
       "set": 31
     },
-    "breakdown": {
-      "strategy": {
-        "body": "Fitness buyers want <strong>results</strong>, not equipment. <strong>Swim Cap</strong> sells when you connect it to an outcome: 'better grip,' 'faster recovery,' 'no more knee pain.' Your angle: pick one fitness tribe (CrossFit, yoga, runners) and speak their language. Don't be generic.",
-        "action": "Write your one unique angle for Swim Cap in a single sentence"
-      },
-      "value": {
-        "body": "Your buyer trains 3-5x per week and considers gear an investment in performance. They follow fitness influencers and buy what their favorite trainer uses. <strong>Social proof from one micro-influencer is worth 100 product photos.</strong>",
-        "action": "Describe your ideal buyer in 1 sentence (age, situation, what they're looking for)"
-      },
-      "profit": {
-        "body": "Your first batch costs roughly <strong>$20-40</strong> for materials. Each swim cap sells for about <strong>$125</strong>. After packaging, platform fees (Etsy takes ~9%), and shipping, you keep about <strong>68%</strong>. Sell 60 units/month and that's <strong>$7500/month</strong>.",
-        "stats": [
-          {
-            "label": "Margin",
-            "value": "68%"
-          },
-          {
-            "label": "Monthly (60 units)",
-            "value": "$7500"
-          }
-        ],
-        "action": "Open the profit calculator and enter your real costs"
-      },
-      "distributors": {
-        "body": "<strong>AliExpress</strong> for resistance bands, mats, accessories. <strong>Alibaba</strong> for custom branding (logo on bands, bottles). Quality matters here. <strong>Order from 3 suppliers and stress-test each.</strong> A resistance band that snaps = lawsuit.",
-        "action": "Order 2-3 samples from different suppliers today"
-      },
-      "pricing": {
-        "body": "Three tiers: <strong>(1) Single</strong> at $125 to build reviews. <strong>(2) Bundle</strong> (set of 3) at $325 (saves the buyer 13%). <strong>(3) Gift set</strong> with premium packaging at $187. Gift sets have the highest margin. Start with singles + one bundle.",
-        "action": "Set your 3 price tiers and write them down"
-      },
-      "sellingPrice": {
-        "body": "Launch at <strong>$125</strong>. This is slightly below the market average to build initial reviews. After 20 sales, raise to <strong>$150</strong>. After 50 sales, test <strong>$175</strong>. <strong>Never price below $87</strong> because bargain hunters leave 1-star reviews.",
-        "stats": [
-          {
-            "label": "Launch",
-            "value": "$125"
-          },
-          {
-            "label": "After 20 sales",
-            "value": "$150"
-          }
-        ],
-        "action": "List your first swim cap at $125"
-      }
-    },
+    "breakdown": { "strategy": { "body": "Swim teams and clubs spend $15-30 per basic cap, but custom printing adds instant team identity. Parents pay premium for personalized gear their kids actually want to wear. The swim market is underserved for affordable custom options.", "action": "Start with local swim teams and test 5-10 custom designs before expanding.", "stats": [{ "label": "US swim team members", "value": "400K+" }, { "label": "Custom markup potential", "value": "200-400%" }] }, "value": { "body": "Swim team parents buy these for $12-25 each because plain caps get lost or mixed up. Custom prints solve the identity problem and kids feel part of the team. Club coaches also buy in bulk for new members.", "action": "Contact 3 local swim clubs and offer free samples with their logo.", "stats": [{ "label": "Average team size", "value": "25-50 swimmers" }, { "label": "Replacement frequency", "value": "2-3x per season" }] }, "profit": { "body": "Plain silicone caps cost $1-2 wholesale, custom printing adds $0.50-1.00. Sell for $12-18 each. That's $9-15 profit per cap, or $450-750 monthly with just 50 sales.", "action": "Order 25 blank caps and test printing costs with a local screen printer.", "stats": [{ "label": "Cost per cap", "value": "$2-3" }, { "label": "Profit margin", "value": "75-85%" }, { "label": "Monthly potential", "value": "$450-750" }] }, "distributors": { "body": "Alibaba has silicone cap suppliers at $0.80-2.00 each with 50-100 piece minimums. Local screen printers charge $2-4 per print setup plus $0.50 per piece. Heat transfer vinyl is cheaper for small runs.", "action": "Source 100 caps from Alibaba and find a local printer for your first batch.", "stats": [{ "label": "Minimum order", "value": "50-100 pieces" }, { "label": "Shipping time", "value": "2-3 weeks" }, { "label": "Setup cost per design", "value": "$25-50" }] }, "pricing": { "body": "Price single caps at $15-18, offer team discounts at $12-14 for 10+ pieces. Premium designs with names cost $20-25. Basic team logo caps anchor the low end, personalized caps justify higher prices.", "action": "Create 3 pricing tiers and test with your first swim team contact.", "stats": [{ "label": "Single cap price", "value": "$15-18" }, { "label": "Bulk discount", "value": "$12-14" }, { "label": "Premium with names", "value": "$20-25" }] }, "sellingPrice": { "body": "Facebook Marketplace works for local teams, but Etsy captures the broader custom swim market. Instagram ads targeted at swim parents convert well. Direct sales at swim meets get immediate orders.", "action": "Set up an Etsy shop and post in local swim parent Facebook groups.", "stats": [{ "label": "Etsy custom swim caps", "value": "500+ listings" }, { "label": "Facebook group reach", "value": "50-200 parents" }, { "label": "Meet sales potential", "value": "10-25 caps per event" }] } },
     "validation": {
       "sparkScore": 67,
       "dataSource": "google_trends+category_benchmarks",
@@ -44675,7 +44360,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1632411840070-eaa47e9f1791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxidXR0ZXJmbHklMjBob3VzZSUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MjAwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C9834B",
     "badges": [
       "trending"
@@ -44942,7 +44627,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1614178625801-c3babcdc4f84?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1571134439338-f587d3ba6f99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYW5kbGUlMjBtYWtpbmclMjBraXRzJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzcyMDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C94B6E",
     "badges": [
       "lowCapital",
@@ -47357,7 +47042,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "crafts",
       "design"
     ],
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1624627294477-1c0860983b2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxib29rJTIwYmluZGluZyUyMGtpdCUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MTk3NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BAEC9",
     "badges": [
       "beginner",
@@ -54219,7 +53904,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "design",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1766239303183-e5d29227f13c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjZW50ZXJwaWVjZSUyMGtpdHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C9834B",
     "badges": [
       "beginner"
@@ -61700,7 +61385,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1753567193665-d8d20a67aba5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYXIlMjBnYXAlMjBmaWxsZXIlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "fastSale"
@@ -61773,7 +61458,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1683760768339-eb44935e9255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYXIlMjBiYWNrJTIwc2VhdCUyMG1pcnJvciUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MjAzMXww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C94B6E",
     "badges": [
       "provenIncome"
@@ -62202,7 +61887,7 @@ export const PHYSICAL_IDEAS: Idea[] =
     "interests": [
       "tech"
     ],
-    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0637?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1685784192648-9c3c02bce60c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYXIlMjBrZXklMjBzaWduYWwlMjBibG9ja2VyJTIwcHJvZHVjdHxlbnwwfDJ8fHwxNzc3MzcyMDM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "fastSale",
@@ -62669,7 +62354,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1609175332804-39e0e2e6be10?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1732928730431-11c206639a38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYW5kbGUlMjBnaWZ0JTIwc2V0cyUyMHByb2R1Y3R8ZW58MHwyfHx8MTc3NzM3MjAxMnww&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#C99A4B",
     "badges": [
       "beginner",
@@ -63672,7 +63357,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1603006939587-d99f10f15e84?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1720788810349-7e51a042404a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYW5kbGUlMjBtYWtpbmclMjB3b3Jrc2hvcHMlMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwMTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4BC98A",
     "badges": [
       "trending"
@@ -64104,7 +63789,7 @@ export const PHYSICAL_IDEAS: Idea[] =
       "home",
       "crafts"
     ],
-    "image": "https://images.unsplash.com/photo-1600488999585-e4364713b90c?w=900&q=80&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1621277906291-9ce918a6ec86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzczMjJ8MHwxfHNlYXJjaHwxfHxjYW5kbGUlMjBzdWJzY3JpcHRpb24lMjBib3glMjBwcm9kdWN0fGVufDB8Mnx8fDE3NzczNzIwMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "bg": "#4B7BC9",
     "badges": [
       "trending",

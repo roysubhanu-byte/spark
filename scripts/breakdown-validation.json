@@ -1,25 +1,40 @@
 {
-  "total": 478,
-  "clean": 472,
-  "flagged": 6,
+  "total": 647,
+  "clean": 636,
+  "flagged": 11,
   "issues": {
-    "wall-clocks": [
-      "CONTRADICTION: Cost $8.0 > selling price $4.0"
-    ],
     "glass-terrariums": [
       "AI-WORD: Found banned word \"ecosystem\""
-    ],
-    "pet-dental-chews": [
-      "CONTRADICTION: Cost $3.0 > selling price $1.0"
     ],
     "tea-blends": [
       "CONTRADICTION: Cost $8.0 > selling price $2.0"
     ],
-    "baby-changing-pad-covers": [
-      "CONTRADICTION: Cost $3.0 > selling price $2.0"
+    "new-tab-dashboard": [
+      "CONTRADICTION: Cost $150.0 > selling price $3.0"
     ],
-    "reader-mode-extension": [
-      "CONTRADICTION: Cost $50.0 > selling price $4.99"
+    "seo-analyzer-extension": [
+      "CONTRADICTION: Cost $200.0 > selling price $29.0"
+    ],
+    "habit-tracker-app": [
+      "CONTRADICTION: Cost $50.0 > selling price $4.0"
+    ],
+    "utm-builder-and-tracker": [
+      "CONTRADICTION: Cost $20.0 > selling price $19.0"
+    ],
+    "book-summary-app": [
+      "CONTRADICTION: Cost $50.0 > selling price $11.99"
+    ],
+    "math-practice-app": [
+      "CONTRADICTION: Cost $29.0 > selling price $4.99"
+    ],
+    "team-directory": [
+      "CONTRADICTION: Cost $12.0 > selling price $2.0"
+    ],
+    "team-mood-tracker": [
+      "CONTRADICTION: Cost $80.0 > selling price $8.0"
+    ],
+    "proposal-template-builder": [
+      "CONTRADICTION: Cost $29.0 > selling price $19.0"
     ]
   }
 }
